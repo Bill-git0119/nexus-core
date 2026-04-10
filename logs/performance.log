@@ -1,0 +1,8 @@
+# Nexus System — Performance Log
+# Format: one JSON object per line
+# Fields: date, slug, domain, views, clicks, shares
+# This file is populated by external analytics (e.g. Google Analytics webhook, Notion API)
+{"date":"2026-04-08","slug":"tsmc-q1-revenue-beats-estimates","domain":"semiconductor","views":2450,"clicks":187,"shares":64}
+{"date":"2026-04-08","slug":"global-chip-shortage-eases-2026","domain":"semiconductor","views":1800,"clicks":132,"shares":41}
+{"date":"2026-04-09","slug":"nmn-trial-shows-promising-results","domain":"longevity","views":980,"clicks":74,"shares":28}
+{"date":"2026-04-09","slug":"sports-medicine-peptide-therapy","domain":"longevity","views":750,"clicks":52,"shares":19}

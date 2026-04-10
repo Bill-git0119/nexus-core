@@ -1,0 +1,12 @@
+keyword,affiliate_url,partner,category
+TSMC,https://example.com/aff?ref=nexus&product=tsmc-report,ExampleBroker,semiconductor
+台積電,https://example.com/aff?ref=nexus&product=tsmc-report,ExampleBroker,semiconductor
+半導體,https://example.com/aff?ref=nexus&product=chip-analysis,ChipInsider,semiconductor
+晶片,https://example.com/aff?ref=nexus&product=chip-analysis,ChipInsider,semiconductor
+供應鏈,https://example.com/aff?ref=nexus&product=supply-chain-tool,SupplyVue,semiconductor
+longevity,https://example.com/aff?ref=nexus&product=longevity-guide,HealthPro,longevity
+抗衰老,https://example.com/aff?ref=nexus&product=anti-aging,HealthPro,longevity
+運動醫學,https://example.com/aff?ref=nexus&product=sports-med,SportsMedHub,sports_medicine
+NMN,https://example.com/aff?ref=nexus&product=nmn-supplement,LongevityLab,longevity
+collagen,https://example.com/aff?ref=nexus&product=collagen,HealthPro,sports_medicine
+膠原蛋白,https://example.com/aff?ref=nexus&product=collagen,HealthPro,sports_medicine

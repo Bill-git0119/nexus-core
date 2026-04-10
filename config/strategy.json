@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "updated_at": "2026-04-10T07:45:36.361445+00:00",
+    "run_count": 2,
+    "verdict": "semiconductor_leads",
+    "winner": "semiconductor",
+    "data_source": "performance.log"
+  },
+  "engagement_summary": {
+    "semiconductor": {
+      "avg_score": 2866.0,
+      "total_score": 5732.0,
+      "article_count": 2
+    },
+    "longevity": {
+      "avg_score": 1171.5,
+      "total_score": 2343.0,
+      "article_count": 2
+    }
+  },
+  "keywords": {
+    "semiconductor": {
+      "priority": "high",
+      "base_queries": [
+        "Taiwan semiconductor supply chain news today",
+        "TSMC stock market latest",
+        "global chip shortage update 2026"
+      ],
+      "boost_queries": [
+        "TSMC earnings forecast 2026",
+        "AI chip demand supply chain"
+      ],
+      "total_queries": 5
+    },
+    "longevity": {
+      "priority": "normal",
+      "base_queries": [
+        "longevity science breakthrough 2026",
+        "sports medicine latest research",
+        "anti-aging clinical trial results"
+      ],
+      "boost_queries": [],
+      "total_queries": 3
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-04-10T07:45:36.340433+00:00",
+  "scout_source": "C:\\nexus_core\\data\\raw_topics.json",
+  "summary": {
+    "total_input": 2,
+    "verified": 2,
+    "discarded": 0
+  },
+  "verified_topics": [
+    {
+      "title": "[Mock] Trending: Taiwan semiconductor supply chain news today",
+      "url": "https://example.com/mock-article",
+      "snippet": "Mock snippet for query 'Taiwan semiconductor supply chain news today'. Replace with real SERPAPI_KEY.",
+      "source": "Mock Source",
+      "date": "2026-04-10",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "mock-mode",
+        "checked_at": "2026-04-10T07:45:36.340433+00:00",
+        "independent_sources": []
+      }
+    },
+    {
+      "title": "[Mock] Trending: longevity science breakthrough 2026",
+      "url": "https://example.com/mock-article",
+      "snippet": "Mock snippet for query 'longevity science breakthrough 2026'. Replace with real SERPAPI_KEY.",
+      "source": "Mock Source",
+      "date": "2026-04-10",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "mock-mode",
+        "checked_at": "2026-04-10T07:45:36.340433+00:00",
+        "independent_sources": []
+      }
+    }
+  ]
+}

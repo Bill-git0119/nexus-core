@@ -1,0 +1,121 @@
+# ============================================================
+# Nexus System — Automated Heartbeat
+# Runs the full pipeline every 48 hours:
+#   Scout → Critic → Monetizer → Architect
+# Then commits updated data back to the repo so the Architect's
+# learning persists across runs.
+# ============================================================
+
+name: Nexus Heartbeat
+
+on:
+  schedule:
+    # Every 48 hours — midnight UTC on even-numbered days
+    - cron: "0 0 */2 * *"
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+# Only one heartbeat at a time — skip if previous run is still going
+concurrency:
+  group: nexus-heartbeat
+  cancel-in-progress: false
+
+permissions:
+  contents: write          # required for git push
+
+jobs:
+  run-pipeline:
+    name: Run Nexus Pipeline
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    env:
+      SERPAPI_KEY:        ${{ secrets.SERPAPI_KEY }}
+      ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
+      NOTION_TOKEN:       ${{ secrets.NOTION_TOKEN }}
+
+    steps:
+      # ----------------------------------------------------------
+      # 1. Checkout code (full history for clean commits)
+      # ----------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------------------------------------
+      # 2. Set up Python 3.12
+      # ----------------------------------------------------------
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # ----------------------------------------------------------
+      # 3. Install dependencies
+      # ----------------------------------------------------------
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ----------------------------------------------------------
+      # 4. Ensure data directories exist
+      # ----------------------------------------------------------
+      - name: Prepare directories
+        run: |
+          mkdir -p data output/notion output/ghpages logs
+
+      # ----------------------------------------------------------
+      # 5. Run the full pipeline
+      # ----------------------------------------------------------
+      - name: Execute Nexus Pipeline
+        run: python main.py
+
+      # ----------------------------------------------------------
+      # 6. Commit & push updated state back to repo
+      # ----------------------------------------------------------
+      - name: Persist pipeline state
+        run: |
+          git config user.name  "nexus-bot[bot]"
+          git config user.email "nexus-bot[bot]@users.noreply.github.com"
+
+          # Stage only the directories/files that the pipeline updates
+          git add data/
+          git add config/strategy.json
+          git add output/
+          git add logs/
+          git add weekly_pivot.md
+
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit — pipeline produced identical output."
+          else
+            git commit -m "$(cat <<'EOF'
+          chore(nexus): automated pipeline run $(date -u +%Y-%m-%d)
+
+          Scout  → scanned trending topics
+          Critic → verified against sources
+          Monetizer → generated articles
+          Architect → updated strategy.json
+
+          [skip ci]
+          EOF
+            )"
+            git push
+            echo "Changes committed and pushed successfully."
+          fi
+
+      # ----------------------------------------------------------
+      # 7. Upload logs as artifact (retained 7 days)
+      # ----------------------------------------------------------
+      - name: Upload run logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nexus-logs-${{ github.run_id }}
+          path: logs/
+          retention-days: 7

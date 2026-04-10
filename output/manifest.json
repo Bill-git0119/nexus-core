@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-04-10T07:45:36.356424+00:00",
+  "source": "C:\\nexus_core\\data\\verified_data.json",
+  "total_articles": 2,
+  "affiliate_links_loaded": 11,
+  "outputs": {
+    "notion_dir": "output\\notion",
+    "ghpages_dir": "output\\ghpages"
+  },
+  "articles": [
+    {
+      "slug": "mock-trending-taiwan-semiconductor-supply-chain-news-today",
+      "title": "[Mock] Trending: Taiwan semiconductor supply chain news today",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "2026-04-10",
+      "notion_file": "output\\notion\\mock-trending-taiwan-semiconductor-supply-chain-news-today.md",
+      "ghpages_file": "output\\ghpages\\mock-trending-taiwan-semiconductor-supply-chain-news-today.html",
+      "citations_count": 0
+    },
+    {
+      "slug": "mock-trending-longevity-science-breakthrough-2026",
+      "title": "[Mock] Trending: longevity science breakthrough 2026",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "2026-04-10",
+      "notion_file": "output\\notion\\mock-trending-longevity-science-breakthrough-2026.md",
+      "ghpages_file": "output\\ghpages\\mock-trending-longevity-science-breakthrough-2026.html",
+      "citations_count": 0
+    }
+  ]
+}
