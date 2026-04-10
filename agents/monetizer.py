@@ -212,6 +212,8 @@ GHPAGES_TEMPLATE = """\
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title}</title>
+  <script>var ConverlyCustomData = {{channelId: null}};</script>
+  <script async defer src='https://cdn.affiliates.one/production/adlinks/e725cda2ae998c81de106819f49c2b84e876a61ebeb8309e6ba04b38fb34c8cf.js'></script>
   <style>
     :root {{
       --bg: #0d1117;
@@ -399,6 +401,8 @@ def generate_index_html(articles: list[dict]) -> str:
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Nexus System — 每日趨勢報告</title>
+  <script>var ConverlyCustomData = {{channelId: null}};</script>
+  <script async defer src='https://cdn.affiliates.one/production/adlinks/e725cda2ae998c81de106819f49c2b84e876a61ebeb8309e6ba04b38fb34c8cf.js'></script>
   <style>
     :root {{ --bg: #0d1117; --fg: #c9d1d9; --accent: #58a6ff; --border: #30363d; }}
     body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
