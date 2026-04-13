@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-04-10T08:44:48.345758+00:00",
-  "source": "C:\\nexus_core\\data\\verified_data.json",
+  "generated_at": "2026-04-13T11:32:10.496727+00:00",
+  "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
   "total_articles": 2,
-  "affiliate_links_loaded": 11,
+  "affiliate_links_loaded": 16,
   "outputs": {
-    "notion_dir": "output\\notion",
-    "ghpages_dir": "output\\ghpages"
+    "notion_dir": "output/notion",
+    "ghpages_dir": "output/ghpages"
   },
   "articles": [
     {
-      "slug": "mock-trending-taiwan-semiconductor-supply-chain-news-today",
-      "title": "[Mock] Trending: Taiwan semiconductor supply chain news today",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "2026-04-10",
-      "notion_file": "output\\notion\\mock-trending-taiwan-semiconductor-supply-chain-news-today.md",
-      "ghpages_file": "output\\ghpages\\mock-trending-taiwan-semiconductor-supply-chain-news-today.html",
-      "citations_count": 0
-    },
-    {
-      "slug": "mock-trending-longevity-science-breakthrough-2026",
-      "title": "[Mock] Trending: longevity science breakthrough 2026",
+      "slug": "targeting-longevity-2026-scientists-shift-the-longevity-deba",
+      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
       "domain": "Longevity/Sports Medicine",
       "domain_zh": "長壽科學／運動醫學",
-      "date": "2026-04-10",
-      "notion_file": "output\\notion\\mock-trending-longevity-science-breakthrough-2026.md",
-      "ghpages_file": "output\\ghpages\\mock-trending-longevity-science-breakthrough-2026.html",
-      "citations_count": 0
+      "date": "Feb 10, 2026",
+      "notion_file": "output/notion/targeting-longevity-2026-scientists-shift-the-longevity-deba.md",
+      "ghpages_file": "output/ghpages/targeting-longevity-2026-scientists-shift-the-longevity-deba.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "geroscience-in-2025-the-expert-roundup",
+      "title": "Geroscience in 2025: The Expert Roundup",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "Jan 13, 2026",
+      "notion_file": "output/notion/geroscience-in-2025-the-expert-roundup.md",
+      "ghpages_file": "output/ghpages/geroscience-in-2025-the-expert-roundup.html",
+      "citations_count": 3
     }
   ]
 }

@@ -1,5 +1,60 @@
 {
-  "generated_at": "2026-04-13T11:19:26.300348+00:00",
-  "total_topics": 0,
-  "topics": []
+  "generated_at": "2026-04-13T11:32:00.185245+00:00",
+  "total_topics": 6,
+  "topics": [
+    {
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "3 weeks ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Taiwan’s Semiconductors: The Backbone Of The Global Tech Economy – OpEd",
+      "url": "https://www.eurasiareview.com/16032026-taiwans-semiconductors-the-backbone-of-the-global-tech-economy-oped/",
+      "snippet": "Taiwan is the production hub for the majority of the world's semiconductors. This paper investigates the role of Taiwan's semiconductors in...",
+      "source": "Eurasia Review",
+      "date": "1 month ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "A Tale of Two Approaches to Revitalize Japan's Semiconductor Industry",
+      "url": "https://aparc.fsi.stanford.edu/news/tale-two-approaches-revitalize-japans-semiconductor-industry",
+      "snippet": "Economist Jun Akabane, APARC visiting scholar and professor at Chuo University, examines the validity of Japan's ongoing semiconductor...",
+      "source": "Stanford University",
+      "date": "1 month ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
+      "url": "https://www.eurekalert.org/news-releases/1116021",
+      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
+      "source": "EurekAlert!",
+      "date": "Feb 10, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Geroscience in 2025: The Expert Roundup",
+      "url": "https://lifespan.io/news/geroscience-in-2025-the-expert-roundup/",
+      "snippet": "2025 was a good year for geroscience, marked by rapid strides and critical milestones. Yet, the path wasn't always smooth.",
+      "source": "Lifespan Research Institute",
+      "date": "Jan 13, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Pharmas and biotechs are investing in new treatments for diseases of aging",
+      "url": "https://clarivate.com/life-sciences-healthcare/blog/why-longevity-might-be-biopharmas-next-big-thing/",
+      "snippet": "Pharmas and venture capitalists are investing big sums in untangling the science of longetivity and driving development of new treatments...",
+      "source": "Clarivate",
+      "date": "1 month ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    }
+  ]
 }
