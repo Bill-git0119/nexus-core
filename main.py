@@ -82,10 +82,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-- name: Commit and Push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Auto-update: 5-paragraph rich articles and affiliate links" || echo "No changes to commit"
-          git push
