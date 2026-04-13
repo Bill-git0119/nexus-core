@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T11:32:10.493062+00:00",
+  "generated_at": "2026-04-13T12:08:49.517672+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 6,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-04-13T11:32:01.665809+00:00",
+        "checked_at": "2026-04-13T12:08:49.337271+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -47,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-04-13T11:32:10.492921+00:00",
+        "checked_at": "2026-04-13T12:08:49.517531+00:00",
         "independent_sources": [
           {
             "title": "Geroscience in 2025: The Expert Roundup | Andrea B. Maier",

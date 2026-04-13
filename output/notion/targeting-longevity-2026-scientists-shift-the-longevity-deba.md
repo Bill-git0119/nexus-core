@@ -35,7 +35,7 @@ International researchers gather in Berlin to explore aging as a loss of coordin
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-04-13 11:32 UTC*
+*產生時間：2026-04-13 12:08 UTC*
 
 
 > ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
