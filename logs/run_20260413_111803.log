@@ -1,0 +1,13 @@
+2026-04-13 11:18:05,223 [INFO] ============================================================
+2026-04-13 11:18:05,223 [INFO] Nexus System — Pipeline started
+2026-04-13 11:18:05,223 [INFO] ============================================================
+2026-04-13 11:18:05,223 [INFO] --- [Scout] Starting ---
+2026-04-13 11:19:26,300 [INFO] --- [Scout] Completed in 81.1s → /home/runner/work/nexus-core/nexus-core/data/raw_topics.json
+2026-04-13 11:19:26,300 [INFO] --- [Critic] Starting ---
+2026-04-13 11:19:26,301 [INFO] --- [Critic] Completed in 0.0s → /home/runner/work/nexus-core/nexus-core/data/verified_data.json
+2026-04-13 11:19:26,301 [INFO] --- [Monetizer] Starting ---
+2026-04-13 11:19:26,301 [INFO] --- [Monetizer] Exited cleanly (nothing to process)
+2026-04-13 11:19:26,301 [INFO] ============================================================
+2026-04-13 11:19:26,301 [INFO] Nexus System — Pipeline finished in 81.1s
+2026-04-13 11:19:26,301 [INFO] Log saved to /home/runner/work/nexus-core/nexus-core/logs/run_20260413_111803.log
+2026-04-13 11:19:26,301 [INFO] ============================================================
