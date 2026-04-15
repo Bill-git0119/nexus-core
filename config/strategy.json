@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated_at": "2026-04-15T12:27:07.452339+00:00",
-    "run_count": 7,
+    "updated_at": "2026-04-15T14:20:41.239492+00:00",
+    "run_count": 8,
     "verdict": "semiconductor_leads",
     "winner": "semiconductor",
     "data_source": "performance.log"
