@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T12:23:52.456332+00:00",
+  "generated_at": "2026-04-15T12:27:07.432330+00:00",
   "scout_source": "C:\\nexus_core\\data\\raw_topics.json",
   "summary": {
     "total_input": 2,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "mock-mode",
-        "checked_at": "2026-04-15T12:23:52.456332+00:00",
+        "checked_at": "2026-04-15T12:27:07.432330+00:00",
         "independent_sources": []
       }
     },
@@ -31,7 +31,7 @@
       "verification": {
         "status": "verified",
         "method": "mock-mode",
-        "checked_at": "2026-04-15T12:23:52.456332+00:00",
+        "checked_at": "2026-04-15T12:27:07.432330+00:00",
         "independent_sources": []
       }
     }
