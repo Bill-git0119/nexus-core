@@ -1,40 +1,38 @@
 {
-  "generated_at": "2026-04-15T02:53:46.866899+00:00",
-  "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
+  "generated_at": "2026-04-15T12:23:52.456332+00:00",
+  "scout_source": "C:\\nexus_core\\data\\raw_topics.json",
   "summary": {
-    "total_input": 6,
-    "verified": 1,
-    "discarded": 5
+    "total_input": 2,
+    "verified": 2,
+    "discarded": 0
   },
   "verified_topics": [
     {
-      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
-      "url": "https://www.eurekalert.org/news-releases/1116021",
-      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
-      "source": "EurekAlert!",
-      "date": "Feb 10, 2026",
+      "title": "[Mock] Trending: Taiwan semiconductor supply chain news today",
+      "url": "https://example.com/mock-article",
+      "snippet": "Mock snippet for query 'Taiwan semiconductor supply chain news today'. Replace with real SERPAPI_KEY.",
+      "source": "Mock Source",
+      "date": "2026-04-15",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "mock-mode",
+        "checked_at": "2026-04-15T12:23:52.456332+00:00",
+        "independent_sources": []
+      }
+    },
+    {
+      "title": "[Mock] Trending: longevity science breakthrough 2026",
+      "url": "https://example.com/mock-article",
+      "snippet": "Mock snippet for query 'longevity science breakthrough 2026'. Replace with real SERPAPI_KEY.",
+      "source": "Mock Source",
+      "date": "2026-04-15",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-04-15T02:53:46.866769+00:00",
-        "independent_sources": [
-          {
-            "title": "Press Release",
-            "url": "https://targeting-longevity.com/press-release/",
-            "source": "Targeting Longevity World Congress 2026"
-          },
-          {
-            "title": "Elon Musk has argued that aging may be far more ...",
-            "url": "https://www.facebook.com/Benzinga/posts/elon-musk-has-argued-that-aging-may-be-far-more-controllable-than-people-assume-/1501732155285783/",
-            "source": "Facebook · Benzinga"
-          },
-          {
-            "title": "More Relevant Posts",
-            "url": "https://www.linkedin.com/posts/resilient-alpha_resilientalpha-martysecada-ivyfon-activity-7427539555978797056-OaGU",
-            "source": "LinkedIn"
-          }
-        ]
+        "method": "mock-mode",
+        "checked_at": "2026-04-15T12:23:52.456332+00:00",
+        "independent_sources": []
       }
     }
   ]

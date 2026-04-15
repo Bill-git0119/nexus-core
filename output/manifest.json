@@ -1,22 +1,32 @@
 {
-  "generated_at": "2026-04-15T02:53:46.869636+00:00",
-  "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 1,
+  "generated_at": "2026-04-15T12:23:52.470332+00:00",
+  "source": "C:\\nexus_core\\data\\verified_data.json",
+  "total_articles": 2,
   "affiliate_links_loaded": 16,
   "outputs": {
-    "notion_dir": "output/notion",
-    "ghpages_dir": "output/ghpages"
+    "notion_dir": "output\\notion",
+    "ghpages_dir": "output\\ghpages"
   },
   "articles": [
     {
-      "slug": "targeting-longevity-2026-scientists-shift-the-longevity-deba",
-      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
+      "slug": "mock-trending-taiwan-semiconductor-supply-chain-news-today",
+      "title": "[Mock] Trending: Taiwan semiconductor supply chain news today",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "2026-04-15",
+      "notion_file": "output\\notion\\mock-trending-taiwan-semiconductor-supply-chain-news-today.md",
+      "ghpages_file": "output\\ghpages\\mock-trending-taiwan-semiconductor-supply-chain-news-today.html",
+      "citations_count": 0
+    },
+    {
+      "slug": "mock-trending-longevity-science-breakthrough-2026",
+      "title": "[Mock] Trending: longevity science breakthrough 2026",
       "domain": "Longevity/Sports Medicine",
       "domain_zh": "長壽科學／運動醫學",
-      "date": "Feb 10, 2026",
-      "notion_file": "output/notion/targeting-longevity-2026-scientists-shift-the-longevity-deba.md",
-      "ghpages_file": "output/ghpages/targeting-longevity-2026-scientists-shift-the-longevity-deba.html",
-      "citations_count": 3
+      "date": "2026-04-15",
+      "notion_file": "output\\notion\\mock-trending-longevity-science-breakthrough-2026.md",
+      "ghpages_file": "output\\ghpages\\mock-trending-longevity-science-breakthrough-2026.html",
+      "citations_count": 0
     }
   ]
 }

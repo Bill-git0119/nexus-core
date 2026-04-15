@@ -94,17 +94,15 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit — pipeline produced identical output."
           else
-            git commit -m "$(cat <<'EOF'
-          chore(nexus): automated pipeline run $(date -u +%Y-%m-%d)
+            RUN_DATE="$(date -u +%Y-%m-%d)"
+            git commit -m "chore(nexus): automated pipeline run ${RUN_DATE}
 
           Scout  → scanned trending topics
           Critic → verified against sources
           Monetizer → generated articles
           Architect → updated strategy.json
 
-          [skip ci]
-          EOF
-            )"
+          [skip ci]"
             git push
             echo "Changes committed and pushed successfully."
           fi
