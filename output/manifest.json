@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-13T12:08:49.520990+00:00",
+  "generated_at": "2026-04-15T01:31:37.364284+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 2,
+  "total_articles": 1,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -16,16 +16,6 @@
       "date": "Feb 10, 2026",
       "notion_file": "output/notion/targeting-longevity-2026-scientists-shift-the-longevity-deba.md",
       "ghpages_file": "output/ghpages/targeting-longevity-2026-scientists-shift-the-longevity-deba.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "geroscience-in-2025-the-expert-roundup",
-      "title": "Geroscience in 2025: The Expert Roundup",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "Jan 13, 2026",
-      "notion_file": "output/notion/geroscience-in-2025-the-expert-roundup.md",
-      "ghpages_file": "output/ghpages/geroscience-in-2025-the-expert-roundup.html",
       "citations_count": 3
     }
   ]

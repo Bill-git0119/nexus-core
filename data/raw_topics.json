@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-04-13T12:08:49.058914+00:00",
+  "generated_at": "2026-04-15T01:31:31.273370+00:00",
   "total_topics": 6,
   "topics": [
+    {
+      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
+      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
+      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
+      "source": "The Hilltop Online",
+      "date": "1 day ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
     {
       "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
       "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
@@ -21,13 +30,13 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "A Tale of Two Approaches to Revitalize Japan's Semiconductor Industry",
-      "url": "https://aparc.fsi.stanford.edu/news/tale-two-approaches-revitalize-japans-semiconductor-industry",
-      "snippet": "Economist Jun Akabane, APARC visiting scholar and professor at Chuo University, examines the validity of Japan's ongoing semiconductor...",
-      "source": "Stanford University",
-      "date": "1 month ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
+      "title": "APLMS and Kitalys to Host Healthy Longevity in Hong Kong",
+      "url": "https://lifespan.io/news/aplms-and-kitalys-to-host-healthy-longevity-in-hong-kong/",
+      "snippet": "The Asia-Pacific Longevity Medicine Society announced that the 2026 Asia-Pacific Healthy Longevity International Summit will be held in Hong...",
+      "source": "Lifespan Research Institute",
+      "date": "1 day ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
@@ -35,15 +44,6 @@
       "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
       "source": "EurekAlert!",
       "date": "Feb 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Geroscience in 2025: The Expert Roundup",
-      "url": "https://lifespan.io/news/geroscience-in-2025-the-expert-roundup/",
-      "snippet": "2025 was a good year for geroscience, marked by rapid strides and critical milestones. Yet, the path wasn't always smooth.",
-      "source": "Lifespan Research Institute",
-      "date": "Jan 13, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-13T12:08:49.517672+00:00",
+  "generated_at": "2026-04-15T01:31:37.361246+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 6,
-    "verified": 2,
-    "discarded": 4
+    "verified": 1,
+    "discarded": 5
   },
   "verified_topics": [
     {
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-04-13T12:08:49.337271+00:00",
+        "checked_at": "2026-04-15T01:31:37.361110+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -25,44 +25,14 @@
             "source": "Targeting Longevity World Congress 2026"
           },
           {
-            "title": "Elon Musk has argued that aging may be far more ...",
-            "url": "https://www.facebook.com/Benzinga/posts/elon-musk-has-argued-that-aging-may-be-far-more-controllable-than-people-assume-/1501732155285783/",
-            "source": "Facebook · Benzinga"
-          },
-          {
             "title": "More Relevant Posts",
             "url": "https://www.linkedin.com/posts/resilient-alpha_resilientalpha-martysecada-ivyfon-activity-7427539555978797056-OaGU",
             "source": "LinkedIn"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Geroscience in 2025: The Expert Roundup",
-      "url": "https://lifespan.io/news/geroscience-in-2025-the-expert-roundup/",
-      "snippet": "2025 was a good year for geroscience, marked by rapid strides and critical milestones. Yet, the path wasn't always smooth.",
-      "source": "Lifespan Research Institute",
-      "date": "Jan 13, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-04-13T12:08:49.517531+00:00",
-        "independent_sources": [
-          {
-            "title": "Geroscience in 2025: The Expert Roundup | Andrea B. Maier",
-            "url": "https://www.linkedin.com/posts/andreamaierprof_geroscience-in-2025-the-expert-roundup-activity-7417022972797964288-JfOW",
-            "source": "LinkedIn · Andrea B. Maier"
           },
           {
-            "title": "Geroscience in 2025",
-            "url": "https://x.com/mkaeberlein/status/2011167190100427016",
-            "source": "X"
-          },
-          {
-            "title": "Geroscience in 2025: The Expert Roundup",
-            "url": "https://www.facebook.com/lifespannews/posts/2025-was-a-good-year-for-geroscience-yet-the-path-wasnt-always-smoothw-asked-fiv/1174737504860357/",
-            "source": "Facebook"
+            "title": "Elon Musk has argued that aging may be far more ...",
+            "url": "https://www.facebook.com/Benzinga/posts/elon-musk-has-argued-that-aging-may-be-far-more-controllable-than-people-assume-/1501732155285783/",
+            "source": "Facebook · Benzinga"
           }
         ]
       }
