@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-15T14:20:41.218953+00:00",
+  "generated_at": "2026-04-15T14:33:12.327622+00:00",
   "scout_source": "C:\\nexus_core\\data\\raw_topics.json",
   "summary": {
-    "total_input": 2,
-    "verified": 2,
+    "total_input": 7,
+    "verified": 7,
     "discarded": 0
   },
   "verified_topics": [
     {
       "title": "[Mock] Trending: Taiwan semiconductor supply chain news today",
-      "url": "https://example.com/mock-article",
+      "url": "https://example.com/mock-article/170592fae0",
       "snippet": "Mock snippet for query 'Taiwan semiconductor supply chain news today'. Replace with real SERPAPI_KEY.",
       "source": "Mock Source",
       "date": "2026-04-15",
@@ -17,13 +17,55 @@
       "verification": {
         "status": "verified",
         "method": "mock-mode",
-        "checked_at": "2026-04-15T14:20:41.218953+00:00",
+        "checked_at": "2026-04-15T14:33:12.327622+00:00",
+        "independent_sources": []
+      }
+    },
+    {
+      "title": "[Mock] Trending: TSMC stock market latest",
+      "url": "https://example.com/mock-article/f47d88f534",
+      "snippet": "Mock snippet for query 'TSMC stock market latest'. Replace with real SERPAPI_KEY.",
+      "source": "Mock Source",
+      "date": "2026-04-15",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "mock-mode",
+        "checked_at": "2026-04-15T14:33:12.327622+00:00",
+        "independent_sources": []
+      }
+    },
+    {
+      "title": "[Mock] Trending: global chip shortage update 2026",
+      "url": "https://example.com/mock-article/9aef265ac6",
+      "snippet": "Mock snippet for query 'global chip shortage update 2026'. Replace with real SERPAPI_KEY.",
+      "source": "Mock Source",
+      "date": "2026-04-15",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "mock-mode",
+        "checked_at": "2026-04-15T14:33:12.327622+00:00",
+        "independent_sources": []
+      }
+    },
+    {
+      "title": "[Mock] Trending: TSMC earnings forecast 2026",
+      "url": "https://example.com/mock-article/372b1b63ea",
+      "snippet": "Mock snippet for query 'TSMC earnings forecast 2026'. Replace with real SERPAPI_KEY.",
+      "source": "Mock Source",
+      "date": "2026-04-15",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "mock-mode",
+        "checked_at": "2026-04-15T14:33:12.327622+00:00",
         "independent_sources": []
       }
     },
     {
       "title": "[Mock] Trending: longevity science breakthrough 2026",
-      "url": "https://example.com/mock-article",
+      "url": "https://example.com/mock-article/2df3fb17e6",
       "snippet": "Mock snippet for query 'longevity science breakthrough 2026'. Replace with real SERPAPI_KEY.",
       "source": "Mock Source",
       "date": "2026-04-15",
@@ -31,7 +73,35 @@
       "verification": {
         "status": "verified",
         "method": "mock-mode",
-        "checked_at": "2026-04-15T14:20:41.218953+00:00",
+        "checked_at": "2026-04-15T14:33:12.327622+00:00",
+        "independent_sources": []
+      }
+    },
+    {
+      "title": "[Mock] Trending: sports medicine latest research",
+      "url": "https://example.com/mock-article/600dbf15b6",
+      "snippet": "Mock snippet for query 'sports medicine latest research'. Replace with real SERPAPI_KEY.",
+      "source": "Mock Source",
+      "date": "2026-04-15",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "mock-mode",
+        "checked_at": "2026-04-15T14:33:12.327622+00:00",
+        "independent_sources": []
+      }
+    },
+    {
+      "title": "[Mock] Trending: anti-aging clinical trial results",
+      "url": "https://example.com/mock-article/e2e3a74f9c",
+      "snippet": "Mock snippet for query 'anti-aging clinical trial results'. Replace with real SERPAPI_KEY.",
+      "source": "Mock Source",
+      "date": "2026-04-15",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "mock-mode",
+        "checked_at": "2026-04-15T14:33:12.327622+00:00",
         "independent_sources": []
       }
     }

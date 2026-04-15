@@ -1,12 +1,12 @@
 ---
-title: "[Mock] Trending: Taiwan semiconductor supply chain news today"
+title: "[Mock] Trending: global chip shortage update 2026"
 domain: "半導體／台股供應鏈"
 date: "2026-04-15"
 status: "已發布"
 tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 ---
 
-## [Mock] Trending: Taiwan semiconductor supply chain news today
+## [Mock] Trending: global chip shortage update 2026
 
 **領域**：[半導體](https://example.com/aff?ref=nexus&product=chip-analysis)／台股[供應鏈](https://example.com/aff?ref=nexus&product=supply-chain-tool)
 **日期**：2026-04-15
@@ -16,7 +16,7 @@ tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 
 ### 摘要
 
-Mock snippet for query 'Taiwan semiconductor supply chain news today'. Replace with real SERPAPI_KEY.
+Mock snippet for query 'global chip shortage update 2026'. Replace with real SERPAPI_KEY.
 
 本篇報導來自 **Mock Source**，經本系統交叉比對多個獨立來源後確認其可信度。
 
@@ -42,7 +42,7 @@ Mock snippet for query 'Taiwan semiconductor supply chain news today'. Replace w
 
 ### 參考來源
 
-- 原始來源：[Mock Source](https://example.com/mock-article/170592fae0)
+- 原始來源：[Mock Source](https://example.com/mock-article/9aef265ac6)
 
 ### 相關資源
 

@@ -55,10 +55,24 @@ DOMAIN_TO_CATEGORIES = {
 
 
 # ---------------------------------------------------------------------------
+# URL sanitization
+# ---------------------------------------------------------------------------
+def _sanitize_url(url: str) -> str:
+    """Strip whitespace and validate URL scheme. Returns cleaned URL or empty string."""
+    url = url.strip()
+    if not url:
+        return ""
+    if not url.startswith(("https://", "http://")):
+        print(f"[Monetizer] WARNING: Invalid URL scheme, skipping: {url[:60]}")
+        return ""
+    return url
+
+
+# ---------------------------------------------------------------------------
 # Affiliate link loader
 # ---------------------------------------------------------------------------
 def load_affiliate_links(csv_path: Path) -> list[dict]:
-    """Load keyword→affiliate mappings from CSV."""
+    """Load keyword→affiliate mappings from CSV. Validates URLs on load."""
     links: list[dict] = []
     if not csv_path.exists():
         print(f"[Monetizer] WARNING: {csv_path} not found. No affiliate links will be inserted.")
@@ -66,11 +80,15 @@ def load_affiliate_links(csv_path: Path) -> list[dict]:
 
     with open(csv_path, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
-        for row in reader:
+        for i, row in enumerate(reader, 2):
+            url = _sanitize_url(row["affiliate_url"])
+            if not url:
+                print(f"[Monetizer] WARNING: Skipping line {i} — invalid URL")
+                continue
             links.append(
                 {
                     "keyword": row["keyword"].strip(),
-                    "url": row["affiliate_url"].strip(),
+                    "url": url,
                     "partner": row["partner"].strip(),
                     "category": row["category"].strip(),
                 }
@@ -273,21 +291,21 @@ def generate_article(topic: dict, affiliate_links: list[dict]) -> dict:
     affiliate keywords appear naturally throughout the text.
     Returns dict with title, body_md, meta fields.
     """
-    title = topic.get("title", "無標題")
-    snippet = topic.get("snippet", "")
-    source = topic.get("source", "未知來源")
-    url = topic.get("url", "")
-    date = topic.get("date", "")
+    title = topic.get("title", "無標題").strip()
+    snippet = topic.get("snippet", "").strip()
+    source = topic.get("source", "未知來源").strip()
+    url = _sanitize_url(topic.get("url", ""))
+    date = topic.get("date", "").strip()
     domain = topic.get("domain", "")
     verification = topic.get("verification", {})
 
     domain_zh = DOMAIN_LABELS.get(domain, domain)
 
     # Build citation block
-    citations = [f"- 原始來源：[{source}]({url})"]
+    citations = [f"- 原始來源：[{source}]({url})"] if url else [f"- 原始來源：{source}"]
     for src in verification.get("independent_sources", []):
-        src_title = src.get("title", "")
-        src_url = src.get("url", "")
+        src_title = src.get("title", "").strip()
+        src_url = _sanitize_url(src.get("url", ""))
         if src_url:
             citations.append(f"- 佐證來源：[{src_title}]({src_url})")
     citations_block = "\n".join(citations)

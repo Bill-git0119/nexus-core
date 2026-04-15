@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-15T14:20:41.236483+00:00",
+  "generated_at": "2026-04-15T14:33:12.361600+00:00",
   "source": "C:\\nexus_core\\data\\verified_data.json",
-  "total_articles": 2,
+  "total_articles": 7,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output\\notion",
@@ -19,6 +19,36 @@
       "citations_count": 0
     },
     {
+      "slug": "mock-trending-tsmc-stock-market-latest",
+      "title": "[Mock] Trending: TSMC stock market latest",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "2026-04-15",
+      "notion_file": "output\\notion\\mock-trending-tsmc-stock-market-latest.md",
+      "ghpages_file": "output\\ghpages\\mock-trending-tsmc-stock-market-latest.html",
+      "citations_count": 0
+    },
+    {
+      "slug": "mock-trending-global-chip-shortage-update-2026",
+      "title": "[Mock] Trending: global chip shortage update 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "2026-04-15",
+      "notion_file": "output\\notion\\mock-trending-global-chip-shortage-update-2026.md",
+      "ghpages_file": "output\\ghpages\\mock-trending-global-chip-shortage-update-2026.html",
+      "citations_count": 0
+    },
+    {
+      "slug": "mock-trending-tsmc-earnings-forecast-2026",
+      "title": "[Mock] Trending: TSMC earnings forecast 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "2026-04-15",
+      "notion_file": "output\\notion\\mock-trending-tsmc-earnings-forecast-2026.md",
+      "ghpages_file": "output\\ghpages\\mock-trending-tsmc-earnings-forecast-2026.html",
+      "citations_count": 0
+    },
+    {
       "slug": "mock-trending-longevity-science-breakthrough-2026",
       "title": "[Mock] Trending: longevity science breakthrough 2026",
       "domain": "Longevity/Sports Medicine",
@@ -26,6 +56,26 @@
       "date": "2026-04-15",
       "notion_file": "output\\notion\\mock-trending-longevity-science-breakthrough-2026.md",
       "ghpages_file": "output\\ghpages\\mock-trending-longevity-science-breakthrough-2026.html",
+      "citations_count": 0
+    },
+    {
+      "slug": "mock-trending-sports-medicine-latest-research",
+      "title": "[Mock] Trending: sports medicine latest research",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "2026-04-15",
+      "notion_file": "output\\notion\\mock-trending-sports-medicine-latest-research.md",
+      "ghpages_file": "output\\ghpages\\mock-trending-sports-medicine-latest-research.html",
+      "citations_count": 0
+    },
+    {
+      "slug": "mock-trending-anti-aging-clinical-trial-results",
+      "title": "[Mock] Trending: anti-aging clinical trial results",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "2026-04-15",
+      "notion_file": "output\\notion\\mock-trending-anti-aging-clinical-trial-results.md",
+      "ghpages_file": "output\\ghpages\\mock-trending-anti-aging-clinical-trial-results.html",
       "citations_count": 0
     }
   ]

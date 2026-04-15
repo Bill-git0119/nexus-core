@@ -46,7 +46,7 @@ DEFAULT_FOCUS_AREAS = {
 
 MAX_RETRIES = 3
 RETRY_DELAY = 5  # seconds
-TOPICS_PER_DOMAIN = 3
+TOPICS_PER_DOMAIN = 4
 
 
 def load_focus_areas() -> list[dict]:
@@ -111,11 +111,15 @@ def search_google(query: str, retries: int = MAX_RETRIES) -> list[dict]:
 
 
 def _mock_results(query: str) -> list[dict]:
-    """Fallback mock results when no API key is configured."""
+    """Fallback mock results when no API key is configured.
+    Each query gets a unique URL slug so deduplication won't collapse them.
+    """
+    import hashlib
+    slug = hashlib.md5(query.encode()).hexdigest()[:10]
     return [
         {
             "title": f"[Mock] Trending: {query}",
-            "link": "https://example.com/mock-article",
+            "link": f"https://example.com/mock-article/{slug}",
             "snippet": f"Mock snippet for query '{query}'. Replace with real SERPAPI_KEY.",
             "source": "Mock Source",
             "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),

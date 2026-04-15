@@ -1,12 +1,12 @@
 ---
-title: "[Mock] Trending: Taiwan semiconductor supply chain news today"
+title: "[Mock] Trending: TSMC earnings forecast 2026"
 domain: "半導體／台股供應鏈"
 date: "2026-04-15"
 status: "已發布"
 tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 ---
 
-## [Mock] Trending: Taiwan semiconductor supply chain news today
+## [Mock] Trending: [TSMC](https://example.com/aff?ref=nexus&product=tsmc-report) earnings forecast 2026
 
 **領域**：[半導體](https://example.com/aff?ref=nexus&product=chip-analysis)／台股[供應鏈](https://example.com/aff?ref=nexus&product=supply-chain-tool)
 **日期**：2026-04-15
@@ -16,13 +16,13 @@ tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 
 ### 摘要
 
-Mock snippet for query 'Taiwan semiconductor supply chain news today'. Replace with real SERPAPI_KEY.
+Mock snippet for query 'TSMC earnings forecast 2026'. Replace with real SERPAPI_KEY.
 
 本篇報導來自 **Mock Source**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 市場背景與產業脈絡
 
-全球半導體產業正處於關鍵轉折點。隨著 AI [晶片](https://example.com/aff?ref=nexus&product=chip-analysis)需求持續攀升，台灣在全球供應鏈中的戰略地位愈發重要。[TSMC](https://example.com/aff?ref=nexus&product=tsmc-report) 作為全球最大的晶圓代工廠，其產能規劃與技術發展直接影響整個科技產業的走向。從 [SSD](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 儲存方案到高頻寬 [DRAM](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 記憶體模組，台灣供應鏈的每一環都牽動著全球電子產業的脈搏。近年來 [DDR5](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 記憶體的普及更加速了資料中心與 [Gaming PC](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 電競主機的升級週期，帶動上下游供應鏈的全面復甦。
+全球半導體產業正處於關鍵轉折點。隨著 AI [晶片](https://example.com/aff?ref=nexus&product=chip-analysis)需求持續攀升，台灣在全球供應鏈中的戰略地位愈發重要。TSMC 作為全球最大的晶圓代工廠，其產能規劃與技術發展直接影響整個科技產業的走向。從 [SSD](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 儲存方案到高頻寬 [DRAM](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 記憶體模組，台灣供應鏈的每一環都牽動著全球電子產業的脈搏。近年來 [DDR5](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 記憶體的普及更加速了資料中心與 [Gaming PC](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 電競主機的升級週期，帶動上下游供應鏈的全面復甦。
 
 ### 關鍵數據與影響分析
 
@@ -42,7 +42,7 @@ Mock snippet for query 'Taiwan semiconductor supply chain news today'. Replace w
 
 ### 參考來源
 
-- 原始來源：[Mock Source](https://example.com/mock-article/170592fae0)
+- 原始來源：[Mock Source](https://example.com/mock-article/372b1b63ea)
 
 ### 相關資源
 
