@@ -1,108 +1,40 @@
 {
-  "generated_at": "2026-04-15T14:33:12.327622+00:00",
-  "scout_source": "C:\\nexus_core\\data\\raw_topics.json",
+  "generated_at": "2026-04-17T02:56:22.725623+00:00",
+  "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
-    "total_input": 7,
-    "verified": 7,
-    "discarded": 0
+    "total_input": 8,
+    "verified": 1,
+    "discarded": 7
   },
   "verified_topics": [
     {
-      "title": "[Mock] Trending: Taiwan semiconductor supply chain news today",
-      "url": "https://example.com/mock-article/170592fae0",
-      "snippet": "Mock snippet for query 'Taiwan semiconductor supply chain news today'. Replace with real SERPAPI_KEY.",
-      "source": "Mock Source",
-      "date": "2026-04-15",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "mock-mode",
-        "checked_at": "2026-04-15T14:33:12.327622+00:00",
-        "independent_sources": []
-      }
-    },
-    {
-      "title": "[Mock] Trending: TSMC stock market latest",
-      "url": "https://example.com/mock-article/f47d88f534",
-      "snippet": "Mock snippet for query 'TSMC stock market latest'. Replace with real SERPAPI_KEY.",
-      "source": "Mock Source",
-      "date": "2026-04-15",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "mock-mode",
-        "checked_at": "2026-04-15T14:33:12.327622+00:00",
-        "independent_sources": []
-      }
-    },
-    {
-      "title": "[Mock] Trending: global chip shortage update 2026",
-      "url": "https://example.com/mock-article/9aef265ac6",
-      "snippet": "Mock snippet for query 'global chip shortage update 2026'. Replace with real SERPAPI_KEY.",
-      "source": "Mock Source",
-      "date": "2026-04-15",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "mock-mode",
-        "checked_at": "2026-04-15T14:33:12.327622+00:00",
-        "independent_sources": []
-      }
-    },
-    {
-      "title": "[Mock] Trending: TSMC earnings forecast 2026",
-      "url": "https://example.com/mock-article/372b1b63ea",
-      "snippet": "Mock snippet for query 'TSMC earnings forecast 2026'. Replace with real SERPAPI_KEY.",
-      "source": "Mock Source",
-      "date": "2026-04-15",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "mock-mode",
-        "checked_at": "2026-04-15T14:33:12.327622+00:00",
-        "independent_sources": []
-      }
-    },
-    {
-      "title": "[Mock] Trending: longevity science breakthrough 2026",
-      "url": "https://example.com/mock-article/2df3fb17e6",
-      "snippet": "Mock snippet for query 'longevity science breakthrough 2026'. Replace with real SERPAPI_KEY.",
-      "source": "Mock Source",
-      "date": "2026-04-15",
+      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
+      "url": "https://www.eurekalert.org/news-releases/1116021",
+      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
+      "source": "EurekAlert!",
+      "date": "Feb 10, 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
-        "method": "mock-mode",
-        "checked_at": "2026-04-15T14:33:12.327622+00:00",
-        "independent_sources": []
-      }
-    },
-    {
-      "title": "[Mock] Trending: sports medicine latest research",
-      "url": "https://example.com/mock-article/600dbf15b6",
-      "snippet": "Mock snippet for query 'sports medicine latest research'. Replace with real SERPAPI_KEY.",
-      "source": "Mock Source",
-      "date": "2026-04-15",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "mock-mode",
-        "checked_at": "2026-04-15T14:33:12.327622+00:00",
-        "independent_sources": []
-      }
-    },
-    {
-      "title": "[Mock] Trending: anti-aging clinical trial results",
-      "url": "https://example.com/mock-article/e2e3a74f9c",
-      "snippet": "Mock snippet for query 'anti-aging clinical trial results'. Replace with real SERPAPI_KEY.",
-      "source": "Mock Source",
-      "date": "2026-04-15",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "mock-mode",
-        "checked_at": "2026-04-15T14:33:12.327622+00:00",
-        "independent_sources": []
+        "method": "cross-reference",
+        "checked_at": "2026-04-17T02:56:22.725508+00:00",
+        "independent_sources": [
+          {
+            "title": "Press Release",
+            "url": "https://targeting-longevity.com/press-release/",
+            "source": "Targeting Longevity World Congress 2026"
+          },
+          {
+            "title": "Elon Musk has argued that aging may be far more ...",
+            "url": "https://www.facebook.com/Benzinga/posts/elon-musk-has-argued-that-aging-may-be-far-more-controllable-than-people-assume-/1501732155285783/",
+            "source": "Facebook · Benzinga"
+          },
+          {
+            "title": "Elon Musk has argued that aging may be far more ...",
+            "url": "https://www.instagram.com/p/DVR0r-oitbW/",
+            "source": "Instagram · benzinga"
+          }
+        ]
       }
     }
   ]
