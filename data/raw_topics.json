@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-17T02:56:21.616407+00:00",
+  "generated_at": "2026-04-19T03:22:05.124268+00:00",
   "total_topics": 8,
   "topics": [
-    {
-      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
-      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
-      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
-      "source": "The Hilltop Online",
-      "date": "3 days ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
     {
       "title": "TSMC capex hits US$56 billion, reshaping global semiconductor supply chain",
       "url": "https://www.digitimes.com/news/a20260416PD222/tsmc-equipment-capex-supply-chain-taiwan-2026.html",
       "snippet": "TSMC's capital expenditure has surged in recent years, with 2026 spending forecasted to reach a record US$52-56 billion and market...",
       "source": "digitimes",
+      "date": "3 days ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Taiwan Semiconductor Dominates AI Supply Chain, Even Shortages May Not Slow It Down: Analyst",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/04/51877863/taiwan-semiconductor-dominates-ai-supply-chain-even-shortages-may-not-slow-it-down-analyst",
+      "snippet": "Taiwan Semiconductor 2nm chip shift impacts Nvidia, Apple & AMD. Expert breaks down demand, $30k wafer pricing, and the 2026 margin outlook.",
+      "source": "Benzinga",
       "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
@@ -43,7 +43,7 @@
       "url": "https://lifespan.io/news/aplms-and-kitalys-to-host-healthy-longevity-in-hong-kong/",
       "snippet": "The Asia-Pacific Longevity Medicine Society announced that the 2026 Asia-Pacific Healthy Longevity International Summit will be held in Hong...",
       "source": "Lifespan Research Institute",
-      "date": "3 days ago",
+      "date": "5 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -52,7 +52,7 @@
       "url": "https://longevity.technology/news/hong-kong-to-host-apac-longevity-summit-2026/",
       "snippet": "Global leaders convene on translating geroscience into clinical practice as Asia-Pacific positions itself at forefront of longevity...",
       "source": "Longevity.Technology",
-      "date": "1 day ago",
+      "date": "3 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -66,11 +66,11 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Pharmas and biotechs are investing in new treatments for diseases of aging",
-      "url": "https://clarivate.com/life-sciences-healthcare/blog/why-longevity-might-be-biopharmas-next-big-thing/",
-      "snippet": "Pharmas and venture capitalists are investing big sums in untangling the science of longetivity and driving development of new treatments...",
-      "source": "Clarivate",
-      "date": "1 month ago",
+      "title": "Lancôme unveils new advisory board that aims to ‘democratise’ longevity science advancements",
+      "url": "https://cosmeticsbusiness.com/lanc%C3%B4me-unveils-longevity-md-advisors-board",
+      "snippet": "The L'Oréal-owned brand's Longevity MD Advisors Board comprises certified doctors – who specialise in prevention-led care across longevity...",
+      "source": "Cosmetics Business",
+      "date": "3 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
