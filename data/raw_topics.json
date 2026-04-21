@@ -1,31 +1,22 @@
 {
-  "generated_at": "2026-04-19T03:22:05.124268+00:00",
+  "generated_at": "2026-04-21T02:57:14.535339+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "TSMC capex hits US$56 billion, reshaping global semiconductor supply chain",
-      "url": "https://www.digitimes.com/news/a20260416PD222/tsmc-equipment-capex-supply-chain-taiwan-2026.html",
-      "snippet": "TSMC's capital expenditure has surged in recent years, with 2026 spending forecasted to reach a record US$52-56 billion and market...",
-      "source": "digitimes",
-      "date": "3 days ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
       "title": "Taiwan Semiconductor Dominates AI Supply Chain, Even Shortages May Not Slow It Down: Analyst",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/04/51877863/taiwan-semiconductor-dominates-ai-supply-chain-even-shortages-may-not-slow-it-down-analyst",
-      "snippet": "Taiwan Semiconductor 2nm chip shift impacts Nvidia, Apple & AMD. Expert breaks down demand, $30k wafer pricing, and the 2026 margin outlook.",
-      "source": "Benzinga",
-      "date": "1 day ago",
+      "url": "https://www.sahmcapital.com/news/content/taiwan-semiconductor-dominates-ai-supply-chain-even-shortages-may-not-slow-it-down-analyst-2026-04-17",
+      "snippet": "Taiwan Semiconductor 2nm chip shift impacts Nvidia, Apple AMD. Expert breaks down demand, $30k wafer pricing, and the 2026 margin outlook.",
+      "source": "Sahm",
+      "date": "2 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
-      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
-      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
-      "source": "Air Liquide",
-      "date": "3 weeks ago",
+      "title": "A Tale of Two Approaches to Revitalize Japan's Semiconductor Industry",
+      "url": "https://aparc.fsi.stanford.edu/news/tale-two-approaches-revitalize-japans-semiconductor-industry",
+      "snippet": "Economist Jun Akabane, APARC visiting scholar and professor at Chuo University, examines the validity of Japan's ongoing semiconductor...",
+      "source": "Stanford University",
+      "date": "1 month ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -39,20 +30,29 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "APLMS and Kitalys to Host Healthy Longevity in Hong Kong",
-      "url": "https://lifespan.io/news/aplms-and-kitalys-to-host-healthy-longevity-in-hong-kong/",
-      "snippet": "The Asia-Pacific Longevity Medicine Society announced that the 2026 Asia-Pacific Healthy Longevity International Summit will be held in Hong...",
-      "source": "Lifespan Research Institute",
-      "date": "5 days ago",
+      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
+      "url": "https://english.president.gov.tw/News/7091",
+      "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
+      "source": "Office of the President Republic of China(Taiwan)",
+      "date": "1 month ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "The Longevity Investors Conference Announces 2026 Speaker Lineup Featuring Dave Asprey, Dr. Steve Horvath, Garri Zmudze and More",
+      "url": "https://www.scottcoop.com/markets/stocks.php?article=newsfile-2026-4-20-the-longevity-investors-conference-announces-2026-speaker-lineup-featuring-dave-asprey-dr-steve-horvath-garri-zmudze-and-more",
+      "snippet": "The longevity market is projected to reach $8 trillion by 2030 - surpassing AI. The investors and scientists shaping that future meet in...",
+      "source": "Scott Coop",
+      "date": "8 hours ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Hong Kong to host APAC longevity summit 2026",
-      "url": "https://longevity.technology/news/hong-kong-to-host-apac-longevity-summit-2026/",
-      "snippet": "Global leaders convene on translating geroscience into clinical practice as Asia-Pacific positions itself at forefront of longevity...",
-      "source": "Longevity.Technology",
-      "date": "3 days ago",
+      "title": "APLMS and Kitalys to Host Healthy Longevity in Hong Kong",
+      "url": "https://lifespan.io/news/aplms-and-kitalys-to-host-healthy-longevity-in-hong-kong/",
+      "snippet": "The Asia-Pacific Longevity Medicine Society announced that the 2026 Asia-Pacific Healthy Longevity International Summit will be held in Hong...",
+      "source": "Lifespan Research Institute",
+      "date": "1 week ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -66,11 +66,11 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Lancôme unveils new advisory board that aims to ‘democratise’ longevity science advancements",
-      "url": "https://cosmeticsbusiness.com/lanc%C3%B4me-unveils-longevity-md-advisors-board",
-      "snippet": "The L'Oréal-owned brand's Longevity MD Advisors Board comprises certified doctors – who specialise in prevention-led care across longevity...",
-      "source": "Cosmetics Business",
-      "date": "3 weeks ago",
+      "title": "Hong Kong to host APAC longevity summit 2026",
+      "url": "https://longevity.technology/news/hong-kong-to-host-apac-longevity-summit-2026/",
+      "snippet": "Global leaders convene on translating geroscience into clinical practice as Asia-Pacific positions itself at forefront of longevity...",
+      "source": "Longevity.Technology",
+      "date": "5 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T03:22:06.052179+00:00",
+  "generated_at": "2026-04-21T02:57:24.020694+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-04-19T03:22:06.052057+00:00",
+        "checked_at": "2026-04-21T02:57:24.020531+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -25,9 +25,9 @@
             "source": "Targeting Longevity World Congress 2026"
           },
           {
-            "title": "Elon Musk has argued that aging may be far more ...",
-            "url": "https://www.facebook.com/Benzinga/posts/elon-musk-has-argued-that-aging-may-be-far-more-controllable-than-people-assume-/1501732155285783/",
-            "source": "Facebook · Benzinga"
+            "title": "AI, Epigenetics and Gut Science: Longevity Medicine 2026",
+            "url": "https://healthcarediscovery.ai/three-simultaneous-breakthroughs-are-rewriting-the-science-of-human-longevity/",
+            "source": "healthcarediscovery.ai"
           },
           {
             "title": "More Relevant Posts",
