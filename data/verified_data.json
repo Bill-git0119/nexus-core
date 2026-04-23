@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T02:57:24.020694+00:00",
+  "generated_at": "2026-04-23T03:18:14.352784+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -8,31 +8,31 @@
   },
   "verified_topics": [
     {
-      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
-      "url": "https://www.eurekalert.org/news-releases/1116021",
-      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
-      "source": "EurekAlert!",
-      "date": "Feb 10, 2026",
-      "domain": "Longevity/Sports Medicine",
+      "title": "US’ 40% chip chain goal unrealistic, expert says",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/01/18/2003850798",
+      "snippet": "Shifting 40 percent of Taiwan's semiconductor supply chain to the US within the term of US President Donald Trump is “not physically...",
+      "source": "Taipei Times",
+      "date": "Jan 18, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-04-21T02:57:24.020531+00:00",
+        "checked_at": "2026-04-23T03:18:14.352419+00:00",
         "independent_sources": [
           {
-            "title": "Press Release",
-            "url": "https://targeting-longevity.com/press-release/",
-            "source": "Targeting Longevity World Congress 2026"
+            "title": "Washington's 40% Taiwan chip reshoring claim unrealistic",
+            "url": "https://focustaiwan.tw/business/202601170004",
+            "source": "Focus Taiwan"
           },
           {
-            "title": "AI, Epigenetics and Gut Science: Longevity Medicine 2026",
-            "url": "https://healthcarediscovery.ai/three-simultaneous-breakthroughs-are-rewriting-the-science-of-human-longevity/",
-            "source": "healthcarediscovery.ai"
+            "title": "Taiwan says 40% shift of chip capacity to US is 'impossible'",
+            "url": "https://www.reuters.com/world/china/taiwan-says-40-shift-chip-capacity-us-is-impossible-2026-02-09/",
+            "source": "Reuters"
           },
           {
-            "title": "More Relevant Posts",
-            "url": "https://www.linkedin.com/posts/resilient-alpha_resilientalpha-martysecada-ivyfon-activity-7427539555978797056-OaGU",
-            "source": "LinkedIn"
+            "title": "INTERVIEW/Washington's 40% Taiwan chip reshoring ...",
+            "url": "https://ocacnews.net/article/417876",
+            "source": "僑務電子報"
           }
         ]
       }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-21T02:57:14.535339+00:00",
+  "generated_at": "2026-04-23T03:18:10.342825+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "Taiwan Semiconductor Dominates AI Supply Chain, Even Shortages May Not Slow It Down: Analyst",
-      "url": "https://www.sahmcapital.com/news/content/taiwan-semiconductor-dominates-ai-supply-chain-even-shortages-may-not-slow-it-down-analyst-2026-04-17",
-      "snippet": "Taiwan Semiconductor 2nm chip shift impacts Nvidia, Apple AMD. Expert breaks down demand, $30k wafer pricing, and the 2026 margin outlook.",
-      "source": "Sahm",
-      "date": "2 days ago",
+      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
+      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
+      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
+      "source": "The Hilltop Online",
+      "date": "1 week ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -21,6 +21,15 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
+      "title": "US’ 40% chip chain goal unrealistic, expert says",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/01/18/2003850798",
+      "snippet": "Shifting 40 percent of Taiwan's semiconductor supply chain to the US within the term of US President Donald Trump is “not physically...",
+      "source": "Taipei Times",
+      "date": "Jan 18, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
       "title": "Taiwan’s Semiconductors: The Backbone Of The Global Tech Economy – OpEd",
       "url": "https://www.eurasiareview.com/16032026-taiwans-semiconductors-the-backbone-of-the-global-tech-economy-oped/",
       "snippet": "Taiwan is the production hub for the majority of the world's semiconductors. This paper investigates the role of Taiwan's semiconductors in...",
@@ -30,47 +39,38 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
-      "url": "https://english.president.gov.tw/News/7091",
-      "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
-      "source": "Office of the President Republic of China(Taiwan)",
-      "date": "1 month ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
       "title": "The Longevity Investors Conference Announces 2026 Speaker Lineup Featuring Dave Asprey, Dr. Steve Horvath, Garri Zmudze and More",
       "url": "https://www.scottcoop.com/markets/stocks.php?article=newsfile-2026-4-20-the-longevity-investors-conference-announces-2026-speaker-lineup-featuring-dave-asprey-dr-steve-horvath-garri-zmudze-and-more",
       "snippet": "The longevity market is projected to reach $8 trillion by 2030 - surpassing AI. The investors and scientists shaping that future meet in...",
       "source": "Scott Coop",
-      "date": "8 hours ago",
+      "date": "2 days ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "8 trends from in-cosmetics Global 2026: from ‘blue longevity’ to precision peptides",
+      "url": "https://cosmeticsbusiness.com/8-trends-from-in-cosmetics-global-2026-from",
+      "snippet": "Cosmetics Business walked the show floor to bring you our edit of the standout trends from this year's beauty ingredient launches.",
+      "source": "Cosmetics Business",
+      "date": "1 day ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "From IVF Science to Skin Longevity: AV Laboratories Translates Biotechnology into Breakthrough Skinc",
+      "url": "https://www.pharmiweb.com/press-release/2026-04-22-3/from-ivf-science-to-skin-longevity-av-laboratories-translates-biotechnology-into-breakthrough-skinc",
+      "snippet": "NEW YORK--(BUSINESS WIRE)--#AVLSOM3--AV Laboratories is redefining the future of skincare by translating decades of advanced biotechnology...",
+      "source": "PharmiWeb.com",
+      "date": "1 day ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
       "title": "APLMS and Kitalys to Host Healthy Longevity in Hong Kong",
-      "url": "https://lifespan.io/news/aplms-and-kitalys-to-host-healthy-longevity-in-hong-kong/",
+      "url": "https://lifespan.io/aplms-and-kitalys-to-host-healthy-longevity-in-hong-kong/",
       "snippet": "The Asia-Pacific Longevity Medicine Society announced that the 2026 Asia-Pacific Healthy Longevity International Summit will be held in Hong...",
       "source": "Lifespan Research Institute",
       "date": "1 week ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
-      "url": "https://www.eurekalert.org/news-releases/1116021",
-      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
-      "source": "EurekAlert!",
-      "date": "Feb 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Hong Kong to host APAC longevity summit 2026",
-      "url": "https://longevity.technology/news/hong-kong-to-host-apac-longevity-summit-2026/",
-      "snippet": "Global leaders convene on translating geroscience into clinical practice as Asia-Pacific positions itself at forefront of longevity...",
-      "source": "Longevity.Technology",
-      "date": "5 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

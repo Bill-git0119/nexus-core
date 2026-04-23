@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T02:57:24.023825+00:00",
+  "generated_at": "2026-04-23T03:18:14.356061+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
   "total_articles": 1,
   "affiliate_links_loaded": 16,
@@ -9,13 +9,13 @@
   },
   "articles": [
     {
-      "slug": "targeting-longevity-2026-scientists-shift-the-longevity-deba",
-      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "Feb 10, 2026",
-      "notion_file": "output/notion/targeting-longevity-2026-scientists-shift-the-longevity-deba.md",
-      "ghpages_file": "output/ghpages/targeting-longevity-2026-scientists-shift-the-longevity-deba.html",
+      "slug": "us-40-chip-chain-goal-unrealistic-expert-says",
+      "title": "US’ 40% chip chain goal unrealistic, expert says",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Jan 18, 2026",
+      "notion_file": "output/notion/us-40-chip-chain-goal-unrealistic-expert-says.md",
+      "ghpages_file": "output/ghpages/us-40-chip-chain-goal-unrealistic-expert-says.html",
       "citations_count": 3
     }
   ]
