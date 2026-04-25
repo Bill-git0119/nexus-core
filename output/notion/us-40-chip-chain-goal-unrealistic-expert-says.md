@@ -44,8 +44,8 @@ Shifting 40 percent of Taiwan's semiconductor supply chain to the US within the 
 
 - 原始來源：[Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2026/01/18/2003850798)
 - 佐證來源：[Washington's 40% Taiwan chip reshoring claim unrealistic](https://focustaiwan.tw/business/202601170004)
-- 佐證來源：[Taiwan says 40% shift of chip capacity to US is 'impossible'](https://www.reuters.com/world/china/taiwan-says-40-shift-chip-capacity-us-is-impossible-2026-02-09/)
 - 佐證來源：[INTERVIEW/Washington's 40% Taiwan chip reshoring ...](https://ocacnews.net/article/417876)
+- 佐證來源：[Taiwan says 40% shift of chip capacity to US is 'impossible'](https://www.reuters.com/world/china/taiwan-says-40-shift-chip-capacity-us-is-impossible-2026-02-09/)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ Shifting 40 percent of Taiwan's semiconductor supply chain to the US within the 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-04-23 03:18 UTC*
+*產生時間：2026-04-25 02:49 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：XPG, ExampleBroker, ChipInsider, SupplyVue）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SupplyVue, XPG, ExampleBroker, ChipInsider）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

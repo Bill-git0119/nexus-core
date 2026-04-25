@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T03:18:10.342825+00:00",
+  "generated_at": "2026-04-25T02:49:43.668169+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -8,6 +8,15 @@
       "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
       "source": "The Hilltop Online",
       "date": "1 week ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "1 month ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -30,47 +39,38 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Taiwan’s Semiconductors: The Backbone Of The Global Tech Economy – OpEd",
-      "url": "https://www.eurasiareview.com/16032026-taiwans-semiconductors-the-backbone-of-the-global-tech-economy-oped/",
-      "snippet": "Taiwan is the production hub for the majority of the world's semiconductors. This paper investigates the role of Taiwan's semiconductors in...",
-      "source": "Eurasia Review",
-      "date": "1 month ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
       "title": "The Longevity Investors Conference Announces 2026 Speaker Lineup Featuring Dave Asprey, Dr. Steve Horvath, Garri Zmudze and More",
       "url": "https://www.scottcoop.com/markets/stocks.php?article=newsfile-2026-4-20-the-longevity-investors-conference-announces-2026-speaker-lineup-featuring-dave-asprey-dr-steve-horvath-garri-zmudze-and-more",
       "snippet": "The longevity market is projected to reach $8 trillion by 2030 - surpassing AI. The investors and scientists shaping that future meet in...",
       "source": "Scott Coop",
-      "date": "2 days ago",
+      "date": "4 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "8 trends from in-cosmetics Global 2026: from ‘blue longevity’ to precision peptides",
-      "url": "https://cosmeticsbusiness.com/8-trends-from-in-cosmetics-global-2026-from",
-      "snippet": "Cosmetics Business walked the show floor to bring you our edit of the standout trends from this year's beauty ingredient launches.",
-      "source": "Cosmetics Business",
-      "date": "1 day ago",
+      "title": "Longevity-driven skin care: Estée Lauder model measures skin age for future product innovation",
+      "url": "https://www.personalcareinsights.com/news/estee-lauder-companies-skin-science.html",
+      "snippet": "The Estée Lauder Companies (ELC) has marked a new milestone in its role in skin longevity science and product innovation.",
+      "source": "Personal Care Insights",
+      "date": "3 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "From IVF Science to Skin Longevity: AV Laboratories Translates Biotechnology into Breakthrough Skinc",
-      "url": "https://www.pharmiweb.com/press-release/2026-04-22-3/from-ivf-science-to-skin-longevity-av-laboratories-translates-biotechnology-into-breakthrough-skinc",
-      "snippet": "NEW YORK--(BUSINESS WIRE)--#AVLSOM3--AV Laboratories is redefining the future of skincare by translating decades of advanced biotechnology...",
-      "source": "PharmiWeb.com",
-      "date": "1 day ago",
+      "title": "From IVF Science to Skin Longevity: AV Laboratories Translates Biotechnology into Breakthrough Skincare",
+      "url": "https://www.rutlandherald.com/news/business/from-ivf-science-to-skin-longevity-av-laboratories-translates-biotechnology-into-breakthrough-skincare/article_f3298bb6-27c7-5e76-b759-931e68cf93a3.html",
+      "snippet": "NEW YORK--(BUSINESS WIRE)--Apr 21, 2026--. AV Laboratories is redefining the future of skincare by translating decades of advanced...",
+      "source": "Rutland Herald",
+      "date": "3 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "APLMS and Kitalys to Host Healthy Longevity in Hong Kong",
-      "url": "https://lifespan.io/aplms-and-kitalys-to-host-healthy-longevity-in-hong-kong/",
-      "snippet": "The Asia-Pacific Longevity Medicine Society announced that the 2026 Asia-Pacific Healthy Longevity International Summit will be held in Hong...",
-      "source": "Lifespan Research Institute",
-      "date": "1 week ago",
+      "title": "Age reversal is the tech world’s holy grail — can AI make it reality?",
+      "url": "https://nypost.com/2026/04/18/science/age-reversal-is-techs-holy-grail-can-ai-make-it-reality/",
+      "snippet": "In “We Are As Gods: A Survival God for the Age of Abundance,” authors Peter H. Diamandis and Steven Kotler explore what it means to be human...",
+      "source": "New York Post",
+      "date": "6 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
