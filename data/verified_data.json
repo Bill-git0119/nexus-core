@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-25T02:49:45.338963+00:00",
+  "generated_at": "2026-04-27T03:31:37.693759+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 2,
+    "discarded": 6
   },
   "verified_topics": [
     {
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-04-25T02:49:45.338657+00:00",
+        "checked_at": "2026-04-27T03:31:36.678414+00:00",
         "independent_sources": [
           {
             "title": "Washington's 40% Taiwan chip reshoring claim unrealistic",
@@ -25,14 +25,44 @@
             "source": "Focus Taiwan"
           },
           {
-            "title": "INTERVIEW/Washington's 40% Taiwan chip reshoring ...",
-            "url": "https://ocacnews.net/article/417876",
-            "source": "僑務電子報"
-          },
-          {
             "title": "Taiwan says 40% shift of chip capacity to US is 'impossible'",
             "url": "https://www.reuters.com/world/china/taiwan-says-40-shift-chip-capacity-us-is-impossible-2026-02-09/",
             "source": "Reuters"
+          },
+          {
+            "title": "INTERVIEW/Washington's 40% Taiwan chip reshoring ...",
+            "url": "https://ocacnews.net/article/417876",
+            "source": "僑務電子報"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
+      "url": "https://www.eurekalert.org/news-releases/1116021",
+      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
+      "source": "EurekAlert!",
+      "date": "Feb 10, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-04-27T03:31:37.693347+00:00",
+        "independent_sources": [
+          {
+            "title": "Press Release",
+            "url": "https://targeting-longevity.com/press-release/",
+            "source": "Targeting Longevity World Congress 2026"
+          },
+          {
+            "title": "The longevity toolkit: Peter Attia's 5 tactics to improve longevity ...",
+            "url": "https://www.instagram.com/reel/DQWwCmujCRY/",
+            "source": "Instagram · peterattiamd"
+          },
+          {
+            "title": "Eric Topol | A new cover for SUPER AGERS after making ...",
+            "url": "https://www.instagram.com/p/DKHnirPRgul/",
+            "source": "Instagram · erictopol1"
           }
         ]
       }
