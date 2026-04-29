@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T03:31:35.170872+00:00",
+  "generated_at": "2026-04-29T03:34:44.212479+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -21,15 +21,6 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
-      "url": "https://english.president.gov.tw/News/7091",
-      "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
-      "source": "Office of the President Republic of China(Taiwan)",
-      "date": "1 month ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
       "title": "US’ 40% chip chain goal unrealistic, expert says",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/01/18/2003850798",
       "snippet": "Shifting 40 percent of Taiwan's semiconductor supply chain to the US within the term of US President Donald Trump is “not physically...",
@@ -39,29 +30,20 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
-      "url": "https://www.eurekalert.org/news-releases/1116021",
-      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
-      "source": "EurekAlert!",
-      "date": "Feb 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
+      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
+      "url": "https://english.president.gov.tw/News/7091",
+      "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
+      "source": "Office of the President Republic of China(Taiwan)",
+      "date": "Mar 3, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "From IVF Science to Skin Longevity: AV Laboratories Translates Biotechnology into Breakthrough Skincare",
-      "url": "https://www.rutlandherald.com/news/business/from-ivf-science-to-skin-longevity-av-laboratories-translates-biotechnology-into-breakthrough-skincare/article_f3298bb6-27c7-5e76-b759-931e68cf93a3.html",
-      "snippet": "NEW YORK--(BUSINESS WIRE)--Apr 21, 2026--. AV Laboratories is redefining the future of skincare by translating decades of advanced...",
-      "source": "Rutland Herald",
-      "date": "5 days ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "The Longevity Investors Conference Announces 2026 Speaker Lineup Featuring Dave Asprey, Dr. Steve Horvath, Garri Zmudze and More",
-      "url": "https://www.scottcoop.com/markets/stocks.php?article=newsfile-2026-4-20-the-longevity-investors-conference-announces-2026-speaker-lineup-featuring-dave-asprey-dr-steve-horvath-garri-zmudze-and-more",
-      "snippet": "The longevity market is projected to reach $8 trillion by 2030 - surpassing AI. The investors and scientists shaping that future meet in...",
-      "source": "Scott Coop",
-      "date": "6 days ago",
+      "title": "Cellular Rejuvenation Has the Potential to Reverse Aging",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "source": "The New York Times",
+      "date": "12 hours ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -70,6 +52,24 @@
       "url": "https://nypost.com/2026/04/18/science/age-reversal-is-techs-holy-grail-can-ai-make-it-reality/",
       "snippet": "In “We Are As Gods: A Survival God for the Age of Abundance,” authors Peter H. Diamandis and Steven Kotler explore what it means to be human...",
       "source": "New York Post",
+      "date": "1 week ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "APLMS and Kitalys to Host Healthy Longevity in Hong Kong",
+      "url": "https://lifespan.io/aplms-and-kitalys-to-host-healthy-longevity-in-hong-kong/",
+      "snippet": "The Asia-Pacific Longevity Medicine Society announced that the 2026 Asia-Pacific Healthy Longevity International Summit will be held in Hong...",
+      "source": "Lifespan Research Institute",
+      "date": "2 weeks ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "The Longevity Investors Conference Announces 2026 Speaker Lineup Featuring Dave Asprey, Dr. Steve Horvath, Garri Zmudze and More",
+      "url": "https://www.scottcoop.com/markets/stocks.php?article=newsfile-2026-4-20-the-longevity-investors-conference-announces-2026-speaker-lineup-featuring-dave-asprey-dr-steve-horvath-garri-zmudze-and-more",
+      "snippet": "The longevity market is projected to reach $8 trillion by 2030 - surpassing AI. The investors and scientists shaping that future meet in...",
+      "source": "Scott Coop",
       "date": "1 week ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
