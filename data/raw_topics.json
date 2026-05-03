@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T03:47:28.880201+00:00",
+  "generated_at": "2026-05-03T03:39:10.860547+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -7,6 +7,15 @@
       "url": "https://www.digitimes.com/news/a20260429PD218/tsmc-supply-chain-competition-taiwan-semiconductor-industry.html",
       "snippet": "As competition in the semiconductor industry intensifies, TSMC maintains its lead while actively supporting the domestic supply chain.",
       "source": "digitimes",
+      "date": "3 days ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Eyck Freymann Warns Taiwan Semiconductors Threaten Global Stability",
+      "url": "https://letsdatascience.com/news/eyck-freymann-warns-taiwan-semiconductors-threaten-global-st-49baa456",
+      "snippet": "Eyck Freymann, a Hoover Fellow at Stanford, told the Odd Lots podcast (reported by CryptoBriefing) that **Taiwan's semiconductor industry is...",
+      "source": "Let's Data Science",
       "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
@@ -16,16 +25,7 @@
       "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
       "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
       "source": "The Hilltop Online",
-      "date": "2 weeks ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "MOEA breaks ground on Hsinchu advanced semiconductor R&D base",
-      "url": "https://taiwantoday.tw/AMP/Economics/Top-News/281536/MOEA-breaks-ground-on-Hsinchu-advanced-semiconductor-R%2526D-base",
-      "snippet": "Premier Cho Jung-tai (center) is joined by Minister of Economic Affairs Kung Ming-hsin (sixth right) and other officials at the...",
-      "source": "Taiwan Today",
-      "date": "1 day ago",
+      "date": "3 weeks ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -43,7 +43,7 @@
       "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
-      "date": "3 days ago",
+      "date": "1 day ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -52,7 +52,7 @@
       "url": "https://www.businessinsider.com/rising-stars-longevity-medicine-2026-4",
       "snippet": "Interest in longevity medicine has exploded in recent years. Here's who's at the forefront of longevity science, investment, and medicine.",
       "source": "Business Insider",
-      "date": "3 days ago",
+      "date": "5 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },

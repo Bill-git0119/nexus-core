@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T03:47:34.129161+00:00",
+  "generated_at": "2026-05-03T03:39:12.964620+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-01T03:47:34.129035+00:00",
+        "checked_at": "2026-05-03T03:39:12.964517+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -25,14 +25,14 @@
             "source": "Targeting Longevity World Congress 2026"
           },
           {
-            "title": "Lifespan vs. healthspan — a great distinction by @ ...",
-            "url": "https://www.instagram.com/reel/C12zbpEPu5i/",
-            "source": "Instagram · profgalloway"
+            "title": "Eric Topol | A new cover for SUPER AGERS after making ...",
+            "url": "https://www.instagram.com/p/DKHnirPRgul/",
+            "source": "Instagram · erictopol1"
           },
           {
-            "title": "Everything for longevity from beginner to expert in one ...",
-            "url": "https://www.instagram.com/p/DT_rKG7jGqK/?hl=en",
-            "source": "Instagram · thesharkdaymond"
+            "title": "The longevity toolkit: Peter Attia's 5 tactics to improve longevity ...",
+            "url": "https://www.instagram.com/reel/DQWwCmujCRY/",
+            "source": "Instagram · peterattiamd"
           }
         ]
       }
