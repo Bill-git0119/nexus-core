@@ -43,9 +43,9 @@ On the morning of March 2, President Lai Ching-te met with a delegation from the
 ### 參考來源
 
 - 原始來源：[Office of the President Republic of China(Taiwan)](https://english.president.gov.tw/News/7091)
+- 佐證來源：[President Lai meets Semiconductor Industry Association ...](https://investtaiwan.nat.gov.tw/newsPage62591eng?lang=eng&search=62591)
 - 佐證來源：[President Lai meets Semiconductor Industry Association ...](https://ocacnews.net/article/421428)
 - 佐證來源：[President Lai receives delegation from US semiconductor ...](https://taiwantoday.tw/Politics/Top-News/281926/President-Lai-receives-delegation-from-US-semiconductor-trade-association)
-- 佐證來源：[Taiwan's Lai Ching-te meets US semiconductor delegation](https://www.linkedin.com/posts/erudite-risk_%E6%8E%A5%E8%A6%8B%E7%BE%8E%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD%E5%8D%94%E6%9C%83%E8%A8%AA%E5%95%8F%E5%9C%98%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%9B%BC%E5%BC%B7%E5%8C%96%E4%B8%89%E5%A4%A7%E9%97%9C%E9%8D%B5%E6%8A%80%E8%A1%93%E7%A0%94%E7%99%BC-%E8%95%83%E6%96%B0%E8%81%9E-activity-7434699166343331840-suPf)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ On the morning of March 2, President Lai Ching-te met with a delegation from the
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-04-29 03:34 UTC*
+*產生時間：2026-05-05 03:24 UTC*
 
 
 > ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ChipInsider, XPG, SupplyVue, ExampleBroker）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

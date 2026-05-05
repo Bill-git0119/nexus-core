@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-05-03T03:39:12.964620+00:00",
+  "generated_at": "2026-05-05T03:24:15.198782+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 2,
+    "discarded": 6
   },
   "verified_topics": [
+    {
+      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
+      "url": "https://english.president.gov.tw/News/7091",
+      "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
+      "source": "Office of the President Republic of China(Taiwan)",
+      "date": "Mar 3, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-05-05T03:24:14.222872+00:00",
+        "independent_sources": [
+          {
+            "title": "President Lai meets Semiconductor Industry Association ...",
+            "url": "https://investtaiwan.nat.gov.tw/newsPage62591eng?lang=eng&search=62591",
+            "source": "nat.gov.tw"
+          },
+          {
+            "title": "President Lai meets Semiconductor Industry Association ...",
+            "url": "https://ocacnews.net/article/421428",
+            "source": "僑務電子報"
+          },
+          {
+            "title": "President Lai receives delegation from US semiconductor ...",
+            "url": "https://taiwantoday.tw/Politics/Top-News/281926/President-Lai-receives-delegation-from-US-semiconductor-trade-association",
+            "source": "Taiwan Today"
+          }
+        ]
+      }
+    },
     {
       "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
       "url": "https://www.eurekalert.org/news-releases/1116021",
@@ -17,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-03T03:39:12.964517+00:00",
+        "checked_at": "2026-05-05T03:24:15.198421+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -25,14 +55,14 @@
             "source": "Targeting Longevity World Congress 2026"
           },
           {
-            "title": "Eric Topol | A new cover for SUPER AGERS after making ...",
-            "url": "https://www.instagram.com/p/DKHnirPRgul/",
-            "source": "Instagram · erictopol1"
+            "title": "Longevity Field Debates Goals and Trust",
+            "url": "https://www.linkedin.com/posts/lifespanresearchinstitute_healthspan-vs-lifespan-are-we-asking-the-activity-7443371273759625216-IVcP",
+            "source": "LinkedIn · Lifespan Research Institute"
           },
           {
-            "title": "The longevity toolkit: Peter Attia's 5 tactics to improve longevity ...",
-            "url": "https://www.instagram.com/reel/DQWwCmujCRY/",
-            "source": "Instagram · peterattiamd"
+            "title": "Mo.Of.Everything",
+            "url": "https://www.facebook.com/story.php?story_fbid=893760809692622&id=100071761320440",
+            "source": "Facebook · Mo.Of.Everything"
           }
         ]
       }

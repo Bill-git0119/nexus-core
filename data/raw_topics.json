@@ -1,22 +1,13 @@
 {
-  "generated_at": "2026-05-03T03:39:10.860547+00:00",
+  "generated_at": "2026-05-05T03:24:13.298504+00:00",
   "total_topics": 8,
   "topics": [
-    {
-      "title": "Commentary: How TSMC anchors Taiwan's semiconductor supply chain from within",
-      "url": "https://www.digitimes.com/news/a20260429PD218/tsmc-supply-chain-competition-taiwan-semiconductor-industry.html",
-      "snippet": "As competition in the semiconductor industry intensifies, TSMC maintains its lead while actively supporting the domestic supply chain.",
-      "source": "digitimes",
-      "date": "3 days ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
     {
       "title": "Eyck Freymann Warns Taiwan Semiconductors Threaten Global Stability",
       "url": "https://letsdatascience.com/news/eyck-freymann-warns-taiwan-semiconductors-threaten-global-st-49baa456",
       "snippet": "Eyck Freymann, a Hoover Fellow at Stanford, told the Odd Lots podcast (reported by CryptoBriefing) that **Taiwan's semiconductor industry is...",
       "source": "Let's Data Science",
-      "date": "1 day ago",
+      "date": "3 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -39,20 +30,20 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
+      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
+      "url": "https://english.president.gov.tw/News/7091",
+      "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
+      "source": "Office of the President Republic of China(Taiwan)",
+      "date": "Mar 3, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
-      "date": "1 day ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Helping you live longer is big business. Meet the people leading the way.",
-      "url": "https://www.businessinsider.com/rising-stars-longevity-medicine-2026-4",
-      "snippet": "Interest in longevity medicine has exploded in recent years. Here's who's at the forefront of longevity science, investment, and medicine.",
-      "source": "Business Insider",
-      "date": "5 days ago",
+      "date": "3 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -71,6 +62,15 @@
       "snippet": "In “We Are As Gods: A Survival God for the Age of Abundance,” authors Peter H. Diamandis and Steven Kotler explore what it means to be human...",
       "source": "New York Post",
       "date": "2 weeks ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Helping you live longer is big business. Meet the people leading the way.",
+      "url": "https://www.businessinsider.com/rising-stars-longevity-medicine-2026-4",
+      "snippet": "Interest in longevity medicine has exploded in recent years. Here's who's at the forefront of longevity science, investment, and medicine.",
+      "source": "Business Insider",
+      "date": "1 week ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
