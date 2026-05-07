@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T03:24:15.198782+00:00",
+  "generated_at": "2026-05-07T03:35:11.027682+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,17 +17,17 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-05T03:24:14.222872+00:00",
+        "checked_at": "2026-05-07T03:35:05.664231+00:00",
         "independent_sources": [
-          {
-            "title": "President Lai meets Semiconductor Industry Association ...",
-            "url": "https://investtaiwan.nat.gov.tw/newsPage62591eng?lang=eng&search=62591",
-            "source": "nat.gov.tw"
-          },
           {
             "title": "President Lai meets Semiconductor Industry Association ...",
             "url": "https://ocacnews.net/article/421428",
             "source": "僑務電子報"
+          },
+          {
+            "title": "President Lai meets Semiconductor Industry Association ...",
+            "url": "https://investtaiwan.nat.gov.tw/newsPage62591eng?lang=eng&search=62591",
+            "source": "nat.gov.tw"
           },
           {
             "title": "President Lai receives delegation from US semiconductor ...",
@@ -47,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-05T03:24:15.198421+00:00",
+        "checked_at": "2026-05-07T03:35:11.027334+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -60,9 +60,9 @@
             "source": "LinkedIn · Lifespan Research Institute"
           },
           {
-            "title": "Mo.Of.Everything",
-            "url": "https://www.facebook.com/story.php?story_fbid=893760809692622&id=100071761320440",
-            "source": "Facebook · Mo.Of.Everything"
+            "title": "El envejecimiento como pérdida de coordinación biológica.",
+            "url": "https://rejuvenecimiento.clinicaneleva.com/el-envejecimiento-como-perdida-de-coordinacion-biologica/",
+            "source": "El Radar del Rejuvenecimiento"
           }
         ]
       }

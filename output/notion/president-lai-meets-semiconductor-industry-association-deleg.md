@@ -43,8 +43,8 @@ On the morning of March 2, President Lai Ching-te met with a delegation from the
 ### 參考來源
 
 - 原始來源：[Office of the President Republic of China(Taiwan)](https://english.president.gov.tw/News/7091)
-- 佐證來源：[President Lai meets Semiconductor Industry Association ...](https://investtaiwan.nat.gov.tw/newsPage62591eng?lang=eng&search=62591)
 - 佐證來源：[President Lai meets Semiconductor Industry Association ...](https://ocacnews.net/article/421428)
+- 佐證來源：[President Lai meets Semiconductor Industry Association ...](https://investtaiwan.nat.gov.tw/newsPage62591eng?lang=eng&search=62591)
 - 佐證來源：[President Lai receives delegation from US semiconductor ...](https://taiwantoday.tw/Politics/Top-News/281926/President-Lai-receives-delegation-from-US-semiconductor-trade-association)
 
 ### 相關資源
@@ -65,7 +65,7 @@ On the morning of March 2, President Lai Ching-te met with a delegation from the
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-05-05 03:24 UTC*
+*產生時間：2026-05-07 03:35 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ChipInsider, XPG, SupplyVue, ExampleBroker）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：XPG, ChipInsider, ExampleBroker, SupplyVue）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

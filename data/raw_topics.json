@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-05-05T03:24:13.298504+00:00",
+  "generated_at": "2026-05-07T03:35:04.559393+00:00",
   "total_topics": 8,
   "topics": [
-    {
-      "title": "Eyck Freymann Warns Taiwan Semiconductors Threaten Global Stability",
-      "url": "https://letsdatascience.com/news/eyck-freymann-warns-taiwan-semiconductors-threaten-global-st-49baa456",
-      "snippet": "Eyck Freymann, a Hoover Fellow at Stanford, told the Odd Lots podcast (reported by CryptoBriefing) that **Taiwan's semiconductor industry is...",
-      "source": "Let's Data Science",
-      "date": "3 days ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
     {
       "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
       "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
@@ -39,11 +30,20 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
+      "title": "Taiwan’s Semiconductors: The Backbone Of The Global Tech Economy – OpEd",
+      "url": "https://www.eurasiareview.com/16032026-taiwans-semiconductors-the-backbone-of-the-global-tech-economy-oped/",
+      "snippet": "Taiwan is the production hub for the majority of the world's semiconductors. This paper investigates the role of Taiwan's semiconductors in...",
+      "source": "Eurasia Review",
+      "date": "1 month ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
-      "date": "3 days ago",
+      "date": "5 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -57,20 +57,20 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Age reversal is the tech world’s holy grail — can AI make it reality?",
-      "url": "https://nypost.com/2026/04/18/science/age-reversal-is-techs-holy-grail-can-ai-make-it-reality/",
-      "snippet": "In “We Are As Gods: A Survival God for the Age of Abundance,” authors Peter H. Diamandis and Steven Kotler explore what it means to be human...",
-      "source": "New York Post",
-      "date": "2 weeks ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
       "title": "Helping you live longer is big business. Meet the people leading the way.",
       "url": "https://www.businessinsider.com/rising-stars-longevity-medicine-2026-4",
       "snippet": "Interest in longevity medicine has exploded in recent years. Here's who's at the forefront of longevity science, investment, and medicine.",
       "source": "Business Insider",
       "date": "1 week ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Age reversal is the tech world’s holy grail — can AI make it reality?",
+      "url": "https://nypost.com/2026/04/18/science/age-reversal-is-techs-holy-grail-can-ai-make-it-reality/",
+      "snippet": "In “We Are As Gods: A Survival God for the Age of Abundance,” authors Peter H. Diamandis and Steven Kotler explore what it means to be human...",
+      "source": "New York Post",
+      "date": "2 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
