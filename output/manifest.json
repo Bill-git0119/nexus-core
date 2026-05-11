@@ -1,23 +1,13 @@
 {
-  "generated_at": "2026-05-09T03:29:49.649136+00:00",
+  "generated_at": "2026-05-11T03:55:29.604531+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 2,
+  "total_articles": 1,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
     "ghpages_dir": "output/ghpages"
   },
   "articles": [
-    {
-      "slug": "president-lai-meets-semiconductor-industry-association-deleg",
-      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "Mar 3, 2026",
-      "notion_file": "output/notion/president-lai-meets-semiconductor-industry-association-deleg.md",
-      "ghpages_file": "output/ghpages/president-lai-meets-semiconductor-industry-association-deleg.html",
-      "citations_count": 3
-    },
     {
       "slug": "targeting-longevity-2026-scientists-shift-the-longevity-deba",
       "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
