@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-05-11T03:55:29.601805+00:00",
+  "generated_at": "2026-05-13T03:48:00.217152+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 3,
+    "discarded": 5
   },
   "verified_topics": [
+    {
+      "title": "Taiwan’s Semiconductors: The Backbone Of The Global Tech Economy – OpEd",
+      "url": "https://www.eurasiareview.com/16032026-taiwans-semiconductors-the-backbone-of-the-global-tech-economy-oped/",
+      "snippet": "Taiwan is the production hub for the majority of the world's semiconductors. This paper investigates the role of Taiwan's semiconductors in...",
+      "source": "Eurasia Review",
+      "date": "Mar 16, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-05-13T03:47:56.155387+00:00",
+        "independent_sources": [
+          {
+            "title": "TSMC fuels the global economy and China knows it",
+            "url": "https://restofworld.org/2026/china-taiwan-tsmc-semiconductor-economic-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+            "source": "Rest of World"
+          },
+          {
+            "title": "Taiwan's Semiconductor Industry Drives Economic Growth ...",
+            "url": "https://www.linkedin.com/posts/kumar-priyadarshi-b0a2a7a2_10-ways-semiconductors-transformed-taiwan-activity-7402308335565279232-nVBy",
+            "source": "LinkedIn · Kumar Priyadarshi"
+          },
+          {
+            "title": "Strengthening the Global Semiconductor Supply Chain in ...",
+            "url": "https://www.semiconductors.org/strengthening-the-global-semiconductor-supply-chain-in-an-uncertain-era/",
+            "source": "Semiconductor Industry Association | SIA"
+          }
+        ]
+      }
+    },
+    {
+      "title": "US’ 40% chip chain goal unrealistic, expert says",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/01/18/2003850798",
+      "snippet": "Shifting 40 percent of Taiwan's semiconductor supply chain to the US within the term of US President Donald Trump is “not physically...",
+      "source": "Taipei Times",
+      "date": "Jan 18, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-05-13T03:47:58.568430+00:00",
+        "independent_sources": [
+          {
+            "title": "Washington's 40% Taiwan chip reshoring claim unrealistic",
+            "url": "https://focustaiwan.tw/business/202601170004",
+            "source": "Focus Taiwan"
+          },
+          {
+            "title": "INTERVIEW/Washington's 40% Taiwan chip reshoring ...",
+            "url": "https://ocacnews.net/article/417876",
+            "source": "僑務電子報"
+          },
+          {
+            "title": "Taiwan Slams The Brakes On US Demands For 40% Chip ...",
+            "url": "https://finance.yahoo.com/news/impossible-taiwan-slams-brakes-us-190110948.html",
+            "source": "Yahoo Finance"
+          }
+        ]
+      }
+    },
     {
       "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
       "url": "https://www.eurekalert.org/news-releases/1116021",
@@ -17,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-11T03:55:29.601612+00:00",
+        "checked_at": "2026-05-13T03:48:00.217038+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -30,9 +90,9 @@
             "source": "LinkedIn · Lifespan Research Institute"
           },
           {
-            "title": "Longevity Lab",
-            "url": "https://www.facebook.com/61565272122740/",
-            "source": "Facebook"
+            "title": "The idea of longevity has become an obsession, driven not ...",
+            "url": "https://www.facebook.com/WCPO9/posts/the-idea-of-longevity-has-become-an-obsession-driven-not-by-the-healthcare-indus/1318947240263230/",
+            "source": "Facebook · WCPO 9"
           }
         ]
       }

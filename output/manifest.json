@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-05-11T03:55:29.604531+00:00",
+  "generated_at": "2026-05-13T03:48:00.222782+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 1,
+  "total_articles": 3,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
     "ghpages_dir": "output/ghpages"
   },
   "articles": [
+    {
+      "slug": "taiwans-semiconductors-the-backbone-of-the-global-tech-econo",
+      "title": "Taiwan’s Semiconductors: The Backbone Of The Global Tech Economy – OpEd",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Mar 16, 2026",
+      "notion_file": "output/notion/taiwans-semiconductors-the-backbone-of-the-global-tech-econo.md",
+      "ghpages_file": "output/ghpages/taiwans-semiconductors-the-backbone-of-the-global-tech-econo.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "us-40-chip-chain-goal-unrealistic-expert-says",
+      "title": "US’ 40% chip chain goal unrealistic, expert says",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Jan 18, 2026",
+      "notion_file": "output/notion/us-40-chip-chain-goal-unrealistic-expert-says.md",
+      "ghpages_file": "output/ghpages/us-40-chip-chain-goal-unrealistic-expert-says.html",
+      "citations_count": 3
+    },
     {
       "slug": "targeting-longevity-2026-scientists-shift-the-longevity-deba",
       "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
