@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T03:48:00.217152+00:00",
+  "generated_at": "2026-05-15T03:51:35.495410+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,11 +17,11 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-13T03:47:56.155387+00:00",
+        "checked_at": "2026-05-15T03:51:28.886250+00:00",
         "independent_sources": [
           {
-            "title": "TSMC fuels the global economy and China knows it",
-            "url": "https://restofworld.org/2026/china-taiwan-tsmc-semiconductor-economic-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+            "title": "Taiwan's chips power the global economy. China holds ...",
+            "url": "https://restofworld.org/2026/china-taiwan-tsmc-semiconductor-economic-risk/",
             "source": "Rest of World"
           },
           {
@@ -30,9 +30,9 @@
             "source": "LinkedIn · Kumar Priyadarshi"
           },
           {
-            "title": "Strengthening the Global Semiconductor Supply Chain in ...",
-            "url": "https://www.semiconductors.org/strengthening-the-global-semiconductor-supply-chain-in-an-uncertain-era/",
-            "source": "Semiconductor Industry Association | SIA"
+            "title": "The Chip That Runs the World. From Taiwan's 13.7% GDP ...",
+            "url": "https://medium.com/the-geopolitics-report/the-chip-that-runs-the-world-612508c9187e",
+            "source": "Medium · V. Langston — Media Analyst"
           }
         ]
       }
@@ -47,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-13T03:47:58.568430+00:00",
+        "checked_at": "2026-05-15T03:51:30.380617+00:00",
         "independent_sources": [
           {
             "title": "Washington's 40% Taiwan chip reshoring claim unrealistic",
@@ -61,8 +61,8 @@
           },
           {
             "title": "Taiwan Slams The Brakes On US Demands For 40% Chip ...",
-            "url": "https://finance.yahoo.com/news/impossible-taiwan-slams-brakes-us-190110948.html",
-            "source": "Yahoo Finance"
+            "url": "https://finviz.com/news/303951/impossible-taiwan-slams-the-brakes-on-us-demands-for-40-chip-shift",
+            "source": "Finviz"
           }
         ]
       }
@@ -77,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-13T03:48:00.217038+00:00",
+        "checked_at": "2026-05-15T03:51:35.495380+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -87,7 +87,7 @@
           {
             "title": "Longevity Field Debates Goals and Trust",
             "url": "https://www.linkedin.com/posts/lifespanresearchinstitute_healthspan-vs-lifespan-are-we-asking-the-activity-7443371273759625216-IVcP",
-            "source": "LinkedIn · Lifespan Research Institute"
+            "source": "LinkedIn · Bill Liao"
           },
           {
             "title": "The idea of longevity has become an obsession, driven not ...",

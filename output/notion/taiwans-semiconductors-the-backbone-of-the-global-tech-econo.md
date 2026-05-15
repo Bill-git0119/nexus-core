@@ -43,9 +43,9 @@ Taiwan is the production hub for the majority of the world's semiconductors. Thi
 ### 參考來源
 
 - 原始來源：[Eurasia Review](https://www.eurasiareview.com/16032026-taiwans-semiconductors-the-backbone-of-the-global-tech-economy-oped/)
-- 佐證來源：[TSMC fuels the global economy and China knows it](https://restofworld.org/2026/china-taiwan-tsmc-semiconductor-economic-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+- 佐證來源：[Taiwan's chips power the global economy. China holds ...](https://restofworld.org/2026/china-taiwan-tsmc-semiconductor-economic-risk/)
 - 佐證來源：[Taiwan's Semiconductor Industry Drives Economic Growth ...](https://www.linkedin.com/posts/kumar-priyadarshi-b0a2a7a2_10-ways-semiconductors-transformed-taiwan-activity-7402308335565279232-nVBy)
-- 佐證來源：[Strengthening the Global Semiconductor Supply Chain in ...](https://www.semiconductors.org/strengthening-the-global-semiconductor-supply-chain-in-an-uncertain-era/)
+- 佐證來源：[The Chip That Runs the World. From Taiwan's 13.7% GDP ...](https://medium.com/the-geopolitics-report/the-chip-that-runs-the-world-612508c9187e)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ Taiwan is the production hub for the majority of the world's semiconductors. Thi
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-05-13 03:48 UTC*
+*產生時間：2026-05-15 03:51 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：XPG, ExampleBroker, ChipInsider, SupplyVue）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SupplyVue, ExampleBroker, XPG, ChipInsider）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
