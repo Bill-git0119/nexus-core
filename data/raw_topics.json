@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T03:51:26.312919+00:00",
+  "generated_at": "2026-05-17T03:51:47.121334+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -7,7 +7,25 @@
       "url": "https://www.digitimes.com/news/a20260512VL216/taiwan-monthly-tracker-semiconductor-industry-packaging-revenue.html",
       "snippet": "Of the 238 Taiwan-listed semiconductor and related companies tracked by Digitimes, posted positive year-on-year revenue growth in April 2026...",
       "source": "digitimes",
-      "date": "2 days ago",
+      "date": "4 days ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
+      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
+      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
+      "source": "The Hilltop Online",
+      "date": "1 month ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "TSMC’s US$165bn US Expansion Reshapes Global Chip Supply",
+      "url": "https://supplychaindigital.com/news/tsmcs-us-165bn-us-expansion-reshapes-global-chip-supply",
+      "snippet": "TSMC's Arizona expansion marks a major shift as the Apple supplier navigates helium shortages while posting an impressive 35% year-on-year...",
+      "source": "Supply Chain Digital Magazine",
+      "date": "4 weeks ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -21,29 +39,11 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Taiwan’s Semiconductors: The Backbone Of The Global Tech Economy – OpEd",
-      "url": "https://www.eurasiareview.com/16032026-taiwans-semiconductors-the-backbone-of-the-global-tech-economy-oped/",
-      "snippet": "Taiwan is the production hub for the majority of the world's semiconductors. This paper investigates the role of Taiwan's semiconductors in...",
-      "source": "Eurasia Review",
-      "date": "Mar 16, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "US’ 40% chip chain goal unrealistic, expert says",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/01/18/2003850798",
-      "snippet": "Shifting 40 percent of Taiwan's semiconductor supply chain to the US within the term of US President Donald Trump is “not physically...",
-      "source": "Taipei Times",
-      "date": "Jan 18, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
       "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
       "url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
       "snippet": "Date: May 12, 2026; Source: The Mount Sinai Hospital / Mount Sinai School of Medicine; Summary: As blood stem cells age, their lysosomes become overactive...",
       "source": "ScienceDaily",
-      "date": "2 days ago",
+      "date": "4 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -61,7 +61,7 @@
       "url": "https://www.geneonline.com/from-alzheimers-to-ai-why-healthy-aging-is-turning-into-an-economic-strategy-at-asgh-2026/",
       "snippet": "As populations age across Asia, Europe, and North America, healthcare systems are increasingly confronting a reality that extends far beyond...",
       "source": "GeneOnline",
-      "date": "2 days ago",
+      "date": "4 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },

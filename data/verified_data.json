@@ -1,72 +1,12 @@
 {
-  "generated_at": "2026-05-15T03:51:35.495410+00:00",
+  "generated_at": "2026-05-17T03:51:48.581583+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 3,
-    "discarded": 5
+    "verified": 1,
+    "discarded": 7
   },
   "verified_topics": [
-    {
-      "title": "Taiwan’s Semiconductors: The Backbone Of The Global Tech Economy – OpEd",
-      "url": "https://www.eurasiareview.com/16032026-taiwans-semiconductors-the-backbone-of-the-global-tech-economy-oped/",
-      "snippet": "Taiwan is the production hub for the majority of the world's semiconductors. This paper investigates the role of Taiwan's semiconductors in...",
-      "source": "Eurasia Review",
-      "date": "Mar 16, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-05-15T03:51:28.886250+00:00",
-        "independent_sources": [
-          {
-            "title": "Taiwan's chips power the global economy. China holds ...",
-            "url": "https://restofworld.org/2026/china-taiwan-tsmc-semiconductor-economic-risk/",
-            "source": "Rest of World"
-          },
-          {
-            "title": "Taiwan's Semiconductor Industry Drives Economic Growth ...",
-            "url": "https://www.linkedin.com/posts/kumar-priyadarshi-b0a2a7a2_10-ways-semiconductors-transformed-taiwan-activity-7402308335565279232-nVBy",
-            "source": "LinkedIn · Kumar Priyadarshi"
-          },
-          {
-            "title": "The Chip That Runs the World. From Taiwan's 13.7% GDP ...",
-            "url": "https://medium.com/the-geopolitics-report/the-chip-that-runs-the-world-612508c9187e",
-            "source": "Medium · V. Langston — Media Analyst"
-          }
-        ]
-      }
-    },
-    {
-      "title": "US’ 40% chip chain goal unrealistic, expert says",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/01/18/2003850798",
-      "snippet": "Shifting 40 percent of Taiwan's semiconductor supply chain to the US within the term of US President Donald Trump is “not physically...",
-      "source": "Taipei Times",
-      "date": "Jan 18, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-05-15T03:51:30.380617+00:00",
-        "independent_sources": [
-          {
-            "title": "Washington's 40% Taiwan chip reshoring claim unrealistic",
-            "url": "https://focustaiwan.tw/business/202601170004",
-            "source": "Focus Taiwan"
-          },
-          {
-            "title": "INTERVIEW/Washington's 40% Taiwan chip reshoring ...",
-            "url": "https://ocacnews.net/article/417876",
-            "source": "僑務電子報"
-          },
-          {
-            "title": "Taiwan Slams The Brakes On US Demands For 40% Chip ...",
-            "url": "https://finviz.com/news/303951/impossible-taiwan-slams-the-brakes-on-us-demands-for-40-chip-shift",
-            "source": "Finviz"
-          }
-        ]
-      }
-    },
     {
       "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
       "url": "https://www.eurekalert.org/news-releases/1116021",
@@ -77,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-15T03:51:35.495380+00:00",
+        "checked_at": "2026-05-17T03:51:48.581555+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -87,7 +27,7 @@
           {
             "title": "Longevity Field Debates Goals and Trust",
             "url": "https://www.linkedin.com/posts/lifespanresearchinstitute_healthspan-vs-lifespan-are-we-asking-the-activity-7443371273759625216-IVcP",
-            "source": "LinkedIn · Bill Liao"
+            "source": "LinkedIn · Suhanee Zaroo"
           },
           {
             "title": "The idea of longevity has become an obsession, driven not ...",
