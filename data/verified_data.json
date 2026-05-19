@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T03:51:48.581583+00:00",
+  "generated_at": "2026-05-19T03:57:10.771966+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-17T03:51:48.581555+00:00",
+        "checked_at": "2026-05-19T03:57:10.771840+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -30,9 +30,9 @@
             "source": "LinkedIn · Suhanee Zaroo"
           },
           {
-            "title": "The idea of longevity has become an obsession, driven not ...",
-            "url": "https://www.facebook.com/WCPO9/posts/the-idea-of-longevity-has-become-an-obsession-driven-not-by-the-healthcare-indus/1318947240263230/",
-            "source": "Facebook · WCPO 9"
+            "title": "Hugh Jackman | I recommend …. OUTLIVE by @peterattiamd",
+            "url": "https://www.instagram.com/reel/CrRa_SBvmnF/",
+            "source": "Instagram · thehughjackman"
           }
         ]
       }

@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-05-17T03:51:47.121334+00:00",
+  "generated_at": "2026-05-19T03:57:08.614274+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "Taiwan's semiconductor supply chain posts broadly positive April; AI demand clearly visible across ecosystem",
-      "url": "https://www.digitimes.com/news/a20260512VL216/taiwan-monthly-tracker-semiconductor-industry-packaging-revenue.html",
-      "snippet": "Of the 238 Taiwan-listed semiconductor and related companies tracked by Digitimes, posted positive year-on-year revenue growth in April 2026...",
-      "source": "digitimes",
-      "date": "4 days ago",
+      "title": "Trump allies warn China may move on Taiwan within 5 years",
+      "url": "https://www.upi.com/Top_News/World-News/2026/05/18/taiwan-us-china-summit/5831779147321/",
+      "snippet": "Concerns grow after Trump-Xi summit that a Taiwan conflict could disrupt global semiconductor supplies and severely damage the U.S. economy.",
+      "source": "upi",
+      "date": "4 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.12% on May 18: A Full Analysis",
+      "url": "https://www.tradingkey.com/news/market-movers/261907083-market-movers-tsm-20260518",
+      "snippet": "TSMC will sell up to 8.1% of Vanguard International Semiconductor.Semiconductor sector faces mixed sentiment and potential correction.",
+      "source": "TradingKey",
+      "date": "9 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -21,15 +30,6 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "TSMC’s US$165bn US Expansion Reshapes Global Chip Supply",
-      "url": "https://supplychaindigital.com/news/tsmcs-us-165bn-us-expansion-reshapes-global-chip-supply",
-      "snippet": "TSMC's Arizona expansion marks a major shift as the Apple supplier navigates helium shortages while posting an impressive 35% year-on-year...",
-      "source": "Supply Chain Digital Magazine",
-      "date": "4 weeks ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
       "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
       "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
       "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
@@ -39,29 +39,20 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
+      "title": "Can We Reverse Aging?",
+      "url": "https://www.nytimes.com/2026/05/17/podcasts/the-daily/can-we-reverse-aging.html",
+      "snippet": "The quest for a “cure” for aging — a way to remain youthful, even as we get older — is a project as old as humanity.",
+      "source": "The New York Times",
+      "date": "1 day ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
       "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
       "url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
       "snippet": "Date: May 12, 2026; Source: The Mount Sinai Hospital / Mount Sinai School of Medicine; Summary: As blood stem cells age, their lysosomes become overactive...",
       "source": "ScienceDaily",
-      "date": "4 days ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "2 weeks ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "From Alzheimer’s to AI: Why Healthy Aging Is Turning Into an Economic Strategy at ASGH 2026",
-      "url": "https://www.geneonline.com/from-alzheimers-to-ai-why-healthy-aging-is-turning-into-an-economic-strategy-at-asgh-2026/",
-      "snippet": "As populations age across Asia, Europe, and North America, healthcare systems are increasingly confronting a reality that extends far beyond...",
-      "source": "GeneOnline",
-      "date": "4 days ago",
+      "date": "6 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -71,6 +62,15 @@
       "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
       "source": "EurekAlert!",
       "date": "Feb 10, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "source": "The New York Times",
+      "date": "2 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
