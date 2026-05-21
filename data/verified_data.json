@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-05-19T03:57:10.771966+00:00",
+  "generated_at": "2026-05-21T04:07:13.849529+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 0,
+    "discarded": 8
   },
-  "verified_topics": [
-    {
-      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
-      "url": "https://www.eurekalert.org/news-releases/1116021",
-      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
-      "source": "EurekAlert!",
-      "date": "Feb 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-05-19T03:57:10.771840+00:00",
-        "independent_sources": [
-          {
-            "title": "Press Release",
-            "url": "https://targeting-longevity.com/press-release/",
-            "source": "Targeting Longevity World Congress 2026"
-          },
-          {
-            "title": "Longevity Field Debates Goals and Trust",
-            "url": "https://www.linkedin.com/posts/lifespanresearchinstitute_healthspan-vs-lifespan-are-we-asking-the-activity-7443371273759625216-IVcP",
-            "source": "LinkedIn · Suhanee Zaroo"
-          },
-          {
-            "title": "Hugh Jackman | I recommend …. OUTLIVE by @peterattiamd",
-            "url": "https://www.instagram.com/reel/CrRa_SBvmnF/",
-            "source": "Instagram · thehughjackman"
-          }
-        ]
-      }
-    }
-  ]
+  "verified_topics": []
 }
