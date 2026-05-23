@@ -1,10 +1,41 @@
 {
-  "generated_at": "2026-05-21T04:07:13.849529+00:00",
+  "generated_at": "2026-05-23T03:38:58.798461+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 0,
-    "discarded": 8
+    "verified": 1,
+    "discarded": 7
   },
-  "verified_topics": []
+  "verified_topics": [
+    {
+      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
+      "url": "https://www.eurekalert.org/news-releases/1116021",
+      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
+      "source": "EurekAlert!",
+      "date": "Feb 10, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-05-23T03:38:58.798430+00:00",
+        "independent_sources": [
+          {
+            "title": "Press Release",
+            "url": "https://targeting-longevity.com/press-release/",
+            "source": "Targeting Longevity World Congress 2026"
+          },
+          {
+            "title": "What we're reading, studying, and listening to this month. ...",
+            "url": "https://www.instagram.com/p/DXed_TZlH3Z/",
+            "source": "Instagram · live150.ai"
+          },
+          {
+            "title": "Hugh Jackman | I recommend …. OUTLIVE by @peterattiamd",
+            "url": "https://www.instagram.com/reel/CrRa_SBvmnF/",
+            "source": "Instagram · thehughjackman"
+          }
+        ]
+      }
+    }
+  ]
 }
