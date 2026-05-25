@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-23T03:38:56.880717+00:00",
+  "generated_at": "2026-05-25T04:12:23.052644+00:00",
   "total_topics": 8,
   "topics": [
-    {
-      "title": "Lee Jae-yong Visits Taiwan Fabless Chipmaker, Discusses Strengthening Semiconductor Supply Chains",
-      "url": "https://www.mk.co.kr/en/business/12055833",
-      "snippet": "Lee Jae-yong, chairman of Samsung Electronics, met with the chief executive officer of Taiwan's fabless chip designer MediaTek and moved to...",
-      "source": "매일경제",
-      "date": "19 hours ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Trump allies warn China may move on Taiwan within 5 years",
-      "url": "https://www.upi.com/Top_News/World-News/2026/05/18/taiwan-us-china-summit/5831779147321/",
-      "snippet": "Concerns grow after Trump-Xi summit that a Taiwan conflict could disrupt global semiconductor supplies and severely damage the U.S. economy.",
-      "source": "UPI.com",
-      "date": "4 days ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
     {
       "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
       "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
@@ -30,11 +12,29 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "South Korea, Taiwan Urged to Prioritize Strategic Semiconductor Cooperation",
-      "url": "https://www.chosun.com/english/industry-en/2026/05/21/VUWUMIYCCZFLBDDVKZ3R2MNVNI/",
-      "snippet": "Analyst Colley Hwang highlights critical supply chain roles, stresses collaboration over rivalry amid U.S.-China competition.",
-      "source": "조선일보",
+      "title": "Lee Jae-yong Visits Taiwan Fabless Chipmaker, Discusses Strengthening Semiconductor Supply Chains",
+      "url": "https://www.mk.co.kr/en/business/12055833",
+      "snippet": "Lee Jae-yong, chairman of Samsung Electronics, met with the chief executive officer of Taiwan's fabless chip designer MediaTek and moved to...",
+      "source": "매일경제",
       "date": "2 days ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "Mar 25, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply",
+      "snippet": "As the war in the Middle East stretches into a third week, the global semiconductor industry is facing mounting threats the conflict will...",
+      "source": "Bloomberg",
+      "date": "Mar 16, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -52,16 +52,7 @@
       "url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
       "snippet": "Date: May 12, 2026; Source: The Mount Sinai Hospital / Mount Sinai School of Medicine; Summary: As blood stem cells age, their lysosomes become overactive...",
       "source": "ScienceDaily",
-      "date": "1 week ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Can aging be reversed? Israeli scientists uncover major longevity breakthrough",
-      "url": "https://www.ynetnews.com/health_science/article/h1cllqfjzx",
-      "snippet": "A new Bar-Ilan University study suggests some age-related changes in liver cells may be reversible after researchers boosted the...",
-      "source": "ynetnews",
-      "date": "3 days ago",
+      "date": "2 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -71,6 +62,15 @@
       "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
       "source": "EurekAlert!",
       "date": "Feb 10, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Can aging be reversed? Israeli scientists uncover major longevity breakthrough",
+      "url": "https://www.ynetnews.com/health_science/article/h1cllqfjzx",
+      "snippet": "A new Bar-Ilan University study suggests some age-related changes in liver cells may be reversible after researchers boosted the...",
+      "source": "ynetnews",
+      "date": "5 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

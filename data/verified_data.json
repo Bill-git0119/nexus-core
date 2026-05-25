@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-05-23T03:38:58.798461+00:00",
+  "generated_at": "2026-05-25T04:12:26.282236+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 3,
+    "discarded": 5
   },
   "verified_topics": [
+    {
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "Mar 25, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-05-25T04:12:23.947191+00:00",
+        "independent_sources": [
+          {
+            "title": "Press Releases",
+            "url": "https://electronics.airliquide.com/media-center/press-releases",
+            "source": "Air Liquide Electronics"
+          },
+          {
+            "title": "laurent langellier's Post - Air Liquide",
+            "url": "https://www.linkedin.com/posts/laurent-langellier-953aaa95_air-liquide-inaugurates-its-first-advanced-activity-7442498468842979328-s3lR",
+            "source": "LinkedIn · laurent langellier"
+          },
+          {
+            "title": "Air Liquide inaugurates its first Advanced Materials ...",
+            "url": "https://www.publicnow.com/view/56695811F94BC5A319E29A0DA8369CB56AB93ACF?1774439586",
+            "source": "Public Technologies (PUBT)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply",
+      "snippet": "As the war in the Middle East stretches into a third week, the global semiconductor industry is facing mounting threats the conflict will...",
+      "source": "Bloomberg",
+      "date": "Mar 16, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-05-25T04:12:25.061160+00:00",
+        "independent_sources": [
+          {
+            "title": "Iran war chokepoints begin to cast doubt on global chip ...",
+            "url": "https://x.com/EconomicTimes/status/2033557912577347984",
+            "source": "X · EconomicTimes"
+          },
+          {
+            "title": "Iran war chokepoints begin to cast doubt on global chip ...",
+            "url": "https://m.economictimes.com/news/international/business/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply/articleshow/129611031.cms",
+            "source": "The Economic Times"
+          },
+          {
+            "title": "⚙️🌍 War jitters in West Asia 💣 The Iran conflict is ...",
+            "url": "https://www.facebook.com/EconomicTimes/posts/%EF%B8%8F-war-jitters-in-west-asia-the-iran-conflict-is-threatening-key-chokepoints-spar/1416577027164868/",
+            "source": "Facebook · The Economic Times"
+          }
+        ]
+      }
+    },
     {
       "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
       "url": "https://www.eurekalert.org/news-releases/1116021",
@@ -17,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-23T03:38:58.798430+00:00",
+        "checked_at": "2026-05-25T04:12:26.282111+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -25,14 +85,14 @@
             "source": "Targeting Longevity World Congress 2026"
           },
           {
-            "title": "What we're reading, studying, and listening to this month. ...",
-            "url": "https://www.instagram.com/p/DXed_TZlH3Z/",
-            "source": "Instagram · live150.ai"
+            "title": "Longevity Field Debates Goals and Trust",
+            "url": "https://www.linkedin.com/posts/lifespanresearchinstitute_healthspan-vs-lifespan-are-we-asking-the-activity-7443371273759625216-IVcP",
+            "source": "LinkedIn · Lifespan Research Institute"
           },
           {
-            "title": "Hugh Jackman | I recommend …. OUTLIVE by @peterattiamd",
-            "url": "https://www.instagram.com/reel/CrRa_SBvmnF/",
-            "source": "Instagram · thehughjackman"
+            "title": "El envejecimiento como pérdida de coordinación biológica. - El ...",
+            "url": "https://rejuvenecimiento.clinicaneleva.com/el-envejecimiento-como-perdida-de-coordinacion-biologica/",
+            "source": "El Radar del Rejuvenecimiento"
           }
         ]
       }
