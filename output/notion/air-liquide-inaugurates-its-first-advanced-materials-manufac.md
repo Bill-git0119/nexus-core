@@ -45,7 +45,7 @@ Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiw
 - 原始來源：[Air Liquide](https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next)
 - 佐證來源：[Press Releases](https://electronics.airliquide.com/media-center/press-releases)
 - 佐證來源：[laurent langellier's Post - Air Liquide](https://www.linkedin.com/posts/laurent-langellier-953aaa95_air-liquide-inaugurates-its-first-advanced-activity-7442498468842979328-s3lR)
-- 佐證來源：[Air Liquide inaugurates its first Advanced Materials ...](https://www.publicnow.com/view/56695811F94BC5A319E29A0DA8369CB56AB93ACF?1774439586)
+- 佐證來源：[Air Liquide inaugurates its first Advanced Materials ...](https://ebs.publicnow.com/view/C6F8F4113D22C99A4EF676126416917EA2CFF547)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiw
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-05-25 04:12 UTC*
+*產生時間：2026-05-27 04:12 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ChipInsider, SupplyVue, ExampleBroker, XPG）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SupplyVue, XPG, ExampleBroker, ChipInsider）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

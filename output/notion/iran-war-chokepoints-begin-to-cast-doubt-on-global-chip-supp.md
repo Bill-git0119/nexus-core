@@ -18,7 +18,7 @@ tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 
 As the war in the Middle East stretches into a third week, the global semiconductor industry is facing mounting threats the conflict will...
 
-本篇報導來自 **Bloomberg**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **Bloomberg.com**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 市場背景與產業脈絡
 
@@ -42,10 +42,10 @@ As the war in the Middle East stretches into a third week, the global semiconduc
 
 ### 參考來源
 
-- 原始來源：[Bloomberg](https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply)
+- 原始來源：[Bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply)
+- 佐證來源：[Iran War Chokepoints Begin to Cast Doubt on Global Chip ...](https://news.bloomberglaw.com/artificial-intelligence/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply)
 - 佐證來源：[Iran war chokepoints begin to cast doubt on global chip ...](https://x.com/EconomicTimes/status/2033557912577347984)
-- 佐證來源：[Iran war chokepoints begin to cast doubt on global chip ...](https://m.economictimes.com/news/international/business/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply/articleshow/129611031.cms)
-- 佐證來源：[⚙️🌍 War jitters in West Asia 💣 The Iran conflict is ...](https://www.facebook.com/EconomicTimes/posts/%EF%B8%8F-war-jitters-in-west-asia-the-iran-conflict-is-threatening-key-chokepoints-spar/1416577027164868/)
+- 佐證來源：[Iran War Chokepoints Begin to Cast Doubt on Global Chip ...](https://www.reddit.com/r/EU_Economics/comments/1s1h09v/iran_war_chokepoints_begin_to_cast_doubt_on/)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ As the war in the Middle East stretches into a third week, the global semiconduc
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-05-25 04:12 UTC*
+*產生時間：2026-05-27 04:12 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ChipInsider, SupplyVue, ExampleBroker, XPG）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SupplyVue, XPG, ExampleBroker, ChipInsider）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

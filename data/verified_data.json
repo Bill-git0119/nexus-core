@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:12:26.282236+00:00",
+  "generated_at": "2026-05-27T04:12:09.355860+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-25T04:12:23.947191+00:00",
+        "checked_at": "2026-05-27T04:11:57.348952+00:00",
         "independent_sources": [
           {
             "title": "Press Releases",
@@ -31,8 +31,38 @@
           },
           {
             "title": "Air Liquide inaugurates its first Advanced Materials ...",
-            "url": "https://www.publicnow.com/view/56695811F94BC5A319E29A0DA8369CB56AB93ACF?1774439586",
-            "source": "Public Technologies (PUBT)"
+            "url": "https://ebs.publicnow.com/view/C6F8F4113D22C99A4EF676126416917EA2CFF547",
+            "source": "Public now"
+          }
+        ]
+      }
+    },
+    {
+      "title": "US’ 40% chip chain goal unrealistic, expert says",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/01/18/2003850798",
+      "snippet": "Shifting 40 percent of Taiwan's semiconductor supply chain to the US within the term of US President Donald Trump is “not physically...",
+      "source": "Taipei Times",
+      "date": "Jan 18, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-05-27T04:12:04.202590+00:00",
+        "independent_sources": [
+          {
+            "title": "Washington's 40% Taiwan chip reshoring claim unrealistic",
+            "url": "https://focustaiwan.tw/business/202601170004",
+            "source": "Focus Taiwan"
+          },
+          {
+            "title": "Taiwan says 40% shift of chip capacity to US is 'impossible'",
+            "url": "https://www.reddit.com/r/StockMarket/comments/1qzsuq8/taiwan_says_40_shift_of_chip_capacity_to_us_is/",
+            "source": "Reddit · r/StockMarket"
+          },
+          {
+            "title": "INTERVIEW/Washington's 40% Taiwan chip reshoring ...",
+            "url": "https://ocacnews.net/article/417876",
+            "source": "僑務電子報"
           }
         ]
       }
@@ -41,58 +71,28 @@
       "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
       "url": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply",
       "snippet": "As the war in the Middle East stretches into a third week, the global semiconductor industry is facing mounting threats the conflict will...",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "Mar 16, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-25T04:12:25.061160+00:00",
+        "checked_at": "2026-05-27T04:12:09.355555+00:00",
         "independent_sources": [
+          {
+            "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip ...",
+            "url": "https://news.bloomberglaw.com/artificial-intelligence/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply",
+            "source": "Bloomberg Law News"
+          },
           {
             "title": "Iran war chokepoints begin to cast doubt on global chip ...",
             "url": "https://x.com/EconomicTimes/status/2033557912577347984",
             "source": "X · EconomicTimes"
           },
           {
-            "title": "Iran war chokepoints begin to cast doubt on global chip ...",
-            "url": "https://m.economictimes.com/news/international/business/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply/articleshow/129611031.cms",
-            "source": "The Economic Times"
-          },
-          {
-            "title": "⚙️🌍 War jitters in West Asia 💣 The Iran conflict is ...",
-            "url": "https://www.facebook.com/EconomicTimes/posts/%EF%B8%8F-war-jitters-in-west-asia-the-iran-conflict-is-threatening-key-chokepoints-spar/1416577027164868/",
-            "source": "Facebook · The Economic Times"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
-      "url": "https://www.eurekalert.org/news-releases/1116021",
-      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
-      "source": "EurekAlert!",
-      "date": "Feb 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-05-25T04:12:26.282111+00:00",
-        "independent_sources": [
-          {
-            "title": "Press Release",
-            "url": "https://targeting-longevity.com/press-release/",
-            "source": "Targeting Longevity World Congress 2026"
-          },
-          {
-            "title": "Longevity Field Debates Goals and Trust",
-            "url": "https://www.linkedin.com/posts/lifespanresearchinstitute_healthspan-vs-lifespan-are-we-asking-the-activity-7443371273759625216-IVcP",
-            "source": "LinkedIn · Lifespan Research Institute"
-          },
-          {
-            "title": "El envejecimiento como pérdida de coordinación biológica. - El ...",
-            "url": "https://rejuvenecimiento.clinicaneleva.com/el-envejecimiento-como-perdida-de-coordinacion-biologica/",
-            "source": "El Radar del Rejuvenecimiento"
+            "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip ...",
+            "url": "https://www.reddit.com/r/EU_Economics/comments/1s1h09v/iran_war_chokepoints_begin_to_cast_doubt_on/",
+            "source": "Reddit · r/EU_Economics"
           }
         ]
       }
