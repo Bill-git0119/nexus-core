@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T04:12:09.360818+00:00",
+  "generated_at": "2026-05-29T04:02:01.741338+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
   "total_articles": 3,
   "affiliate_links_loaded": 16,
@@ -19,23 +19,23 @@
       "citations_count": 3
     },
     {
-      "slug": "us-40-chip-chain-goal-unrealistic-expert-says",
-      "title": "US’ 40% chip chain goal unrealistic, expert says",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "Jan 18, 2026",
-      "notion_file": "output/notion/us-40-chip-chain-goal-unrealistic-expert-says.md",
-      "ghpages_file": "output/ghpages/us-40-chip-chain-goal-unrealistic-expert-says.html",
+      "slug": "targeting-longevity-2026-scientists-shift-the-longevity-deba",
+      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "Feb 10, 2026",
+      "notion_file": "output/notion/targeting-longevity-2026-scientists-shift-the-longevity-deba.md",
+      "ghpages_file": "output/ghpages/targeting-longevity-2026-scientists-shift-the-longevity-deba.html",
       "citations_count": 3
     },
     {
-      "slug": "iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp",
-      "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "Mar 16, 2026",
-      "notion_file": "output/notion/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp.md",
-      "ghpages_file": "output/ghpages/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp.html",
+      "slug": "pharmas-and-biotechs-are-investing-in-new-treatments-for-dis",
+      "title": "Pharmas and biotechs are investing in new treatments for diseases of aging",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "Mar 2, 2026",
+      "notion_file": "output/notion/pharmas-and-biotechs-are-investing-in-new-treatments-for-dis.md",
+      "ghpages_file": "output/ghpages/pharmas-and-biotechs-are-investing-in-new-treatments-for-dis.html",
       "citations_count": 3
     }
   ]

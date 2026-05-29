@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-05-27T04:11:56.492915+00:00",
+  "generated_at": "2026-05-29T04:01:55.789170+00:00",
   "total_topics": 8,
   "topics": [
+    {
+      "title": "Why is Nvidia stock underperforming broader market today?",
+      "url": "https://www.tradingview.com/news/invezz:0eb7f3a28094b:0-why-is-nvidia-stock-underperforming-broader-market-today/",
+      "snippet": "Shares of Nvidia were largely unchanged on Thursday, but the chipmaker continues facing questions from investors about whether it can...",
+      "source": "TradingView",
+      "date": "12 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
     {
       "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
       "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
@@ -21,56 +30,47 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "US’ 40% chip chain goal unrealistic, expert says",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/01/18/2003850798",
-      "snippet": "Shifting 40 percent of Taiwan's semiconductor supply chain to the US within the term of US President Donald Trump is “not physically...",
-      "source": "Taipei Times",
-      "date": "Jan 18, 2026",
+      "title": "Why Marvell Technology (MRVL) Shares Are Sliding Today",
+      "url": "https://stockstory.org/us/stocks/nasdaq/mrvl/news/why-up-down/why-marvell-technology-mrvl-shares-are-sliding-today-2",
+      "snippet": "What Happened? Shares of networking chips designer Marvell Technology (NASDAQ: MRVL) fell 5.3% in the afternoon session after a broad-based...",
+      "source": "StockStory",
+      "date": "1 week ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply",
-      "snippet": "As the war in the Middle East stretches into a third week, the global semiconductor industry is facing mounting threats the conflict will...",
-      "source": "Bloomberg.com",
-      "date": "Mar 16, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "url": "https://www.manilatimes.net/2026/05/26/tmt-newswire/pr-newswire/insilico-medicine-and-human-longevity-announce-collaboration-to-co-develop-industry-first-ai-foundation-model-for-longevity-science/2351874/amp",
-      "snippet": "Cambridge, Mass., May 26, 2026 /PRNewswire/ -- Insilico Medicine ('Insilico', 3696.HK), a clinical-stage generative artificial intelligence...",
-      "source": "The Manila Times",
-      "date": "14 hours ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
-      "snippet": "Date: May 12, 2026; Source: The Mount Sinai Hospital / Mount Sinai School of Medicine; Summary: As blood stem cells age, their lysosomes become overactive...",
-      "source": "ScienceDaily",
-      "date": "2 weeks ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
-      "date": "3 weeks ago",
+      "date": "4 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Can We Reverse Aging?",
-      "url": "https://www.nytimes.com/2026/05/17/podcasts/the-daily/can-we-reverse-aging.html",
-      "snippet": "The quest for a “cure” for aging — a way to remain youthful, even as we get older — is a project as old as humanity.",
-      "source": "The New York Times",
-      "date": "1 week ago",
+      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
+      "url": "https://www.eurekalert.org/news-releases/1116021",
+      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
+      "source": "EurekAlert!",
+      "date": "Feb 10, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "The Estée Lauder Companies Sets New Industry Standard In Skin Longevity With New Clinical Results For Re-Nutriv And Groundbreaking Visible Age-Assessment Model",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/4-22-2026",
+      "snippet": "New York, NY – April 20, 2026 – The Estée Lauder Companies today announced the publication of two peer-reviewed manuscripts in the Journal...",
+      "source": "The Estée Lauder Companies Inc.",
+      "date": "1 month ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Pharmas and biotechs are investing in new treatments for diseases of aging",
+      "url": "https://clarivate.com/life-sciences-healthcare/blog/why-longevity-might-be-biopharmas-next-big-thing/",
+      "snippet": "Longevity — once dismissed as the domain of futurists and fringe scientists — has rapidly emerged as one of the most compelling frontiers in...",
+      "source": "Clarivate",
+      "date": "Mar 2, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

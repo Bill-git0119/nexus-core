@@ -1,24 +1,24 @@
 ---
-title: "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination"
+title: "Pharmas and biotechs are investing in new treatments for diseases of aging"
 domain: "長壽科學／運動醫學"
-date: "Feb 10, 2026"
+date: "Mar 2, 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
 
-## Targeting [longevity](https://example.com/aff?ref=nexus&product=longevity-guide) 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination
+## Pharmas and biotechs are investing in new treatments for diseases of aging
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：Feb 10, 2026
+**日期**：Mar 2, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
 
 ### 摘要
 
-International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...
+[longevity](https://example.com/aff?ref=nexus&product=longevity-guide) — once dismissed as the domain of futurists and fringe scientists — has rapidly emerged as one of the most compelling frontiers in...
 
-本篇報導來自 **EurekAlert!**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **Clarivate**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 研究背景與科學基礎
 
@@ -42,10 +42,10 @@ International researchers gather in Berlin to explore aging as a loss of coordin
 
 ### 參考來源
 
-- 原始來源：[EurekAlert!](https://www.eurekalert.org/news-releases/1116021)
-- 佐證來源：[Press Release](https://targeting-longevity.com/press-release/)
-- 佐證來源：[Longevity Field Debates Goals and Trust](https://www.linkedin.com/posts/lifespanresearchinstitute_healthspan-vs-lifespan-are-we-asking-the-activity-7443371273759625216-IVcP)
-- 佐證來源：[El envejecimiento como pérdida de coordinación biológica. - El ...](https://rejuvenecimiento.clinicaneleva.com/el-envejecimiento-como-perdida-de-coordinacion-biologica/)
+- 原始來源：[Clarivate](https://clarivate.com/life-sciences-healthcare/blog/why-longevity-might-be-biopharmas-next-big-thing/)
+- 佐證來源：[11 anti-aging biotech companies leading longevity in 2026](https://www.labiotech.eu/best-biotech/anti-aging-biotech-companies/)
+- 佐證來源：[Investors Eye Explosive Growth in Anti-Aging Therapies as ...](https://www.morningstar.com/news/pr-newswire/20260303ln99624/investors-eye-explosive-growth-in-anti-aging-therapies-as-market-targets-420b-milestone)
+- 佐證來源：[Fight Aging! by Investing](https://www.fightaging.org/investing/)
 
 ### 相關資源
 
