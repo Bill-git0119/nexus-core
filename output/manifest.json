@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-29T04:02:01.741338+00:00",
+  "generated_at": "2026-05-31T04:13:51.733148+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 3,
+  "total_articles": 2,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -26,16 +26,6 @@
       "date": "Feb 10, 2026",
       "notion_file": "output/notion/targeting-longevity-2026-scientists-shift-the-longevity-deba.md",
       "ghpages_file": "output/ghpages/targeting-longevity-2026-scientists-shift-the-longevity-deba.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "pharmas-and-biotechs-are-investing-in-new-treatments-for-dis",
-      "title": "Pharmas and biotechs are investing in new treatments for diseases of aging",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "Mar 2, 2026",
-      "notion_file": "output/notion/pharmas-and-biotechs-are-investing-in-new-treatments-for-dis.md",
-      "ghpages_file": "output/ghpages/pharmas-and-biotechs-are-investing-in-new-treatments-for-dis.html",
       "citations_count": 3
     }
   ]

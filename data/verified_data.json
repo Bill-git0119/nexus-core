@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-29T04:02:01.735692+00:00",
+  "generated_at": "2026-05-31T04:13:51.728713+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 3,
-    "discarded": 5
+    "verified": 2,
+    "discarded": 6
   },
   "verified_topics": [
     {
@@ -17,22 +17,22 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-29T04:01:58.355285+00:00",
+        "checked_at": "2026-05-31T04:13:50.800660+00:00",
         "independent_sources": [
-          {
-            "title": "Press Releases",
-            "url": "https://electronics.airliquide.com/media-center/press-releases",
-            "source": "Air Liquide Electronics"
-          },
-          {
-            "title": "laurent langellier's Post - Air Liquide",
-            "url": "https://www.linkedin.com/posts/laurent-langellier-953aaa95_air-liquide-inaugurates-its-first-advanced-activity-7442498468842979328-s3lR",
-            "source": "LinkedIn · laurent langellier"
-          },
           {
             "title": "Air Liquide Opens First Taiwan Advanced Materials Plant ...",
             "url": "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/air-liquide-opens-first-taiwan-advanced-materials-plant-to-boost-next-gen-41619",
             "source": "ChemAnalyst"
+          },
+          {
+            "title": "Air Liquide Inaugurates Taiwan Advanced Materials Plant",
+            "url": "https://www.linkedin.com/posts/hpc-technology-llc_air-liquide-inaugurates-its-first-advanced-activity-7442482605918363650-jqPo",
+            "source": "LinkedIn · HPC Technology LLC"
+          },
+          {
+            "title": "Air Liquide launches first advanced materials plant in ...",
+            "url": "https://www.digitimes.com/news/a20260326PD238/air-liquide-materials-taiwan-plant-chips.html",
+            "source": "digitimes"
           }
         ]
       }
@@ -47,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-29T04:02:00.500970+00:00",
+        "checked_at": "2026-05-31T04:13:51.728340+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -57,42 +57,12 @@
           {
             "title": "Longevity Field Debates Goals and Trust",
             "url": "https://www.linkedin.com/posts/lifespanresearchinstitute_healthspan-vs-lifespan-are-we-asking-the-activity-7443371273759625216-IVcP",
-            "source": "LinkedIn · Lifespan Research Institute"
+            "source": "LinkedIn"
           },
           {
-            "title": "El envejecimiento como pérdida de coordinación biológica. - El ...",
-            "url": "https://rejuvenecimiento.clinicaneleva.com/el-envejecimiento-como-perdida-de-coordinacion-biologica/",
-            "source": "El Radar del Rejuvenecimiento"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Pharmas and biotechs are investing in new treatments for diseases of aging",
-      "url": "https://clarivate.com/life-sciences-healthcare/blog/why-longevity-might-be-biopharmas-next-big-thing/",
-      "snippet": "Longevity — once dismissed as the domain of futurists and fringe scientists — has rapidly emerged as one of the most compelling frontiers in...",
-      "source": "Clarivate",
-      "date": "Mar 2, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-05-29T04:02:01.735668+00:00",
-        "independent_sources": [
-          {
-            "title": "11 anti-aging biotech companies leading longevity in 2026",
-            "url": "https://www.labiotech.eu/best-biotech/anti-aging-biotech-companies/",
-            "source": "Labiotech.eu"
-          },
-          {
-            "title": "Investors Eye Explosive Growth in Anti-Aging Therapies as ...",
-            "url": "https://www.morningstar.com/news/pr-newswire/20260303ln99624/investors-eye-explosive-growth-in-anti-aging-therapies-as-market-targets-420b-milestone",
-            "source": "Morningstar"
-          },
-          {
-            "title": "Fight Aging! by Investing",
-            "url": "https://www.fightaging.org/investing/",
-            "source": "Fight Aging!"
+            "title": "The idea of longevity has become an obsession, driven not ...",
+            "url": "https://www.facebook.com/scrippsnews/posts/the-idea-of-longevity-has-become-an-obsession-driven-not-by-the-healthcare-indus/1300142548814793/",
+            "source": "Facebook · Scripps News"
           }
         ]
       }
