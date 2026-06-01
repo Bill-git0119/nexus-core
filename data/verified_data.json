@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T04:13:51.728713+00:00",
+  "generated_at": "2026-06-01T04:27:56.163669+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-31T04:13:50.800660+00:00",
+        "checked_at": "2026-06-01T04:27:54.459148+00:00",
         "independent_sources": [
           {
             "title": "Air Liquide Opens First Taiwan Advanced Materials Plant ...",
@@ -30,9 +30,9 @@
             "source": "LinkedIn · HPC Technology LLC"
           },
           {
-            "title": "Air Liquide launches first advanced materials plant in ...",
-            "url": "https://www.digitimes.com/news/a20260326PD238/air-liquide-materials-taiwan-plant-chips.html",
-            "source": "digitimes"
+            "title": "Air Liquide opens advanced chip materials plant in Taiwan",
+            "url": "https://www.gasworld.com/story/air-liquide-opens-advanced-chip-materials-plant-in-taiwan/2174916.article/",
+            "source": "gasworld"
           }
         ]
       }
@@ -47,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-05-31T04:13:51.728340+00:00",
+        "checked_at": "2026-06-01T04:27:56.163360+00:00",
         "independent_sources": [
           {
             "title": "Press Release",
@@ -60,9 +60,9 @@
             "source": "LinkedIn"
           },
           {
-            "title": "The idea of longevity has become an obsession, driven not ...",
-            "url": "https://www.facebook.com/scrippsnews/posts/the-idea-of-longevity-has-become-an-obsession-driven-not-by-the-healthcare-indus/1300142548814793/",
-            "source": "Facebook · Scripps News"
+            "title": "Longevity Lab",
+            "url": "https://www.facebook.com/61565272122740",
+            "source": "Facebook · Longevity Lab"
           }
         ]
       }
