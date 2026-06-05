@@ -1,71 +1,10 @@
 {
-  "generated_at": "2026-06-03T04:40:38.622015+00:00",
+  "generated_at": "2026-06-05T04:09:02.217505+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 2,
-    "discarded": 6
+    "verified": 0,
+    "discarded": 8
   },
-  "verified_topics": [
-    {
-      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
-      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
-      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
-      "source": "Air Liquide",
-      "date": "Mar 25, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-06-03T04:40:37.707220+00:00",
-        "independent_sources": [
-          {
-            "title": "Press releases & News",
-            "url": "https://electronics.airliquide.com/press-releases-news",
-            "source": "Air Liquide Electronics"
-          },
-          {
-            "title": "laurent langellier's Post - Air Liquide",
-            "url": "https://www.linkedin.com/posts/laurent-langellier-953aaa95_air-liquide-inaugurates-its-first-advanced-activity-7442498468842979328-s3lR",
-            "source": "LinkedIn · laurent langellier"
-          },
-          {
-            "title": "Air Liquide launches advanced materials plant in Taiwan",
-            "url": "https://www.indianchemicalnews.com/chemical/air-liquide-launches-advanced-materials-plant-in-taiwan-29857",
-            "source": "Indian Chemical News"
-          }
-        ]
-      }
-    },
-    {
-      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
-      "url": "https://english.president.gov.tw/News/7091",
-      "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
-      "source": "Office of the President Republic of China(Taiwan)",
-      "date": "Mar 3, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-06-03T04:40:38.621650+00:00",
-        "independent_sources": [
-          {
-            "title": "President Lai meets Semiconductor Industry Association ...",
-            "url": "https://ocacnews.net/article/421428",
-            "source": "僑務電子報"
-          },
-          {
-            "title": "Taiwan's Lai Ching-te meets US Semiconductor Industry ...",
-            "url": "https://www.linkedin.com/posts/erudite-asia_%E6%8E%A5%E8%A6%8B%E7%BE%8E%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD%E5%8D%94%E6%9C%83%E8%A8%AA%E5%95%8F%E5%9C%98%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%9B%BC%E5%BC%B7%E5%8C%96%E4%B8%89%E5%A4%A7%E9%97%9C%E9%8D%B5%E6%8A%80%E8%A1%93%E7%A0%94%E7%99%BC-%E8%95%83%E6%96%B0%E8%81%9E-activity-7434382093079597056-nlOt",
-            "source": "LinkedIn · Erudite Asia"
-          },
-          {
-            "title": "President Lai meets Semiconductor Industry Association ...",
-            "url": "https://investtaiwan.nat.gov.tw/newsPage62591eng?lang=eng&search=62591",
-            "source": "nat.gov.tw"
-          }
-        ]
-      }
-    }
-  ]
+  "verified_topics": []
 }
