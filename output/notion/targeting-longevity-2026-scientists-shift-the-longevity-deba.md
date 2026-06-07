@@ -45,7 +45,7 @@ International researchers gather in Berlin to explore aging as a loss of coordin
 - 原始來源：[EurekAlert!](https://www.eurekalert.org/news-releases/1116021)
 - 佐證來源：[Press Release](https://targeting-longevity.com/press-release/)
 - 佐證來源：[Longevity Field Debates Goals and Trust](https://www.linkedin.com/posts/lifespanresearchinstitute_healthspan-vs-lifespan-are-we-asking-the-activity-7443371273759625216-IVcP)
-- 佐證來源：[Longevity Lab](https://www.facebook.com/61565272122740)
+- 佐證來源：[El envejecimiento como pérdida de coordinación biológica. - El ...](https://rejuvenecimiento.clinicaneleva.com/el-envejecimiento-como-perdida-de-coordinacion-biologica/)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ International researchers gather in Berlin to explore aging as a loss of coordin
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-06-01 04:27 UTC*
+*產生時間：2026-06-07 04:19 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, SportsMedHub, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, LongevityLab, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

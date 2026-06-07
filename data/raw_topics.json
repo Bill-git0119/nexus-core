@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T04:09:02.194281+00:00",
+  "generated_at": "2026-06-07T04:19:10.390842+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -7,15 +7,6 @@
       "url": "https://www.digitimes.com/news/a20260604PD232/tsmc-chairman-c.-c.-wei-supply-chain-taiwan-2026.html",
       "snippet": "TSMC chairman C.C. Wei spoke at a media briefing on June 4, 2026, after the company's shareholders' meeting. South Korea's push to build a...",
       "source": "digitimes",
-      "date": "20 hours ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Taiwan: Strait Stability Key to Global AI Supply Chains",
-      "url": "https://moderndiplomacy.eu/2026/06/02/taiwan-says-stability-across-taiwan-strait-is-key-to-global-ai-supply-chains-as-tech-giants-gather-in-taipei/",
-      "snippet": "Taiwan President Lai Ching-te said maintaining the political status quo across the Taiwan Strait is essential for safeguarding global supply...",
-      "source": "Modern Diplomacy",
       "date": "2 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
@@ -30,47 +21,56 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "TWSE and Industry Partners Highlight Taiwan's Central Role in the Global AI and Semiconductor Race at COMPUTEX 2026",
-      "url": "https://www.taiwannews.com.tw/en/news/6376694",
-      "snippet": "TAIPEI, June 4, 2026 /PRNewswire/ -- At COMPUTEX 2026, the Taiwan Stock Exchange (TWSE) hosted two media briefings highlighting how Taiwan's...",
-      "source": "Taiwan News",
-      "date": "19 hours ago",
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "Mar 25, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply",
+      "snippet": "As the war in the Middle East stretches into a third week, the global semiconductor industry is facing mounting threats the conflict will...",
+      "source": "Bloomberg.com",
+      "date": "Mar 16, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "source": "The New York Times",
+      "date": "1 month ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
       "source": "ScienceDaily",
-      "date": "3 weeks ago",
+      "date": "4 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Can We Reverse Aging?",
-      "url": "https://www.nytimes.com/2026/05/17/podcasts/the-daily/can-we-reverse-aging.html",
-      "snippet": "Inside the billion-dollar bet on cellular rejuvenation.",
-      "source": "The New York Times",
-      "date": "2 weeks ago",
+      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
+      "url": "https://www.eurekalert.org/news-releases/1116021",
+      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
+      "source": "EurekAlert!",
+      "date": "Feb 10, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Helping you live longer is big business. Meet the people leading the way.",
-      "url": "https://www.businessinsider.com/rising-stars-longevity-medicine-2026-4",
-      "snippet": "Interest in longevity medicine has exploded in recent years. Here's who's at the forefront of longevity science, investment, and medicine.",
-      "source": "Business Insider",
+      "title": "APLMS and Kitalys to Host Healthy Longevity in Hong Kong",
+      "url": "https://lifespan.io/aplms-and-kitalys-to-host-healthy-longevity-in-hong-kong/",
+      "snippet": "The Asia-Pacific Longevity Medicine Society announced that the 2026 Asia-Pacific Healthy Longevity International Summit will be held in Hong...",
+      "source": "Lifespan Research Institute",
       "date": "1 month ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
-      "snippet": "Date: May 12, 2026; Source: The Mount Sinai Hospital / Mount Sinai School of Medicine; Summary: As blood stem cells age, their lysosomes become overactive...",
-      "source": "ScienceDaily",
-      "date": "3 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
