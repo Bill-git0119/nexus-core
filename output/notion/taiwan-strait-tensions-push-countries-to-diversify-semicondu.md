@@ -1,24 +1,24 @@
 ---
-title: "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply"
+title: "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains"
 domain: "半導體／台股供應鏈"
-date: "Mar 16, 2026"
+date: "Apr 13, 2026"
 status: "已發布"
 tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 ---
 
-## Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply
+## Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains
 
 **領域**：[半導體](https://example.com/aff?ref=nexus&product=chip-analysis)／台股[供應鏈](https://example.com/aff?ref=nexus&product=supply-chain-tool)
-**日期**：Mar 16, 2026
+**日期**：Apr 13, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
 
 ### 摘要
 
-As the war in the Middle East stretches into a third week, the global semiconductor industry is facing mounting threats the conflict will...
+Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...
 
-本篇報導來自 **Bloomberg.com**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **The Hilltop Online**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 市場背景與產業脈絡
 
@@ -42,10 +42,10 @@ As the war in the Middle East stretches into a third week, the global semiconduc
 
 ### 參考來源
 
-- 原始來源：[Bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply)
-- 佐證來源：[Iran War Chokepoints Begin to Cast Doubt on Global Chip ...](https://news.bloomberglaw.com/artificial-intelligence/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply)
-- 佐證來源：[Iran War Chokepoints Begin to Cast Doubt on Global Chip ...](https://www.reddit.com/r/EU_Economics/comments/1s1h09v/iran_war_chokepoints_begin_to_cast_doubt_on/)
-- 佐證來源：[Iran war chokepoints begin to cast doubt on global chip ...](https://x.com/EconomicTimes/status/2033557912577347984)
+- 原始來源：[The Hilltop Online](https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/)
+- 佐證來源：[China-Taiwan tensions: Impacts on global supply chains ...](https://www.efficioconsulting.com/en-us/resources/all/china-taiwan-tensions-impacts-on-global-supply-chains-and-semiconductor-availability/)
+- 佐證來源：[Semiconductor tensions chip away at cross-Strait relations](https://eastasiaforum.org/2022/10/28/semiconductor-tensions-chip-away-at-cross-strait-relations/)
+- 佐證來源：[Taiwan Strait Tensions Threaten 90% of Global ...](https://www.linkedin.com/posts/partstatinc_taiwan-will-not-escalate-but-will-not-yield-activity-7429192783111991296-g6Uy)
 
 ### 相關資源
 
