@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T03:54:50.902409+00:00",
+  "generated_at": "2026-06-11T04:19:20.216086+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -7,7 +7,7 @@
       "url": "https://www.digitimes.com/news/a20260608VL207/digitimes-asia-weekly-news-roundup-mediatek-nvidia-tsmc-taiwan.html",
       "snippet": "Below are the most-read DIGITIMES Asia stories from the week of June 1-7, 2026:",
       "source": "digitimes",
-      "date": "1 day ago",
+      "date": "3 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -21,22 +21,40 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
-      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
-      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
-      "source": "Air Liquide",
-      "date": "Mar 25, 2026",
+      "title": "SEMI Taiwan chief urges Korea–Taiwan partnerships to power AI-era chips - CHOSUNBIZ",
+      "url": "https://biz.chosun.com/en/en-it/2026/06/10/2F3BNJ36UNANPFVDAZ6IUDCFDY/",
+      "snippet": "\"In the age of artificial intelligence (AI), no single corporations can do everything alone.\" On the 3rd in Taipei, Taiwan, Terry Tsao,...",
+      "source": "Chosunbiz",
+      "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply",
-      "snippet": "As the war in the Middle East stretches into a third week, the global semiconductor industry is facing mounting threats the conflict will...",
-      "source": "Bloomberg.com",
-      "date": "Mar 16, 2026",
+      "title": "Formosa Chemicals & Fiber enters semiconductor supply chain",
+      "url": "https://www.taiwannews.com.tw/news/6379381",
+      "snippet": "TAIPEI (Taiwan News) — Formosa Chemicals & Fiber Corp. is entering the semiconductor supply chain through new materials businesses as it seeks to reduce...",
+      "source": "Taiwan News",
+      "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "1 day ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260608035959.htm",
+      "snippet": "Date: June 8, 2026; Source: ETH Zurich; Summary: Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a...",
+      "source": "ScienceDaily",
+      "date": "2 days ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
@@ -48,29 +66,11 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-      "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
-      "source": "ScienceDaily",
-      "date": "1 month ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Targeting Longevity 2026: Scientists shift the longevity debate from “fixing aging” to preserving biological coordination",
-      "url": "https://www.eurekalert.org/news-releases/1116021",
-      "snippet": "International researchers gather in Berlin to explore aging as a loss of coordination between biological systems and to define more...",
-      "source": "EurekAlert!",
-      "date": "Feb 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Helping you live longer is big business. Meet the people leading the way.",
-      "url": "https://www.businessinsider.com/rising-stars-longevity-medicine-2026-4",
-      "snippet": "Interest in longevity medicine has exploded in recent years. Here's who's at the forefront of longevity science, investment, and medicine.",
-      "source": "Business Insider",
-      "date": "1 month ago",
+      "title": "Longevity startup Retro Biosciences says latest fundraising values it at $1.8 billion",
+      "url": "https://www.statnews.com/2026/05/22/retro-biosciences-longevity-valuation/",
+      "snippet": "The Sam Altman-backed company is seeking to add 10 health years to human lifespan, using a variety of technologies.",
+      "source": "STAT",
+      "date": "3 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
