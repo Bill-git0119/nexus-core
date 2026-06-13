@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-06-11T04:19:20.216086+00:00",
+  "generated_at": "2026-06-13T04:10:39.174766+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "Weekly news roundup: Taiwan ecosystem strengthens AI chip supply chain as MediaTek, Nvidia deepen cooperation",
-      "url": "https://www.digitimes.com/news/a20260608VL207/digitimes-asia-weekly-news-roundup-mediatek-nvidia-tsmc-taiwan.html",
-      "snippet": "Below are the most-read DIGITIMES Asia stories from the week of June 1-7, 2026:",
-      "source": "digitimes",
-      "date": "3 days ago",
+      "title": "Industry’s need for water, electricity will be met: Lai",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/06/13/2003859023",
+      "snippet": "'PEARL CHAIN': A nationwide program to enhance cross-regional water supply resilience is almost complete and would resolve water supply...",
+      "source": "Taipei Times",
+      "date": "12 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
-      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
-      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
-      "source": "The Hilltop Online",
-      "date": "Apr 13, 2026",
+      "title": "Pingtung breaks ground on Taiwan's 1st semiconductor supply chain park",
+      "url": "https://focustaiwan.tw/business/202606120015",
+      "snippet": "Construction of Taiwan's first semiconductor supply chain park started in the Pingtung section of the Southern Taiwan Science Park (STSP) on...",
+      "source": "Focus Taiwan",
+      "date": "17 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "SEMI Taiwan chief urges Korea–Taiwan partnerships to power AI-era chips - CHOSUNBIZ",
-      "url": "https://biz.chosun.com/en/en-it/2026/06/10/2F3BNJ36UNANPFVDAZ6IUDCFDY/",
-      "snippet": "\"In the age of artificial intelligence (AI), no single corporations can do everything alone.\" On the 3rd in Taipei, Taiwan, Terry Tsao,...",
-      "source": "Chosunbiz",
-      "date": "1 day ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Formosa Chemicals & Fiber enters semiconductor supply chain",
-      "url": "https://www.taiwannews.com.tw/news/6379381",
-      "snippet": "TAIPEI (Taiwan News) — Formosa Chemicals & Fiber Corp. is entering the semiconductor supply chain through new materials businesses as it seeks to reduce...",
+      "title": "Taiwan’s 1st semiconductor supply chain park breaks ground in Pingtung",
+      "url": "https://www.taiwannews.com.tw/en/news/6382376",
+      "snippet": "TAIPEI (Taiwan News) — The Pingtung section of the Southern Taiwan Science Park broke ground Friday on Taiwan's first semiconductor supply...",
       "source": "Taiwan News",
-      "date": "1 day ago",
+      "date": "2 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "How an alliance of Taiwanese chip suppliers cracked Intel's supply chain with a FOUP solution",
+      "url": "https://www.digitimes.com/news/a20260610PD243/alliance-taiwan-materials-demand-substrate.html",
+      "snippet": "TSS Semiconductor Alliance, a group of 18 small and medium-sized Taiwanese suppliers of semiconductor materials, components and equipment,...",
+      "source": "digitimes",
+      "date": "2 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -43,7 +43,7 @@
       "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
       "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
       "source": "Business Insider",
-      "date": "1 day ago",
+      "date": "3 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -52,16 +52,16 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260608035959.htm",
       "snippet": "Date: June 8, 2026; Source: ETH Zurich; Summary: Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a...",
       "source": "ScienceDaily",
-      "date": "2 days ago",
+      "date": "4 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "1 month ago",
+      "title": "Harvard Publishes a Longevity Report for the General Public",
+      "url": "https://lifespan.io/harvard-publishes-a-longevity-report-for-the-general-public/",
+      "snippet": "The report, “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the...",
+      "source": "Lifespan Research Institute",
+      "date": "2 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },

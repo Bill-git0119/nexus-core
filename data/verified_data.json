@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-06-11T04:19:21.932488+00:00",
+  "generated_at": "2026-06-13T04:10:39.206944+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 0,
+    "discarded": 8
   },
-  "verified_topics": [
-    {
-      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
-      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
-      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
-      "source": "The Hilltop Online",
-      "date": "Apr 13, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-06-11T04:19:21.932025+00:00",
-        "independent_sources": [
-          {
-            "title": "China-Taiwan tensions: Impacts on global supply chains ...",
-            "url": "https://www.efficioconsulting.com/en-us/resources/all/china-taiwan-tensions-impacts-on-global-supply-chains-and-semiconductor-availability/",
-            "source": "Efficio Consulting"
-          },
-          {
-            "title": "Semiconductor tensions chip away at cross-Strait relations",
-            "url": "https://eastasiaforum.org/2022/10/28/semiconductor-tensions-chip-away-at-cross-strait-relations/",
-            "source": "East Asia Forum"
-          },
-          {
-            "title": "Taiwan Strait Tensions Threaten 90% of Global ...",
-            "url": "https://www.linkedin.com/posts/partstatinc_taiwan-will-not-escalate-but-will-not-yield-activity-7429192783111991296-g6Uy",
-            "source": "LinkedIn"
-          }
-        ]
-      }
-    }
-  ]
+  "verified_topics": []
 }
