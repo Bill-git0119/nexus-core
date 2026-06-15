@@ -1,10 +1,71 @@
 {
-  "generated_at": "2026-06-13T04:10:39.206944+00:00",
+  "generated_at": "2026-06-15T04:51:26.353166+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 0,
-    "discarded": 8
+    "verified": 2,
+    "discarded": 6
   },
-  "verified_topics": []
+  "verified_topics": [
+    {
+      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
+      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
+      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
+      "source": "The Hilltop Online",
+      "date": "Apr 13, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-06-15T04:51:22.998706+00:00",
+        "independent_sources": [
+          {
+            "title": "Semiconductor tensions chip away at cross-Strait relations",
+            "url": "https://eastasiaforum.org/2022/10/28/semiconductor-tensions-chip-away-at-cross-strait-relations/",
+            "source": "East Asia Forum"
+          },
+          {
+            "title": "China-Taiwan tensions: Impacts on global supply chains ...",
+            "url": "https://www.efficioconsulting.com/en-us/resources/all/china-taiwan-tensions-impacts-on-global-supply-chains-and-semiconductor-availability/",
+            "source": "Efficio Consulting"
+          },
+          {
+            "title": "Taiwan Strait Tensions Threaten 90% of Global ...",
+            "url": "https://www.linkedin.com/posts/partstatinc_taiwan-will-not-escalate-but-will-not-yield-activity-7429192783111991296-g6Uy",
+            "source": "LinkedIn"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "Mar 25, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-06-15T04:51:26.352732+00:00",
+        "independent_sources": [
+          {
+            "title": "Press Releases",
+            "url": "https://electronics.airliquide.com/media-center/press-releases",
+            "source": "Air Liquide Electronics"
+          },
+          {
+            "title": "AIR LIQUIDE (EPA:AI) | - WebDisclosure",
+            "url": "https://www.webdisclosure.com/press-release/air-liquide-epa-ai-air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-in-taiwan-strengthening-the-next-gen-semiconductor-supply-chain-wn0ZleHEp1D",
+            "source": "webdisclosure.com"
+          },
+          {
+            "title": "Air Liquide's Post",
+            "url": "https://www.linkedin.com/posts/airliquide_air-liquide-unveils-the-successful-construction-activity-7442516118713335808-FKtL",
+            "source": "LinkedIn · Air Liquide"
+          }
+        ]
+      }
+    }
+  ]
 }
