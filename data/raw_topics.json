@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-15T04:51:21.909823+00:00",
+  "generated_at": "2026-06-17T04:38:50.736722+00:00",
   "total_topics": 8,
   "topics": [
+    {
+      "title": "TSMC and Amkor Technology Announce Long Term Partnership to Accelerate Advanced Packaging in the United States",
+      "url": "https://www.businesswire.com/news/home/20260616574153/en/TSMC-and-Amkor-Technology-Announce-Long-Term-Partnership-to-Accelerate-Advanced-Packaging-in-the-United-States",
+      "snippet": "Taiwan Semiconductor Manufacturing Company (NYSE: TSM) and Amkor Technology, Inc. (Nasdaq: AMKR) today announced a 10-year agreement to...",
+      "source": "Business Wire",
+      "date": "16 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
     {
       "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
       "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
@@ -12,56 +21,38 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Pingtung breaks ground on Taiwan's 1st semiconductor supply chain park",
-      "url": "https://focustaiwan.tw/business/202606120015",
-      "snippet": "Construction of Taiwan's first semiconductor supply chain park started in the Pingtung section of the Southern Taiwan Science Park (STSP) on...",
-      "source": "Focus Taiwan",
+      "title": "Taiwan semiconductor ecosystem outmuscles TSMC’s singular might - CHOSUNBIZ",
+      "url": "https://biz.chosun.com/en/en-it/2026/06/16/FB5QCQ45BBGKHEWNFUPYQMATCI/",
+      "snippet": "Taiwan semiconductor ecosystem outmuscles TSMCs singular might Nvidia CEO Jensen Huang was again at the center of Computex, Asias largest IT...",
+      "source": "Chosunbiz",
+      "date": "20 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "China eases InP substrate exports, lifting compound semiconductor supply",
+      "url": "https://www.digitimes.com/news/a20260615PD212/substrate-exports-capacity-2026-market.html",
+      "snippet": "China has allowed the release of a fresh supply of indium phosphide (InP) substrates, which are under export controls.",
+      "source": "digitimes",
       "date": "2 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
-      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
-      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
-      "source": "Air Liquide",
-      "date": "Mar 25, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Weekly news roundup: Taiwan ecosystem strengthens AI chip supply chain as MediaTek, Nvidia deepen cooperation",
-      "url": "https://www.digitimes.com/news/a20260608VL207/digitimes-asia-weekly-news-roundup-mediatek-nvidia-tsmc-taiwan.html",
-      "snippet": "Below are the most-read DIGITIMES Asia stories from the week of June 1-7, 2026:",
-      "source": "digitimes",
-      "date": "1 week ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
+      "title": "Scientists discover a hidden cause of aging cells that can be reversed",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm",
+      "snippet": "Date: June 11, 2026; Source: Leibniz Institute on Aging—Fritz Lipmann Institute (FLI); Summary: Researchers discovered that declining levels of...",
+      "source": "ScienceDaily",
+      "date": "5 days ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "The first-ever reverse-aging drug was just injected into a human",
       "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
       "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
       "source": "Business Insider",
-      "date": "5 days ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260608035959.htm",
-      "snippet": "Date: June 8, 2026; Source: ETH Zurich; Summary: Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a...",
-      "source": "ScienceDaily",
-      "date": "6 days ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "How long can humans live? We simply don’t know",
-      "url": "https://www.nature.com/articles/d41586-026-01728-w",
-      "snippet": "Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul...",
-      "source": "Nature",
-      "date": "2 weeks ago",
+      "date": "1 week ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -71,6 +62,15 @@
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "1 month ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Harvard Publishes a Longevity Report for the General Public",
+      "url": "https://lifespan.io/harvard-publishes-a-longevity-report-for-the-general-public/",
+      "snippet": "The report, “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the...",
+      "source": "Lifespan Research Institute",
+      "date": "2 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
