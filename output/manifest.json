@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T04:49:34.081269+00:00",
+  "generated_at": "2026-06-21T04:45:41.447204+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 1,
+  "total_articles": 2,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -16,6 +16,16 @@
       "date": "Apr 13, 2026",
       "notion_file": "output/notion/taiwan-strait-tensions-push-countries-to-diversify-semicondu.md",
       "ghpages_file": "output/ghpages/taiwan-strait-tensions-push-countries-to-diversify-semicondu.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "air-liquide-inaugurates-its-first-advanced-materials-manufac",
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Mar 25, 2026",
+      "notion_file": "output/notion/air-liquide-inaugurates-its-first-advanced-materials-manufac.md",
+      "ghpages_file": "output/ghpages/air-liquide-inaugurates-its-first-advanced-materials-manufac.html",
       "citations_count": 3
     }
   ]

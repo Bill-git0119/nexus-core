@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-19T04:49:34.077786+00:00",
+  "generated_at": "2026-06-21T04:45:41.443799+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 2,
+    "discarded": 6
   },
   "verified_topics": [
     {
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-06-19T04:49:34.077422+00:00",
+        "checked_at": "2026-06-21T04:45:39.973298+00:00",
         "independent_sources": [
           {
             "title": "Semiconductor tensions chip away at cross-Strait relations",
@@ -33,6 +33,36 @@
             "title": "China-Taiwan tensions: Impacts on global supply chains ...",
             "url": "https://www.efficioconsulting.com/en-us/resources/all/china-taiwan-tensions-impacts-on-global-supply-chains-and-semiconductor-availability/",
             "source": "Efficio Consulting"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "Mar 25, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-06-21T04:45:41.443431+00:00",
+        "independent_sources": [
+          {
+            "title": "Press releases & News",
+            "url": "https://electronics.airliquide.com/press-releases-news",
+            "source": "Air Liquide Electronics"
+          },
+          {
+            "title": "AIR LIQUIDE (EPA:AI) | - WebDisclosure",
+            "url": "https://www.webdisclosure.com/press-release/air-liquide-epa-ai-air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-in-taiwan-strengthening-the-next-gen-semiconductor-supply-chain-wn0ZleHEp1D",
+            "source": "webdisclosure.com"
+          },
+          {
+            "title": "laurent langellier's Post - Air Liquide",
+            "url": "https://www.linkedin.com/posts/laurent-langellier-953aaa95_air-liquide-inaugurates-its-first-advanced-activity-7442498468842979328-s3lR",
+            "source": "LinkedIn · laurent langellier"
           }
         ]
       }
