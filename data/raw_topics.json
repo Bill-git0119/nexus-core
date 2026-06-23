@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-06-21T04:45:37.505665+00:00",
+  "generated_at": "2026-06-23T03:55:40.525671+00:00",
   "total_topics": 8,
   "topics": [
-    {
-      "title": "Amkor, TSMC strike deal strengthening Peoria’s place in semiconductor supply chain",
-      "url": "https://www.yourvalley.net/peoria-independent/stories/amkor-tsmc-strike-deal-strengthening-peorias-place-in-semiconductor-supply-chain,699051",
-      "snippet": "Amkor Technology and Taiwan Semiconductor Manufacturing Co. have struck a deal that will strengthen Peoria's place as a major player in the...",
-      "source": "Your Valley",
-      "date": "3 days ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
     {
       "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
       "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
@@ -21,11 +12,11 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Up by 6.86% on Jun 19: A Full Analysis",
-      "url": "https://www.tradingkey.com/news/market-movers/261978005-market-movers-tsm-20260619",
-      "snippet": "TSMC revenue growth exceeds thirty percent driven by high-performance computing and AI demand.Potential fifteen percent foundry price hikes...",
-      "source": "TradingKey",
-      "date": "1 day ago",
+      "title": "The State of the Nation: Assembling the bargaining chips",
+      "url": "https://theedgemalaysia.com/node/807044",
+      "snippet": "IF there is a simple way to capture how Taiwan was once perceived, it can be found in a brief moment in the 1987 American film Fatal...",
+      "source": "The Edge Malaysia",
+      "date": "20 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -35,6 +26,15 @@
       "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
       "source": "Air Liquide",
       "date": "Mar 25, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
+      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
+      "source": "Yahoo Finance",
+      "date": "1 month ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -52,16 +52,16 @@
       "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
       "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
       "source": "Business Insider",
-      "date": "1 week ago",
+      "date": "2 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-      "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
+      "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260608035959.htm",
+      "snippet": "Date: June 8, 2026; Source: ETH Zurich; Summary: Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a...",
       "source": "ScienceDaily",
-      "date": "1 month ago",
+      "date": "2 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },

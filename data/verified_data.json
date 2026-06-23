@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T04:45:41.443799+00:00",
+  "generated_at": "2026-06-23T03:55:44.758838+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-06-21T04:45:39.973298+00:00",
+        "checked_at": "2026-06-23T03:55:41.874252+00:00",
         "independent_sources": [
           {
             "title": "Semiconductor tensions chip away at cross-Strait relations",
@@ -47,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-06-21T04:45:41.443431+00:00",
+        "checked_at": "2026-06-23T03:55:44.758283+00:00",
         "independent_sources": [
           {
             "title": "Press releases & News",
