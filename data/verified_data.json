@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T03:55:44.758838+00:00",
+  "generated_at": "2026-06-25T03:58:11.601942+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,12 +17,12 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-06-23T03:55:41.874252+00:00",
+        "checked_at": "2026-06-25T03:58:10.472633+00:00",
         "independent_sources": [
           {
-            "title": "Semiconductor tensions chip away at cross-Strait relations",
-            "url": "https://eastasiaforum.org/2022/10/28/semiconductor-tensions-chip-away-at-cross-strait-relations/",
-            "source": "East Asia Forum"
+            "title": "China-Taiwan tensions: Impacts on global supply chains ...",
+            "url": "https://www.efficioconsulting.com/en-us/resources/all/china-taiwan-tensions-impacts-on-global-supply-chains-and-semiconductor-availability/",
+            "source": "Efficio Consulting"
           },
           {
             "title": "Taiwan Strait Tensions Threaten 90% of Global ...",
@@ -30,9 +30,9 @@
             "source": "LinkedIn"
           },
           {
-            "title": "China-Taiwan tensions: Impacts on global supply chains ...",
-            "url": "https://www.efficioconsulting.com/en-us/resources/all/china-taiwan-tensions-impacts-on-global-supply-chains-and-semiconductor-availability/",
-            "source": "Efficio Consulting"
+            "title": "Taiwan's semiconductor industry and geopolitical challenges",
+            "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5223206.pdf?abstractid=5223206&mirid=1",
+            "source": "SSRN eLibrary"
           }
         ]
       }
@@ -47,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-06-23T03:55:44.758283+00:00",
+        "checked_at": "2026-06-25T03:58:11.601414+00:00",
         "independent_sources": [
           {
             "title": "Press releases & News",
@@ -60,9 +60,9 @@
             "source": "webdisclosure.com"
           },
           {
-            "title": "laurent langellier's Post - Air Liquide",
-            "url": "https://www.linkedin.com/posts/laurent-langellier-953aaa95_air-liquide-inaugurates-its-first-advanced-activity-7442498468842979328-s3lR",
-            "source": "LinkedIn · laurent langellier"
+            "title": "Air Liquide Opens Chip Materials Plant in Taiwan",
+            "url": "https://www.linkedin.com/posts/gasworld-com-ltd_semiconductors-ai-electronics-activity-7442639068313616384-zYrg",
+            "source": "LinkedIn · gasworld"
           }
         ]
       }
