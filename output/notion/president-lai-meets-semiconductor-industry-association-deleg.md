@@ -65,7 +65,7 @@ On the morning of March 2, President Lai Ching-te met with a delegation from the
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-06-03 04:40 UTC*
+*產生時間：2026-06-27 03:51 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：XPG, SupplyVue, ChipInsider, ExampleBroker）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ExampleBroker, ChipInsider, XPG, SupplyVue）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

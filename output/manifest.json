@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T03:58:11.606445+00:00",
+  "generated_at": "2026-06-27T03:51:40.038341+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 2,
+  "total_articles": 5,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -26,6 +26,36 @@
       "date": "Mar 25, 2026",
       "notion_file": "output/notion/air-liquide-inaugurates-its-first-advanced-materials-manufac.md",
       "ghpages_file": "output/ghpages/air-liquide-inaugurates-its-first-advanced-materials-manufac.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "president-lai-meets-semiconductor-industry-association-deleg",
+      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Mar 3, 2026",
+      "notion_file": "output/notion/president-lai-meets-semiconductor-industry-association-deleg.md",
+      "ghpages_file": "output/ghpages/president-lai-meets-semiconductor-industry-association-deleg.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp",
+      "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Mar 16, 2026",
+      "notion_file": "output/notion/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp.md",
+      "ghpages_file": "output/ghpages/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "longevity-science-is-overhyped-but-this-research-really-coul",
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "May 1, 2026",
+      "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
+      "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
       "citations_count": 3
     }
   ]
