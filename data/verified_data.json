@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T03:51:40.030357+00:00",
+  "generated_at": "2026-06-29T04:20:05.910512+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-06-27T03:51:13.990292+00:00",
+        "checked_at": "2026-06-29T04:19:55.066668+00:00",
         "independent_sources": [
           {
             "title": "China-Taiwan tensions: Impacts on global supply chains ...",
@@ -30,9 +30,9 @@
             "source": "LinkedIn"
           },
           {
-            "title": "\"Geopolitics of Semiconductor Supply Chains: The Case ...",
-            "url": "https://digitalcollections.sit.edu/isp_collection/3592/",
-            "source": "SIT Digital Collections"
+            "title": "Stress-Testing EU-Taiwan Semiconductor Supply Chains",
+            "url": "https://www.iai.it/sites/default/files/iaip2605.pdf",
+            "source": "IAI - Istituto Affari Internazionali"
           }
         ]
       }
@@ -47,17 +47,17 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-06-27T03:51:22.104304+00:00",
+        "checked_at": "2026-06-29T04:19:56.126331+00:00",
         "independent_sources": [
+          {
+            "title": "Air Liquide Group",
+            "url": "https://x.com/airliquidegroup/status/2036752011627033036",
+            "source": "X · airliquidegroup"
+          },
           {
             "title": "Press releases & News",
             "url": "https://electronics.airliquide.com/press-releases-news",
             "source": "Air Liquide Electronics"
-          },
-          {
-            "title": "AIR LIQUIDE (EPA:AI) | - WebDisclosure",
-            "url": "https://www.webdisclosure.com/press-release/air-liquide-epa-ai-air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-in-taiwan-strengthening-the-next-gen-semiconductor-supply-chain-wn0ZleHEp1D",
-            "source": "webdisclosure.com"
           },
           {
             "title": "Air Liquide Opens Chip Materials Plant in Taiwan",
@@ -77,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-06-27T03:51:31.432847+00:00",
+        "checked_at": "2026-06-29T04:19:59.381236+00:00",
         "independent_sources": [
           {
             "title": "President Lai meets Semiconductor Industry Association ...",
@@ -107,17 +107,17 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-06-27T03:51:36.333593+00:00",
+        "checked_at": "2026-06-29T04:20:02.172904+00:00",
         "independent_sources": [
-          {
-            "title": "Iran war chokepoints begin to cast doubt on global chip ...",
-            "url": "https://m.economictimes.com/news/international/business/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply/articleshow/129611031.cms",
-            "source": "The Economic Times"
-          },
           {
             "title": "Iran war chokepoints begin to cast doubt on global chip ...",
             "url": "https://x.com/EconomicTimes/status/2033557912577347984",
             "source": "X · EconomicTimes"
+          },
+          {
+            "title": "Iran war chokepoints begin to cast doubt on global chip ...",
+            "url": "https://m.economictimes.com/news/international/business/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply/articleshow/129611031.cms",
+            "source": "The Economic Times"
           },
           {
             "title": "Iran Conflict Threatens Global Chip Supply",
@@ -137,7 +137,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-06-27T03:51:40.029296+00:00",
+        "checked_at": "2026-06-29T04:20:05.909352+00:00",
         "independent_sources": [
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
