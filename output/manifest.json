@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T04:20:05.917990+00:00",
+  "generated_at": "2026-07-01T04:16:18.355305+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 5,
+  "total_articles": 4,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -36,16 +36,6 @@
       "date": "Mar 3, 2026",
       "notion_file": "output/notion/president-lai-meets-semiconductor-industry-association-deleg.md",
       "ghpages_file": "output/ghpages/president-lai-meets-semiconductor-industry-association-deleg.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp",
-      "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "Mar 16, 2026",
-      "notion_file": "output/notion/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp.md",
-      "ghpages_file": "output/ghpages/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp.html",
       "citations_count": 3
     },
     {
