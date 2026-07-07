@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T03:49:27.518266+00:00",
+  "generated_at": "2026-07-07T03:49:17.721083+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
   "total_articles": 4,
   "affiliate_links_loaded": 16,
@@ -29,13 +29,13 @@
       "citations_count": 3
     },
     {
-      "slug": "president-lai-meets-semiconductor-industry-association-deleg",
-      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "Mar 3, 2026",
-      "notion_file": "output/notion/president-lai-meets-semiconductor-industry-association-deleg.md",
-      "ghpages_file": "output/ghpages/president-lai-meets-semiconductor-industry-association-deleg.html",
+      "slug": "scientists-successfully-transfer-longevity-gene-and-extend-l",
+      "title": "Scientists successfully transfer longevity gene and extend lifespan",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "May 10, 2026",
+      "notion_file": "output/notion/scientists-successfully-transfer-longevity-gene-and-extend-l.md",
+      "ghpages_file": "output/ghpages/scientists-successfully-transfer-longevity-gene-and-extend-l.html",
       "citations_count": 3
     },
     {

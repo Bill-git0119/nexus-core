@@ -1,24 +1,24 @@
 ---
-title: "Longevity Science Is Overhyped. But This Research Really Could Change Humanity."
+title: "Scientists successfully transfer longevity gene and extend lifespan"
 domain: "長壽科學／運動醫學"
-date: "May 1, 2026"
+date: "May 10, 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
 
-## [longevity](https://example.com/aff?ref=nexus&product=longevity-guide) Science Is Overhyped. But This Research Really Could Change Humanity.
+## Scientists successfully transfer [longevity](https://example.com/aff?ref=nexus&product=longevity-guide) gene and extend lifespan
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：May 1, 2026
+**日期**：May 10, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
 
 ### 摘要
 
-A new therapy has the potential to cure hundreds of diseases — and even reverse aging.
+Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...
 
-本篇報導來自 **The New York Times**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **ScienceDaily**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 研究背景與科學基礎
 
@@ -42,10 +42,10 @@ A new therapy has the potential to cure hundreds of diseases — and even revers
 
 ### 參考來源
 
-- 原始來源：[The New York Times](https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html)
-- 佐證來源：[Longevity Science Is Overhyped. But This Research Really ...](https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo)
-- 佐證來源：[Longevity Science Is Overhyped. But This Research Really ...](https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity)
-- 佐證來源：[From Lab to Life: Can Science Reverse Aging? - The Blogs](https://blogs.timesofisrael.com/from-lab-to-life-can-science-reverse-aging/)
+- 原始來源：[ScienceDaily](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
+- 佐證來源：[Longevity gene from naked mole rats extends lifespan of ...](https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/)
+- 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/)
+- 佐證來源：[Scientists Discover Longevity Gene Therapy That Successfully ...](https://www.youtube.com/watch?v=UkSJyaP_-Aw)
 
 ### 相關資源
 
