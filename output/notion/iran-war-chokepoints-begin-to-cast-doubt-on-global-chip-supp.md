@@ -43,8 +43,8 @@ As the war in the Middle East stretches into a third week, the global semiconduc
 ### 參考來源
 
 - 原始來源：[Bloomberg.com](https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply)
-- 佐證來源：[Iran war chokepoints begin to cast doubt on global chip ...](https://x.com/EconomicTimes/status/2033557912577347984)
 - 佐證來源：[Iran war chokepoints begin to cast doubt on global chip ...](https://m.economictimes.com/news/international/business/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply/articleshow/129611031.cms)
+- 佐證來源：[Iran war chokepoints begin to cast doubt on global chip ...](https://x.com/EconomicTimes/status/2033557912577347984)
 - 佐證來源：[Iran Conflict Threatens Global Chip Supply](https://www.linkedin.com/posts/economictimes_iran-war-chokepoints-begin-to-cast-doubt-activity-7441181950586925057-PxW3)
 
 ### 相關資源
@@ -65,7 +65,7 @@ As the war in the Middle East stretches into a third week, the global semiconduc
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-06-29 04:20 UTC*
+*產生時間：2026-07-09 03:40 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ExampleBroker, XPG, ChipInsider, SupplyVue）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：XPG, ExampleBroker, ChipInsider, SupplyVue）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
