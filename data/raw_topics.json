@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-09T03:39:43.260523+00:00",
+  "generated_at": "2026-07-11T02:55:36.731660+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "Understanding Modern Semiconductor Supply Chain Challenges",
-      "url": "https://www.bisinfotech.com/understanding-modern-semiconductor-supply-chain-challenges/",
-      "snippet": "A deep-dive analysis into the geopolitical, technical, and operational bottlenecks facing the modern global semiconductor supply chain.",
-      "source": "Bisinfotech",
-      "date": "2 days ago",
+      "title": "Taiwan’s TGV supply chain takes shape as firms pursue glass-based chip packaging advances",
+      "url": "https://www.taiwannews.com.tw/en/news/6397144",
+      "snippet": "TAIPEI (Taiwan News) — Taiwan's semiconductor supply chain is turning its attention to TGV (through glass via) technology as the industry...",
+      "source": "Taiwan News",
+      "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -39,6 +39,15 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
+      "title": "Insilico Medicine and Eli Lilly Lead 13th ARDD Meeting at Harvard",
+      "url": "https://bioengineer.org/insilico-medicine-and-eli-lilly-lead-13th-ardd-meeting-at-harvard/",
+      "snippet": "Insilico Medicine and Eli Lilly To Lead ARDD 2026: A Landmark Event in Longevity Biotechnology This October, Boston will host the 13th Aging...",
+      "source": "Bioengineer.org",
+      "date": "7 hours ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
@@ -62,15 +71,6 @@
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "The first-ever reverse-aging drug was just injected into a human",
-      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
-      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
-      "source": "Business Insider",
-      "date": "1 month ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
