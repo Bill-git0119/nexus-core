@@ -1,28 +1,28 @@
 ---
-title: "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain"
+title: "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards"
 domain: "半導體／台股供應鏈"
-date: "Mar 25, 2026"
+date: "May 14, 2026"
 status: "已發布"
 tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 ---
 
-## Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain
+## [TSMC](https://example.com/aff?ref=nexus&product=tsmc-report)’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards
 
 **領域**：[半導體](https://example.com/aff?ref=nexus&product=chip-analysis)／台股[供應鏈](https://example.com/aff?ref=nexus&product=supply-chain-tool)
-**日期**：Mar 25, 2026
+**日期**：May 14, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
 
 ### 摘要
 
-Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.
+TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...
 
-本篇報導來自 **Air Liquide**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **Yahoo Finance**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 市場背景與產業脈絡
 
-全球半導體產業正處於關鍵轉折點。隨著 AI [晶片](https://example.com/aff?ref=nexus&product=chip-analysis)需求持續攀升，台灣在全球供應鏈中的戰略地位愈發重要。[TSMC](https://example.com/aff?ref=nexus&product=tsmc-report) 作為全球最大的晶圓代工廠，其產能規劃與技術發展直接影響整個科技產業的走向。從 [SSD](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 儲存方案到高頻寬 [DRAM](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 記憶體模組，台灣供應鏈的每一環都牽動著全球電子產業的脈搏。近年來 [DDR5](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 記憶體的普及更加速了資料中心與 [Gaming PC](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 電競主機的升級週期，帶動上下游供應鏈的全面復甦。
+全球半導體產業正處於關鍵轉折點。隨著 AI [晶片](https://example.com/aff?ref=nexus&product=chip-analysis)需求持續攀升，台灣在全球供應鏈中的戰略地位愈發重要。TSMC 作為全球最大的晶圓代工廠，其產能規劃與技術發展直接影響整個科技產業的走向。從 [SSD](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 儲存方案到高頻寬 [DRAM](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 記憶體模組，台灣供應鏈的每一環都牽動著全球電子產業的脈搏。近年來 [DDR5](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 記憶體的普及更加速了資料中心與 [Gaming PC](https://affclkr.online/track/clicks/6397/c627c2bc9b0125d8fc82ec23d62e9e45236e49cd63b2a0f90163bb0271401de3c021e7e5593c99616c) 電競主機的升級週期，帶動上下游供應鏈的全面復甦。
 
 ### 關鍵數據與影響分析
 
@@ -42,10 +42,10 @@ Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiw
 
 ### 參考來源
 
-- 原始來源：[Air Liquide](https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next)
-- 佐證來源：[Press releases & News](https://electronics.airliquide.com/press-releases-news)
-- 佐證來源：[Air Liquide Opens Chip Materials Plant in Taiwan](https://www.linkedin.com/posts/gasworld-com-ltd_semiconductors-ai-electronics-activity-7442639068313616384-zYrg)
-- 佐證來源：[Air Liquide launches advanced materials plant in Taiwan](https://www.indianchemicalnews.com/chemical/air-liquide-launches-advanced-materials-plant-in-taiwan-29857)
+- 原始來源：[Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html)
+- 佐證來源：[TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...](https://www.1buy.ai/market-intelligence/article/4b309b9e-6ec7-432e-9a5c-c15ea652ba45)
+- 佐證來源：[Broadcom (Nasdaq:AVGO) - Stock Analysis](https://simplywall.st/stocks/us/semiconductors/nasdaq-avgo/broadcom)
+- 佐證來源：[Taiwan Semiconductor Manufacturing Company Limited (TSFA.VI)](https://ca.finance.yahoo.com/quote/TSFA.VI/news?ncid=stockrec)
 
 ### 相關資源
 

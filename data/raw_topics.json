@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-07-11T02:55:36.731660+00:00",
+  "generated_at": "2026-07-13T03:23:11.934386+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "Taiwan’s TGV supply chain takes shape as firms pursue glass-based chip packaging advances",
-      "url": "https://www.taiwannews.com.tw/en/news/6397144",
-      "snippet": "TAIPEI (Taiwan News) — Taiwan's semiconductor supply chain is turning its attention to TGV (through glass via) technology as the industry...",
-      "source": "Taiwan News",
-      "date": "1 day ago",
+      "title": "Why Malaysia must join Taiwan's semiconductor supply chain",
+      "url": "https://www.thejakartapost.com/opinion/2026/07/11/why-malaysia-must-join-taiwans-semiconductor-supply-chain?utm_source=(direct)&utm_medium=single_more",
+      "snippet": "ince the global boom in artificial intelligence, Malaysia has viewed the advanced technology sector as a vital ladder to escape the...",
+      "source": "The Jakarta Post",
+      "date": "2 days ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
+      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
+      "source": "Yahoo Finance",
+      "date": "May 14, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
+      "url": "https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html",
+      "snippet": "Intel is deepening cooperation with Taiwan's semiconductor supply chain and plans to broaden its engagement again in mid-October after...",
+      "source": "digitimes",
+      "date": "3 weeks ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -19,33 +37,6 @@
       "date": "Mar 25, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
-      "url": "https://english.president.gov.tw/News/7091",
-      "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
-      "source": "Office of the President Republic of China(Taiwan)",
-      "date": "Mar 3, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-16/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supply",
-      "snippet": "As the war in the Middle East stretches into a third week, the global semiconductor industry is facing mounting threats the conflict will...",
-      "source": "Bloomberg.com",
-      "date": "Mar 16, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Insilico Medicine and Eli Lilly Lead 13th ARDD Meeting at Harvard",
-      "url": "https://bioengineer.org/insilico-medicine-and-eli-lilly-lead-13th-ardd-meeting-at-harvard/",
-      "snippet": "Insilico Medicine and Eli Lilly To Lead ARDD 2026: A Landmark Event in Longevity Biotechnology This October, Boston will host the 13th Aging...",
-      "source": "Bioengineer.org",
-      "date": "7 hours ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
@@ -71,6 +62,15 @@
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "1 month ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

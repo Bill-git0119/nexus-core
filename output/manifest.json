@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-11T02:55:53.771572+00:00",
+  "generated_at": "2026-07-13T03:23:32.261230+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 5,
+  "total_articles": 4,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
     "ghpages_dir": "output/ghpages"
   },
   "articles": [
+    {
+      "slug": "tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-",
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "May 14, 2026",
+      "notion_file": "output/notion/tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-.md",
+      "ghpages_file": "output/ghpages/tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-.html",
+      "citations_count": 3
+    },
     {
       "slug": "air-liquide-inaugurates-its-first-advanced-materials-manufac",
       "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
@@ -16,26 +26,6 @@
       "date": "Mar 25, 2026",
       "notion_file": "output/notion/air-liquide-inaugurates-its-first-advanced-materials-manufac.md",
       "ghpages_file": "output/ghpages/air-liquide-inaugurates-its-first-advanced-materials-manufac.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "president-lai-meets-semiconductor-industry-association-deleg",
-      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "Mar 3, 2026",
-      "notion_file": "output/notion/president-lai-meets-semiconductor-industry-association-deleg.md",
-      "ghpages_file": "output/ghpages/president-lai-meets-semiconductor-industry-association-deleg.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp",
-      "title": "Iran War Chokepoints Begin to Cast Doubt on Global Chip Supply",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "Mar 16, 2026",
-      "notion_file": "output/notion/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp.md",
-      "ghpages_file": "output/ghpages/iran-war-chokepoints-begin-to-cast-doubt-on-global-chip-supp.html",
       "citations_count": 3
     },
     {
