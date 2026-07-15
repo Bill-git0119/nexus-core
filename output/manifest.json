@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-13T03:23:32.261230+00:00",
+  "generated_at": "2026-07-15T02:46:41.816384+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 4,
+  "total_articles": 5,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
     "ghpages_dir": "output/ghpages"
   },
   "articles": [
+    {
+      "slug": "taiwan-strait-tensions-push-countries-to-diversify-semicondu",
+      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Apr 13, 2026",
+      "notion_file": "output/notion/taiwan-strait-tensions-push-countries-to-diversify-semicondu.md",
+      "ghpages_file": "output/ghpages/taiwan-strait-tensions-push-countries-to-diversify-semicondu.html",
+      "citations_count": 3
+    },
     {
       "slug": "tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-",
       "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
@@ -33,19 +43,19 @@
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
       "domain": "Longevity/Sports Medicine",
       "domain_zh": "長壽科學／運動醫學",
-      "date": "May 10, 2026",
+      "date": "10 may 2026",
       "notion_file": "output/notion/scientists-successfully-transfer-longevity-gene-and-extend-l.md",
       "ghpages_file": "output/ghpages/scientists-successfully-transfer-longevity-gene-and-extend-l.html",
       "citations_count": 3
     },
     {
-      "slug": "longevity-science-is-overhyped-but-this-research-really-coul",
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "slug": "pharmas-and-biotechs-are-investing-in-new-treatments-for-dis",
+      "title": "Pharmas and biotechs are investing in new treatments for diseases of aging",
       "domain": "Longevity/Sports Medicine",
       "domain_zh": "長壽科學／運動醫學",
-      "date": "May 1, 2026",
-      "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
-      "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
+      "date": "2 mar 2026",
+      "notion_file": "output/notion/pharmas-and-biotechs-are-investing-in-new-treatments-for-dis.md",
+      "ghpages_file": "output/ghpages/pharmas-and-biotechs-are-investing-in-new-treatments-for-dis.html",
       "citations_count": 3
     }
   ]

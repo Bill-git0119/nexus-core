@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-07-13T03:23:32.254653+00:00",
+  "generated_at": "2026-07-15T02:46:41.808457+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 4,
-    "discarded": 4
+    "verified": 5,
+    "discarded": 3
   },
   "verified_topics": [
+    {
+      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
+      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
+      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
+      "source": "The Hilltop Online",
+      "date": "Apr 13, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-07-15T02:45:55.058669+00:00",
+        "independent_sources": [
+          {
+            "title": "China-Taiwan tensions: Impacts on global supply chains ...",
+            "url": "https://www.efficioconsulting.com/en-us/resources/all/china-taiwan-tensions-impacts-on-global-supply-chains-and-semiconductor-availability/",
+            "source": "Efficio Consulting"
+          },
+          {
+            "title": "Taiwan Strait Tensions Threaten 90% of Global ...",
+            "url": "https://www.linkedin.com/posts/partstatinc_taiwan-will-not-escalate-but-will-not-yield-activity-7429192783111991296-g6Uy",
+            "source": "LinkedIn"
+          },
+          {
+            "title": "Stress-Testing EU-Taiwan Semiconductor Supply Chains",
+            "url": "https://www.iai.it/sites/default/files/iaip2605.pdf",
+            "source": "IAI - Istituto Affari Internazionali"
+          }
+        ]
+      }
+    },
     {
       "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
@@ -17,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-07-13T03:23:15.237578+00:00",
+        "checked_at": "2026-07-15T02:46:15.146780+00:00",
         "independent_sources": [
           {
             "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...",
@@ -25,14 +55,14 @@
             "source": "1BUY.AI"
           },
           {
-            "title": "Broadcom (Nasdaq:AVGO) - Stock Analysis",
-            "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-avgo/broadcom",
-            "source": "Simply Wall Street"
-          },
-          {
             "title": "Taiwan Semiconductor Manufacturing Company Limited (TSFA.VI)",
             "url": "https://ca.finance.yahoo.com/quote/TSFA.VI/news?ncid=stockrec",
             "source": "Yahoo! Finance Canada"
+          },
+          {
+            "title": "Broadcom (Nasdaq:AVGO) - Stock Analysis",
+            "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-avgo/broadcom",
+            "source": "Simply Wall Street"
           }
         ]
       }
@@ -47,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-07-13T03:23:16.484767+00:00",
+        "checked_at": "2026-07-15T02:46:26.122662+00:00",
         "independent_sources": [
           {
             "title": "Press releases & News",
@@ -72,12 +102,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
       "source": "ScienceDaily",
-      "date": "May 10, 2026",
+      "date": "10 may 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-07-13T03:23:20.219440+00:00",
+        "checked_at": "2026-07-15T02:46:28.797917+00:00",
         "independent_sources": [
           {
             "title": "Longevity gene from naked mole rats extends lifespan of ...",
@@ -98,31 +128,31 @@
       }
     },
     {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
+      "title": "Pharmas and biotechs are investing in new treatments for diseases of aging",
+      "url": "https://clarivate.com/life-sciences-healthcare/blog/why-longevity-might-be-biopharmas-next-big-thing/",
+      "snippet": "Longevity — once dismissed as the domain of futurists and fringe scientists — has rapidly emerged as one of the most compelling frontiers in...",
+      "source": "Clarivate",
+      "date": "2 mar 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-07-13T03:23:32.254508+00:00",
+        "checked_at": "2026-07-15T02:46:41.808319+00:00",
         "independent_sources": [
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
-            "source": "LinkedIn · Nir Barzilai"
+            "title": "Review The Business of Anti-Aging Science",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0167779917301713",
+            "source": "ScienceDirect.com"
           },
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
-            "source": "Center for Genetics and Society"
+            "title": "Longevity, Aging Drugs: Treatments Could Take Years. ...",
+            "url": "https://www.barrons.com/articles/aging-longevity-drugs-treatments-c4849b98",
+            "source": "Barron's"
           },
           {
-            "title": "This @NYTmag article on longevity science, reversing ...",
-            "url": "https://x.com/EricTopol/status/2048855527757942819",
-            "source": "X · EricTopol"
+            "title": "11 anti-aging biotech companies leading longevity in 2026",
+            "url": "https://www.labiotech.eu/best-biotech/anti-aging-biotech-companies/",
+            "source": "Labiotech.eu"
           }
         ]
       }

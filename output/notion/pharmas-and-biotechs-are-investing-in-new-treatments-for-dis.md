@@ -1,7 +1,7 @@
 ---
 title: "Pharmas and biotechs are investing in new treatments for diseases of aging"
 domain: "長壽科學／運動醫學"
-date: "Mar 2, 2026"
+date: "2 mar 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
@@ -9,7 +9,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ## Pharmas and biotechs are investing in new treatments for diseases of aging
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：Mar 2, 2026
+**日期**：2 mar 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
@@ -43,9 +43,9 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ### 參考來源
 
 - 原始來源：[Clarivate](https://clarivate.com/life-sciences-healthcare/blog/why-longevity-might-be-biopharmas-next-big-thing/)
+- 佐證來源：[Review The Business of Anti-Aging Science](https://www.sciencedirect.com/science/article/pii/S0167779917301713)
+- 佐證來源：[Longevity, Aging Drugs: Treatments Could Take Years. ...](https://www.barrons.com/articles/aging-longevity-drugs-treatments-c4849b98)
 - 佐證來源：[11 anti-aging biotech companies leading longevity in 2026](https://www.labiotech.eu/best-biotech/anti-aging-biotech-companies/)
-- 佐證來源：[Investors Eye Explosive Growth in Anti-Aging Therapies as ...](https://www.morningstar.com/news/pr-newswire/20260303ln99624/investors-eye-explosive-growth-in-anti-aging-therapies-as-market-targets-420b-milestone)
-- 佐證來源：[Fight Aging! by Investing](https://www.fightaging.org/investing/)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-05-29 04:02 UTC*
+*產生時間：2026-07-15 02:46 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, LongevityLab, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, HealthPro, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

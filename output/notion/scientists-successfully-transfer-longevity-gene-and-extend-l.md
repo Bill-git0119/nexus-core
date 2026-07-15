@@ -1,7 +1,7 @@
 ---
 title: "Scientists successfully transfer longevity gene and extend lifespan"
 domain: "長壽科學／運動醫學"
-date: "May 10, 2026"
+date: "10 may 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
@@ -9,7 +9,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ## Scientists successfully transfer [longevity](https://example.com/aff?ref=nexus&product=longevity-guide) gene and extend lifespan
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：May 10, 2026
+**日期**：10 may 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
@@ -61,7 +61,7 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-07-13 03:23 UTC*
+*產生時間：2026-07-15 02:46 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, HealthPro, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, HealthPro, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
