@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T02:46:41.816384+00:00",
+  "generated_at": "2026-07-17T02:54:57.535207+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
   "total_articles": 5,
   "affiliate_links_loaded": 16,
@@ -43,19 +43,19 @@
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
       "domain": "Longevity/Sports Medicine",
       "domain_zh": "長壽科學／運動醫學",
-      "date": "10 may 2026",
+      "date": "May 10, 2026",
       "notion_file": "output/notion/scientists-successfully-transfer-longevity-gene-and-extend-l.md",
       "ghpages_file": "output/ghpages/scientists-successfully-transfer-longevity-gene-and-extend-l.html",
       "citations_count": 3
     },
     {
-      "slug": "pharmas-and-biotechs-are-investing-in-new-treatments-for-dis",
-      "title": "Pharmas and biotechs are investing in new treatments for diseases of aging",
+      "slug": "longevity-science-is-overhyped-but-this-research-really-coul",
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "domain": "Longevity/Sports Medicine",
       "domain_zh": "長壽科學／運動醫學",
-      "date": "2 mar 2026",
-      "notion_file": "output/notion/pharmas-and-biotechs-are-investing-in-new-treatments-for-dis.md",
-      "ghpages_file": "output/ghpages/pharmas-and-biotechs-are-investing-in-new-treatments-for-dis.html",
+      "date": "May 1, 2026",
+      "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
+      "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
       "citations_count": 3
     }
   ]
