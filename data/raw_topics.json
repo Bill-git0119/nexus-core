@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-17T02:54:34.082974+00:00",
+  "generated_at": "2026-07-19T03:17:06.894396+00:00",
   "total_topics": 8,
   "topics": [
-    {
-      "title": "AI demand lifts entire Taiwan semiconductor supply chain in June, memory revenue nearly quadruples",
-      "url": "https://www.digitimes.com/news/a20260714VL202/taiwan-monthly-tracker-semiconductors-revenue-growth-ip.html",
-      "snippet": "All 13 tracked sub-sectors of Taiwan's semiconductor supply chain recorded positive year-over-year revenue growth in June 2026, according to...",
-      "source": "digitimes",
-      "date": "3 days ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
     {
       "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
       "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
       "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
       "source": "The Hilltop Online",
       "date": "Apr 13, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.65% on Jul 17: What Investors Need To Know",
+      "url": "https://www.tradingkey.com/news/market-movers/262038008-market-movers-tsm-20260717",
+      "snippet": "TSMC shares declined due to rising capital expenditure and potential gross margin compression.Geopolitical uncertainty regarding supply...",
+      "source": "TradingKey",
+      "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -48,20 +48,20 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
-      "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
-      "source": "Insilico Medicine",
-      "date": "1 month ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
+      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
+      "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
+      "source": "Insilico Medicine",
+      "date": "1 month ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
