@@ -1,22 +1,31 @@
 {
-  "generated_at": "2026-07-19T03:17:06.894396+00:00",
+  "generated_at": "2026-07-21T02:57:45.530949+00:00",
   "total_topics": 8,
   "topics": [
+    {
+      "title": "MOEA defends Taiwan supply chain resiliency after Gelsinger warning",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/20/2003861073",
+      "snippet": "The Ministry of Economic Affairs (MOEA) yesterday defended the resilience of Taiwan\\'s semiconductor supply chain, dismissing concerns...",
+      "source": "Taipei Times",
+      "date": "1 day ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Taiwan semiconductor supply chain benefits from global Foundry 2.0 growth",
+      "url": "https://www.taiwannews.com.tw/news/6404272",
+      "snippet": "TAIPEI (Taiwan News) — Taiwan's semiconductor supply chain remained a major beneficiary of growth in the global Foundry 2.0 market in the...",
+      "source": "Taiwan News",
+      "date": "18 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
     {
       "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
       "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
       "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
       "source": "The Hilltop Online",
       "date": "Apr 13, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.65% on Jul 17: What Investors Need To Know",
-      "url": "https://www.tradingkey.com/news/market-movers/262038008-market-movers-tsm-20260717",
-      "snippet": "TSMC shares declined due to rising capital expenditure and potential gross margin compression.Geopolitical uncertainty regarding supply...",
-      "source": "TradingKey",
-      "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -30,13 +39,13 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
-      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
-      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
-      "source": "Air Liquide",
-      "date": "Mar 25, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
+      "title": "There's anti-aging hype. Then there's the science showing real promise",
+      "url": "https://www.abc.net.au/news/2026-07-19/biohacking-anti-aging-science-promise-to-extend-human-lifespan/106923024",
+      "snippet": "The longevity industry is booming. Billionaire tech bros are pouring money into anti-aging startups, some of which have eye-watering...",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2 days ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
@@ -61,15 +70,6 @@
       "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
       "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
       "source": "Insilico Medicine",
-      "date": "1 month ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "The first-ever reverse-aging drug was just injected into a human",
-      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
-      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
-      "source": "Business Insider",
       "date": "1 month ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
