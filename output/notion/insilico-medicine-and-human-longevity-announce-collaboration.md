@@ -1,24 +1,24 @@
 ---
-title: "Longevity Science Is Overhyped. But This Research Really Could Change Humanity."
+title: "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science"
 domain: "長壽科學／運動醫學"
-date: "May 1, 2026"
+date: "May 26, 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
 
-## [longevity](https://example.com/aff?ref=nexus&product=longevity-guide) Science Is Overhyped. But This Research Really Could Change Humanity.
+## Insilico Medicine and Human [longevity](https://example.com/aff?ref=nexus&product=longevity-guide) Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：May 1, 2026
+**日期**：May 26, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
 
 ### 摘要
 
-A new therapy has the potential to cure hundreds of diseases — and even reverse aging.
+Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...
 
-本篇報導來自 **The New York Times**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **Insilico Medicine**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 研究背景與科學基礎
 
@@ -42,10 +42,10 @@ A new therapy has the potential to cure hundreds of diseases — and even revers
 
 ### 參考來源
 
-- 原始來源：[The New York Times](https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html)
-- 佐證來源：[Longevity Science Is Overhyped. But This Research Really ...](https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo)
-- 佐證來源：[This @NYTmag article on longevity science ...](https://x.com/EricTopol/status/2048855527757942819)
-- 佐證來源：[Longevity Science Is Overhyped. But This Research Really ...](https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity)
+- 原始來源：[Insilico Medicine](https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an)
+- 佐證來源：[Insilico Medicine and Human Longevity Announce ...](https://www.prnewswire.com/news-releases/insilico-medicine-and-human-longevity-announce-collaboration-to-co-develop-industry-first-ai-foundation-model-for-longevity-science-302781904.html)
+- 佐證來源：[Insilico Medicine & Human Longevity Launch AI Model for ...](https://www.linkedin.com/posts/davidhcrean_insilico-medicine-and-human-longevity-announce-activity-7465195272600522752-0kFn)
+- 佐證來源：[AI Meets Aging Inside the Longevity Revolution with ...](https://www.drugdiscoveryonline.com/doc/ai-meets-aging-inside-the-longevity-revolution-with-insilico-medicine-part-i-0001)
 
 ### 相關資源
 

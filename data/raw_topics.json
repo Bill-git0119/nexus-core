@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T02:57:45.530949+00:00",
+  "generated_at": "2026-07-23T03:17:01.191392+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -7,7 +7,16 @@
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/20/2003861073",
       "snippet": "The Ministry of Economic Affairs (MOEA) yesterday defended the resilience of Taiwan\\'s semiconductor supply chain, dismissing concerns...",
       "source": "Taipei Times",
-      "date": "1 day ago",
+      "date": "3 days ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Jensen Huang: Taiwan Saved the U.S. Semiconductor Industry, Washington Doesn't Need to Point a Gun at Taiwan",
+      "url": "https://finance.biggo.com/news/d9e239ea-ac2a-45cf-9e54-2df6860fd8ae",
+      "snippet": "Nvidia CEO Jensen Huang stated at the opening ceremony of Wistron's new Texas plant that Taiwan saved the U.S. semiconductor industry,...",
+      "source": "BigGo Finance",
+      "date": "12 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -16,36 +25,18 @@
       "url": "https://www.taiwannews.com.tw/news/6404272",
       "snippet": "TAIPEI (Taiwan News) — Taiwan's semiconductor supply chain remained a major beneficiary of growth in the global Foundry 2.0 market in the...",
       "source": "Taiwan News",
-      "date": "18 hours ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
-      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
-      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
-      "source": "The Hilltop Online",
-      "date": "Apr 13, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
-      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
-      "source": "Yahoo Finance",
-      "date": "May 14, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "There's anti-aging hype. Then there's the science showing real promise",
-      "url": "https://www.abc.net.au/news/2026-07-19/biohacking-anti-aging-science-promise-to-extend-human-lifespan/106923024",
-      "snippet": "The longevity industry is booming. Billionaire tech bros are pouring money into anti-aging startups, some of which have eye-watering...",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "date": "2 days ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Vietnam can deepen role in global semiconductor supply chain: Taiwan-based expert",
+      "url": "https://en.vietnamplus.vn/vietnam-can-deepen-role-in-global-semiconductor-supply-chain-taiwan-based-expert-post348662.vnp",
+      "snippet": "Vietnam is well-placed to embed itself more deeply into the global semiconductor value chain if it can capitalise on its competitive edges...",
+      "source": "Vietnam+ (VietnamPlus)",
+      "date": "1 day ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
     },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
@@ -53,6 +44,15 @@
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
       "source": "ScienceDaily",
       "date": "May 10, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "There's anti-aging hype. Then there's the science showing real promise",
+      "url": "https://www.abc.net.au/news/2026-07-19/biohacking-anti-aging-science-promise-to-extend-human-lifespan/106923024",
+      "snippet": "The longevity industry is booming. Billionaire tech bros are pouring money into anti-aging startups, some of which have eye-watering...",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "4 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -70,7 +70,7 @@
       "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
       "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
       "source": "Insilico Medicine",
-      "date": "1 month ago",
+      "date": "May 26, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
