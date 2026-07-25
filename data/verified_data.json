@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-07-23T03:17:05.652018+00:00",
+  "generated_at": "2026-07-25T02:55:52.366550+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 3,
-    "discarded": 5
+    "verified": 4,
+    "discarded": 4
   },
   "verified_topics": [
+    {
+      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
+      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
+      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
+      "source": "The Hilltop Online",
+      "date": "Apr 13, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-07-25T02:55:36.570283+00:00",
+        "independent_sources": [
+          {
+            "title": "China-Taiwan tensions: Impacts on global supply chains ...",
+            "url": "https://www.efficioconsulting.com/en-us/resources/all/china-taiwan-tensions-impacts-on-global-supply-chains-and-semiconductor-availability/",
+            "source": "Efficio Consulting"
+          },
+          {
+            "title": "\"Geopolitics of Semiconductor Supply Chains: The Case ...",
+            "url": "https://digitalcollections.sit.edu/isp_collection/3592/",
+            "source": "SIT Digital Collections"
+          },
+          {
+            "title": "Taiwan's semiconductor industry and geopolitical challenges",
+            "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5223206.pdf?abstractid=5223206&mirid=1",
+            "source": "SSRN eLibrary"
+          }
+        ]
+      }
+    },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
@@ -17,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-07-23T03:17:02.618020+00:00",
+        "checked_at": "2026-07-25T02:55:42.992496+00:00",
         "independent_sources": [
           {
             "title": "Longevity gene from naked mole rats extends lifespan of ...",
@@ -38,36 +68,6 @@
       }
     },
     {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-07-23T03:17:04.192429+00:00",
-        "independent_sources": [
-          {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
-            "source": "LinkedIn · Nir Barzilai"
-          },
-          {
-            "title": "This @NYTmag article on longevity science ...",
-            "url": "https://x.com/EricTopol/status/2048855527757942819",
-            "source": "X · EricTopol"
-          },
-          {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
-            "source": "Center for Genetics and Society"
-          }
-        ]
-      }
-    },
-    {
       "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
       "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
       "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
@@ -77,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-07-23T03:17:05.651990+00:00",
+        "checked_at": "2026-07-25T02:55:45.907211+00:00",
         "independent_sources": [
           {
             "title": "Insilico Medicine and Human Longevity Announce ...",
@@ -85,14 +85,44 @@
             "source": "PR Newswire"
           },
           {
-            "title": "Insilico Medicine & Human Longevity Launch AI Model for ...",
-            "url": "https://www.linkedin.com/posts/davidhcrean_insilico-medicine-and-human-longevity-announce-activity-7465195272600522752-0kFn",
-            "source": "LinkedIn · David H. Crean, Ph.D."
+            "title": "Insilico Medicine and Human Longevity Announce ...",
+            "url": "https://www.linkedin.com/pulse/insilico-medicine-human-longevity-announce-collaboration-2lsme",
+            "source": "LinkedIn · Insilico Medicine"
           },
           {
             "title": "AI Meets Aging Inside the Longevity Revolution with ...",
             "url": "https://www.drugdiscoveryonline.com/doc/ai-meets-aging-inside-the-longevity-revolution-with-insilico-medicine-part-i-0001",
             "source": "Drug Discovery Online"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "source": "The New York Times",
+      "date": "May 1, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-07-25T02:55:52.366524+00:00",
+        "independent_sources": [
+          {
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
+            "source": "LinkedIn · Nir Barzilai"
+          },
+          {
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
+            "source": "Center for Genetics and Society"
+          },
+          {
+            "title": "From Lab to Life: Can Science Reverse Aging? - The Blogs",
+            "url": "https://blogs.timesofisrael.com/from-lab-to-life-can-science-reverse-aging/",
+            "source": "The Times of Israel"
           }
         ]
       }

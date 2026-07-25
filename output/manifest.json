@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-23T03:17:05.657167+00:00",
+  "generated_at": "2026-07-25T02:55:52.375594+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 3,
+  "total_articles": 4,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
     "ghpages_dir": "output/ghpages"
   },
   "articles": [
+    {
+      "slug": "taiwan-strait-tensions-push-countries-to-diversify-semicondu",
+      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Apr 13, 2026",
+      "notion_file": "output/notion/taiwan-strait-tensions-push-countries-to-diversify-semicondu.md",
+      "ghpages_file": "output/ghpages/taiwan-strait-tensions-push-countries-to-diversify-semicondu.html",
+      "citations_count": 3
+    },
     {
       "slug": "scientists-successfully-transfer-longevity-gene-and-extend-l",
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
@@ -19,16 +29,6 @@
       "citations_count": 3
     },
     {
-      "slug": "longevity-science-is-overhyped-but-this-research-really-coul",
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "May 1, 2026",
-      "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
-      "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
-      "citations_count": 3
-    },
-    {
       "slug": "insilico-medicine-and-human-longevity-announce-collaboration",
       "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
       "domain": "Longevity/Sports Medicine",
@@ -36,6 +36,16 @@
       "date": "May 26, 2026",
       "notion_file": "output/notion/insilico-medicine-and-human-longevity-announce-collaboration.md",
       "ghpages_file": "output/ghpages/insilico-medicine-and-human-longevity-announce-collaboration.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "longevity-science-is-overhyped-but-this-research-really-coul",
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "May 1, 2026",
+      "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
+      "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
       "citations_count": 3
     }
   ]
