@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-27T03:31:24.354122+00:00",
+  "generated_at": "2026-07-29T02:54:57.650247+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "Taiwan Semiconductor: Inside The Price Dispute That Can Change The AI Supply Chain",
-      "url": "https://seekingalpha.com/article/4924929-taiwan-semiconductor-inside-the-price-dispute-that-can-change-the-ai-supply-chain",
-      "snippet": "Taiwan Semiconductor, Nvidia, and ASML dominate the AI semiconductor supply chain, each exerting significant pricing power.",
-      "source": "Seeking Alpha",
-      "date": "3 days ago",
+      "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
+      "url": "https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/",
+      "snippet": "July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trade barriers are rapidly reshaping the production and supply...",
+      "source": "upi",
+      "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -21,22 +21,31 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Taiwan semiconductor supply chain benefits from global Foundry 2.0 growth",
-      "url": "https://www.taiwannews.com.tw/news/6404272",
-      "snippet": "TAIPEI (Taiwan News) — Taiwan's semiconductor supply chain remained a major beneficiary of growth in the global Foundry 2.0 market in the...",
-      "source": "Taiwan News",
-      "date": "6 days ago",
+      "title": "BOK: AI Reshapes Semiconductor Supply Chain, Boosting Exports to Taiwan While China Declines",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008676513",
+      "snippet": "With production facilities for major manufacturing industries, including semiconductors, concentrated in the Seoul metropolitan area,...",
+      "source": "news.sbs.co.kr",
+      "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
-      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
-      "source": "Yahoo Finance",
-      "date": "May 14, 2026",
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "Mar 25, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "What two therapies' approvals means for longevity science",
+      "url": "https://www.weforum.org/stories/health-and-healthcare-systems/next-frontier-longevity-science-drug-discovery-living-cells/",
+      "snippet": "The recommended approval of the world's first two therapies derived from induced pluripotent stem cells is a significant move towards...",
+      "source": "The World Economic Forum",
+      "date": "3 weeks ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
@@ -62,15 +71,6 @@
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
-      "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
-      "source": "Insilico Medicine",
-      "date": "May 26, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

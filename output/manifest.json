@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T03:31:49.335890+00:00",
+  "generated_at": "2026-07-29T02:55:13.705097+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 5,
+  "total_articles": 4,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -19,13 +19,13 @@
       "citations_count": 3
     },
     {
-      "slug": "tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-",
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "slug": "air-liquide-inaugurates-its-first-advanced-materials-manufac",
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "domain_zh": "半導體／台股供應鏈",
-      "date": "May 14, 2026",
-      "notion_file": "output/notion/tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-.md",
-      "ghpages_file": "output/ghpages/tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-.html",
+      "date": "Mar 25, 2026",
+      "notion_file": "output/notion/air-liquide-inaugurates-its-first-advanced-materials-manufac.md",
+      "ghpages_file": "output/ghpages/air-liquide-inaugurates-its-first-advanced-materials-manufac.html",
       "citations_count": 3
     },
     {
@@ -46,16 +46,6 @@
       "date": "May 1, 2026",
       "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
       "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "insilico-medicine-and-human-longevity-announce-collaboration",
-      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "May 26, 2026",
-      "notion_file": "output/notion/insilico-medicine-and-human-longevity-announce-collaboration.md",
-      "ghpages_file": "output/ghpages/insilico-medicine-and-human-longevity-announce-collaboration.html",
       "citations_count": 3
     }
   ]
