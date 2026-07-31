@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T02:55:13.698168+00:00",
+  "generated_at": "2026-07-31T03:21:18.426940+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-07-29T02:55:00.279030+00:00",
+        "checked_at": "2026-07-31T03:21:13.816489+00:00",
         "independent_sources": [
           {
             "title": "China-Taiwan tensions: Impacts on global supply chains ...",
@@ -30,39 +30,9 @@
             "source": "SIT Digital Collections"
           },
           {
-            "title": "Taiwan's semiconductor industry and geopolitical challenges",
-            "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5223206.pdf?abstractid=5223206&mirid=1",
-            "source": "SSRN eLibrary"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
-      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
-      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
-      "source": "Air Liquide",
-      "date": "Mar 25, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-07-29T02:55:10.511873+00:00",
-        "independent_sources": [
-          {
-            "title": "Press releases & News",
-            "url": "https://electronics.airliquide.com/press-releases-news",
-            "source": "Air Liquide Electronics"
-          },
-          {
-            "title": "Air Liquide's Post",
-            "url": "https://www.linkedin.com/posts/airliquide_air-liquide-unveils-the-successful-construction-activity-7442516118713335808-FKtL",
-            "source": "LinkedIn · Air Liquide"
-          },
-          {
-            "title": "Air Liquide launches advanced materials plant in Taiwan",
-            "url": "https://www.indianchemicalnews.com/chemical/air-liquide-launches-advanced-materials-plant-in-taiwan-29857",
-            "source": "Indian Chemical News"
+            "title": "Semiconductor tensions chip away at cross-Strait relations",
+            "url": "https://eastasiaforum.org/2022/10/28/semiconductor-tensions-chip-away-at-cross-strait-relations/",
+            "source": "East Asia Forum"
           }
         ]
       }
@@ -77,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-07-29T02:55:12.050089+00:00",
+        "checked_at": "2026-07-31T03:21:15.669855+00:00",
         "independent_sources": [
           {
             "title": "Longevity gene from naked mole rats extends lifespan of ...",
@@ -107,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-07-29T02:55:13.698140+00:00",
+        "checked_at": "2026-07-31T03:21:17.671785+00:00",
         "independent_sources": [
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
@@ -115,14 +85,44 @@
             "source": "LinkedIn · Nir Barzilai"
           },
           {
-            "title": "This @NYTmag article on longevity science ...",
-            "url": "https://x.com/EricTopol/status/2048855527757942819",
-            "source": "X · EricTopol"
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://academyofgeroscience.org/news/nyt-magazine-longevity-science",
+            "source": "Academy of Geroscience"
           },
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
-            "source": "Center for Genetics and Society"
+            "title": "From Lab to Life: Can Science Reverse Aging? - The Blogs",
+            "url": "https://blogs.timesofisrael.com/from-lab-to-life-can-science-reverse-aging/",
+            "source": "The Times of Israel"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
+      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
+      "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
+      "source": "Insilico Medicine",
+      "date": "May 26, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-07-31T03:21:18.426912+00:00",
+        "independent_sources": [
+          {
+            "title": "Insilico Medicine and Human Longevity Announce ...",
+            "url": "https://www.prnewswire.com/news-releases/insilico-medicine-and-human-longevity-announce-collaboration-to-co-develop-industry-first-ai-foundation-model-for-longevity-science-302781904.html",
+            "source": "PR Newswire"
+          },
+          {
+            "title": "Insilico Medicine and Human Longevity Announce ...",
+            "url": "https://www.linkedin.com/pulse/insilico-medicine-human-longevity-announce-collaboration-2lsme",
+            "source": "LinkedIn · Insilico Medicine"
+          },
+          {
+            "title": "AI Meets Aging Inside the Longevity Revolution with ...",
+            "url": "https://www.drugdiscoveryonline.com/doc/ai-meets-aging-inside-the-longevity-revolution-with-insilico-medicine-part-i-0001",
+            "source": "Drug Discovery Online"
           }
         ]
       }

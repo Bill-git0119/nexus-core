@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-07-29T02:54:57.650247+00:00",
+  "generated_at": "2026-07-31T03:21:10.561948+00:00",
   "total_topics": 8,
   "topics": [
+    {
+      "title": "Taiwan Semiconductor Supply Chain Benefits From Global Foundry 2.0 Growth",
+      "url": "https://sme.asia/taiwan-semiconductor-supply-chain-benefits-from-global-foundry-2-0-growth/",
+      "snippet": "Taiwan's semiconductor supply chain remained a major beneficiary of growth in the global Foundry 2.0 market in the first quarter,...",
+      "source": "SME & Entrepreneurship Magazine",
+      "date": "1 day ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
     {
       "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
       "url": "https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/",
       "snippet": "July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trade barriers are rapidly reshaping the production and supply...",
       "source": "upi",
-      "date": "1 day ago",
+      "date": "3 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -25,16 +34,7 @@
       "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008676513",
       "snippet": "With production facilities for major manufacturing industries, including semiconductors, concentrated in the Seoul metropolitan area,...",
       "source": "news.sbs.co.kr",
-      "date": "1 day ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
-      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
-      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
-      "source": "Air Liquide",
-      "date": "Mar 25, 2026",
+      "date": "3 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -57,20 +57,20 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "There's anti-aging hype. Then there's the science showing real promise",
-      "url": "https://www.abc.net.au/news/2026-07-19/biohacking-anti-aging-science-promise-to-extend-human-lifespan/106923024",
-      "snippet": "The longevity industry is booming. Billionaire tech bros are pouring money into anti-aging startups, some of which have eye-watering...",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "date": "1 week ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
+      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
+      "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
+      "source": "Insilico Medicine",
+      "date": "May 26, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
