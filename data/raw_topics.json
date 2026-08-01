@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T03:21:10.561948+00:00",
+  "generated_at": "2026-08-01T03:19:53.484117+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -7,16 +7,7 @@
       "url": "https://sme.asia/taiwan-semiconductor-supply-chain-benefits-from-global-foundry-2-0-growth/",
       "snippet": "Taiwan's semiconductor supply chain remained a major beneficiary of growth in the global Foundry 2.0 market in the first quarter,...",
       "source": "SME & Entrepreneurship Magazine",
-      "date": "1 day ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
-      "url": "https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/",
-      "snippet": "July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trade barriers are rapidly reshaping the production and supply...",
-      "source": "upi",
-      "date": "3 days ago",
+      "date": "2 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -30,11 +21,20 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "BOK: AI Reshapes Semiconductor Supply Chain, Boosting Exports to Taiwan While China Declines",
-      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008676513",
-      "snippet": "With production facilities for major manufacturing industries, including semiconductors, concentrated in the Seoul metropolitan area,...",
-      "source": "news.sbs.co.kr",
-      "date": "3 days ago",
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
+      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
+      "source": "Yahoo Finance",
+      "date": "May 14, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "Mar 25, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
