@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-01T03:20:09.282840+00:00",
+  "generated_at": "2026-08-03T03:22:02.845327+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 6,
-    "discarded": 2
+    "verified": 4,
+    "discarded": 4
   },
   "verified_topics": [
     {
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-01T03:19:55.286959+00:00",
+        "checked_at": "2026-08-03T03:21:58.945380+00:00",
         "independent_sources": [
           {
             "title": "China-Taiwan tensions: Impacts on global supply chains ...",
@@ -25,44 +25,14 @@
             "source": "Efficio Consulting"
           },
           {
-            "title": "Taiwan Strait Tensions Threaten 90% of Global ...",
-            "url": "https://www.linkedin.com/posts/partstatinc_taiwan-will-not-escalate-but-will-not-yield-activity-7429192783111991296-g6Uy",
-            "source": "LinkedIn"
+            "title": "\"Geopolitics of Semiconductor Supply Chains: The Case ...",
+            "url": "https://digitalcollections.sit.edu/isp_collection/3592/",
+            "source": "SIT Digital Collections"
           },
           {
             "title": "Semiconductor tensions chip away at cross-Strait relations",
             "url": "https://eastasiaforum.org/2022/10/28/semiconductor-tensions-chip-away-at-cross-strait-relations/",
             "source": "East Asia Forum"
-          }
-        ]
-      }
-    },
-    {
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
-      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
-      "source": "Yahoo Finance",
-      "date": "May 14, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-08-01T03:19:57.741484+00:00",
-        "independent_sources": [
-          {
-            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...",
-            "url": "https://www.1buy.ai/market-intelligence/article/1ba2039e-eb07-46de-b1f5-591f96445b60",
-            "source": "1BUY.AI"
-          },
-          {
-            "title": "TSM — Taiwan Semiconductor Manufactur Stock Analysis",
-            "url": "https://finzel.skrealtyplus.com/stock/TSM",
-            "source": "sk realty+"
-          },
-          {
-            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain ...",
-            "url": "https://1buy.ai/market-intelligence/article/baa28fcc-ce54-4097-bca5-5a8a1d6cb54e",
-            "source": "1BUY.AI"
           }
         ]
       }
@@ -77,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-01T03:19:58.952081+00:00",
+        "checked_at": "2026-08-03T03:22:00.661940+00:00",
         "independent_sources": [
           {
             "title": "Press releases & News",
@@ -85,14 +55,14 @@
             "source": "Air Liquide Electronics"
           },
           {
-            "title": "Air Liquide launches advanced materials plant in Taiwan",
-            "url": "https://www.indianchemicalnews.com/chemical/air-liquide-launches-advanced-materials-plant-in-taiwan-29857",
-            "source": "Indian Chemical News"
-          },
-          {
             "title": "Air Liquide's Post",
             "url": "https://www.linkedin.com/posts/airliquide_air-liquide-unveils-the-successful-construction-activity-7442516118713335808-FKtL",
             "source": "LinkedIn · Air Liquide"
+          },
+          {
+            "title": "Air Liquide launches advanced materials plant in Taiwan",
+            "url": "https://www.indianchemicalnews.com/chemical/air-liquide-launches-advanced-materials-plant-in-taiwan-29857",
+            "source": "Indian Chemical News"
           }
         ]
       }
@@ -107,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-01T03:20:00.299694+00:00",
+        "checked_at": "2026-08-03T03:22:01.663293+00:00",
         "independent_sources": [
           {
             "title": "Longevity gene from naked mole rats extends lifespan of ...",
@@ -137,7 +107,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-01T03:20:08.548460+00:00",
+        "checked_at": "2026-08-03T03:22:02.845304+00:00",
         "independent_sources": [
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
@@ -153,36 +123,6 @@
             "title": "From Lab to Life: Can Science Reverse Aging? - The Blogs",
             "url": "https://blogs.timesofisrael.com/from-lab-to-life-can-science-reverse-aging/",
             "source": "The Times of Israel"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
-      "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
-      "source": "Insilico Medicine",
-      "date": "May 26, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-08-01T03:20:09.282807+00:00",
-        "independent_sources": [
-          {
-            "title": "Insilico Medicine and Human Longevity Announce ...",
-            "url": "https://www.prnewswire.com/news-releases/insilico-medicine-and-human-longevity-announce-collaboration-to-co-develop-industry-first-ai-foundation-model-for-longevity-science-302781904.html",
-            "source": "PR Newswire"
-          },
-          {
-            "title": "Insilico Medicine and Human Longevity Announce ...",
-            "url": "https://www.linkedin.com/pulse/insilico-medicine-human-longevity-announce-collaboration-2lsme",
-            "source": "LinkedIn · Insilico Medicine"
-          },
-          {
-            "title": "AI Meets Aging Inside the Longevity Revolution with ...",
-            "url": "https://www.drugdiscoveryonline.com/doc/ai-meets-aging-inside-the-longevity-revolution-with-insilico-medicine-part-i-0001",
-            "source": "Drug Discovery Online"
           }
         ]
       }
