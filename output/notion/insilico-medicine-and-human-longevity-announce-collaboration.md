@@ -45,7 +45,7 @@ Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), 
 - 原始來源：[Insilico Medicine](https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an)
 - 佐證來源：[Insilico Medicine and Human Longevity Announce ...](https://www.prnewswire.com/news-releases/insilico-medicine-and-human-longevity-announce-collaboration-to-co-develop-industry-first-ai-foundation-model-for-longevity-science-302781904.html)
 - 佐證來源：[Insilico Medicine and Human Longevity Announce ...](https://www.linkedin.com/pulse/insilico-medicine-human-longevity-announce-collaboration-2lsme)
-- 佐證來源：[AI Meets Aging Inside the Longevity Revolution with ...](https://www.drugdiscoveryonline.com/doc/ai-meets-aging-inside-the-longevity-revolution-with-insilico-medicine-part-i-0001)
+- 佐證來源：[Human Longevity's Launched New Entity Human Life ...](https://www.morningstar.com/news/pr-newswire/20260527la68660/human-longevitys-launched-new-entity-human-life-foundation-models-inc-and-insilico-medicine-collaborates-to-build-the-first-foundation-model-for-longevity-science)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-08-01 03:20 UTC*
+*產生時間：2026-08-05 02:48 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, LongevityLab, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, SportsMedHub, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

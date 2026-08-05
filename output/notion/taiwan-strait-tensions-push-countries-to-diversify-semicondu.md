@@ -45,7 +45,7 @@ Taiwan produces roughly 90 percent of the world's advanced chip production as th
 - 原始來源：[The Hilltop Online](https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/)
 - 佐證來源：[China-Taiwan tensions: Impacts on global supply chains ...](https://www.efficioconsulting.com/en-us/resources/all/china-taiwan-tensions-impacts-on-global-supply-chains-and-semiconductor-availability/)
 - 佐證來源：["Geopolitics of Semiconductor Supply Chains: The Case ...](https://digitalcollections.sit.edu/isp_collection/3592/)
-- 佐證來源：[Semiconductor tensions chip away at cross-Strait relations](https://eastasiaforum.org/2022/10/28/semiconductor-tensions-chip-away-at-cross-strait-relations/)
+- 佐證來源：[Taiwan's semiconductor industry and geopolitical challenges](https://papers.ssrn.com/sol3/Delivery.cfm/5223206.pdf?abstractid=5223206&mirid=1)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ Taiwan produces roughly 90 percent of the world's advanced chip production as th
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-08-03 03:22 UTC*
+*產生時間：2026-08-05 02:48 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SupplyVue, XPG, ChipInsider, ExampleBroker）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ExampleBroker, ChipInsider, XPG, SupplyVue）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
