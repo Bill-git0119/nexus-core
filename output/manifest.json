@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T02:48:33.116456+00:00",
+  "generated_at": "2026-08-07T02:49:43.934815+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 4,
+  "total_articles": 3,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -36,16 +36,6 @@
       "date": "May 1, 2026",
       "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
       "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "insilico-medicine-and-human-longevity-announce-collaboration",
-      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "May 26, 2026",
-      "notion_file": "output/notion/insilico-medicine-and-human-longevity-announce-collaboration.md",
-      "ghpages_file": "output/ghpages/insilico-medicine-and-human-longevity-announce-collaboration.html",
       "citations_count": 3
     }
   ]

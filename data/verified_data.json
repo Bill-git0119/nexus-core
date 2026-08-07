@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-05T02:48:33.109342+00:00",
+  "generated_at": "2026-08-07T02:49:43.929174+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 4,
-    "discarded": 4
+    "verified": 3,
+    "discarded": 5
   },
   "verified_topics": [
     {
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-05T02:48:17.117939+00:00",
+        "checked_at": "2026-08-07T02:49:39.824240+00:00",
         "independent_sources": [
           {
             "title": "China-Taiwan tensions: Impacts on global supply chains ...",
@@ -30,9 +30,9 @@
             "source": "SIT Digital Collections"
           },
           {
-            "title": "Taiwan's semiconductor industry and geopolitical challenges",
-            "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5223206.pdf?abstractid=5223206&mirid=1",
-            "source": "SSRN eLibrary"
+            "title": "Semiconductor tensions chip away at cross-Strait relations",
+            "url": "https://eastasiaforum.org/2022/10/28/semiconductor-tensions-chip-away-at-cross-strait-relations/",
+            "source": "East Asia Forum"
           }
         ]
       }
@@ -47,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-05T02:48:21.448541+00:00",
+        "checked_at": "2026-08-07T02:49:41.597655+00:00",
         "independent_sources": [
           {
             "title": "Longevity gene from naked mole rats extends lifespan of ...",
@@ -77,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-05T02:48:27.345598+00:00",
+        "checked_at": "2026-08-07T02:49:43.929151+00:00",
         "independent_sources": [
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
@@ -85,44 +85,14 @@
             "source": "LinkedIn · Nir Barzilai"
           },
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://academyofgeroscience.org/news/nyt-magazine-longevity-science",
-            "source": "Academy of Geroscience"
+            "title": "This @NYTmag article on longevity science ...",
+            "url": "https://x.com/EricTopol/status/2048855527757942819",
+            "source": "X · EricTopol"
           },
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
-            "source": "Center for Genetics and Society"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
-      "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
-      "source": "Insilico Medicine",
-      "date": "May 26, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-08-05T02:48:33.109318+00:00",
-        "independent_sources": [
-          {
-            "title": "Insilico Medicine and Human Longevity Announce ...",
-            "url": "https://www.prnewswire.com/news-releases/insilico-medicine-and-human-longevity-announce-collaboration-to-co-develop-industry-first-ai-foundation-model-for-longevity-science-302781904.html",
-            "source": "PR Newswire"
-          },
-          {
-            "title": "Insilico Medicine and Human Longevity Announce ...",
-            "url": "https://www.linkedin.com/pulse/insilico-medicine-human-longevity-announce-collaboration-2lsme",
-            "source": "LinkedIn · Insilico Medicine"
-          },
-          {
-            "title": "Human Longevity's Launched New Entity Human Life ...",
-            "url": "https://www.morningstar.com/news/pr-newswire/20260527la68660/human-longevitys-launched-new-entity-human-life-foundation-models-inc-and-insilico-medicine-collaborates-to-build-the-first-foundation-model-for-longevity-science",
-            "source": "Morningstar"
+            "url": "https://www.globalwellnesssummit.com/blog/longevity-science-is-overhyped-but-this-research-really-could-change-humanity/",
+            "source": "Global Wellness Summit"
           }
         ]
       }
