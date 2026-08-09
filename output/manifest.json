@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T02:49:43.934815+00:00",
+  "generated_at": "2026-08-09T01:59:55.869643+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 3,
+  "total_articles": 7,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -19,13 +19,33 @@
       "citations_count": 3
     },
     {
-      "slug": "scientists-successfully-transfer-longevity-gene-and-extend-l",
-      "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "May 10, 2026",
-      "notion_file": "output/notion/scientists-successfully-transfer-longevity-gene-and-extend-l.md",
-      "ghpages_file": "output/ghpages/scientists-successfully-transfer-longevity-gene-and-extend-l.html",
+      "slug": "air-liquide-inaugurates-its-first-advanced-materials-manufac",
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Mar 25, 2026",
+      "notion_file": "output/notion/air-liquide-inaugurates-its-first-advanced-materials-manufac.md",
+      "ghpages_file": "output/ghpages/air-liquide-inaugurates-its-first-advanced-materials-manufac.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "taiwan-semiconductor-manufacturing-tsm-sits-at-the-absolute-",
+      "title": "Taiwan Semiconductor Manufacturing (TSM) Sits at the Absolute Center of the AI Compute Supply Chain",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Jun 3, 2026",
+      "notion_file": "output/notion/taiwan-semiconductor-manufacturing-tsm-sits-at-the-absolute-.md",
+      "ghpages_file": "output/ghpages/taiwan-semiconductor-manufacturing-tsm-sits-at-the-absolute-.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "president-lai-meets-semiconductor-industry-association-deleg",
+      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Mar 3, 2026",
+      "notion_file": "output/notion/president-lai-meets-semiconductor-industry-association-deleg.md",
+      "ghpages_file": "output/ghpages/president-lai-meets-semiconductor-industry-association-deleg.html",
       "citations_count": 3
     },
     {
@@ -36,6 +56,26 @@
       "date": "May 1, 2026",
       "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
       "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "scientists-successfully-transfer-longevity-gene-and-extend-l",
+      "title": "Scientists successfully transfer longevity gene and extend lifespan",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "May 10, 2026",
+      "notion_file": "output/notion/scientists-successfully-transfer-longevity-gene-and-extend-l.md",
+      "ghpages_file": "output/ghpages/scientists-successfully-transfer-longevity-gene-and-extend-l.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "insilico-medicine-and-human-longevity-announce-collaboration",
+      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "May 26, 2026",
+      "notion_file": "output/notion/insilico-medicine-and-human-longevity-announce-collaboration.md",
+      "ghpages_file": "output/ghpages/insilico-medicine-and-human-longevity-announce-collaboration.html",
       "citations_count": 3
     }
   ]
