@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-08-09T01:59:55.860073+00:00",
+  "generated_at": "2026-08-11T02:00:01.714663+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 7,
-    "discarded": 1
+    "verified": 6,
+    "discarded": 2
   },
   "verified_topics": [
     {
-      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
-      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
-      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
-      "source": "The Hilltop Online",
-      "date": "Apr 13, 2026",
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
+      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
+      "source": "Yahoo Finance",
+      "date": "May 14, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-09T01:59:48.327742+00:00",
+        "checked_at": "2026-08-11T01:59:39.377361+00:00",
         "independent_sources": [
           {
-            "title": "China-Taiwan tensions: Impacts on global supply chains ...",
-            "url": "https://www.efficioconsulting.com/en-us/resources/all/china-taiwan-tensions-impacts-on-global-supply-chains-and-semiconductor-availability/",
-            "source": "Efficio Consulting"
+            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...",
+            "url": "https://1buy.ai/market-intelligence/article/baa28fcc-ce54-4097-bca5-5a8a1d6cb54e",
+            "source": "1BUY.AI"
           },
           {
-            "title": "\"Geopolitics of Semiconductor Supply Chains: The Case ...",
-            "url": "https://digitalcollections.sit.edu/isp_collection/3592/",
-            "source": "SIT Digital Collections"
+            "title": "Taiwan Semiconductor Manufacturing Company Limited ...",
+            "url": "https://sg.finance.yahoo.com/quote/TSMN.MX/news/",
+            "source": "Yahoo Finance Singapore"
           },
           {
-            "title": "Taiwan's semiconductor industry and geopolitical challenges",
-            "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5223206.pdf?abstractid=5223206&mirid=1",
-            "source": "SSRN eLibrary"
+            "title": "Broadcom (Nasdaq:AVGO) - Stock Analysis",
+            "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-avgo/broadcom",
+            "source": "Simply Wall Street"
           }
         ]
       }
@@ -47,52 +47,22 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-09T01:59:49.071950+00:00",
+        "checked_at": "2026-08-11T01:59:51.402387+00:00",
         "independent_sources": [
           {
-            "title": "Press releases & News",
-            "url": "https://electronics.airliquide.com/press-releases-news",
+            "title": "Press Releases",
+            "url": "https://electronics.airliquide.com/media-center/press-releases",
             "source": "Air Liquide Electronics"
-          },
-          {
-            "title": "Air Liquide's Post",
-            "url": "https://www.linkedin.com/posts/airliquide_air-liquide-unveils-the-successful-construction-activity-7442516118713335808-FKtL",
-            "source": "LinkedIn · Air Liquide"
           },
           {
             "title": "Air Liquide launches advanced materials plant in Taiwan",
             "url": "https://www.indianchemicalnews.com/chemical/air-liquide-launches-advanced-materials-plant-in-taiwan-29857",
             "source": "Indian Chemical News"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Taiwan Semiconductor Manufacturing (TSM) Sits at the Absolute Center of the AI Compute Supply Chain",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-sits-145510383.html",
-      "snippet": "Green Alpha Investment recently released its Q1 2026 investor letter. A copy of the letter can be downloaded here.",
-      "source": "Yahoo Finance",
-      "date": "Jun 3, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-08-09T01:59:50.044457+00:00",
-        "independent_sources": [
-          {
-            "title": "TSMC",
-            "url": "https://en.wikipedia.org/wiki/TSMC",
-            "source": "Wikipedia"
           },
           {
-            "title": "Taiwan Semiconductor Manufacturing (TSM) Sits at the ...",
-            "url": "https://1buy.ai/market-intelligence/article/d2a440c2-f05b-4447-8ee1-3073b0c68fbe",
-            "source": "1BUY.AI"
-          },
-          {
-            "title": "Taiwan is at the center of the global AI boom, not because ...",
-            "url": "https://www.facebook.com/TaiwanPlusMedia/posts/taiwan-is-at-the-center-of-the-global-ai-boom-not-because-of-a-single-company-bu/1019334257272669/",
-            "source": "Facebook · TaiwanPlus"
+            "title": "Air Liquide's Post",
+            "url": "https://www.linkedin.com/posts/airliquide_air-liquide-unveils-the-successful-construction-activity-7442516118713335808-FKtL",
+            "source": "LinkedIn · Air Liquide"
           }
         ]
       }
@@ -107,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-09T01:59:51.044421+00:00",
+        "checked_at": "2026-08-11T01:59:55.771078+00:00",
         "independent_sources": [
           {
             "title": "President Lai meets Semiconductor Industry Association ...",
@@ -121,7 +91,7 @@
           },
           {
             "title": "President Lai meets Semiconductor Industry Association ...",
-            "url": "https://investtaiwan.nat.gov.tw/newsPage62591eng?lang\\u003deng\\u0026search\\u003d62591",
+            "url": "https://investtaiwan.nat.gov.tw/newsPage62591eng?lang=eng&search=62591",
             "source": "Invest Taiwan"
           }
         ]
@@ -129,7 +99,7 @@
     },
     {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.google.com/goto?url=CAESoQEB7keqTfag1E5djjDwDWUiBqhDnklkbeYJV3FJTtMS--MBTgd3gHS3ArUzDPpagY6-a1s23ACPiuUW88mdcqdGnKeKlhiOziGESGkUjDM97SyRY9CiUg0p29zRERYRwO3Pqb7agRkMLs2XZspwb2Sth6ysH8T8FCqwksmUvCbDPO9LoT8RZlk5-F-pavBOAQ7MsZwfaWi3fvbVhvxl48fA-Q==",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
@@ -137,29 +107,29 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-09T01:59:52.975793+00:00",
+        "checked_at": "2026-08-11T01:59:57.952368+00:00",
         "independent_sources": [
-          {
-            "title": "Cellular Rejuvenation Has the Potential to Reverse Aging",
-            "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-            "source": "The New York Times"
-          },
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
             "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
             "source": "LinkedIn · Nir Barzilai"
           },
           {
-            "title": "This @NYTmag article on longevity science ...",
-            "url": "https://x.com/EricTopol/status/2048855527757942819",
-            "source": "X · EricTopol"
+            "title": "\"Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://www.instagram.com/reel/DXuNgfSAPlk/",
+            "source": "Instagram · jannalevin"
+          },
+          {
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://academyofgeroscience.org/news/nyt-magazine-longevity-science",
+            "source": "Academy of Geroscience"
           }
         ]
       }
     },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "url": "https://www.google.com/goto?url=CAESdgHuR6pNxnUUE9i5bAR9jo3uepK4SYS5_5iTLFc5YxQMgxznUd8_bwSq5p1WXdoBMYsSqD3PXzAQhjI60JU8NNlFM-_8NDLPv2tcrv5_RdjNRucctchxE7Xu-14Vr7uL4B-vf2tdqauS8p3aLsGf_HuTcECk6Ms=",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
       "source": "ScienceDaily",
       "date": "May 10, 2026",
@@ -167,17 +137,17 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-09T01:59:54.916870+00:00",
+        "checked_at": "2026-08-11T01:59:59.296625+00:00",
         "independent_sources": [
-          {
-            "title": "Scientists successfully transfer longevity gene and extend ...",
-            "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-            "source": "ScienceDaily"
-          },
           {
             "title": "Longevity gene from naked mole rats extends lifespan of ...",
             "url": "https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/",
             "source": "University of Rochester"
+          },
+          {
+            "title": "Scientists successfully transfer longevity gene and extend ...",
+            "url": "https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/",
+            "source": "Reddit · r/longevity"
           },
           {
             "title": "Scientists Discover Longevity Gene Therapy That Successfully ...",
@@ -189,7 +159,7 @@
     },
     {
       "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "url": "https://www.google.com/goto?url=CAEShQEB7keqTTeX5Rb4QxRUjr7HXSoRFB8tuFwQVJEJvcqazbenfcpPU1RTPjvkF_HexYUUWGmBkQo0q5AAQLYqXJGMVktM3oAd-tJixnFzHru6CFxH6dyDDyXhuh_EoOmO2x3yzK6TJuwuuRJ28UUzy_UKVYs6pCzt1kH9r9hhL1nopRPRqjE_",
+      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
       "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
       "source": "Insilico Medicine",
       "date": "May 26, 2026",
@@ -197,13 +167,8 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-09T01:59:55.860049+00:00",
+        "checked_at": "2026-08-11T02:00:01.714636+00:00",
         "independent_sources": [
-          {
-            "title": "Insilico Medicine and Human Longevity Announce ...",
-            "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
-            "source": "Insilico Medicine"
-          },
           {
             "title": "Insilico Medicine and Human Longevity Announce ...",
             "url": "https://www.prnewswire.com/news-releases/insilico-medicine-and-human-longevity-announce-collaboration-to-co-develop-industry-first-ai-foundation-model-for-longevity-science-302781904.html",
@@ -213,6 +178,11 @@
             "title": "Insilico Medicine and Human Longevity Announce ...",
             "url": "https://www.linkedin.com/pulse/insilico-medicine-human-longevity-announce-collaboration-2lsme",
             "source": "LinkedIn · Insilico Medicine"
+          },
+          {
+            "title": "AI Meets Aging Inside the Longevity Revolution with ...",
+            "url": "https://www.drugdiscoveryonline.com/doc/ai-meets-aging-inside-the-longevity-revolution-with-insilico-medicine-part-i-0001",
+            "source": "Drug Discovery Online"
           }
         ]
       }

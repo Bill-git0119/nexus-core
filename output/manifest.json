@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T01:59:55.869643+00:00",
+  "generated_at": "2026-08-11T02:00:01.719761+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 7,
+  "total_articles": 6,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -9,13 +9,13 @@
   },
   "articles": [
     {
-      "slug": "taiwan-strait-tensions-push-countries-to-diversify-semicondu",
-      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
+      "slug": "tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-",
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "domain_zh": "半導體／台股供應鏈",
-      "date": "Apr 13, 2026",
-      "notion_file": "output/notion/taiwan-strait-tensions-push-countries-to-diversify-semicondu.md",
-      "ghpages_file": "output/ghpages/taiwan-strait-tensions-push-countries-to-diversify-semicondu.html",
+      "date": "May 14, 2026",
+      "notion_file": "output/notion/tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-.md",
+      "ghpages_file": "output/ghpages/tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-.html",
       "citations_count": 3
     },
     {
@@ -26,16 +26,6 @@
       "date": "Mar 25, 2026",
       "notion_file": "output/notion/air-liquide-inaugurates-its-first-advanced-materials-manufac.md",
       "ghpages_file": "output/ghpages/air-liquide-inaugurates-its-first-advanced-materials-manufac.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "taiwan-semiconductor-manufacturing-tsm-sits-at-the-absolute-",
-      "title": "Taiwan Semiconductor Manufacturing (TSM) Sits at the Absolute Center of the AI Compute Supply Chain",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "Jun 3, 2026",
-      "notion_file": "output/notion/taiwan-semiconductor-manufacturing-tsm-sits-at-the-absolute-.md",
-      "ghpages_file": "output/ghpages/taiwan-semiconductor-manufacturing-tsm-sits-at-the-absolute-.html",
       "citations_count": 3
     },
     {

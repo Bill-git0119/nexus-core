@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-09T01:59:46.152730+00:00",
+  "generated_at": "2026-08-11T01:59:37.039918+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "Taiwan Strait Tensions Push Countries to Diversify Semiconductor Supply Chains",
-      "url": "https://thehilltoponline.com/2026/04/13/taiwan-strait-tensions-push-countries-to-diversify-semiconductor-supply-chains/",
-      "snippet": "Taiwan produces roughly 90 percent of the world's advanced chip production as the U.S., South Korea and India invest billions to build...",
-      "source": "The Hilltop Online",
-      "date": "Apr 13, 2026",
+      "title": "The ETFs Most Exposed to the 2026 Chip Supply Chain Crisis — Winners and Losers",
+      "url": "https://www.tradingview.com/news/etfcom:1473a8293094b:0-the-etfs-most-exposed-to-the-2026-chip-supply-chain-crisis-winners-and-losers/",
+      "snippet": "The 2026 semiconductor crisis is not the pandemic-era shortage repeating itself. This time the root cause is artificial intelligence.",
+      "source": "TradingView",
+      "date": "6 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
+      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
+      "source": "Yahoo Finance",
+      "date": "May 14, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -21,15 +30,6 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Taiwan Semiconductor Manufacturing (TSM) Sits at the Absolute Center of the AI Compute Supply Chain",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-sits-145510383.html",
-      "snippet": "Green Alpha Investment recently released its Q1 2026 investor letter. A copy of the letter can be downloaded here.",
-      "source": "Yahoo Finance",
-      "date": "Jun 3, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
       "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
       "url": "https://english.president.gov.tw/News/7091",
       "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
@@ -39,8 +39,17 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
+      "title": "Reimagining drug discovery through the lens of aging biology: Fiona Marshall to present at the 13th Aging Research & Drug Discovery (ARDD) Meeting in Boston",
+      "url": "https://www.eurekalert.org/news-releases/1139303",
+      "snippet": "BOSTON, MA — Aug 5, 2026 — Insilico Medicine and the ARDD organizing committee are pleased to announce that Fiona Marshall, President of...",
+      "source": "EurekAlert!",
+      "date": "5 days ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.google.com/goto?url=CAESoQEB7keqTfag1E5djjDwDWUiBqhDnklkbeYJV3FJTtMS--MBTgd3gHS3ArUzDPpagY6-a1s23ACPiuUW88mdcqdGnKeKlhiOziGESGkUjDM97SyRY9CiUg0p29zRERYRwO3Pqb7agRkMLs2XZspwb2Sth6ysH8T8FCqwksmUvCbDPO9LoT8RZlk5-F-pavBOAQ7MsZwfaWi3fvbVhvxl48fA-Q==",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
@@ -49,7 +58,7 @@
     },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "url": "https://www.google.com/goto?url=CAESdgHuR6pNxnUUE9i5bAR9jo3uepK4SYS5_5iTLFc5YxQMgxznUd8_bwSq5p1WXdoBMYsSqD3PXzAQhjI60JU8NNlFM-_8NDLPv2tcrv5_RdjNRucctchxE7Xu-14Vr7uL4B-vf2tdqauS8p3aLsGf_HuTcECk6Ms=",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
       "source": "ScienceDaily",
       "date": "May 10, 2026",
@@ -57,17 +66,8 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "What two therapies' approvals means for longevity science",
-      "url": "https://www.google.com/goto?url=CAESsgEB7keqTS4BlyjWYw6yr-iFEbbvqvPqOkxCIohpEWOmQDVDZnv7BvdOy_0NXQd_wP45g7R0UU_9yP0K_NTELnYHPMan9W48m5x053AMWPGQznzNnYtKN-c-mUN2lkBPPPlASdDlsg-xvQZZTT0NbGdtyhe4VsMLXQ_Z8PbtjFKW3CKkSbmizQRaEs1OQoD5Y_x27rtv3xSu_PztHh9fKMYOMJL0XRkoElQaSWHhJmwPhuBt",
-      "snippet": "The recommended approval of the world's first two therapies derived from induced pluripotent stem cells is a significant move towards...",
-      "source": "The World Economic Forum",
-      "date": "1 month ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
       "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "url": "https://www.google.com/goto?url=CAEShQEB7keqTTeX5Rb4QxRUjr7HXSoRFB8tuFwQVJEJvcqazbenfcpPU1RTPjvkF_HexYUUWGmBkQo0q5AAQLYqXJGMVktM3oAd-tJixnFzHru6CFxH6dyDDyXhuh_EoOmO2x3yzK6TJuwuuRJ28UUzy_UKVYs6pCzt1kH9r9hhL1nopRPRqjE_",
+      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
       "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
       "source": "Insilico Medicine",
       "date": "May 26, 2026",
