@@ -43,9 +43,9 @@ TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, 
 ### 參考來源
 
 - 原始來源：[Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html)
-- 佐證來源：[TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...](https://1buy.ai/market-intelligence/article/baa28fcc-ce54-4097-bca5-5a8a1d6cb54e)
+- 佐證來源：[TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...](https://www.1buy.ai/market-intelligence/article/1ba2039e-eb07-46de-b1f5-591f96445b60)
 - 佐證來源：[Taiwan Semiconductor Manufacturing Company Limited ...](https://sg.finance.yahoo.com/quote/TSMN.MX/news/)
-- 佐證來源：[Broadcom (Nasdaq:AVGO) - Stock Analysis](https://simplywall.st/stocks/us/semiconductors/nasdaq-avgo/broadcom)
+- 佐證來源：[TSM — Taiwan Semiconductor Manufactur Stock Analysis](https://finzel.skrealtyplus.com/stock/TSM)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-08-11 02:00 UTC*
+*產生時間：2026-08-13 02:15 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ExampleBroker, SupplyVue, XPG, ChipInsider）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ExampleBroker, ChipInsider, SupplyVue, XPG）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
