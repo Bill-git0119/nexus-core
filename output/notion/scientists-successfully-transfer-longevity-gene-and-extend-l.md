@@ -44,7 +44,7 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 
 - 原始來源：[ScienceDaily](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
 - 佐證來源：[Longevity gene from naked mole rats extends lifespan of ...](https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/)
-- 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.reddit.com/r/Futurology/comments/1tdzn1y/scientists_successfully_transfer_longevity_gene/)
+- 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/)
 - 佐證來源：[Scientists Discover Longevity Gene Therapy That Successfully ...](https://www.youtube.com/watch?v=UkSJyaP_-Aw)
 
 ### 相關資源
@@ -61,7 +61,7 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-08-13 02:15 UTC*
+*產生時間：2026-08-15 01:25 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, SportsMedHub, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, SportsMedHub, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

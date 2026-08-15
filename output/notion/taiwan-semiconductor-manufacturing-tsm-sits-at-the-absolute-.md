@@ -43,9 +43,9 @@ Green Alpha Investment recently released its Q1 2026 investor letter. A copy of 
 ### 參考來源
 
 - 原始來源：[Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-sits-145510383.html)
-- 佐證來源：[TSMC](https://en.wikipedia.org/wiki/TSMC)
 - 佐證來源：[Taiwan Semiconductor Manufacturing (TSM) Sits at the ...](https://1buy.ai/market-intelligence/article/d2a440c2-f05b-4447-8ee1-3073b0c68fbe)
-- 佐證來源：[Taiwan is at the center of the global AI boom, not because ...](https://www.facebook.com/TaiwanPlusMedia/posts/taiwan-is-at-the-center-of-the-global-ai-boom-not-because-of-a-single-company-bu/1019334257272669/)
+- 佐證來源：[TSMC](https://en.wikipedia.org/wiki/TSMC)
+- 佐證來源：[TSMC Expands US Manufacturing to Meet Data Centre ...](https://datacentremagazine.com/news/tsmc-expands-us-manufacturing-to-meet-data-centre-demand)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ Green Alpha Investment recently released its Q1 2026 investor letter. A copy of 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-08-09 01:59 UTC*
+*產生時間：2026-08-15 01:25 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ChipInsider, SupplyVue, XPG, ExampleBroker）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：XPG, ExampleBroker, SupplyVue, ChipInsider）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

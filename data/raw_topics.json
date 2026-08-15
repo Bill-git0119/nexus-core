@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-13T02:15:25.912833+00:00",
+  "generated_at": "2026-08-15T01:24:53.042475+00:00",
   "total_topics": 8,
   "topics": [
+    {
+      "title": "SEMICON Taiwan 2026 Upgrades to Full-Day Forum: Taiwan's Top Five Semiconductor Supply Chain Leaders Share Stage for First Time",
+      "url": "https://finance.biggo.com/news/aad2a8c8-4782-4ce3-a521-42c8c4577a63",
+      "snippet": "SEMICON Taiwan 2026's Master Forum and Global Ecosystem Summit has been upgraded to a full-day format for the first time, taking place...",
+      "source": "BigGo Finance",
+      "date": "16 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
     {
       "title": "MOEA defends Taiwan supply chain resiliency after Gelsinger warning",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/20/2003861073",
       "snippet": "The Ministry of Economic Affairs (MOEA) yesterday defended the resilience of Taiwan\\'s semiconductor supply chain, dismissing concerns...",
       "source": "Taipei Times",
       "date": "3 weeks ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
-      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
-      "source": "Yahoo Finance",
-      "date": "May 14, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -30,13 +30,22 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
-      "url": "https://english.president.gov.tw/News/7091",
-      "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
-      "source": "Office of the President Republic of China(Taiwan)",
-      "date": "Mar 3, 2026",
+      "title": "Taiwan Semiconductor Manufacturing (TSM) Sits at the Absolute Center of the AI Compute Supply Chain",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-sits-145510383.html",
+      "snippet": "Green Alpha Investment recently released its Q1 2026 investor letter. A copy of the letter can be downloaded here.",
+      "source": "Yahoo Finance",
+      "date": "Jun 3, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Reimagining drug discovery through the lens of aging biology: Fiona Marshall to present at the 13th Aging Research & Drug Discovery (ARDD) Meeting in Boston",
+      "url": "https://www.eurekalert.org/news-releases/1139303",
+      "snippet": "BOSTON, MA — Aug 5, 2026 — Insilico Medicine and the ARDD organizing committee are pleased to announce that Fiona Marshall, President of...",
+      "source": "EurekAlert!",
+      "date": "1 week ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
@@ -53,15 +62,6 @@
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
       "source": "ScienceDaily",
       "date": "May 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Reimagining drug discovery through the lens of aging biology: Fiona Marshall to present at the 13th Aging Research & Drug Discovery (ARDD) Meeting in Boston",
-      "url": "https://www.eurekalert.org/news-releases/1139303",
-      "snippet": "BOSTON, MA — Aug 5, 2026 — Insilico Medicine and the ARDD organizing committee are pleased to announce that Fiona Marshall, President of...",
-      "source": "EurekAlert!",
-      "date": "1 week ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
