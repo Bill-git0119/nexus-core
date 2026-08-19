@@ -18,7 +18,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 
 Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...
 
-本篇報導來自 **ScienceDaily**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **Science Daily**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 研究背景與科學基礎
 
@@ -42,7 +42,7 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 
 ### 參考來源
 
-- 原始來源：[ScienceDaily](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
+- 原始來源：[Science Daily](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
 - 佐證來源：[Longevity gene from naked mole rats extends lifespan of ...](https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/)
 - 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/)
 - 佐證來源：[Scientists Discover Longevity Gene Therapy That Successfully ...](https://www.youtube.com/watch?v=UkSJyaP_-Aw)
@@ -61,7 +61,7 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-08-17 01:27 UTC*
+*產生時間：2026-08-19 01:25 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, LongevityLab, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, SportsMedHub, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
