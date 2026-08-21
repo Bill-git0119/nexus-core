@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T01:25:52.945069+00:00",
+  "generated_at": "2026-08-21T01:35:22.337637+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 6,
+  "total_articles": 7,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -26,6 +26,16 @@
       "date": "Mar 25, 2026",
       "notion_file": "output/notion/air-liquide-inaugurates-its-first-advanced-materials-manufac.md",
       "ghpages_file": "output/ghpages/air-liquide-inaugurates-its-first-advanced-materials-manufac.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "intel-deepens-ties-with-taiwans-chip-supply-chain-as-october",
+      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Jun 23, 2026",
+      "notion_file": "output/notion/intel-deepens-ties-with-taiwans-chip-supply-chain-as-october.md",
+      "ghpages_file": "output/ghpages/intel-deepens-ties-with-taiwans-chip-supply-chain-as-october.html",
       "citations_count": 3
     },
     {

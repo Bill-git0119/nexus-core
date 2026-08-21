@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-19T01:25:52.935856+00:00",
+  "generated_at": "2026-08-21T01:35:22.328352+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 6,
-    "discarded": 2
+    "verified": 7,
+    "discarded": 1
   },
   "verified_topics": [
     {
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-19T01:25:42.217601+00:00",
+        "checked_at": "2026-08-21T01:35:05.154962+00:00",
         "independent_sources": [
           {
             "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...",
@@ -25,14 +25,14 @@
             "source": "1BUY.AI"
           },
           {
-            "title": "Taiwan Semiconductor Manufacturing Company Limited ...",
-            "url": "https://sg.finance.yahoo.com/quote/TSMN.MX/news/",
-            "source": "Yahoo Finance Singapore"
-          },
-          {
             "title": "TSM — Taiwan Semiconductor Manufactur Stock Analysis",
             "url": "https://finzel.skrealtyplus.com/stock/TSM",
             "source": "sk realty+"
+          },
+          {
+            "title": "Taiwan Semiconductor Manufacturing Company Limited ...",
+            "url": "https://sg.finance.yahoo.com/quote/TSMN.MX/news/",
+            "source": "Yahoo Finance Singapore"
           }
         ]
       }
@@ -47,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-19T01:25:46.897752+00:00",
+        "checked_at": "2026-08-21T01:35:06.612851+00:00",
         "independent_sources": [
           {
             "title": "Air Liquide launches advanced materials plant in Taiwan",
@@ -68,6 +68,36 @@
       }
     },
     {
+      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
+      "url": "https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html",
+      "snippet": "Intel is deepening cooperation with Taiwan's semiconductor supply chain and plans to broaden its engagement again in mid-October after...",
+      "source": "digitimes",
+      "date": "Jun 23, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-08-21T01:35:07.909997+00:00",
+        "independent_sources": [
+          {
+            "title": "Intel deepens ties with Taiwan's chip supply chain as ...",
+            "url": "https://www.reddit.com/r/intelstock/comments/1usm1bk/intel_deepens_ties_with_taiwans_chip_supply_chain/",
+            "source": "Reddit · r/intelstock"
+          },
+          {
+            "title": "Intel CEO says TSMC a 'partner' in chip production",
+            "url": "https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858420",
+            "source": "Taipei Times"
+          },
+          {
+            "title": "#VantageOnFirstpost: Is the US After Taiwan's Semiconductor ...",
+            "url": "https://www.facebook.com/firstpostin/posts/vantageonfirstpost-is-the-us-after-taiwans-semiconductor-supply-chain-us-and-tai/1416129163881400/",
+            "source": "Facebook · Firstpost"
+          }
+        ]
+      }
+    },
+    {
       "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
       "url": "https://english.president.gov.tw/News/7091",
       "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
@@ -77,7 +107,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-19T01:25:48.131506+00:00",
+        "checked_at": "2026-08-21T01:35:09.495165+00:00",
         "independent_sources": [
           {
             "title": "President Lai meets Semiconductor Industry Association ...",
@@ -107,7 +137,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-19T01:25:48.672931+00:00",
+        "checked_at": "2026-08-21T01:35:12.905251+00:00",
         "independent_sources": [
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
@@ -115,9 +145,9 @@
             "source": "LinkedIn · Nir Barzilai"
           },
           {
-            "title": "\"Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.instagram.com/reel/DXuNgfSAPlk/?hl=ar",
-            "source": "Instagram · jannalevin"
+            "title": "This @NYTmag article on longevity science, reversing ...",
+            "url": "https://x.com/EricTopol/status/2048855527757942819?lang=en",
+            "source": "X · EricTopol"
           },
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
@@ -137,7 +167,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-19T01:25:51.526709+00:00",
+        "checked_at": "2026-08-21T01:35:20.115388+00:00",
         "independent_sources": [
           {
             "title": "Longevity gene from naked mole rats extends lifespan of ...",
@@ -146,13 +176,13 @@
           },
           {
             "title": "Scientists successfully transfer longevity gene and extend ...",
-            "url": "https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/",
-            "source": "Reddit · r/longevity"
+            "url": "https://www.reddit.com/r/Futurology/comments/1tdzn1y/scientists_successfully_transfer_longevity_gene/",
+            "source": "Reddit · r/Futurology"
           },
           {
-            "title": "Scientists Discover Longevity Gene Therapy That Successfully ...",
-            "url": "https://www.youtube.com/watch?v=UkSJyaP_-Aw",
-            "source": "YouTube · Medical Dialogues"
+            "title": "Scientists Successfully Transfer Longevity Gene, Paving ...",
+            "url": "https://scitechdaily.com/scientists-successfully-transfer-longevity-gene-paving-the-way-for-extending-human-lifespan/",
+            "source": "SciTechDaily"
           }
         ]
       }
@@ -167,7 +197,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-19T01:25:52.935823+00:00",
+        "checked_at": "2026-08-21T01:35:22.328325+00:00",
         "independent_sources": [
           {
             "title": "Insilico Medicine and Human Longevity Announce ...",

@@ -1,24 +1,24 @@
 ---
-title: "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities"
+title: "Intel deepens ties with Taiwan's chip supply chain as October talks expand"
 domain: "半導體／台股供應鏈"
-date: "Mar 3, 2026"
+date: "Jun 23, 2026"
 status: "已發布"
 tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 ---
 
-## President Lai meets Semiconductor Industry Association delegation-News releases-News & activities
+## Intel deepens ties with Taiwan's chip supply chain as October talks expand
 
 **領域**：[半導體](https://example.com/aff?ref=nexus&product=chip-analysis)／台股[供應鏈](https://example.com/aff?ref=nexus&product=supply-chain-tool)
-**日期**：Mar 3, 2026
+**日期**：Jun 23, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
 
 ### 摘要
 
-On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...
+Intel is deepening cooperation with Taiwan's semiconductor supply chain and plans to broaden its engagement again in mid-October after...
 
-本篇報導來自 **Office of the President Republic of China(Taiwan)**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **digitimes**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 市場背景與產業脈絡
 
@@ -42,10 +42,10 @@ On the morning of March 2, President Lai Ching-te met with a delegation from the
 
 ### 參考來源
 
-- 原始來源：[Office of the President Republic of China(Taiwan)](https://english.president.gov.tw/News/7091)
-- 佐證來源：[President Lai meets Semiconductor Industry Association ...](https://ocacnews.net/article/421428)
-- 佐證來源：[Taiwan's Lai Ching-te meets US Semiconductor Industry ...](https://www.linkedin.com/posts/erudite-asia_%E6%8E%A5%E8%A6%8B%E7%BE%8E%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD%E5%8D%94%E6%9C%83%E8%A8%AA%E5%95%8F%E5%9C%98%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%9B%BC%E5%BC%B7%E5%8C%96%E4%B8%89%E5%A4%A7%E9%97%9C%E9%8D%B5%E6%8A%80%E8%A1%93%E7%A0%94%E7%99%BC-%E8%95%83%E6%96%B0%E8%81%9E-activity-7434382093079597056-nlOt)
-- 佐證來源：[President Lai meets Semiconductor Industry Association ...](https://investtaiwan.nat.gov.tw/newsPage62591eng?lang=eng&search=62591)
+- 原始來源：[digitimes](https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html)
+- 佐證來源：[Intel deepens ties with Taiwan's chip supply chain as ...](https://www.reddit.com/r/intelstock/comments/1usm1bk/intel_deepens_ties_with_taiwans_chip_supply_chain/)
+- 佐證來源：[Intel CEO says TSMC a 'partner' in chip production](https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858420)
+- 佐證來源：[#VantageOnFirstpost: Is the US After Taiwan's Semiconductor ...](https://www.facebook.com/firstpostin/posts/vantageonfirstpost-is-the-us-after-taiwans-semiconductor-supply-chain-us-and-tai/1416129163881400/)
 
 ### 相關資源
 
