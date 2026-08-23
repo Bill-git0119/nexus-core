@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-21T01:35:00.291203+00:00",
+  "generated_at": "2026-08-23T01:38:13.754070+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
-      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
-      "source": "Yahoo Finance",
-      "date": "May 14, 2026",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "The Motley Fool",
+      "date": "3 weeks ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
-      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
-      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
-      "source": "Air Liquide",
-      "date": "Mar 25, 2026",
+      "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
+      "url": "https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/",
+      "snippet": "July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trade barriers are rapidly reshaping the production and supply...",
+      "source": "upi",
+      "date": "4 weeks ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -30,13 +30,22 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "President Lai meets Semiconductor Industry Association delegation-News releases-News & activities",
-      "url": "https://english.president.gov.tw/News/7091",
-      "snippet": "On the morning of March 2, President Lai Ching-te met with a delegation from the Semiconductor Industry Association (SIA). In remarks, President Lai stated...",
-      "source": "Office of the President Republic of China(Taiwan)",
-      "date": "Mar 3, 2026",
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
+      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
+      "source": "Yahoo Finance",
+      "date": "May 14, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "George Church of Harvard to present at the 13th Aging Research & Drug Discovery (ARDD) meeting in Boston",
+      "url": "https://www.eurekalert.org/news-releases/1140568",
+      "snippet": "BOSTON, MA — Aug 18, 2026 — Insilico Medicine and the ARDD organizing committee today announced that George Church, Professor of Genetics at...",
+      "source": "EurekAlert!",
+      "date": "4 days ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
@@ -53,15 +62,6 @@
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
       "source": "Science Daily",
       "date": "May 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Reimagining drug discovery through the lens of aging biology: Fiona Marshall to present at the 13th Aging Research & Drug Discovery (ARDD) Meeting in Boston",
-      "url": "https://www.eurekalert.org/news-releases/1139303",
-      "snippet": "BOSTON, MA — Aug 5, 2026 — Insilico Medicine and the ARDD organizing committee are pleased to announce that Fiona Marshall, President of...",
-      "source": "EurekAlert!",
-      "date": "2 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
