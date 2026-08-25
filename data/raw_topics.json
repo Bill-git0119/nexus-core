@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-08-23T01:38:13.754070+00:00",
+  "generated_at": "2026-08-25T01:26:09.144159+00:00",
   "total_topics": 8,
   "topics": [
+    {
+      "title": "Unbreakable Shield: Why Taiwan’s Chip Expertise Cannot Be Cloned",
+      "url": "https://cepa.org/article/unbreakable-shield-why-taiwans-chip-expertise-cannot-be-cloned/",
+      "snippet": "Taiwan is building semiconductor plants in the US, Japan, and Europe. But this diversification will not break global dependence on the...",
+      "source": "Center for European Policy Analysis (CEPA)",
+      "date": "11 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Taiwan semiconductor materials team up to build local supply chain",
+      "url": "https://www.digitimes.com/news/a20260824PD202/materials-taiwan-supply-chain-equipment.html",
+      "snippet": "Taiwan's semiconductor materials industry is entering a new window of opportunity as advanced semiconductor process and packaging...",
+      "source": "digitimes",
+      "date": "23 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "5 of the Best U.S. Semiconductor Stocks to Buy",
+      "url": "https://money.usnews.com/investing/articles/best-u-s-semiconductor-stocks-to-buy",
+      "snippet": "Semiconductor investors can insulate themselves from potential supply chain disruptions in Taiwan.",
+      "source": "U.S. News Money",
+      "date": "3 days ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
     {
       "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
       "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
@@ -12,47 +39,20 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
-      "url": "https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/",
-      "snippet": "July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trade barriers are rapidly reshaping the production and supply...",
-      "source": "upi",
-      "date": "4 weeks ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
-      "url": "https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html",
-      "snippet": "Intel is deepening cooperation with Taiwan's semiconductor supply chain and plans to broaden its engagement again in mid-October after...",
-      "source": "digitimes",
-      "date": "Jun 23, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
-      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
-      "source": "Yahoo Finance",
-      "date": "May 14, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "George Church of Harvard to present at the 13th Aging Research & Drug Discovery (ARDD) meeting in Boston",
-      "url": "https://www.eurekalert.org/news-releases/1140568",
-      "snippet": "BOSTON, MA — Aug 18, 2026 — Insilico Medicine and the ARDD organizing committee today announced that George Church, Professor of Genetics at...",
-      "source": "EurekAlert!",
-      "date": "4 days ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Adiv Johnson, Ph.D., chief scientific officer at Tally Health, to present at the 13th Aging Research & Drug Discovery (ARDD) Meeting in Boston",
+      "url": "https://www.eurekalert.org/news-releases/1140226",
+      "snippet": "BOSTON, MA — Aug 14, 2026 — Insilico Medicine and the ARDD organizing committee are pleased to announce that Adiv Johnson, Ph.D.,...",
+      "source": "EurekAlert!",
+      "date": "1 week ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -66,11 +66,11 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
-      "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
-      "source": "Insilico Medicine",
-      "date": "May 26, 2026",
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "Jun 9, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

@@ -1,24 +1,24 @@
 ---
-title: "Longevity Science Is Overhyped. But This Research Really Could Change Humanity."
+title: "The first-ever reverse-aging drug was just injected into a human"
 domain: "長壽科學／運動醫學"
-date: "May 1, 2026"
+date: "Jun 9, 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
 
-## [longevity](https://example.com/aff?ref=nexus&product=longevity-guide) Science Is Overhyped. But This Research Really Could Change Humanity.
+## The first-ever reverse-aging drug was just injected into a human
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：May 1, 2026
+**日期**：Jun 9, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
 
 ### 摘要
 
-A new therapy has the potential to cure hundreds of diseases — and even reverse aging.
+Cellular reprogramming is the hottest topic in [longevity](https://example.com/aff?ref=nexus&product=longevity-guide) science, with tech titans like Sam Altman investing in it.
 
-本篇報導來自 **The New York Times**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **Business Insider**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 研究背景與科學基礎
 
@@ -42,10 +42,10 @@ A new therapy has the potential to cure hundreds of diseases — and even revers
 
 ### 參考來源
 
-- 原始來源：[The New York Times](https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html)
-- 佐證來源：[Longevity Science Is Overhyped. But This Research Really ...](https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo)
-- 佐證來源：[This @NYTmag article on longevity science, reversing ...](https://x.com/EricTopol/status/2048855527757942819?lang=en)
-- 佐證來源：[Longevity Science Is Overhyped. But This Research Really ...](https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity)
+- 原始來源：[Business Insider](https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6)
+- 佐證來源：[World-first: therapy to make cells young again trialled in a ...](https://www.nature.com/articles/d41586-026-01836-7)
+- 佐證來源：[The first human test of a rejuvenation method will begin “ ...](https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/)
+- 佐證來源：[A first-of-its-kind shot that promises to reverse aging was ...](https://www.facebook.com/yahoonews/posts/a-first-of-its-kind-shot-that-promises-to-reverse-aging-was-just-injected-into-a/1389919556327059/)
 
 ### 相關資源
 

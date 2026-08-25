@@ -1,72 +1,12 @@
 {
-  "generated_at": "2026-08-23T01:38:24.067491+00:00",
+  "generated_at": "2026-08-25T01:26:29.431719+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 5,
-    "discarded": 3
+    "verified": 3,
+    "discarded": 5
   },
   "verified_topics": [
-    {
-      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
-      "url": "https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html",
-      "snippet": "Intel is deepening cooperation with Taiwan's semiconductor supply chain and plans to broaden its engagement again in mid-October after...",
-      "source": "digitimes",
-      "date": "Jun 23, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-08-23T01:38:16.696746+00:00",
-        "independent_sources": [
-          {
-            "title": "Intel CEO says TSMC a 'partner' in chip production",
-            "url": "https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858420",
-            "source": "Taipei Times"
-          },
-          {
-            "title": "Intel deepens ties with Taiwan's chip supply chain as ...",
-            "url": "https://www.reddit.com/r/intelstock/comments/1usm1bk/intel_deepens_ties_with_taiwans_chip_supply_chain/",
-            "source": "Reddit · r/intelstock"
-          },
-          {
-            "title": "US-China tech tensions redraw supply chains Europe flags ...",
-            "url": "https://www.facebook.com/WIONews/posts/us-china-tech-tensions-redraw-supply-chains-europe-flags-taiwan-china-risks-to-c/1385837166988787/",
-            "source": "Facebook · WION"
-          }
-        ]
-      }
-    },
-    {
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
-      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
-      "source": "Yahoo Finance",
-      "date": "May 14, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-08-23T01:38:17.859971+00:00",
-        "independent_sources": [
-          {
-            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...",
-            "url": "https://1buy.ai/market-intelligence/article/baa28fcc-ce54-4097-bca5-5a8a1d6cb54e",
-            "source": "1BUY.AI"
-          },
-          {
-            "title": "Taiwan Semiconductor Manufacturing Company Limited ...",
-            "url": "https://sg.finance.yahoo.com/quote/TSMN.MX/news/",
-            "source": "Yahoo Finance Singapore"
-          },
-          {
-            "title": "taiwan semiconductor manufactur (tsmc.ba)",
-            "url": "https://uk.finance.yahoo.com/quote/TSMC.BA/",
-            "source": "Yahoo Finance UK"
-          }
-        ]
-      }
-    },
     {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
@@ -77,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-23T01:38:20.025335+00:00",
+        "checked_at": "2026-08-25T01:26:12.455792+00:00",
         "independent_sources": [
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
@@ -107,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-23T01:38:23.153701+00:00",
+        "checked_at": "2026-08-25T01:26:22.166315+00:00",
         "independent_sources": [
           {
             "title": "Longevity gene from naked mole rats extends lifespan of ...",
@@ -115,44 +55,44 @@
             "source": "University of Rochester"
           },
           {
-            "title": "Scientists successfully transfer longevity gene and extend ...",
-            "url": "https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/",
-            "source": "Reddit · r/longevity"
-          },
-          {
             "title": "Scientists Successfully Transfer Longevity Gene, Paving ...",
             "url": "https://scitechdaily.com/scientists-successfully-transfer-longevity-gene-paving-the-way-for-extending-human-lifespan/",
             "source": "SciTechDaily"
+          },
+          {
+            "title": "Scientists Discover Longevity Gene Therapy That Successfully ...",
+            "url": "https://www.youtube.com/watch?v=UkSJyaP_-Aw",
+            "source": "YouTube · Medical Dialogues"
           }
         ]
       }
     },
     {
-      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-      "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
-      "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
-      "source": "Insilico Medicine",
-      "date": "May 26, 2026",
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "Jun 9, 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-23T01:38:24.067467+00:00",
+        "checked_at": "2026-08-25T01:26:29.431693+00:00",
         "independent_sources": [
           {
-            "title": "Insilico Medicine and Human Longevity Announce ...",
-            "url": "https://www.prnewswire.com/news-releases/insilico-medicine-and-human-longevity-announce-collaboration-to-co-develop-industry-first-ai-foundation-model-for-longevity-science-302781904.html",
-            "source": "PR Newswire"
+            "title": "World-first: therapy to make cells young again trialled in a ...",
+            "url": "https://www.nature.com/articles/d41586-026-01836-7",
+            "source": "Nature"
           },
           {
-            "title": "Insilico Medicine and Human Longevity to co-develop ...",
-            "url": "https://www.biospectrumasia.com/index.php/article/pdf/27689",
-            "source": "BioSpectrum Asia"
+            "title": "The first human test of a rejuvenation method will begin “ ...",
+            "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/",
+            "source": "MIT Technology Review"
           },
           {
-            "title": "AI Meets Aging Inside the Longevity Revolution with ...",
-            "url": "https://www.drugdiscoveryonline.com/doc/ai-meets-aging-inside-the-longevity-revolution-with-insilico-medicine-part-i-0001",
-            "source": "Drug Discovery Online"
+            "title": "A first-of-its-kind shot that promises to reverse aging was ...",
+            "url": "https://www.facebook.com/yahoonews/posts/a-first-of-its-kind-shot-that-promises-to-reverse-aging-was-just-injected-into-a/1389919556327059/",
+            "source": "Facebook · Yahoo News"
           }
         ]
       }
