@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:26:29.431719+00:00",
+  "generated_at": "2026-08-27T08:23:11.710279+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -8,81 +8,51 @@
   },
   "verified_topics": [
     {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
-      "domain": "Longevity/Sports Medicine",
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "url": "https://www.google.com/goto?url=CAESigEB6zswFZspTxNFGiuOkp4BR3igNyVv0hrNtcaYoggnl-TzB8wsDLhJ9WKHMDgsBIvYXJsBJmpLVFn3VuOlgodsv7t6epTpf_UyE5WjxSQE7jUTCoflZDj9STm7DaFYzVYatqMg9_bI9M713tHmOkEqNtPVh3lb17HdpYx6II1Z39M4jV-Tsh3ruaw",
+      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
+      "source": "Yahoo Finance",
+      "date": "May 14, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-25T01:26:12.455792+00:00",
+        "checked_at": "2026-08-27T08:23:09.018281+00:00",
         "independent_sources": [
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
-            "source": "LinkedIn · Nir Barzilai"
+            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain ...",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
+            "source": "Yahoo Finance"
           },
           {
-            "title": "This @NYTmag article on longevity science, reversing ...",
-            "url": "https://x.com/EricTopol/status/2048855527757942819?lang=en",
-            "source": "X · EricTopol"
+            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...",
+            "url": "https://www.1buy.ai/market-intelligence/article/4b309b9e-6ec7-432e-9a5c-c15ea652ba45",
+            "source": "1BUY.AI"
           },
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
-            "source": "Center for Genetics and Society"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-      "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
-      "source": "Science Daily",
-      "date": "May 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-08-25T01:26:22.166315+00:00",
-        "independent_sources": [
-          {
-            "title": "Longevity gene from naked mole rats extends lifespan of ...",
-            "url": "https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/",
-            "source": "University of Rochester"
-          },
-          {
-            "title": "Scientists Successfully Transfer Longevity Gene, Paving ...",
-            "url": "https://scitechdaily.com/scientists-successfully-transfer-longevity-gene-paving-the-way-for-extending-human-lifespan/",
-            "source": "SciTechDaily"
-          },
-          {
-            "title": "Scientists Discover Longevity Gene Therapy That Successfully ...",
-            "url": "https://www.youtube.com/watch?v=UkSJyaP_-Aw",
-            "source": "YouTube · Medical Dialogues"
+            "title": "TSM Expands Global Footprint: Growth Engine or Margin ...",
+            "url": "https://finance.yahoo.com/news/tsm-expands-global-footprint-growth-145200117.html",
+            "source": "Yahoo Finance"
           }
         ]
       }
     },
     {
       "title": "The first-ever reverse-aging drug was just injected into a human",
-      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "url": "https://www.google.com/goto?url=CAESlwEB6zswFZ6LL-jz6sC5IXge7IcyzQ1tbiz7uvlLsrv5b-3oUT0rJ-d13MVZbElpPCZEiBA8nQpgcAVxNR3LdiUv2oFDOtWXzcTD8UdqtjH2Aurm822S7FB7QDcE6ClhqC7Me4Z9-HpHGpVUIuOkFK-3dvOlUIJo86_6RtYTjnbgoD40yXHgYQK2rbkxgp4bEdlUq81U1Tfn",
       "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
       "source": "Business Insider",
-      "date": "Jun 9, 2026",
+      "date": "9 Jun 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-08-25T01:26:29.431693+00:00",
+        "checked_at": "2026-08-27T08:23:10.989822+00:00",
         "independent_sources": [
           {
-            "title": "World-first: therapy to make cells young again trialled in a ...",
-            "url": "https://www.nature.com/articles/d41586-026-01836-7",
-            "source": "Nature"
+            "title": "The first-ever reverse-aging drug was just injected into a ...",
+            "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+            "source": "Business Insider"
           },
           {
             "title": "The first human test of a rejuvenation method will begin “ ...",
@@ -90,9 +60,39 @@
             "source": "MIT Technology Review"
           },
           {
-            "title": "A first-of-its-kind shot that promises to reverse aging was ...",
-            "url": "https://www.facebook.com/yahoonews/posts/a-first-of-its-kind-shot-that-promises-to-reverse-aging-was-just-injected-into-a/1389919556327059/",
-            "source": "Facebook · Yahoo News"
+            "title": "First human trial of reverse-aging drug begins",
+            "url": "https://www.morningbrew.com/stories/first-human-trial-of-reverse-aging-drug-begins",
+            "source": "Morning Brew"
+          }
+        ]
+      }
+    },
+    {
+      "title": "How long can humans live? We simply don’t know",
+      "url": "https://www.google.com/goto?url=CAESagHrOzAVsX7km1jv38i2dvHthfg92684qAH94a8Ghi5YPxumYNX8CZ68eqevST8HX65Hg0kk3AIyYAaWRE5-7lO33d7HpljrRdn__HCSMv7T_aNV5uz3q9m9JuniK09QfHZkusOSmo05C_I",
+      "snippet": "Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul...",
+      "source": "Nature",
+      "date": "1 Jun 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-08-27T08:23:11.710256+00:00",
+        "independent_sources": [
+          {
+            "title": "How long can humans live? We simply don't know",
+            "url": "https://www.nature.com/articles/d41586-026-01728-w",
+            "source": "Nature"
+          },
+          {
+            "title": "How long can humans live? All evidence points to a ...",
+            "url": "https://www.nature.com/articles/d41586-026-02111-5",
+            "source": "Nature"
+          },
+          {
+            "title": "How long can humans live? We simply don't know.",
+            "url": "https://www.reddit.com/r/immortalists/comments/1u6uw2f/how_long_can_humans_live_we_simply_dont_know/",
+            "source": "Reddit · r/immortalists"
           }
         ]
       }

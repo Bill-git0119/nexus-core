@@ -1,24 +1,24 @@
 ---
-title: "The first-ever reverse-aging drug was just injected into a human"
+title: "How long can humans live? We simply don’t know"
 domain: "長壽科學／運動醫學"
-date: "9 Jun 2026"
+date: "1 Jun 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
 
-## The first-ever reverse-aging drug was just injected into a human
+## How long can humans live? We simply don’t know
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：9 Jun 2026
+**日期**：1 Jun 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
 
 ### 摘要
 
-Cellular reprogramming is the hottest topic in [longevity](https://example.com/aff?ref=nexus&product=longevity-guide) science, with tech titans like Sam Altman investing in it.
+Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says [longevity](https://example.com/aff?ref=nexus&product=longevity-guide) researcher Saul...
 
-本篇報導來自 **Business Insider**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **Nature**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 研究背景與科學基礎
 
@@ -42,10 +42,10 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 
 ### 參考來源
 
-- 原始來源：[Business Insider](https://www.google.com/goto?url=CAESlwEB6zswFZ6LL-jz6sC5IXge7IcyzQ1tbiz7uvlLsrv5b-3oUT0rJ-d13MVZbElpPCZEiBA8nQpgcAVxNR3LdiUv2oFDOtWXzcTD8UdqtjH2Aurm822S7FB7QDcE6ClhqC7Me4Z9-HpHGpVUIuOkFK-3dvOlUIJo86_6RtYTjnbgoD40yXHgYQK2rbkxgp4bEdlUq81U1Tfn)
-- 佐證來源：[The first-ever reverse-aging drug was just injected into a ...](https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6)
-- 佐證來源：[The first human test of a rejuvenation method will begin “ ...](https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/)
-- 佐證來源：[First human trial of reverse-aging drug begins](https://www.morningbrew.com/stories/first-human-trial-of-reverse-aging-drug-begins)
+- 原始來源：[Nature](https://www.google.com/goto?url=CAESagHrOzAVsX7km1jv38i2dvHthfg92684qAH94a8Ghi5YPxumYNX8CZ68eqevST8HX65Hg0kk3AIyYAaWRE5-7lO33d7HpljrRdn__HCSMv7T_aNV5uz3q9m9JuniK09QfHZkusOSmo05C_I)
+- 佐證來源：[How long can humans live? We simply don't know](https://www.nature.com/articles/d41586-026-01728-w)
+- 佐證來源：[How long can humans live? All evidence points to a ...](https://www.nature.com/articles/d41586-026-02111-5)
+- 佐證來源：[How long can humans live? We simply don't know.](https://www.reddit.com/r/immortalists/comments/1u6uw2f/how_long_can_humans_live_we_simply_dont_know/)
 
 ### 相關資源
 

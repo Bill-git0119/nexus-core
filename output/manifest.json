@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:26:29.437235+00:00",
+  "generated_at": "2026-08-27T08:23:11.714476+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
   "total_articles": 3,
   "affiliate_links_loaded": 16,
@@ -9,23 +9,13 @@
   },
   "articles": [
     {
-      "slug": "longevity-science-is-overhyped-but-this-research-really-coul",
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "May 1, 2026",
-      "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
-      "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "scientists-successfully-transfer-longevity-gene-and-extend-l",
-      "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "May 10, 2026",
-      "notion_file": "output/notion/scientists-successfully-transfer-longevity-gene-and-extend-l.md",
-      "ghpages_file": "output/ghpages/scientists-successfully-transfer-longevity-gene-and-extend-l.html",
+      "slug": "tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-",
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "May 14, 2026",
+      "notion_file": "output/notion/tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-.md",
+      "ghpages_file": "output/ghpages/tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-.html",
       "citations_count": 3
     },
     {
@@ -33,9 +23,19 @@
       "title": "The first-ever reverse-aging drug was just injected into a human",
       "domain": "Longevity/Sports Medicine",
       "domain_zh": "長壽科學／運動醫學",
-      "date": "Jun 9, 2026",
+      "date": "9 Jun 2026",
       "notion_file": "output/notion/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.md",
       "ghpages_file": "output/ghpages/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "how-long-can-humans-live-we-simply-dont-know",
+      "title": "How long can humans live? We simply don’t know",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "1 Jun 2026",
+      "notion_file": "output/notion/how-long-can-humans-live-we-simply-dont-know.md",
+      "ghpages_file": "output/ghpages/how-long-can-humans-live-we-simply-dont-know.html",
       "citations_count": 3
     }
   ]
