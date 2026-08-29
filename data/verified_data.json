@@ -1,101 +1,10 @@
 {
-  "generated_at": "2026-08-27T08:23:11.710279+00:00",
+  "generated_at": "2026-08-29T06:24:00.550188+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 3,
-    "discarded": 5
+    "verified": 0,
+    "discarded": 8
   },
-  "verified_topics": [
-    {
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
-      "url": "https://www.google.com/goto?url=CAESigEB6zswFZspTxNFGiuOkp4BR3igNyVv0hrNtcaYoggnl-TzB8wsDLhJ9WKHMDgsBIvYXJsBJmpLVFn3VuOlgodsv7t6epTpf_UyE5WjxSQE7jUTCoflZDj9STm7DaFYzVYatqMg9_bI9M713tHmOkEqNtPVh3lb17HdpYx6II1Z39M4jV-Tsh3ruaw",
-      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
-      "source": "Yahoo Finance",
-      "date": "May 14, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-08-27T08:23:09.018281+00:00",
-        "independent_sources": [
-          {
-            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain ...",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
-            "source": "Yahoo Finance"
-          },
-          {
-            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...",
-            "url": "https://www.1buy.ai/market-intelligence/article/4b309b9e-6ec7-432e-9a5c-c15ea652ba45",
-            "source": "1BUY.AI"
-          },
-          {
-            "title": "TSM Expands Global Footprint: Growth Engine or Margin ...",
-            "url": "https://finance.yahoo.com/news/tsm-expands-global-footprint-growth-145200117.html",
-            "source": "Yahoo Finance"
-          }
-        ]
-      }
-    },
-    {
-      "title": "The first-ever reverse-aging drug was just injected into a human",
-      "url": "https://www.google.com/goto?url=CAESlwEB6zswFZ6LL-jz6sC5IXge7IcyzQ1tbiz7uvlLsrv5b-3oUT0rJ-d13MVZbElpPCZEiBA8nQpgcAVxNR3LdiUv2oFDOtWXzcTD8UdqtjH2Aurm822S7FB7QDcE6ClhqC7Me4Z9-HpHGpVUIuOkFK-3dvOlUIJo86_6RtYTjnbgoD40yXHgYQK2rbkxgp4bEdlUq81U1Tfn",
-      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
-      "source": "Business Insider",
-      "date": "9 Jun 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-08-27T08:23:10.989822+00:00",
-        "independent_sources": [
-          {
-            "title": "The first-ever reverse-aging drug was just injected into a ...",
-            "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
-            "source": "Business Insider"
-          },
-          {
-            "title": "The first human test of a rejuvenation method will begin “ ...",
-            "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/",
-            "source": "MIT Technology Review"
-          },
-          {
-            "title": "First human trial of reverse-aging drug begins",
-            "url": "https://www.morningbrew.com/stories/first-human-trial-of-reverse-aging-drug-begins",
-            "source": "Morning Brew"
-          }
-        ]
-      }
-    },
-    {
-      "title": "How long can humans live? We simply don’t know",
-      "url": "https://www.google.com/goto?url=CAESagHrOzAVsX7km1jv38i2dvHthfg92684qAH94a8Ghi5YPxumYNX8CZ68eqevST8HX65Hg0kk3AIyYAaWRE5-7lO33d7HpljrRdn__HCSMv7T_aNV5uz3q9m9JuniK09QfHZkusOSmo05C_I",
-      "snippet": "Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul...",
-      "source": "Nature",
-      "date": "1 Jun 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-08-27T08:23:11.710256+00:00",
-        "independent_sources": [
-          {
-            "title": "How long can humans live? We simply don't know",
-            "url": "https://www.nature.com/articles/d41586-026-01728-w",
-            "source": "Nature"
-          },
-          {
-            "title": "How long can humans live? All evidence points to a ...",
-            "url": "https://www.nature.com/articles/d41586-026-02111-5",
-            "source": "Nature"
-          },
-          {
-            "title": "How long can humans live? We simply don't know.",
-            "url": "https://www.reddit.com/r/immortalists/comments/1u6uw2f/how_long_can_humans_live_we_simply_dont_know/",
-            "source": "Reddit · r/immortalists"
-          }
-        ]
-      }
-    }
-  ]
+  "verified_topics": []
 }
