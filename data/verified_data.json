@@ -1,10 +1,131 @@
 {
-  "generated_at": "2026-08-29T06:24:00.550188+00:00",
+  "generated_at": "2026-08-31T04:38:43.058097+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 0,
-    "discarded": 8
+    "verified": 4,
+    "discarded": 4
   },
-  "verified_topics": []
+  "verified_topics": [
+    {
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "url": "https://www.google.com/goto?url=CAESigEB6zswFQxxffw5OcQcW0uP6IBrNGpiOuHgqm-DdujMql825UfG_O7RHVdSJRgkCYNP9KYM7yKAQoG8zn9bNLWqr1MWa_KjpVmnJZyZCIRnl2v3EeXJ2KUrK5XUiV6K3TPkH9tzHfy6AR2n8lSZ86xVNEez-7B6Idd8JB56iOjBcnf0ibpik9cFi7E",
+      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
+      "source": "Yahoo Finance",
+      "date": "May 14, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-08-31T04:38:32.111090+00:00",
+        "independent_sources": [
+          {
+            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain ...",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
+            "source": "Yahoo Finance"
+          },
+          {
+            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...",
+            "url": "https://www.1buy.ai/market-intelligence/article/4b309b9e-6ec7-432e-9a5c-c15ea652ba45",
+            "source": "1BUY.AI"
+          },
+          {
+            "title": "TSM Expands Global Footprint: Growth Engine or Margin ...",
+            "url": "https://finance.yahoo.com/news/tsm-expands-global-footprint-growth-145200117.html",
+            "source": "Yahoo Finance"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "url": "https://www.google.com/goto?url=CAESoQEB6zswFXgqTrDc8RnGe7cn30znmVsZIv7G5_ETrqEyalBOkHYv7kYrvj35Coc_tJoCUKKHX3M8tEEy2dZJurZth-TEqhfQEAj9TZZSxr7V124X-Cbn1A8fgsW7oND-Qem4HQR2ZklJifxYn74iSk_Tfi16oA4jSoAiw2GLqMRYk5b9ck6Yb0eGLvFRebmRACXpHXrPj7ek7fVfjIFWH3bZug",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "source": "The New York Times",
+      "date": "May 1, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-08-31T04:38:35.709831+00:00",
+        "independent_sources": [
+          {
+            "title": "Cellular Rejuvenation Has the Potential to Reverse Aging",
+            "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+            "source": "The New York Times"
+          },
+          {
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
+            "source": "LinkedIn · Nir Barzilai"
+          },
+          {
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
+            "source": "Center for Genetics and Society"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Scientists successfully transfer longevity gene and extend lifespan",
+      "url": "https://www.google.com/goto?url=CAESdgHrOzAVtpvVeptbI5qctuctHJSRdm4P4-TNiHU81n20zlFCFxV-a8ZNCBtac1crjCYGWdJc5JMoL7IQATD5UfU3W9Ok-JQHNz5A2SMoGDfGODyB6kl2ohgX6fcQanX4eYSEuQCQuYKU65rRPukuwgWNdupfdhI",
+      "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
+      "source": "Science Daily",
+      "date": "May 10, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-08-31T04:38:40.572022+00:00",
+        "independent_sources": [
+          {
+            "title": "Scientists successfully transfer longevity gene and extend ...",
+            "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
+            "source": "Science Daily"
+          },
+          {
+            "title": "Longevity gene from naked mole rats extends lifespan of ...",
+            "url": "https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/",
+            "source": "University of Rochester"
+          },
+          {
+            "title": "Scientists successfully transfer longevity gene and extend ...",
+            "url": "https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/",
+            "source": "Reddit · r/longevity"
+          }
+        ]
+      }
+    },
+    {
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.google.com/goto?url=CAESlwEB6zswFbik548R1Hl6LPiyb50hwVKKmi9uFBNTBuWNGKpVHaqt1zSXczQroZMPxDu0q_jvYBKsO6X9KV2-TrWqJUt3A81J9NpZ1jZFLvtdCadRbtyRR9zXUcMWQ4AW_UKsBIhh1olHrtZZnFEqiW0ojkK3CynYo5r9WHfasqPFIhrohPVzsMbh0vWGCZfSkum_5IwRkURB",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "Jun 9, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-08-31T04:38:43.058064+00:00",
+        "independent_sources": [
+          {
+            "title": "The first-ever reverse-aging drug was just injected into a ...",
+            "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+            "source": "Business Insider"
+          },
+          {
+            "title": "World-first: therapy to make cells young again trialled in a ...",
+            "url": "https://www.nature.com/articles/d41586-026-01836-7",
+            "source": "Nature"
+          },
+          {
+            "title": "The first human test of a rejuvenation method will begin “ ...",
+            "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/",
+            "source": "MIT Technology Review"
+          }
+        ]
+      }
+    }
+  ]
 }

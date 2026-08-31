@@ -1,7 +1,7 @@
 ---
 title: "The first-ever reverse-aging drug was just injected into a human"
 domain: "長壽科學／運動醫學"
-date: "9 Jun 2026"
+date: "Jun 9, 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
@@ -9,7 +9,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ## The first-ever reverse-aging drug was just injected into a human
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：9 Jun 2026
+**日期**：Jun 9, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
@@ -42,10 +42,10 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 
 ### 參考來源
 
-- 原始來源：[Business Insider](https://www.google.com/goto?url=CAESlwEB6zswFZ6LL-jz6sC5IXge7IcyzQ1tbiz7uvlLsrv5b-3oUT0rJ-d13MVZbElpPCZEiBA8nQpgcAVxNR3LdiUv2oFDOtWXzcTD8UdqtjH2Aurm822S7FB7QDcE6ClhqC7Me4Z9-HpHGpVUIuOkFK-3dvOlUIJo86_6RtYTjnbgoD40yXHgYQK2rbkxgp4bEdlUq81U1Tfn)
+- 原始來源：[Business Insider](https://www.google.com/goto?url=CAESlwEB6zswFbik548R1Hl6LPiyb50hwVKKmi9uFBNTBuWNGKpVHaqt1zSXczQroZMPxDu0q_jvYBKsO6X9KV2-TrWqJUt3A81J9NpZ1jZFLvtdCadRbtyRR9zXUcMWQ4AW_UKsBIhh1olHrtZZnFEqiW0ojkK3CynYo5r9WHfasqPFIhrohPVzsMbh0vWGCZfSkum_5IwRkURB)
 - 佐證來源：[The first-ever reverse-aging drug was just injected into a ...](https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6)
+- 佐證來源：[World-first: therapy to make cells young again trialled in a ...](https://www.nature.com/articles/d41586-026-01836-7)
 - 佐證來源：[The first human test of a rejuvenation method will begin “ ...](https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/)
-- 佐證來源：[First human trial of reverse-aging drug begins](https://www.morningbrew.com/stories/first-human-trial-of-reverse-aging-drug-begins)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-08-27 08:23 UTC*
+*產生時間：2026-08-31 04:38 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, LongevityLab, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, SportsMedHub, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
