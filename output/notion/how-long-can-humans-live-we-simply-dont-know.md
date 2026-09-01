@@ -1,7 +1,7 @@
 ---
 title: "How long can humans live? We simply don’t know"
 domain: "長壽科學／運動醫學"
-date: "1 Jun 2026"
+date: "Jun 1, 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
@@ -9,7 +9,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ## How long can humans live? We simply don’t know
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：1 Jun 2026
+**日期**：Jun 1, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
@@ -42,10 +42,10 @@ Claims about the upper limits to human lifespan are characterized by hype, defic
 
 ### 參考來源
 
-- 原始來源：[Nature](https://www.google.com/goto?url=CAESagHrOzAVsX7km1jv38i2dvHthfg92684qAH94a8Ghi5YPxumYNX8CZ68eqevST8HX65Hg0kk3AIyYAaWRE5-7lO33d7HpljrRdn__HCSMv7T_aNV5uz3q9m9JuniK09QfHZkusOSmo05C_I)
+- 原始來源：[Nature](https://www.google.com/goto?url=CAESagHrOzAV0wpKTjCoibwa4DKYEdYJs52Z7FipVd4heqY5dtlbrrLHjIi5nZRtakXSAYWt0YK5gyGltbskLcJ4ELq2bjWgO9maAbzbcbBHO7zP1c6Inn-Ca2I7PwQ4qTjEo_aOGr64tHvG-RA)
 - 佐證來源：[How long can humans live? We simply don't know](https://www.nature.com/articles/d41586-026-01728-w)
-- 佐證來源：[How long can humans live? All evidence points to a ...](https://www.nature.com/articles/d41586-026-02111-5)
 - 佐證來源：[How long can humans live? We simply don't know.](https://www.reddit.com/r/immortalists/comments/1u6uw2f/how_long_can_humans_live_we_simply_dont_know/)
+- 佐證來源：[We've found the true limit on how long humans can live ...](https://www.sciencefocus.com/the-human-body/limit-on-ageing-lifespan)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Claims about the upper limits to human lifespan are characterized by hype, defic
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-08-27 08:23 UTC*
+*產生時間：2026-09-01 04:19 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, LongevityLab, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, HealthPro, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

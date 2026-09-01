@@ -42,9 +42,9 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 
 ### 參考來源
 
-- 原始來源：[Science Daily](https://www.google.com/goto?url=CAESdgHrOzAVtpvVeptbI5qctuctHJSRdm4P4-TNiHU81n20zlFCFxV-a8ZNCBtac1crjCYGWdJc5JMoL7IQATD5UfU3W9Ok-JQHNz5A2SMoGDfGODyB6kl2ohgX6fcQanX4eYSEuQCQuYKU65rRPukuwgWNdupfdhI)
-- 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
+- 原始來源：[Science Daily](https://www.google.com/goto?url=CAESdgHrOzAVTxU0lfn6KXLss5Ez8M4t_owHVk8ToGT1GmHJ0uORsJMp2roBG6sud0OPN0peKWLXNIomlUS0AqS0q1su8XrGrsh3KnOZGRqzEWK4m6i5_p7QHE9fhQQK3vzW1clRzY8mjh1g00blLROfvql264BzvQg)
 - 佐證來源：[Longevity gene from naked mole rats extends lifespan of ...](https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/)
+- 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
 - 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/)
 
 ### 相關資源
@@ -61,7 +61,7 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-08-31 04:38 UTC*
+*產生時間：2026-09-01 04:19 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, SportsMedHub, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, HealthPro, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
