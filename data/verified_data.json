@@ -1,158 +1,38 @@
 {
-  "generated_at": "2026-09-01T04:19:57.944969+00:00",
+  "generated_at": "2026-09-03T03:41:30.634044+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 5,
-    "discarded": 3
+    "verified": 1,
+    "discarded": 7
   },
   "verified_topics": [
     {
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
-      "url": "https://www.google.com/goto?url=CAESigEB6zswFQ8WEtws03CEcOQVOs7nRi0DWYiEXSxT658l4gkuoi7EwukA6F9BwSz98HYcCtwCfAGDuFRcd-nYs0Uft3yXrWjcocNmnWfZUNNWiFKY61uIgQJo6yex5dVMoXn7eie7r1GofyZ0l6nhFs6Iz-Cv-k9nPMrUQ7EVUWIP43spiVqEHv7e-zM",
-      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
-      "source": "Yahoo Finance",
-      "date": "May 14, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-01T04:19:36.181440+00:00",
-        "independent_sources": [
-          {
-            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain ...",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
-            "source": "Yahoo Finance"
-          },
-          {
-            "title": "TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...",
-            "url": "https://www.1buy.ai/market-intelligence/article/4b309b9e-6ec7-432e-9a5c-c15ea652ba45",
-            "source": "1BUY.AI"
-          },
-          {
-            "title": "TSM Expands Global Footprint: Growth Engine or Margin ...",
-            "url": "https://finance.yahoo.com/news/tsm-expands-global-footprint-growth-145200117.html",
-            "source": "Yahoo Finance"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
-      "url": "https://www.google.com/goto?url=CAES2wEB6zswFTLDtqXgHGnCid26qUZT-iYQa8b978EyzJEtaBogsJBIn6Dr9zjYKVhO6cXdwpdJc4WiWme-4Czhe1P38Bw3KrnrzmHAFIkBc8Wg2Z2uhVaL_55M8rVi7eT7uPKBx8ApmbbkXlrrUmZMOmM1yks8sni4Ej73Jirwawz_vHG0NN7DOWKTB8nAjC2BHyiY4vzutbopkmYHlQb_zB_mJCO3TvkYUz5RyElrenR2Z9_ONIQmzs8N6ZEvL32N3TCWMH_UlfOy2lnhm3dxqi2Duu_xwbxS5Uiw_QQ",
-      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
-      "source": "Air Liquide",
-      "date": "Mar 25, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-01T04:19:50.908327+00:00",
-        "independent_sources": [
-          {
-            "title": "Air Liquide inaugurates its first Advanced Materials ...",
-            "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
-            "source": "Air Liquide"
-          },
-          {
-            "title": "Air Liquide launches advanced materials plant in Taiwan",
-            "url": "https://www.indianchemicalnews.com/chemical/air-liquide-launches-advanced-materials-plant-in-taiwan-29857",
-            "source": "Indian Chemical News"
-          },
-          {
-            "title": "Press Releases",
-            "url": "https://electronics.airliquide.com/media-center/press-releases",
-            "source": "Air Liquide Electronics"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.google.com/goto?url=CAESoQEB6zswFQKps05rAP5xdeigXBGxB7azT4J1IJ3vo0E1oeyJWmhdZACafIv3i6r5U9JKqHHmaDaX8TjCldFcK85cOLIBUGo04fbQAOcDF-GY-MSBUh_MniODINd73kL0nUGJ0eQt-znZea8YZFLSRrcw1tc9VoVaD2CTuUyC5zDvtCWWbb5xMkMiL3zNqPx7yKsfO3RKFgk8e3Fsl7eY8L8Fjg",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
+      "title": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
+      "url": "https://www.google.com/goto?url=CAEShQEB6zswFcL4-J7HYkcnNUtynHATg7My0lSs3pL7NDHOvqgxK_mC_epXqYYl5wG25diQPf6E1VDftRqOJn-Lk--pJwxKC1y0ew9mOWknfSDXH-Ap5ArLe5aXt9hVhEMKZMSNwAemmv_cJ5-bKjm8Rna2dPnLrgHYpsGa-b5XK5bt9O0xJTb_",
+      "snippet": "Cambridge, MA — May 26, 2026 — Insilico Medicine (“Insilico”, 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven...",
+      "source": "Insilico Medicine",
+      "date": "May 26, 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-09-01T04:19:53.032710+00:00",
+        "checked_at": "2026-09-03T03:41:30.634017+00:00",
         "independent_sources": [
           {
-            "title": "Cellular Rejuvenation Has the Potential to Reverse Aging",
-            "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-            "source": "The New York Times"
+            "title": "Insilico Medicine and Human Longevity Announce ...",
+            "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
+            "source": "Insilico Medicine"
           },
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
-            "source": "LinkedIn · Nir Barzilai"
+            "title": "Insilico Medicine and Human Longevity Announce ...",
+            "url": "https://www.prnewswire.com/news-releases/insilico-medicine-and-human-longevity-announce-collaboration-to-co-develop-industry-first-ai-foundation-model-for-longevity-science-302781904.html",
+            "source": "PR Newswire"
           },
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
-            "source": "Center for Genetics and Society"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "url": "https://www.google.com/goto?url=CAESdgHrOzAVTxU0lfn6KXLss5Ez8M4t_owHVk8ToGT1GmHJ0uORsJMp2roBG6sud0OPN0peKWLXNIomlUS0AqS0q1su8XrGrsh3KnOZGRqzEWK4m6i5_p7QHE9fhQQK3vzW1clRzY8mjh1g00blLROfvql264BzvQg",
-      "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
-      "source": "Science Daily",
-      "date": "May 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-01T04:19:54.390375+00:00",
-        "independent_sources": [
-          {
-            "title": "Longevity gene from naked mole rats extends lifespan of ...",
-            "url": "https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/",
-            "source": "University of Rochester"
-          },
-          {
-            "title": "Scientists successfully transfer longevity gene and extend ...",
-            "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-            "source": "Science Daily"
-          },
-          {
-            "title": "Scientists successfully transfer longevity gene and extend ...",
-            "url": "https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/",
-            "source": "Reddit · r/longevity"
-          }
-        ]
-      }
-    },
-    {
-      "title": "How long can humans live? We simply don’t know",
-      "url": "https://www.google.com/goto?url=CAESagHrOzAV0wpKTjCoibwa4DKYEdYJs52Z7FipVd4heqY5dtlbrrLHjIi5nZRtakXSAYWt0YK5gyGltbskLcJ4ELq2bjWgO9maAbzbcbBHO7zP1c6Inn-Ca2I7PwQ4qTjEo_aOGr64tHvG-RA",
-      "snippet": "Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul...",
-      "source": "Nature",
-      "date": "Jun 1, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-01T04:19:57.944945+00:00",
-        "independent_sources": [
-          {
-            "title": "How long can humans live? We simply don't know",
-            "url": "https://www.nature.com/articles/d41586-026-01728-w",
-            "source": "Nature"
-          },
-          {
-            "title": "How long can humans live? We simply don't know.",
-            "url": "https://www.reddit.com/r/immortalists/comments/1u6uw2f/how_long_can_humans_live_we_simply_dont_know/",
-            "source": "Reddit · r/immortalists"
-          },
-          {
-            "title": "We've found the true limit on how long humans can live ...",
-            "url": "https://www.sciencefocus.com/the-human-body/limit-on-ageing-lifespan",
-            "source": "BBC Science Focus Magazine"
+            "title": "AI Meets Aging Inside the Longevity Revolution with ...",
+            "url": "https://www.drugdiscoveryonline.com/doc/ai-meets-aging-inside-the-longevity-revolution-with-insilico-medicine-part-i-0001",
+            "source": "Drug Discovery Online"
           }
         ]
       }
