@@ -42,7 +42,7 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 
 ### 參考來源
 
-- 原始來源：[Science Daily](https://www.google.com/goto?url=CAESdgHrOzAVTxU0lfn6KXLss5Ez8M4t_owHVk8ToGT1GmHJ0uORsJMp2roBG6sud0OPN0peKWLXNIomlUS0AqS0q1su8XrGrsh3KnOZGRqzEWK4m6i5_p7QHE9fhQQK3vzW1clRzY8mjh1g00blLROfvql264BzvQg)
+- 原始來源：[Science Daily](https://www.google.com/goto?url=CAESdgHrOzAVWPNaijC76lBRMJ8t8Jb-oVlxT5yJH9TUNbQ2t_YlPcgL8UlE1EAp5Z8uredRGNOiXzyT_w6FfDmw1EhThGeMuIyJHR-XCo5rwLMFIOvQI2taDrLUrE1oQ62_ctoUnqe1yd-6lEqnAMiRxzKwvzAbBKQ)
 - 佐證來源：[Longevity gene from naked mole rats extends lifespan of ...](https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/)
 - 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
 - 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/)
@@ -61,7 +61,7 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-01 04:19 UTC*
+*產生時間：2026-09-05 03:42 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, HealthPro, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, SportsMedHub, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
