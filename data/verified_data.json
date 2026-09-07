@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T03:42:26.598397+00:00",
+  "generated_at": "2026-09-07T03:43:55.174215+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -9,7 +9,7 @@
   "verified_topics": [
     {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.google.com/goto?url=CAESoQEB6zswFXcJmT644xRQgQHX_k5r-EiZTtIGPny5z4WhRJ5FPO3hBUIWFBnBIDe_ho-Q1sH6QgUQqoFHnJKWap4PLbJSjmLLqkzaZYFIYIsETjZmOmZM2JX4s_eNmKhaGeShMaTt4ibWlQeJPehwIvABveSWoZsumYYu2dQ4-DzJKbs0f3i04D484B2UsY3jELe3adwTaV3hlO31ze3WCx6blw",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
@@ -17,13 +17,8 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-09-05T03:42:25.338900+00:00",
+        "checked_at": "2026-09-07T03:43:53.759334+00:00",
         "independent_sources": [
-          {
-            "title": "Cellular Rejuvenation Has the Potential to Reverse Aging",
-            "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-            "source": "The New York Times"
-          },
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
             "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
@@ -31,15 +26,20 @@
           },
           {
             "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://academyofgeroscience.org/news/nyt-magazine-longevity-science",
-            "source": "Academy of Geroscience"
+            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
+            "source": "Center for Genetics and Society"
+          },
+          {
+            "title": "Aging Science News on X: \"Longevity ...",
+            "url": "https://x.com/AgingBiology/status/2049482568903303628",
+            "source": "X · AgingBiology"
           }
         ]
       }
     },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "url": "https://www.google.com/goto?url=CAESdgHrOzAVWPNaijC76lBRMJ8t8Jb-oVlxT5yJH9TUNbQ2t_YlPcgL8UlE1EAp5Z8uredRGNOiXzyT_w6FfDmw1EhThGeMuIyJHR-XCo5rwLMFIOvQI2taDrLUrE1oQ62_ctoUnqe1yd-6lEqnAMiRxzKwvzAbBKQ",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
       "source": "Science Daily",
       "date": "May 10, 2026",
@@ -47,22 +47,22 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-09-05T03:42:26.598373+00:00",
+        "checked_at": "2026-09-07T03:43:55.174181+00:00",
         "independent_sources": [
           {
-            "title": "Longevity gene from naked mole rats extends lifespan of ...",
-            "url": "https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/",
-            "source": "University of Rochester"
+            "title": "Scientists extend mice lifespan 12% by tweaking telomeres",
+            "url": "https://bigthink.com/health/telomere-aging/",
+            "source": "Big Think"
           },
           {
-            "title": "Scientists successfully transfer longevity gene and extend ...",
-            "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-            "source": "Science Daily"
+            "title": "THE LONGEVITY GENE: FROM NAKED MOLE RAT ...",
+            "url": "https://www.instagram.com/p/DYKSQkgCVKA/",
+            "source": "Instagram · digitalbrain01"
           },
           {
-            "title": "Scientists successfully transfer longevity gene and extend ...",
-            "url": "https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/",
-            "source": "Reddit · r/longevity"
+            "title": "Longevity Science Breakthroughs Reshaping How We Age",
+            "url": "https://que.com/longevity-science-breakthroughs-reshaping-how-we-age-4/",
+            "source": "QUE.com"
           }
         ]
       }

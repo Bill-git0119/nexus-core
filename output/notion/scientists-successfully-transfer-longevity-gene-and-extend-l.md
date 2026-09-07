@@ -42,10 +42,10 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 
 ### 參考來源
 
-- 原始來源：[Science Daily](https://www.google.com/goto?url=CAESdgHrOzAVWPNaijC76lBRMJ8t8Jb-oVlxT5yJH9TUNbQ2t_YlPcgL8UlE1EAp5Z8uredRGNOiXzyT_w6FfDmw1EhThGeMuIyJHR-XCo5rwLMFIOvQI2taDrLUrE1oQ62_ctoUnqe1yd-6lEqnAMiRxzKwvzAbBKQ)
-- 佐證來源：[Longevity gene from naked mole rats extends lifespan of ...](https://www.rochester.edu/newscenter/gene-transfer-hmw-ha-naked-mole-rats-extends-mice-lifespan-565032/)
-- 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
-- 佐證來源：[Scientists successfully transfer longevity gene and extend ...](https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/)
+- 原始來源：[Science Daily](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
+- 佐證來源：[Scientists extend mice lifespan 12% by tweaking telomeres](https://bigthink.com/health/telomere-aging/)
+- 佐證來源：[THE LONGEVITY GENE: FROM NAKED MOLE RAT ...](https://www.instagram.com/p/DYKSQkgCVKA/)
+- 佐證來源：[Longevity Science Breakthroughs Reshaping How We Age](https://que.com/longevity-science-breakthroughs-reshaping-how-we-age-4/)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-05 03:42 UTC*
+*產生時間：2026-09-07 03:43 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, SportsMedHub, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, LongevityLab, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
