@@ -1,54 +1,29 @@
 {
-  "generated_at": "2026-09-07T03:43:55.174215+00:00",
+  "generated_at": "2026-09-09T03:53:50.923409+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 2,
-    "discarded": 6
+    "verified": 1,
+    "discarded": 7
   },
   "verified_topics": [
-    {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-07T03:43:53.759334+00:00",
-        "independent_sources": [
-          {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
-            "source": "LinkedIn · Nir Barzilai"
-          },
-          {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
-            "source": "Center for Genetics and Society"
-          },
-          {
-            "title": "Aging Science News on X: \"Longevity ...",
-            "url": "https://x.com/AgingBiology/status/2049482568903303628",
-            "source": "X · AgingBiology"
-          }
-        ]
-      }
-    },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
-      "source": "Science Daily",
+      "source": "ScienceDaily",
       "date": "May 10, 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-09-07T03:43:55.174181+00:00",
+        "checked_at": "2026-09-09T03:53:50.923384+00:00",
         "independent_sources": [
+          {
+            "title": "Scientists just found the holy grail gene that could let ...",
+            "url": "https://m.economictimes.com/news/international/us/scientists-just-found-the-holy-grail-gene-that-could-let-humans-regrow-their-own-limbs-one-day/articleshow/131020766.cms",
+            "source": "The Economic Times"
+          },
           {
             "title": "Scientists extend mice lifespan 12% by tweaking telomeres",
             "url": "https://bigthink.com/health/telomere-aging/",
@@ -58,11 +33,6 @@
             "title": "THE LONGEVITY GENE: FROM NAKED MOLE RAT ...",
             "url": "https://www.instagram.com/p/DYKSQkgCVKA/",
             "source": "Instagram · digitalbrain01"
-          },
-          {
-            "title": "Longevity Science Breakthroughs Reshaping How We Age",
-            "url": "https://que.com/longevity-science-breakthroughs-reshaping-how-we-age-4/",
-            "source": "QUE.com"
           }
         ]
       }

@@ -18,7 +18,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 
 Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...
 
-本篇報導來自 **Science Daily**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **ScienceDaily**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 研究背景與科學基礎
 
@@ -42,10 +42,10 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 
 ### 參考來源
 
-- 原始來源：[Science Daily](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
+- 原始來源：[ScienceDaily](https://www.sciencedaily.com/releases/2026/05/260510030948.htm)
+- 佐證來源：[Scientists just found the holy grail gene that could let ...](https://m.economictimes.com/news/international/us/scientists-just-found-the-holy-grail-gene-that-could-let-humans-regrow-their-own-limbs-one-day/articleshow/131020766.cms)
 - 佐證來源：[Scientists extend mice lifespan 12% by tweaking telomeres](https://bigthink.com/health/telomere-aging/)
 - 佐證來源：[THE LONGEVITY GENE: FROM NAKED MOLE RAT ...](https://www.instagram.com/p/DYKSQkgCVKA/)
-- 佐證來源：[Longevity Science Breakthroughs Reshaping How We Age](https://que.com/longevity-science-breakthroughs-reshaping-how-we-age-4/)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-07 03:43 UTC*
+*產生時間：2026-09-09 03:53 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, LongevityLab, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, HealthPro, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

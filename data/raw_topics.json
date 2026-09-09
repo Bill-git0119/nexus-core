@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-09-07T03:43:52.128329+00:00",
+  "generated_at": "2026-09-09T03:53:42.202663+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "SEMICON Taiwan 2026: AI Is Lifting the Entire Semiconductor Supply Chain",
-      "url": "https://tspasemiconductor.substack.com/p/semicon-taiwan-2026-ai-is-lifting",
-      "snippet": "SEMICON Taiwan 2026 offered a clear message: the AI investment cycle is no longer benefiting only GPU, foundry, and memory suppliers.",
-      "source": "semivision",
-      "date": "2 days ago",
+      "title": "SEEQC Taps Taiwan's Semiconductor Ecosystem to Expand Quantum Computing Supply Chain",
+      "url": "https://www.eetasia.com/seeqc-taps-taiwans-semiconductor-ecosystem-to-expand-quantum-computing-supply-chain/",
+      "snippet": "SEEQC and Taiwan's quantum technology office will explore development, manufacturing and commercialization partnerships across the quantum...",
+      "source": "EE Times Asia",
+      "date": "5 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Foreign minister speaks at SEMICON Taiwan 2026",
+      "url": "https://www.taiwantoday.tw/6/286037",
+      "snippet": "The Ministry of Foreign Affairs co-hosted the 2026 Trusted Semiconductor Supply Chain Partnership Forum with Taipei City-based Chung-Hua...",
+      "source": "Taiwan Today",
+      "date": "1 day ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "AI Boom Pushes Taiwan’s TSMC Into Record Expansion and Global Supply Chain Shift",
+      "url": "https://www.arabtimesonline.com/news/ai-boom-pushes-taiwans-tsmc-into-record-expansion-and-global-supply-chain-shift/",
+      "snippet": "TAIPEI, Sep 8: Taiwan Semiconductor Manufacturing Co. (TSMC) is accelerating its global manufacturing expansion at ...",
+      "source": "Arab Times Kuwait News",
+      "date": "21 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -16,27 +34,18 @@
       "url": "https://finance.biggo.com/news/0fe0a665-2e68-4038-a9db-fcce1be10e6b",
       "snippet": "President Lai Ching-te attended the 2026 Semiconductor Supply Chain Summit, where he presented Economic Professional Medals to Micron CEO...",
       "source": "BigGo Finance",
-      "date": "5 days ago",
+      "date": "1 week ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Francois Wu seeks stronger Taiwan-Europe tech ties",
-      "url": "https://www.taiwannews.com.tw/news/6434725",
-      "snippet": "TAIPEI (Taiwan News) — Deputy Foreign Minister Francois Wu (吳志中) hosted a welcome reception Thursday for European officials participating...",
-      "source": "Taiwan News",
-      "date": "24 hours ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "5 of the Best U.S. Semiconductor Stocks to Buy",
-      "url": "https://money.usnews.com/investing/articles/best-u-s-semiconductor-stocks-to-buy",
-      "snippet": "Semiconductor investors can insulate themselves from potential supply chain disruptions in Taiwan.",
-      "source": "US News Money",
-      "date": "2 weeks ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "snippet": "Last year, a clinical trial conducted by Insilico Medicine, a company that aims to accelerate drug discovery using artificial intelligence,...",
+      "source": "The New York Times",
+      "date": "1 day ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
@@ -44,15 +53,6 @@
       "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
       "source": "Time Magazine",
       "date": "2 weeks ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -69,7 +69,7 @@
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
-      "source": "Science Daily",
+      "source": "ScienceDaily",
       "date": "May 10, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
