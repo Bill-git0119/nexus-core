@@ -1,7 +1,7 @@
 ---
 title: "Intel deepens ties with Taiwan's chip supply chain as October talks expand"
 domain: "半導體／台股供應鏈"
-date: "Jun 23, 2026"
+date: "2026-06-23"
 status: "已發布"
 tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 ---
@@ -9,7 +9,7 @@ tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 ## Intel deepens ties with Taiwan's chip supply chain as October talks expand
 
 **領域**：[半導體](https://example.com/aff?ref=nexus&product=chip-analysis)／台股[供應鏈](https://example.com/aff?ref=nexus&product=supply-chain-tool)
-**日期**：Jun 23, 2026
+**日期**：2026-06-23
 **資料驗證狀態**：✅ 已驗證
 
 ---
@@ -43,9 +43,9 @@ Intel is deepening cooperation with Taiwan's semiconductor supply chain and plan
 ### 參考來源
 
 - 原始來源：[digitimes](https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html)
-- 佐證來源：[Intel CEO says TSMC a 'partner' in chip production](https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858420)
 - 佐證來源：[Intel deepens ties with Taiwan's chip supply chain as ...](https://www.reddit.com/r/intelstock/comments/1usm1bk/intel_deepens_ties_with_taiwans_chip_supply_chain/)
-- 佐證來源：[US-China tech tensions redraw supply chains Europe flags ...](https://www.facebook.com/WIONews/posts/us-china-tech-tensions-redraw-supply-chains-europe-flags-taiwan-china-risks-to-c/1385837166988787/)
+- 佐證來源：[Taiwan says it will lead 'democratic' high-tech supply chain ...](https://www.reuters.com/world/asia-pacific/taiwan-says-it-will-lead-democratic-high-tech-supply-chain-with-us-2026-01-20/)
+- 佐證來源：[Intel CEO says TSMC a 'partner' in chip production](https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858420)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ Intel is deepening cooperation with Taiwan's semiconductor supply chain and plan
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-08-23 01:38 UTC*
+*產生時間：2026-09-11 03:53 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ExampleBroker, ChipInsider, SupplyVue, XPG）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ChipInsider, XPG, SupplyVue, ExampleBroker）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

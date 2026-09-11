@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T03:53:42.202663+00:00",
+  "generated_at": "2026-09-11T03:52:50.300621+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -7,7 +7,7 @@
       "url": "https://www.eetasia.com/seeqc-taps-taiwans-semiconductor-ecosystem-to-expand-quantum-computing-supply-chain/",
       "snippet": "SEEQC and Taiwan's quantum technology office will explore development, manufacturing and commercialization partnerships across the quantum...",
       "source": "EE Times Asia",
-      "date": "5 hours ago",
+      "date": "Prieš 2 dienas",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -16,16 +16,7 @@
       "url": "https://www.taiwantoday.tw/6/286037",
       "snippet": "The Ministry of Foreign Affairs co-hosted the 2026 Trusted Semiconductor Supply Chain Partnership Forum with Taipei City-based Chung-Hua...",
       "source": "Taiwan Today",
-      "date": "1 day ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "AI Boom Pushes Taiwan’s TSMC Into Record Expansion and Global Supply Chain Shift",
-      "url": "https://www.arabtimesonline.com/news/ai-boom-pushes-taiwans-tsmc-into-record-expansion-and-global-supply-chain-shift/",
-      "snippet": "TAIPEI, Sep 8: Taiwan Semiconductor Manufacturing Co. (TSMC) is accelerating its global manufacturing expansion at ...",
-      "source": "Arab Times Kuwait News",
-      "date": "21 hours ago",
+      "date": "Prieš 3 dienas",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -34,7 +25,16 @@
       "url": "https://finance.biggo.com/news/0fe0a665-2e68-4038-a9db-fcce1be10e6b",
       "snippet": "President Lai Ching-te attended the 2026 Semiconductor Supply Chain Summit, where he presented Economic Professional Medals to Micron CEO...",
       "source": "BigGo Finance",
-      "date": "1 week ago",
+      "date": "Prieš 1 savaitę",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
+      "url": "https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html",
+      "snippet": "Intel is deepening cooperation with Taiwan's semiconductor supply chain and plans to broaden its engagement again in mid-October after...",
+      "source": "digitimes",
+      "date": "2026-06-23",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -43,7 +43,7 @@
       "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
       "snippet": "Last year, a clinical trial conducted by Insilico Medicine, a company that aims to accelerate drug discovery using artificial intelligence,...",
       "source": "The New York Times",
-      "date": "1 day ago",
+      "date": "Prieš 3 dienas",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -52,16 +52,16 @@
       "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
       "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
       "source": "Time Magazine",
-      "date": "2 weeks ago",
+      "date": "Prieš 3 savaites",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Adiv Johnson, Ph.D., chief scientific officer at Tally Health, to present at the 13th Aging Research & Drug Discovery (ARDD) Meeting in Boston",
-      "url": "https://www.eurekalert.org/news-releases/1140226",
-      "snippet": "BOSTON, MA — Aug 14, 2026 — Insilico Medicine and the ARDD organizing committee are pleased to announce that Adiv Johnson, Ph.D.,...",
-      "source": "EurekAlert!",
-      "date": "3 weeks ago",
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "2026-06-09",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -69,8 +69,8 @@
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
-      "source": "ScienceDaily",
-      "date": "May 10, 2026",
+      "source": "Science Daily",
+      "date": "2026-05-10",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
