@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T03:53:55.583186+00:00",
+  "generated_at": "2026-09-13T04:03:31.777331+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 3,
+  "total_articles": 1,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -9,31 +9,11 @@
   },
   "articles": [
     {
-      "slug": "intel-deepens-ties-with-taiwans-chip-supply-chain-as-october",
-      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "2026-06-23",
-      "notion_file": "output/notion/intel-deepens-ties-with-taiwans-chip-supply-chain-as-october.md",
-      "ghpages_file": "output/ghpages/intel-deepens-ties-with-taiwans-chip-supply-chain-as-october.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "the-first-ever-reverse-aging-drug-was-just-injected-into-a-h",
-      "title": "The first-ever reverse-aging drug was just injected into a human",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "2026-06-09",
-      "notion_file": "output/notion/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.md",
-      "ghpages_file": "output/ghpages/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.html",
-      "citations_count": 3
-    },
-    {
       "slug": "scientists-successfully-transfer-longevity-gene-and-extend-l",
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
       "domain": "Longevity/Sports Medicine",
       "domain_zh": "長壽科學／運動醫學",
-      "date": "2026-05-10",
+      "date": "May 10, 2026",
       "notion_file": "output/notion/scientists-successfully-transfer-longevity-gene-and-extend-l.md",
       "ghpages_file": "output/ghpages/scientists-successfully-transfer-longevity-gene-and-extend-l.html",
       "citations_count": 3

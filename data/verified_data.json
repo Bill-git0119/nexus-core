@@ -1,83 +1,23 @@
 {
-  "generated_at": "2026-09-11T03:53:55.578884+00:00",
+  "generated_at": "2026-09-13T04:03:31.774218+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 3,
-    "discarded": 5
+    "verified": 1,
+    "discarded": 7
   },
   "verified_topics": [
-    {
-      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
-      "url": "https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html",
-      "snippet": "Intel is deepening cooperation with Taiwan's semiconductor supply chain and plans to broaden its engagement again in mid-October after...",
-      "source": "digitimes",
-      "date": "2026-06-23",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-11T03:53:10.425174+00:00",
-        "independent_sources": [
-          {
-            "title": "Intel deepens ties with Taiwan's chip supply chain as ...",
-            "url": "https://www.reddit.com/r/intelstock/comments/1usm1bk/intel_deepens_ties_with_taiwans_chip_supply_chain/",
-            "source": "Reddit · r/intelstock"
-          },
-          {
-            "title": "Taiwan says it will lead 'democratic' high-tech supply chain ...",
-            "url": "https://www.reuters.com/world/asia-pacific/taiwan-says-it-will-lead-democratic-high-tech-supply-chain-with-us-2026-01-20/",
-            "source": "Reuters"
-          },
-          {
-            "title": "Intel CEO says TSMC a 'partner' in chip production",
-            "url": "https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858420",
-            "source": "Taipei Times"
-          }
-        ]
-      }
-    },
-    {
-      "title": "The first-ever reverse-aging drug was just injected into a human",
-      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
-      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
-      "source": "Business Insider",
-      "date": "2026-06-09",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-11T03:53:50.617101+00:00",
-        "independent_sources": [
-          {
-            "title": "The first human test of a rejuvenation method will begin “ ...",
-            "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/",
-            "source": "MIT Technology Review"
-          },
-          {
-            "title": "World-first: therapy to make cells young again trialled in a ...",
-            "url": "https://www.nature.com/articles/d41586-026-01836-7",
-            "source": "Nature"
-          },
-          {
-            "title": "A first-of-its-kind shot that promises to reverse aging was ...",
-            "url": "https://www.facebook.com/yahoonews/posts/a-first-of-its-kind-shot-that-promises-to-reverse-aging-was-just-injected-into-a/1389919556327059/",
-            "source": "Facebook · Yahoo News"
-          }
-        ]
-      }
-    },
     {
       "title": "Scientists successfully transfer longevity gene and extend lifespan",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
       "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
       "source": "Science Daily",
-      "date": "2026-05-10",
+      "date": "May 10, 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-09-11T03:53:55.578854+00:00",
+        "checked_at": "2026-09-13T04:03:31.774172+00:00",
         "independent_sources": [
           {
             "title": "Longevity gene from naked mole rats extends lifespan of ...",
@@ -85,14 +25,14 @@
             "source": "University of Rochester"
           },
           {
-            "title": "Scientists Discover Longevity Gene Therapy That Successfully ...",
-            "url": "https://www.youtube.com/watch?v=UkSJyaP_-Aw",
-            "source": "YouTube · Medical Dialogues"
+            "title": "Scientists Successfully Transfer Longevity Gene, Paving ...",
+            "url": "https://www.rapamycin.news/t/scientists-successfully-transfer-longevity-gene-paving-the-way-for-extending-human-lifespan/23848",
+            "source": "Rapamycin Longevity News"
           },
           {
-            "title": "Scientists successfully transfer longevity gene and extend ...",
-            "url": "https://www.reddit.com/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/",
-            "source": "Reddit · r/longevity"
+            "title": "Scientists Successfully Transfer Longevity Gene, Paving ...",
+            "url": "https://scitechdaily.com/scientists-successfully-transfer-longevity-gene-paving-the-way-for-extending-human-lifespan/",
+            "source": "SciTechDaily"
           }
         ]
       }
