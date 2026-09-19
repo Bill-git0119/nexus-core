@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-17T04:11:03.321616+00:00",
+  "generated_at": "2026-09-19T03:54:18.262861+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 2,
+    "discarded": 6
   },
   "verified_topics": [
     {
@@ -17,22 +17,52 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-09-17T04:11:03.321264+00:00",
+        "checked_at": "2026-09-19T03:54:17.338637+00:00",
         "independent_sources": [
+          {
+            "title": "Air Liquide Group (@airliquidegroup) on ...",
+            "url": "https://x.com/airliquidegroup/status/2036752011627033036",
+            "source": "X · airliquidegroup"
+          },
+          {
+            "title": "Press releases & News",
+            "url": "https://electronics.airliquide.com/press-releases-news",
+            "source": "Air Liquide Electronics"
+          },
           {
             "title": "Air Liquide launches advanced materials plant in Taiwan",
             "url": "https://www.indianchemicalnews.com/chemical/air-liquide-launches-advanced-materials-plant-in-taiwan-29857",
             "source": "Indian Chemical News"
+          }
+        ]
+      }
+    },
+    {
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "Jun 9, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-09-19T03:54:18.262837+00:00",
+        "independent_sources": [
+          {
+            "title": "Mechanical ventilation-induced reverse-triggered breaths",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23187649/",
+            "source": "National Institutes of Health (NIH) | (.gov)"
           },
           {
-            "title": "Press Releases",
-            "url": "https://electronics.airliquide.com/media-center/press-releases",
-            "source": "Air Liquide Electronics"
+            "title": "Terlipressin Plus Albumin Is More Effective Than ...",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26896734/",
+            "source": "National Institutes of Health (NIH) | (.gov)"
           },
           {
-            "title": "Air Liquide's Post",
-            "url": "https://www.linkedin.com/posts/airliquide_air-liquide-unveils-the-successful-construction-activity-7442516118713335808-FKtL",
-            "source": "LinkedIn · Air Liquide"
+            "title": "Reverse epidemiology of cardiovascular risk factors ... - PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12631061/",
+            "source": "National Institutes of Health (NIH) | (.gov)"
           }
         ]
       }

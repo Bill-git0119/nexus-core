@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T04:11:03.325005+00:00",
+  "generated_at": "2026-09-19T03:54:18.265711+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 1,
+  "total_articles": 2,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -16,6 +16,16 @@
       "date": "Mar 25, 2026",
       "notion_file": "output/notion/air-liquide-inaugurates-its-first-advanced-materials-manufac.md",
       "ghpages_file": "output/ghpages/air-liquide-inaugurates-its-first-advanced-materials-manufac.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "the-first-ever-reverse-aging-drug-was-just-injected-into-a-h",
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "Jun 9, 2026",
+      "notion_file": "output/notion/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.md",
+      "ghpages_file": "output/ghpages/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.html",
       "citations_count": 3
     }
   ]

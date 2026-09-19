@@ -1,7 +1,7 @@
 ---
 title: "The first-ever reverse-aging drug was just injected into a human"
 domain: "長壽科學／運動醫學"
-date: "2026-06-09"
+date: "Jun 9, 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
@@ -9,7 +9,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ## The first-ever reverse-aging drug was just injected into a human
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：2026-06-09
+**日期**：Jun 9, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
@@ -43,9 +43,9 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ### 參考來源
 
 - 原始來源：[Business Insider](https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6)
-- 佐證來源：[The first human test of a rejuvenation method will begin “ ...](https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/)
-- 佐證來源：[World-first: therapy to make cells young again trialled in a ...](https://www.nature.com/articles/d41586-026-01836-7)
-- 佐證來源：[A first-of-its-kind shot that promises to reverse aging was ...](https://www.facebook.com/yahoonews/posts/a-first-of-its-kind-shot-that-promises-to-reverse-aging-was-just-injected-into-a/1389919556327059/)
+- 佐證來源：[Mechanical ventilation-induced reverse-triggered breaths](https://pubmed.ncbi.nlm.nih.gov/23187649/)
+- 佐證來源：[Terlipressin Plus Albumin Is More Effective Than ...](https://pubmed.ncbi.nlm.nih.gov/26896734/)
+- 佐證來源：[Reverse epidemiology of cardiovascular risk factors ... - PubMed](https://pubmed.ncbi.nlm.nih.gov/12631061/)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-11 03:53 UTC*
+*產生時間：2026-09-19 03:54 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, HealthPro, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, LongevityLab, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
