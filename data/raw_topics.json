@@ -1,49 +1,58 @@
 {
-  "generated_at": "2026-09-21T04:07:49.782722+00:00",
+  "generated_at": "2026-09-23T04:00:38.060897+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "Kaohsiung's Baipu Industrial Park Breaks Ground, Targeting 25 Hectares for Advanced Semiconductor Packaging Equipment Investment",
-      "url": "https://finance.biggo.com/news/608dfb8a-f59d-4a40-9681-bbd506bf6c6d",
-      "snippet": "Kaohsiung's Baipu Industrial Park held a groundbreaking ceremony for its development project on the 21st, designating 25 hectares of its...",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "Yahoo Finance",
+      "date": "1 month ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Semiconductor Supply Chain Forum Kicks Off: Lai Ching-te Says Taiwan's Chip Industry Connects the World to Build Resilient Supply Chains",
+      "url": "https://finance.biggo.com/news/0fe0a665-2e68-4038-a9db-fcce1be10e6b",
+      "snippet": "President Lai Ching-te attended the 2026 Semiconductor Supply Chain Summit, where he presented Economic Professional Medals to Micron CEO...",
       "source": "BigGo Finance",
-      "date": "15 uur geleden",
+      "date": "3 weeks ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Taiwan rebuffs U.S. push to absorb 40% of its chip supply chain",
-      "url": "https://www.cnbcafrica.com/2026/taiwan-rebuffs-u-s-push-to-absorb-40-of-its-chip-supply-chain",
-      "snippet": "Taiwan has told Washington that its proposal to move 40% of the island's semiconductor supply chain to the U.S. was “impossible,” the...",
-      "source": "CNBC Africa",
-      "date": "10 feb 2026",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "The Motley Fool",
+      "date": "1 month ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Pax Silica to safeguard chip supply amid Taiwan invasion fears – solon",
-      "url": "https://globalnation.inquirer.net/338572/pax-silica-to-safeguard-chip-supply-amid-taiwan-invasion-fears-solon",
-      "snippet": "The Pax Silica initiative is meant to serve as a backup source of advanced chips in the event of an invasion of Taiwan, Palawan Rep.",
-      "source": "Inquirer.net",
-      "date": "3 dagen geleden",
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "Mar 25, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Taiwan, US eye high-tech supply chain",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/01/21/2003850944",
-      "snippet": "HIGH-TECH DEAL: Chipmakers that expand in the US would be able to import up to 2.5 times their new capacity with no extra tariffs during an...",
-      "source": "Taipei Times",
-      "date": "21 jan 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
+      "title": "Dubai Longevity Authority: Regenerative Medicine Investment",
+      "url": "https://www.worldhealthexpo.com/insights/healthcare-management/dubai-longevity-authority-healthcare-investment-opportunities-in-uae-s-healthy-ageing-market",
+      "snippet": "Discover business investment opportunities in Dubai's $8T longevity medicine market and how the Dubai Longevity Authority creates access for...",
+      "source": "World Health Expo (WHX)",
+      "date": "12‏/06‏/2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
       "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
       "snippet": "Last year, a clinical trial conducted by Insilico Medicine, a company that aims to accelerate drug discovery using artificial intelligence,...",
       "source": "The New York Times",
-      "date": "2 weeks ago",
+      "date": "قبل أسبوعين (2)",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -52,16 +61,7 @@
       "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
       "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
       "source": "Time Magazine",
-      "date": "1 month ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Why GLP-1s Could Be an Anti-Aging Breakthrough",
-      "url": "https://www.nationalgeographic.com/health/article/glp-1-drugs-aging-longevity",
-      "snippet": "Diabetes drugs have shown surprising benefits for the heart, kidneys, and brain. Now provocative animal research suggests they may influence...",
-      "source": "National Geographic",
-      "date": "2 weeks ago",
+      "date": "قبل شهر واحد",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -70,7 +70,7 @@
       "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
       "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
       "source": "Business Insider",
-      "date": "Jun 9, 2026",
+      "date": "09‏/06‏/2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
