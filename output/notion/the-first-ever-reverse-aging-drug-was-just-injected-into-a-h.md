@@ -43,9 +43,9 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ### 參考來源
 
 - 原始來源：[Business Insider](https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6)
-- 佐證來源：[The first human test of a rejuvenation method will begin “ ...](https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/)
-- 佐證來源：[First reverse-aging drug injected into a human](https://www.youtube.com/watch?v=yEWDpVErLFI)
-- 佐證來源：[First human trial of reverse-aging drug begins](https://www.morningbrew.com/stories/first-human-trial-of-reverse-aging-drug-begins)
+- 佐證來源：[A LONGEVITY STARTUP has dosed its first patient with a ...](https://www.instagram.com/p/DZZWhU8Icly/)
+- 佐證來源：[ER-100: The World's First Reverse-Aging Drug Is Being ...](https://theheartysoul.com/reverse-aging-drug-er-100/)
+- 佐證來源：[Biotech Breakthroughs: Reversing Aging, Cancer, and ...](https://www.linkedin.com/posts/michalks_been-reading-tons-of-biotech-news-stories-activity-7472686710577864704-MIwZ)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-21 04:07 UTC*
+*產生時間：2026-09-25 04:10 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, SportsMedHub, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, HealthPro, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

@@ -42,10 +42,10 @@ TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, 
 
 ### 參考來源
 
-- 原始來源：[Yahoo Finance](https://www.google.com/goto?url=CAESigEB6zswFQ8WEtws03CEcOQVOs7nRi0DWYiEXSxT658l4gkuoi7EwukA6F9BwSz98HYcCtwCfAGDuFRcd-nYs0Uft3yXrWjcoc[NMN](https://example.com/aff?ref=nexus&product=nmn-supplement)WfZUNNWiFKY61uIgQJo6yex5dVMoXn7eie7r1GofyZ0l6nhFs6Iz-Cv-k9nPMrUQ7EVUWIP43spiVqEHv7e-zM)
-- 佐證來源：[TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain ...](https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html)
-- 佐證來源：[TSMC's US$1.5t Chip Outlook Reshapes AI Supply Chain Risks ...](https://www.1buy.ai/market-intelligence/article/4b309b9e-6ec7-432e-9a5c-c15ea652ba45)
-- 佐證來源：[TSM Expands Global Footprint: Growth Engine or Margin ...](https://finance.yahoo.com/news/tsm-expands-global-footprint-growth-145200117.html)
+- 原始來源：[Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html)
+- 佐證來源：[Memia #2026.22: Big bang💥 margin on top of tokens💸 ...](https://memia.substack.com/p/memia-202622-big-bang-margin-on-top)
+- 佐證來源：[Welcome to Episode 35, Trump Realty Show Live from 4 ...](https://www.facebook.com/groups/263417570742040/posts/2295895417494235/)
+- 佐證來源：[<![CDATA[Malaysia Money Matters Daily News Podcast]]>](https://api.substack.com/feed/podcast/3356403.rss)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-01 04:19 UTC*
+*產生時間：2026-09-25 04:10 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ChipInsider, ExampleBroker, LongevityLab, SupplyVue, XPG）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ExampleBroker, ChipInsider, XPG, SupplyVue）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

@@ -1,10 +1,101 @@
 {
-  "generated_at": "2026-09-23T04:00:38.071649+00:00",
+  "generated_at": "2026-09-25T04:10:32.687584+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 0,
-    "discarded": 8
+    "verified": 3,
+    "discarded": 5
   },
-  "verified_topics": []
+  "verified_topics": [
+    {
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-us-1-5t-chip-131740499.html",
+      "snippet": "TSMC raised its global semiconductor market forecast to exceed US$1.5b by 2030, citing stronger demand linked to AI and high performance...",
+      "source": "Yahoo Finance",
+      "date": "May 14, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-09-25T04:10:24.613312+00:00",
+        "independent_sources": [
+          {
+            "title": "Memia #2026.22: Big bang💥 margin on top of tokens💸 ...",
+            "url": "https://memia.substack.com/p/memia-202622-big-bang-margin-on-top",
+            "source": "Substack · Memia"
+          },
+          {
+            "title": "Welcome to Episode 35, Trump Realty Show Live from 4 ...",
+            "url": "https://www.facebook.com/groups/263417570742040/posts/2295895417494235/",
+            "source": "Facebook · Christian group who are fans of Donald J Trump"
+          },
+          {
+            "title": "<![CDATA[Malaysia Money Matters Daily News Podcast]]>",
+            "url": "https://api.substack.com/feed/podcast/3356403.rss",
+            "source": "Substack"
+          }
+        ]
+      }
+    },
+    {
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "Jun 9, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-09-25T04:10:26.007371+00:00",
+        "independent_sources": [
+          {
+            "title": "A LONGEVITY STARTUP has dosed its first patient with a ...",
+            "url": "https://www.instagram.com/p/DZZWhU8Icly/",
+            "source": "Instagram · iclonedna1"
+          },
+          {
+            "title": "ER-100: The World's First Reverse-Aging Drug Is Being ...",
+            "url": "https://theheartysoul.com/reverse-aging-drug-er-100/",
+            "source": "The Hearty Soul"
+          },
+          {
+            "title": "Biotech Breakthroughs: Reversing Aging, Cancer, and ...",
+            "url": "https://www.linkedin.com/posts/michalks_been-reading-tons-of-biotech-news-stories-activity-7472686710577864704-MIwZ",
+            "source": "LinkedIn · Michal Kubis"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Scientists successfully transfer longevity gene and extend lifespan",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
+      "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
+      "source": "ScienceDaily",
+      "date": "May 10, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-09-25T04:10:32.687555+00:00",
+        "independent_sources": [
+          {
+            "title": "Scientists just found the holy grail gene that could let ...",
+            "url": "https://m.economictimes.com/news/international/us/scientists-just-found-the-holy-grail-gene-that-could-let-humans-regrow-their-own-limbs-one-day/articleshow/131020766.cms",
+            "source": "The Economic Times"
+          },
+          {
+            "title": "Scientists extend mice lifespan 12% by tweaking telomeres",
+            "url": "https://bigthink.com/health/telomere-aging/",
+            "source": "Big Think"
+          },
+          {
+            "title": "Scientists Say This Is the Maximum Human Lifespan",
+            "url": "https://www.reddit.com/r/Futurology/comments/nmm7aw/scientists_say_this_is_the_maximum_human_lifespan/",
+            "source": "Reddit · r/Futurology"
+          }
+        ]
+      }
+    }
+  ]
 }
