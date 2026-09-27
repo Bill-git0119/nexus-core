@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T04:10:32.692711+00:00",
+  "generated_at": "2026-09-27T04:30:55.324149+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
   "total_articles": 3,
   "affiliate_links_loaded": 16,
@@ -9,13 +9,13 @@
   },
   "articles": [
     {
-      "slug": "tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-",
-      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards",
+      "slug": "ai-demand-us-tariffs-reshape-south-korean-manufacturing",
+      "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "domain_zh": "半導體／台股供應鏈",
-      "date": "May 14, 2026",
-      "notion_file": "output/notion/tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-.md",
-      "ghpages_file": "output/ghpages/tsmcs-us15t-chip-outlook-reshapes-ai-supply-chain-risks-and-.html",
+      "date": "Jul 27, 2026",
+      "notion_file": "output/notion/ai-demand-us-tariffs-reshape-south-korean-manufacturing.md",
+      "ghpages_file": "output/ghpages/ai-demand-us-tariffs-reshape-south-korean-manufacturing.html",
       "citations_count": 3
     },
     {
