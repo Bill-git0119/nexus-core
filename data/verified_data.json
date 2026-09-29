@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-09-27T04:30:55.318891+00:00",
+  "generated_at": "2026-09-29T05:00:47.767579+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 3,
-    "discarded": 5
+    "verified": 4,
+    "discarded": 4
   },
   "verified_topics": [
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "Yahoo Finance",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-09-29T05:00:45.397491+00:00",
+        "independent_sources": [
+          {
+            "title": "ASML | The world's supplier to the semiconductor industry",
+            "url": "https://www.asml.com/en",
+            "source": "ASML"
+          },
+          {
+            "title": "ASML",
+            "url": "https://en.wikipedia.org/wiki/ASML",
+            "source": "Wikipedia"
+          },
+          {
+            "title": "ASML",
+            "url": "https://www.linkedin.com/company/asml",
+            "source": "LinkedIn · ASML"
+          }
+        ]
+      }
+    },
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "The Motley Fool",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-09-29T05:00:45.487963+00:00",
+        "independent_sources": [
+          {
+            "title": "ASML | The world's supplier to the semiconductor industry",
+            "url": "https://www.asml.com/en",
+            "source": "ASML"
+          },
+          {
+            "title": "ASML",
+            "url": "https://en.wikipedia.org/wiki/ASML",
+            "source": "Wikipedia"
+          },
+          {
+            "title": "ASML Holding N.V. (ASML) Stock Price, News, Quote & ...",
+            "url": "https://finance.yahoo.com/quote/ASML/",
+            "source": "Yahoo Finance"
+          }
+        ]
+      }
+    },
     {
       "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
       "url": "https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/",
@@ -17,22 +77,22 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-09-27T04:30:53.848512+00:00",
+        "checked_at": "2026-09-29T05:00:46.129375+00:00",
         "independent_sources": [
           {
-            "title": "Asia economies' growth diverges as energy, AI reshape ...",
-            "url": "https://www.icis.com/explore/resources/news/2026/09/24/11234740/asia-economies-growth-diverges-as-energy-ai-reshape-outlook-oecd",
-            "source": "ICIS"
+            "title": "Samsung and other South Korean firms pledge larger ...",
+            "url": "https://www.8newsnow.com/news/business/ap-business/ap-samsung-and-other-south-korean-firms-pledge-larger-domestic-investments-after-us-tariff-deal/",
+            "source": "KLAS 8 News Now"
+          },
+          {
+            "title": "Weekly Radar 002: eSSD Demand is Reshaping NAND ...",
+            "url": "https://insights.trendforce.com/p/weekly-radar-002",
+            "source": "TrendForce"
           },
           {
             "title": "Pressure for Korean memory-chip manufacturers to expand ...",
             "url": "https://www.instagram.com/p/DcKV46bEzzE/",
             "source": "Instagram · theledger.asia"
-          },
-          {
-            "title": "[Today's Pick]SK hynix-Intel Talks Signal Potential ...",
-            "url": "https://www.globalkoreapost.co.kr/news/articleView.html?idxno=92558",
-            "source": "글로벌코리아포스트"
           }
         ]
       }
@@ -42,57 +102,27 @@
       "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
       "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
       "source": "Business Insider",
-      "date": "Jun 9, 2026",
+      "date": "9 Jun 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-09-27T04:30:54.592216+00:00",
+        "checked_at": "2026-09-29T05:00:47.767546+00:00",
         "independent_sources": [
           {
-            "title": "The first human test of a rejuvenation method will begin “ ...",
-            "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/",
-            "source": "MIT Technology Review"
+            "title": "Cellular reprogramming is the hottest topic in longevity ...",
+            "url": "https://www.facebook.com/businessinsider/photos/cellular-reprogramming-is-the-hottest-topic-in-longevity-science-with-tech-titan/1370341284964152/",
+            "source": "Facebook · Business Insider"
           },
           {
-            "title": "First reverse-aging drug injected into a human",
-            "url": "https://www.youtube.com/watch?v=yEWDpVErLFI",
-            "source": "YouTube · Fox News Clips"
+            "title": "For the first time ever, doctors just injected a drug into a ...",
+            "url": "https://www.instagram.com/p/DcL_RaUDgbi/",
+            "source": "Instagram · dmptakeaways"
           },
           {
-            "title": "World-first: therapy to make cells young again trialled in a ...",
-            "url": "https://www.nature.com/articles/d41586-026-01836-7",
-            "source": "Nature"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-      "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
-      "source": "ScienceDaily",
-      "date": "May 10, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-27T04:30:55.318861+00:00",
-        "independent_sources": [
-          {
-            "title": "Scientists just found the holy grail gene that could let ...",
-            "url": "https://m.economictimes.com/news/international/us/scientists-just-found-the-holy-grail-gene-that-could-let-humans-regrow-their-own-limbs-one-day/articleshow/131020766.cms",
-            "source": "The Economic Times"
-          },
-          {
-            "title": "Scientists successfully transfer longevity gene, paving the ...",
-            "url": "https://x.com/forallcurious/status/2030192531028463965",
-            "source": "X · forallcurious"
-          },
-          {
-            "title": "Scientists Successfully Transfer Longevity Gene, Paving ...",
-            "url": "https://www.reddit.com/r/Rochester/comments/1ro409g/scientists_successfully_transfer_longevity_gene/",
-            "source": "Reddit · r/Rochester"
+            "title": "First Reverse-Aging Drug Injected into a Human",
+            "url": "https://podcasts.apple.com/us/podcast/first-reverse-aging-drug-injected-into-a-human/id1168275879?i=1000772958278&l=fr-FR",
+            "source": "Apple Podcasts"
           }
         ]
       }

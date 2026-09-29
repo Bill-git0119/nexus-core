@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:30:52.845857+00:00",
+  "generated_at": "2026-09-29T05:00:44.748964+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -7,7 +7,16 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
       "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
       "source": "Yahoo Finance",
-      "date": "1 month ago",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "The Motley Fool",
+      "date": "Aug 2, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -21,15 +30,6 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "The Motley Fool",
-      "date": "1 month ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
       "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
       "url": "https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/",
       "snippet": "July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trade barriers are rapidly reshaping the production and supply...",
@@ -37,6 +37,15 @@
       "date": "Jul 27, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "The longevity boom is getting ahead of the science",
+      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
+      "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
+      "source": "Al Jazeera",
+      "date": "1 day ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
@@ -48,9 +57,9 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
-      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
-      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
+      "title": "David Sinclair's Research Is Now Testing Whether Blindness—and Aging—Can Be Reversed",
+      "url": "https://time.com/collection/longevity-leaders/2026/david-sinclair/",
+      "snippet": "Harvard geneticist David Sinclair explains why his lab believes aging functions like a reversible disease— and what it will take to prove...",
       "source": "Time Magazine",
       "date": "1 month ago",
       "domain": "Longevity/Sports Medicine",
@@ -61,16 +70,7 @@
       "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
       "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
       "source": "Business Insider",
-      "date": "Jun 9, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-      "snippet": "Date: May 10, 2026; Source: University of Rochester; Summary: Scientists at the University of Rochester pulled off a remarkable experiment: they transferred...",
-      "source": "ScienceDaily",
-      "date": "May 10, 2026",
+      "date": "9 Jun 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

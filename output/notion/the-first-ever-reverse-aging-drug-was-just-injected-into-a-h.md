@@ -1,7 +1,7 @@
 ---
 title: "The first-ever reverse-aging drug was just injected into a human"
 domain: "長壽科學／運動醫學"
-date: "Jun 9, 2026"
+date: "9 Jun 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
@@ -9,7 +9,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ## The first-ever reverse-aging drug was just injected into a human
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：Jun 9, 2026
+**日期**：9 Jun 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
@@ -43,9 +43,9 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ### 參考來源
 
 - 原始來源：[Business Insider](https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6)
-- 佐證來源：[The first human test of a rejuvenation method will begin “ ...](https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/)
-- 佐證來源：[First reverse-aging drug injected into a human](https://www.youtube.com/watch?v=yEWDpVErLFI)
-- 佐證來源：[World-first: therapy to make cells young again trialled in a ...](https://www.nature.com/articles/d41586-026-01836-7)
+- 佐證來源：[Cellular reprogramming is the hottest topic in longevity ...](https://www.facebook.com/businessinsider/photos/cellular-reprogramming-is-the-hottest-topic-in-longevity-science-with-tech-titan/1370341284964152/)
+- 佐證來源：[For the first time ever, doctors just injected a drug into a ...](https://www.instagram.com/p/DcL_RaUDgbi/)
+- 佐證來源：[First Reverse-Aging Drug Injected into a Human](https://podcasts.apple.com/us/podcast/first-reverse-aging-drug-injected-into-a-human/id1168275879?i=1000772958278&l=fr-FR)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-27 04:30 UTC*
+*產生時間：2026-09-29 05:00 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, HealthPro, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, LongevityLab, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
