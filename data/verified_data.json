@@ -1,128 +1,38 @@
 {
-  "generated_at": "2026-09-29T05:00:47.767579+00:00",
+  "generated_at": "2026-10-01T05:00:21.969033+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 4,
-    "discarded": 4
+    "verified": 1,
+    "discarded": 7
   },
   "verified_topics": [
     {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
-      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "Yahoo Finance",
-      "date": "Aug 2, 2026",
+      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
+      "url": "https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html",
+      "snippet": "Intel is deepening cooperation with Taiwan's semiconductor supply chain and plans to broaden its engagement again in mid-October after...",
+      "source": "digitimes",
+      "date": "2026-06-23",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-09-29T05:00:45.397491+00:00",
+        "checked_at": "2026-10-01T05:00:21.967047+00:00",
         "independent_sources": [
           {
-            "title": "ASML | The world's supplier to the semiconductor industry",
-            "url": "https://www.asml.com/en",
-            "source": "ASML"
+            "title": "Ties.com | Superior Quality Men's Ties & Accessories | Free ...",
+            "url": "https://www.ties.com/?srsltid=AU7gw4WIyKrGIVVWmiUH2htNjFvTdPoBYQ2CyAkS62GEPQJLYbvYIPON",
+            "source": "Ties.com"
           },
           {
-            "title": "ASML",
-            "url": "https://en.wikipedia.org/wiki/ASML",
-            "source": "Wikipedia"
+            "title": "TIES Global – Uniting Partners To Transform Learning in STEM",
+            "url": "https://www.tiesteach.org/",
+            "source": "TIES Teaching Institute for Excellence in STEM"
           },
           {
-            "title": "ASML",
-            "url": "https://www.linkedin.com/company/asml",
-            "source": "LinkedIn · ASML"
-          }
-        ]
-      }
-    },
-    {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "The Motley Fool",
-      "date": "Aug 2, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-29T05:00:45.487963+00:00",
-        "independent_sources": [
-          {
-            "title": "ASML | The world's supplier to the semiconductor industry",
-            "url": "https://www.asml.com/en",
-            "source": "ASML"
-          },
-          {
-            "title": "ASML",
-            "url": "https://en.wikipedia.org/wiki/ASML",
-            "source": "Wikipedia"
-          },
-          {
-            "title": "ASML Holding N.V. (ASML) Stock Price, News, Quote & ...",
-            "url": "https://finance.yahoo.com/quote/ASML/",
-            "source": "Yahoo Finance"
-          }
-        ]
-      }
-    },
-    {
-      "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
-      "url": "https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/",
-      "snippet": "July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trade barriers are rapidly reshaping the production and supply...",
-      "source": "upi",
-      "date": "Jul 27, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-29T05:00:46.129375+00:00",
-        "independent_sources": [
-          {
-            "title": "Samsung and other South Korean firms pledge larger ...",
-            "url": "https://www.8newsnow.com/news/business/ap-business/ap-samsung-and-other-south-korean-firms-pledge-larger-domestic-investments-after-us-tariff-deal/",
-            "source": "KLAS 8 News Now"
-          },
-          {
-            "title": "Weekly Radar 002: eSSD Demand is Reshaping NAND ...",
-            "url": "https://insights.trendforce.com/p/weekly-radar-002",
-            "source": "TrendForce"
-          },
-          {
-            "title": "Pressure for Korean memory-chip manufacturers to expand ...",
-            "url": "https://www.instagram.com/p/DcKV46bEzzE/",
-            "source": "Instagram · theledger.asia"
-          }
-        ]
-      }
-    },
-    {
-      "title": "The first-ever reverse-aging drug was just injected into a human",
-      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
-      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
-      "source": "Business Insider",
-      "date": "9 Jun 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-09-29T05:00:47.767546+00:00",
-        "independent_sources": [
-          {
-            "title": "Cellular reprogramming is the hottest topic in longevity ...",
-            "url": "https://www.facebook.com/businessinsider/photos/cellular-reprogramming-is-the-hottest-topic-in-longevity-science-with-tech-titan/1370341284964152/",
-            "source": "Facebook · Business Insider"
-          },
-          {
-            "title": "For the first time ever, doctors just injected a drug into a ...",
-            "url": "https://www.instagram.com/p/DcL_RaUDgbi/",
-            "source": "Instagram · dmptakeaways"
-          },
-          {
-            "title": "First Reverse-Aging Drug Injected into a Human",
-            "url": "https://podcasts.apple.com/us/podcast/first-reverse-aging-drug-injected-into-a-human/id1168275879?i=1000772958278&l=fr-FR",
-            "source": "Apple Podcasts"
+            "title": "The International Environmetrics Society (TIES): Homepage",
+            "url": "http://www.environmetrics.org/",
+            "source": "The International Environmetrics Society"
           }
         ]
       }

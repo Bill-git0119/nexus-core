@@ -43,9 +43,9 @@ Intel is deepening cooperation with Taiwan's semiconductor supply chain and plan
 ### 參考來源
 
 - 原始來源：[digitimes](https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html)
-- 佐證來源：[Intel deepens ties with Taiwan's chip supply chain as ...](https://www.reddit.com/r/intelstock/comments/1usm1bk/intel_deepens_ties_with_taiwans_chip_supply_chain/)
-- 佐證來源：[Taiwan says it will lead 'democratic' high-tech supply chain ...](https://www.reuters.com/world/asia-pacific/taiwan-says-it-will-lead-democratic-high-tech-supply-chain-with-us-2026-01-20/)
-- 佐證來源：[Intel CEO says TSMC a 'partner' in chip production](https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858420)
+- 佐證來源：[Ties.com | Superior Quality Men's Ties & Accessories | Free ...](https://www.ties.com/?srsltid=AU7gw4WIyKrGIVVWmiUH2htNjFvTdPoBYQ2CyAkS62GEPQJLYbvYIPON)
+- 佐證來源：[TIES Global – Uniting Partners To Transform Learning in STEM](https://www.tiesteach.org/)
+- 佐證來源：[The International Environmetrics Society (TIES): Homepage](http://www.environmetrics.org/)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ Intel is deepening cooperation with Taiwan's semiconductor supply chain and plan
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-11 03:53 UTC*
+*產生時間：2026-10-01 05:00 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ChipInsider, XPG, SupplyVue, ExampleBroker）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ExampleBroker, SupplyVue, XPG, ChipInsider）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
