@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:00:21.972422+00:00",
+  "generated_at": "2026-10-03T04:33:20.564581+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
   "total_articles": 1,
   "affiliate_links_loaded": 16,
@@ -9,13 +9,13 @@
   },
   "articles": [
     {
-      "slug": "intel-deepens-ties-with-taiwans-chip-supply-chain-as-october",
-      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
+      "slug": "asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "domain_zh": "半導體／台股供應鏈",
-      "date": "2026-06-23",
-      "notion_file": "output/notion/intel-deepens-ties-with-taiwans-chip-supply-chain-as-october.md",
-      "ghpages_file": "output/ghpages/intel-deepens-ties-with-taiwans-chip-supply-chain-as-october.html",
+      "date": "Aug 2, 2026",
+      "notion_file": "output/notion/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b.md",
+      "ghpages_file": "output/ghpages/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b.html",
       "citations_count": 3
     }
   ]

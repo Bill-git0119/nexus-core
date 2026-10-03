@@ -18,7 +18,7 @@ tags: ["半導體／台股供應鏈", "Nexus自動產出"]
 
 Both companies play important roles in the building boom from artificial intelligence.
 
-本篇報導來自 **Yahoo Finance**，經本系統交叉比對多個獨立來源後確認其可信度。
+本篇報導來自 **The Motley Fool**，經本系統交叉比對多個獨立來源後確認其可信度。
 
 ### 市場背景與產業脈絡
 
@@ -42,10 +42,10 @@ Both companies play important roles in the building boom from artificial intelli
 
 ### 參考來源
 
-- 原始來源：[Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html)
-- 佐證來源：[ASML | The world's supplier to the semiconductor industry](https://www.asml.com/en)
-- 佐證來源：[ASML](https://en.wikipedia.org/wiki/ASML)
-- 佐證來源：[ASML](https://www.linkedin.com/company/asml)
+- 原始來源：[The Motley Fool](https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/)
+- 佐證來源：[Android Apps on Google Play](https://play.google.com/store/games?hl=en_US)
+- 佐證來源：[Play Studio — Design, Branding, and Development based in ...](https://play.studio/)
+- 佐證來源：[Play](https://www.naeyc.org/resources/topics/play)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ Both companies play important roles in the building boom from artificial intelli
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-29 05:00 UTC*
+*產生時間：2026-10-03 04:33 UTC*
 
 
 > ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SupplyVue, ExampleBroker, ChipInsider, XPG）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

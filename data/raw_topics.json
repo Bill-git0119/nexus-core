@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:00:01.229993+00:00",
+  "generated_at": "2026-10-03T04:33:19.765371+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -7,61 +7,61 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/does-taiwan-semiconductor-manufacturing-tsm-170934521.html",
       "snippet": "Taiwan Semiconductor Manufacturing (NYSE:TSM) faces a changing supply chain as Vanguard and NXP open a 300mm fab in Singapore under their...",
       "source": "Yahoo Finance",
-      "date": "Prieš 1 dieną",
+      "date": "3 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Foreign minister speaks at SEMICON Taiwan 2026",
-      "url": "https://taiwantoday.tw/Economics/Top-News/286037/Foreign-minister-speaks-at-SEMICON-Taiwan-2026",
-      "snippet": "The Ministry of Foreign Affairs co-hosted the 2026 Trusted Semiconductor Supply Chain Partnership Forum with Taipei City-based Chung-Hua...",
-      "source": "Taiwan Today",
-      "date": "Prieš 3 savaites",
+      "title": "Meta's Message at SEMICON Taiwan 2026: Taiwan's Semiconductor Supply Chain Essential for the AI Revolution",
+      "url": "https://english.cw.com.tw/article/article.action?id=5038",
+      "snippet": "When a World Cup match turned into a stunning comeback and 30 million messages per second swarmed across the globe, how did Meta's systems...",
+      "source": "天下雜誌",
+      "date": "18 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Semiconductor Supply Chain Forum Kicks Off: Lai Ching-te Says Taiwan's Chip Industry Connects the World to Build Resilient Supply Chains",
-      "url": "https://finance.biggo.com/news/0fe0a665-2e68-4038-a9db-fcce1be10e6b",
-      "snippet": "President Lai Ching-te attended the 2026 Semiconductor Supply Chain Summit, where he presented Economic Professional Medals to Micron CEO...",
-      "source": "finance.biggo.com",
-      "date": "Prieš 1 mėnesį",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "The Motley Fool",
+      "date": "Aug 2, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
-      "url": "https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html",
-      "snippet": "Intel is deepening cooperation with Taiwan's semiconductor supply chain and plans to broaden its engagement again in mid-October after...",
-      "source": "digitimes",
-      "date": "2026-06-23",
+      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
+      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
+      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
+      "source": "Air Liquide",
+      "date": "Mar 25, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Weekly丨Advancing AI drug discovery & longevity science | Insilico Medicine at three premier global summits in early October",
-      "url": "https://www.eurekalert.org/news-releases/1146037",
-      "snippet": "He will join a panel discussion titled \"The Machines Curing Us\" on October 6 from 2:00 PM to 2:30 PM at the T3 Frontier stage at the ADNEC...",
-      "source": "EurekAlert! Science News Releases",
-      "date": "14 hours ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "The longevity boom is getting ahead of the science",
       "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
       "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
       "source": "Al Jazeera",
-      "date": "3 days ago",
+      "date": "5 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
-      "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
-      "snippet": "Last year, a clinical trial conducted by Insilico Medicine, a company that aims to accelerate drug discovery using artificial intelligence,...",
-      "source": "The New York Times",
-      "date": "3 weeks ago",
+      "title": "Weekly丨Advancing AI drug discovery & longevity science | Insilico Medicine at three premier global summits in early October",
+      "url": "https://www.eurekalert.org/news-releases/1146037",
+      "snippet": "He will join a panel discussion titled \"The Machines Curing Us\" on October 6 from 2:00 PM to 2:30 PM at the T3 Frontier stage at the ADNEC...",
+      "source": "EurekAlert! Science News Releases",
+      "date": "2 days ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "I Peace Selected as a TOP 10 Awardee for the \"Top 10 Longevity Breakthrough Awards 2026\"",
+      "url": "https://www.prnewswire.com/news-releases/i-peace-selected-as-a-top-10-awardee-for-the-top-10-longevity-breakthrough-awards-2026-302896683.html",
+      "snippet": "PRNewswire/ -- I Peace Inc., a biotech company pioneering induced pluripotent stem cell (iPS cell) technologies for regenerative medicine...",
+      "source": "PR Newswire",
+      "date": "1 day ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
