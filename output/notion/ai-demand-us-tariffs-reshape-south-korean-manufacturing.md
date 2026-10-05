@@ -44,8 +44,8 @@ July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trad
 
 - 原始來源：[upi](https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/)
 - 佐證來源：[Samsung and other South Korean firms pledge larger ...](https://www.8newsnow.com/news/business/ap-business/ap-samsung-and-other-south-korean-firms-pledge-larger-domestic-investments-after-us-tariff-deal/)
-- 佐證來源：[Weekly Radar 002: eSSD Demand is Reshaping NAND ...](https://insights.trendforce.com/p/weekly-radar-002)
 - 佐證來源：[Pressure for Korean memory-chip manufacturers to expand ...](https://www.instagram.com/p/DcKV46bEzzE/)
+- 佐證來源：[Weekly Radar 002: eSSD Demand is Reshaping NAND ...](https://insights.trendforce.com/p/weekly-radar-002)
 
 ### 相關資源
 
@@ -65,7 +65,7 @@ July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trad
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-29 05:00 UTC*
+*產生時間：2026-10-05 04:50 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SupplyVue, ExampleBroker, ChipInsider, XPG）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：XPG, ChipInsider, ExampleBroker, SupplyVue）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

@@ -1,38 +1,68 @@
 {
-  "generated_at": "2026-10-03T04:33:20.560680+00:00",
+  "generated_at": "2026-10-05T04:50:15.972183+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 2,
+    "discarded": 6
   },
   "verified_topics": [
     {
       "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
       "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "The Motley Fool",
+      "source": "Yahoo Finance",
       "date": "Aug 2, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-03T04:33:20.560290+00:00",
+        "checked_at": "2026-10-05T04:50:15.381979+00:00",
         "independent_sources": [
           {
-            "title": "Android Apps on Google Play",
-            "url": "https://play.google.com/store/games?hl=en_US",
-            "source": "Google Play"
+            "title": "Better Semiconductor Stock: TSMC vs. ASML",
+            "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/36179535/better-semiconductor-stock-tsmc-vs-asml/",
+            "source": "The Globe and Mail"
           },
           {
-            "title": "Play Studio — Design, Branding, and Development based in ...",
-            "url": "https://play.studio/",
-            "source": "play.studio"
+            "title": "Which is the Best Overall? Best Value? NVDA AMD MU SKHY ...",
+            "url": "https://www.youtube.com/watch?v=iusAbEGoUzo",
+            "source": "YouTube · Beat The Denominator"
           },
           {
-            "title": "Play",
-            "url": "https://www.naeyc.org/resources/topics/play",
-            "source": "NAEYC"
+            "title": "Better Artificial Intelligence Stock: ASML vs. Taiwan ...",
+            "url": "https://www.fool.com/investing/2024/12/25/better-artificial-intelligence-stock-asml-taiwan/",
+            "source": "The Motley Fool"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
+      "url": "https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/",
+      "snippet": "July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trade barriers are rapidly reshaping the production and supply...",
+      "source": "upi",
+      "date": "Jul 27, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-10-05T04:50:15.971869+00:00",
+        "independent_sources": [
+          {
+            "title": "Samsung and other South Korean firms pledge larger ...",
+            "url": "https://www.8newsnow.com/news/business/ap-business/ap-samsung-and-other-south-korean-firms-pledge-larger-domestic-investments-after-us-tariff-deal/",
+            "source": "KLAS 8 News Now"
+          },
+          {
+            "title": "Pressure for Korean memory-chip manufacturers to expand ...",
+            "url": "https://www.instagram.com/p/DcKV46bEzzE/",
+            "source": "Instagram · theledger.asia"
+          },
+          {
+            "title": "Weekly Radar 002: eSSD Demand is Reshaping NAND ...",
+            "url": "https://insights.trendforce.com/p/weekly-radar-002",
+            "source": "TrendForce"
           }
         ]
       }

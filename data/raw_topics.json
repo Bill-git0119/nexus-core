@@ -1,30 +1,21 @@
 {
-  "generated_at": "2026-10-03T04:33:19.765371+00:00",
+  "generated_at": "2026-10-05T04:50:13.924701+00:00",
   "total_topics": 8,
   "topics": [
-    {
-      "title": "How Does Taiwan Semiconductor Manufacturing (TSM) Fit Into The New AI Supply Chain?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-taiwan-semiconductor-manufacturing-tsm-170934521.html",
-      "snippet": "Taiwan Semiconductor Manufacturing (NYSE:TSM) faces a changing supply chain as Vanguard and NXP open a 300mm fab in Singapore under their...",
-      "source": "Yahoo Finance",
-      "date": "3 days ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
     {
       "title": "Meta's Message at SEMICON Taiwan 2026: Taiwan's Semiconductor Supply Chain Essential for the AI Revolution",
       "url": "https://english.cw.com.tw/article/article.action?id=5038",
       "snippet": "When a World Cup match turned into a stunning comeback and 30 million messages per second swarmed across the globe, how did Meta's systems...",
       "source": "天下雜誌",
-      "date": "18 hours ago",
+      "date": "2 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
       "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
       "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "The Motley Fool",
+      "source": "Yahoo Finance",
       "date": "Aug 2, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
@@ -39,20 +30,20 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "The longevity boom is getting ahead of the science",
-      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
-      "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
-      "source": "Al Jazeera",
-      "date": "5 days ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
+      "title": "AI demand, U.S. tariffs reshape South Korean manufacturing",
+      "url": "https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/",
+      "snippet": "July 27 (Asia Today) -- Growing artificial intelligence demand and stronger trade barriers are rapidly reshaping the production and supply...",
+      "source": "upi",
+      "date": "Jul 27, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
     },
     {
       "title": "Weekly丨Advancing AI drug discovery & longevity science | Insilico Medicine at three premier global summits in early October",
       "url": "https://www.eurekalert.org/news-releases/1146037",
       "snippet": "He will join a panel discussion titled \"The Machines Curing Us\" on October 6 from 2:00 PM to 2:30 PM at the T3 Frontier stage at the ADNEC...",
       "source": "EurekAlert! Science News Releases",
-      "date": "2 days ago",
+      "date": "4 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -61,16 +52,25 @@
       "url": "https://www.prnewswire.com/news-releases/i-peace-selected-as-a-top-10-awardee-for-the-top-10-longevity-breakthrough-awards-2026-302896683.html",
       "snippet": "PRNewswire/ -- I Peace Inc., a biotech company pioneering induced pluripotent stem cell (iPS cell) technologies for regenerative medicine...",
       "source": "PR Newswire",
-      "date": "1 day ago",
+      "date": "3 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
-      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
-      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
-      "source": "Time Magazine",
-      "date": "1 month ago",
+      "title": "The longevity boom is getting ahead of the science",
+      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
+      "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
+      "source": "Al Jazeera",
+      "date": "1 week ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "snippet": "Last year, a clinical trial conducted by Insilico Medicine, a company that aims to accelerate drug discovery using artificial intelligence,...",
+      "source": "The New York Times",
+      "date": "4 weeks ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
