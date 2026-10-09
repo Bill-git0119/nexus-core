@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:07:26.981210+00:00",
+  "generated_at": "2026-10-09T05:21:28.690204+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -7,7 +7,7 @@
       "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/07/2003865507",
       "snippet": "SILICON ISLAND: When asked about geopolitical tensions, Lisa Su said that 'Taiwan is absolutely critical to the semiconductor supply chain,...",
       "source": "Taipei Times",
-      "date": "13 hours ago",
+      "date": "2 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -16,7 +16,7 @@
       "url": "https://focustaiwan.tw/business/202610060011",
       "snippet": "Advanced Micro Devices, Inc. (AMD), a U.S. designer of processors and graphics chips, plans to increase its investment in Taiwan's supply...",
       "source": "Focus Taiwan - CNA English News",
-      "date": "22 hours ago",
+      "date": "2 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -30,11 +30,11 @@
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Taiwan’s foreign minister to visit Arizona to deepen economic ties",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/03/taiwan-s-foreign-minister-to-visit-arizona-to-deepen-economic-ties",
-      "snippet": "Lin Chia-lung is scheduled to attend the opening of Taiwan's new representative office and visit TSMC's factory in the US state.",
-      "source": "Free Malaysia Today",
-      "date": "4 days ago",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "The Motley Fool",
+      "date": "Aug 2, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -43,16 +43,7 @@
       "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
       "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
       "source": "Al Jazeera",
-      "date": "1 week ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "I Peace Selected as a TOP 10 Awardee for the \"Top 10 Longevity Breakthrough Awards 2026\"",
-      "url": "https://www.prnewswire.com/news-releases/i-peace-selected-as-a-top-10-awardee-for-the-top-10-longevity-breakthrough-awards-2026-302896683.html",
-      "snippet": "PRNewswire/ -- I Peace Inc., a biotech company pioneering induced pluripotent stem cell (iPS cell) technologies for regenerative medicine...",
-      "source": "PR Newswire",
-      "date": "5 days ago",
+      "date": "1 minggu lalu",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -61,7 +52,16 @@
       "url": "https://www.eurekalert.org/news-releases/1146037",
       "snippet": "He will join a panel discussion titled \"The Machines Curing Us\" on October 6 from 2:00 PM to 2:30 PM at the T3 Frontier stage at the ADNEC...",
       "source": "EurekAlert! Science News Releases",
-      "date": "6 days ago",
+      "date": "1 minggu lalu",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "9 Jun 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -70,7 +70,7 @@
       "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
       "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
       "source": "Time Magazine",
-      "date": "1 month ago",
+      "date": "1 bulan lalu",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

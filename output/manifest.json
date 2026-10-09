@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T05:07:28.849541+00:00",
+  "generated_at": "2026-10-09T05:21:32.929209+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 1,
+  "total_articles": 3,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -16,6 +16,26 @@
       "date": "Aug 2, 2026",
       "notion_file": "output/notion/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b.md",
       "ghpages_file": "output/ghpages/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b-2",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Aug 2, 2026",
+      "notion_file": "output/notion/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b-2.md",
+      "ghpages_file": "output/ghpages/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b-2.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "the-first-ever-reverse-aging-drug-was-just-injected-into-a-h",
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "9 Jun 2026",
+      "notion_file": "output/notion/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.md",
+      "ghpages_file": "output/ghpages/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.html",
       "citations_count": 3
     }
   ]

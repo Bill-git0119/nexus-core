@@ -43,9 +43,9 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ### 參考來源
 
 - 原始來源：[Business Insider](https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6)
-- 佐證來源：[Cellular reprogramming is the hottest topic in longevity ...](https://www.facebook.com/businessinsider/photos/cellular-reprogramming-is-the-hottest-topic-in-longevity-science-with-tech-titan/1370341284964152/)
-- 佐證來源：[For the first time ever, doctors just injected a drug into a ...](https://www.instagram.com/p/DcL_RaUDgbi/)
-- 佐證來源：[First Reverse-Aging Drug Injected into a Human](https://podcasts.apple.com/us/podcast/first-reverse-aging-drug-injected-into-a-human/id1168275879?i=1000772958278&l=fr-FR)
+- 佐證來源：[FIRST | For Inspiration and Recognition of Science and ...](https://www.firstinspires.org/)
+- 佐證來源：[FIRST - Improving Security Together](https://www.first.org/)
+- 佐證來源：[FIRST (Financial Information, Resources, Services, and ...](https://students-residents.aamc.org/financial-aid)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-29 05:00 UTC*
+*產生時間：2026-10-09 05:21 UTC*
 
 
 > ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, LongevityLab, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

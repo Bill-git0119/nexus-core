@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-07T05:07:28.846689+00:00",
+  "generated_at": "2026-10-09T05:21:32.923213+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 3,
+    "discarded": 5
   },
   "verified_topics": [
     {
@@ -17,22 +17,82 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-07T05:07:28.846291+00:00",
+        "checked_at": "2026-10-09T05:21:29.512160+00:00",
         "independent_sources": [
           {
-            "title": "ASML vs. TSMC: Which Semiconductor Supply Chain ...",
-            "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-            "source": "The Motley Fool"
+            "title": "ASML vs TSMC – Deep Dive Post Q3",
+            "url": "https://www.techinvestments.io/p/asml-vs-tsmc-deep-dive-post-q3",
+            "source": "Tech Investments | Substack"
           },
           {
-            "title": "ASML vs. Taiwan Semiconductor: Which Critical AI Stock Is ...",
-            "url": "https://www.tikr.com/blog/asml-vs-taiwan-semiconductor-which-critical-ai-stock-is-the-better-value",
-            "source": "TIKR.com"
+            "title": "ASML vs TSMC: AI Stock Investment Opportunities",
+            "url": "https://www.linkedin.com/posts/ivanblinde_artificialintelligence-investments-semiconductors-activity-7407057073353494529-V5CZ",
+            "source": "LinkedIn · Ivan B. Linde"
           },
           {
-            "title": "TSMC vs. ASML: Which Is the Better AI Semiconductor ...",
-            "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/3354938/tsmc-vs-asml-which-is-the-better-ai-semiconductor-ecosystem-stock-to-buy/",
-            "source": "The Globe and Mail"
+            "title": "ASML or NVDA or TSM - Pick the Best tool",
+            "url": "https://tickeron.com/pick-the-best/ASML-or-NVDA-or-TSM/",
+            "source": "Tickeron"
+          }
+        ]
+      }
+    },
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "The Motley Fool",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-10-09T05:21:29.545542+00:00",
+        "independent_sources": [
+          {
+            "title": "ASML vs TSMC – Deep Dive Post Q3",
+            "url": "https://www.techinvestments.io/p/asml-vs-tsmc-deep-dive-post-q3",
+            "source": "Tech Investments | Substack"
+          },
+          {
+            "title": "ASML vs TSMC: AI Stock Investment Opportunities",
+            "url": "https://www.linkedin.com/posts/ivanblinde_artificialintelligence-investments-semiconductors-activity-7407057073353494529-V5CZ",
+            "source": "LinkedIn · Ivan B. Linde"
+          },
+          {
+            "title": "Taiwan Semiconductor Manufacturing vs. ASML",
+            "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-vs-asml-133000415.html",
+            "source": "Yahoo Finance"
+          }
+        ]
+      }
+    },
+    {
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "9 Jun 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-10-09T05:21:32.922955+00:00",
+        "independent_sources": [
+          {
+            "title": "FIRST | For Inspiration and Recognition of Science and ...",
+            "url": "https://www.firstinspires.org/",
+            "source": "FIRST Inspires"
+          },
+          {
+            "title": "FIRST - Improving Security Together",
+            "url": "https://www.first.org/",
+            "source": "FIRST - Improving Security Together"
+          },
+          {
+            "title": "FIRST (Financial Information, Resources, Services, and ...",
+            "url": "https://students-residents.aamc.org/financial-aid",
+            "source": "AAMC"
           }
         ]
       }
