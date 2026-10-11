@@ -1,7 +1,7 @@
 ---
 title: "The first-ever reverse-aging drug was just injected into a human"
 domain: "長壽科學／運動醫學"
-date: "9 Jun 2026"
+date: "2026-06-09"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
@@ -9,7 +9,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ## The first-ever reverse-aging drug was just injected into a human
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：9 Jun 2026
+**日期**：2026-06-09
 **資料驗證狀態**：✅ 已驗證
 
 ---
@@ -43,9 +43,9 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ### 參考來源
 
 - 原始來源：[Business Insider](https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6)
-- 佐證來源：[FIRST | For Inspiration and Recognition of Science and ...](https://www.firstinspires.org/)
-- 佐證來源：[FIRST - Improving Security Together](https://www.first.org/)
-- 佐證來源：[FIRST (Financial Information, Resources, Services, and ...](https://students-residents.aamc.org/financial-aid)
+- 佐證來源：[First Human Cellular Reprogramming Trial Cleared by the ...](https://lifespan.io/first-human-cellular-reprogramming-trial-cleared-by-the-fda/)
+- 佐證來源：[Scientists Are Closer Than Ever To Reverse Aging. How Does ...](https://www.youtube.com/watch?v=_oxx-cXDZbg)
+- 佐證來源：[World's First Anti-Ageing Gene Therapy Trial in Humans](https://gulfnews.com/world/americas/the-worlds-first-anti-ageing-gene-therapy-has-just-been-injected-into-a-human-heres-what-it-does-1.500570525)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-10-09 05:21 UTC*
+*產生時間：2026-10-11 04:55 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, LongevityLab, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, SportsMedHub, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
