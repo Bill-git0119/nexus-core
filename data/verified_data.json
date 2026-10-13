@@ -1,68 +1,38 @@
 {
-  "generated_at": "2026-10-11T04:55:31.740569+00:00",
+  "generated_at": "2026-10-13T06:08:50.016166+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 2,
-    "discarded": 6
+    "verified": 1,
+    "discarded": 7
   },
   "verified_topics": [
     {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "The Motley Fool",
-      "date": "Aug 2, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-10-11T04:55:30.812822+00:00",
-        "independent_sources": [
-          {
-            "title": "ASML vs. TSMC: Which Semiconductor Stock Scores Higher",
-            "url": "https://www.stoxcraft.com/news/asml-vs-tsm-2026-best-semiconductor-stocks",
-            "source": "Stoxcraft"
-          },
-          {
-            "title": "ASML vs. TSM: The Best AI Stock to Buy Now",
-            "url": "https://247wallst.com/investing/2024/10/30/asml-vs-tsm-the-best-ai-stock-to-buy-now/",
-            "source": "24/7 Wall St."
-          },
-          {
-            "title": "Top AI Chip Manufacturing Stocks to Buy in 2026",
-            "url": "https://bingx.com/en/learn/article/top-ai-chip-manufacturing-stocks-to-buy-tsmc-asml-advanced-chipmaking",
-            "source": "BingX"
-          }
-        ]
-      }
-    },
-    {
-      "title": "The first-ever reverse-aging drug was just injected into a human",
-      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
-      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
-      "source": "Business Insider",
-      "date": "2026-06-09",
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "source": "The New York Times",
+      "date": "May 1, 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-11T04:55:31.740304+00:00",
+        "checked_at": "2026-10-13T06:08:50.016146+00:00",
         "independent_sources": [
           {
-            "title": "First Human Cellular Reprogramming Trial Cleared by the ...",
-            "url": "https://lifespan.io/first-human-cellular-reprogramming-trial-cleared-by-the-fda/",
-            "source": "Lifespan Research Institute"
+            "title": "Scientists Explore Possibility of Reversing Aging Researchers ...",
+            "url": "https://www.facebook.com/startupnews.fyi/videos/scientists-explore-possibility-of-reversing-agingresearchers-from-harvard-univer/2360559484420567/",
+            "source": "Facebook · StartupNews.Fyi"
           },
           {
-            "title": "Scientists Are Closer Than Ever To Reverse Aging. How Does ...",
-            "url": "https://www.youtube.com/watch?v=_oxx-cXDZbg",
-            "source": "YouTube · Business Insider"
+            "title": "Scientists can tell how fast you're aging. Now, the trick is to ...",
+            "url": "https://www.npr.org/sections/health-shots/2024/01/29/1226911278/thrive-age-longevity-lab-healthy-aging-live-better-longer",
+            "source": "NPR"
           },
           {
-            "title": "World's First Anti-Ageing Gene Therapy Trial in Humans",
-            "url": "https://gulfnews.com/world/americas/the-worlds-first-anti-ageing-gene-therapy-has-just-been-injected-into-a-human-heres-what-it-does-1.500570525",
-            "source": "Gulf News"
+            "title": "What if aging wasn't permanent? #agingreversal ...",
+            "url": "https://www.facebook.com/WorldGovSummit/videos/what-if-aging-wasnt-permanent-agingreversal-davindsinclair-harvarduniversity-wor/938115281965134/",
+            "source": "Facebook · World Governments Summit - القمة العالمية للحكومات"
           }
         ]
       }

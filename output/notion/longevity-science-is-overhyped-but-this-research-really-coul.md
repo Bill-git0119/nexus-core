@@ -43,9 +43,9 @@ A new therapy has the potential to cure hundreds of diseases — and even revers
 ### 參考來源
 
 - 原始來源：[The New York Times](https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html)
-- 佐證來源：[Longevity Science Is Overhyped. But This Research Really ...](https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo)
-- 佐證來源：[Longevity Science Is Overhyped. But This Research Really ...](https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity)
-- 佐證來源：[Aging Science News on X: "Longevity ...](https://x.com/AgingBiology/status/2049482568903303628)
+- 佐證來源：[Scientists Explore Possibility of Reversing Aging Researchers ...](https://www.facebook.com/startupnews.fyi/videos/scientists-explore-possibility-of-reversing-agingresearchers-from-harvard-univer/2360559484420567/)
+- 佐證來源：[Scientists can tell how fast you're aging. Now, the trick is to ...](https://www.npr.org/sections/health-shots/2024/01/29/1226911278/thrive-age-longevity-lab-healthy-aging-live-better-longer)
+- 佐證來源：[What if aging wasn't permanent? #agingreversal ...](https://www.facebook.com/WorldGovSummit/videos/what-if-aging-wasnt-permanent-agingreversal-davindsinclair-harvarduniversity-wor/938115281965134/)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ A new therapy has the potential to cure hundreds of diseases — and even revers
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-09-07 03:43 UTC*
+*產生時間：2026-10-13 06:08 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, LongevityLab, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, HealthPro, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

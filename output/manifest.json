@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T04:55:31.747309+00:00",
+  "generated_at": "2026-10-13T06:08:50.021532+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 2,
+  "total_articles": 1,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -9,23 +9,13 @@
   },
   "articles": [
     {
-      "slug": "asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b",
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "Aug 2, 2026",
-      "notion_file": "output/notion/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b.md",
-      "ghpages_file": "output/ghpages/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "the-first-ever-reverse-aging-drug-was-just-injected-into-a-h",
-      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "slug": "longevity-science-is-overhyped-but-this-research-really-coul",
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "domain": "Longevity/Sports Medicine",
       "domain_zh": "長壽科學／運動醫學",
-      "date": "2026-06-09",
-      "notion_file": "output/notion/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.md",
-      "ghpages_file": "output/ghpages/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.html",
+      "date": "May 1, 2026",
+      "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
+      "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
       "citations_count": 3
     }
   ]
