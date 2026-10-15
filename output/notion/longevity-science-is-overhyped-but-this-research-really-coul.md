@@ -43,8 +43,8 @@ A new therapy has the potential to cure hundreds of diseases — and even revers
 ### 參考來源
 
 - 原始來源：[The New York Times](https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html)
-- 佐證來源：[Scientists Explore Possibility of Reversing Aging Researchers ...](https://www.facebook.com/startupnews.fyi/videos/scientists-explore-possibility-of-reversing-agingresearchers-from-harvard-univer/2360559484420567/)
-- 佐證來源：[Scientists can tell how fast you're aging. Now, the trick is to ...](https://www.npr.org/sections/health-shots/2024/01/29/1226911278/thrive-age-longevity-lab-healthy-aging-live-better-longer)
+- 佐證來源：[Anti-aging: Researchers might be closer than you think](https://www.youtube.com/watch?v=KKlukjIaWVg)
+- 佐證來源：[The real science behind the billionaire pursuit of immortality](https://www.vox.com/the-highlight/24121932/anti-aging-longevity-science-health-drugs)
 - 佐證來源：[What if aging wasn't permanent? #agingreversal ...](https://www.facebook.com/WorldGovSummit/videos/what-if-aging-wasnt-permanent-agingreversal-davindsinclair-harvarduniversity-wor/938115281965134/)
 
 ### 相關資源
@@ -61,7 +61,7 @@ A new therapy has the potential to cure hundreds of diseases — and even revers
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-10-13 06:08 UTC*
+*產生時間：2026-10-15 03:57 UTC*
 
 
 > ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, HealthPro, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

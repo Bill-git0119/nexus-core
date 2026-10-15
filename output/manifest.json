@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-10-13T06:08:50.021532+00:00",
+  "generated_at": "2026-10-15T03:57:16.014288+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 1,
+  "total_articles": 3,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
     "ghpages_dir": "output/ghpages"
   },
   "articles": [
+    {
+      "slug": "asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Aug 2, 2026",
+      "notion_file": "output/notion/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b.md",
+      "ghpages_file": "output/ghpages/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b-2",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Aug 2, 2026",
+      "notion_file": "output/notion/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b-2.md",
+      "ghpages_file": "output/ghpages/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b-2.html",
+      "citations_count": 3
+    },
     {
       "slug": "longevity-science-is-overhyped-but-this-research-really-coul",
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",

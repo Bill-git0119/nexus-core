@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-10-13T06:08:50.016166+00:00",
+  "generated_at": "2026-10-15T03:57:16.004958+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 3,
+    "discarded": 5
   },
   "verified_topics": [
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
+      "snippet": "I have long thought that one of the best ways to invest in artificial intelligence (AI) and its infrastructure is to find a company that...",
+      "source": "Yahoo Finance",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-10-15T03:57:05.254854+00:00",
+        "independent_sources": [
+          {
+            "title": "ASML vs. TSMC: Which Semiconductor Supply Chain ...",
+            "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+            "source": "The Motley Fool"
+          },
+          {
+            "title": "ASML vs. Taiwan Semiconductor: Which Critical AI Stock Is ...",
+            "url": "https://www.tikr.com/blog/asml-vs-taiwan-semiconductor-which-critical-ai-stock-is-the-better-value",
+            "source": "TIKR.com"
+          },
+          {
+            "title": "ASML vs TSM - Comparison tool",
+            "url": "https://tickeron.com/compare/ASML-vs-TSM/",
+            "source": "Tickeron"
+          }
+        ]
+      }
+    },
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "TSMC has a dominant market share and is expanding its footprint in Arizona. ASML makes advanced lithography machines that are vital for...",
+      "source": "The Motley Fool",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-10-15T03:57:05.305098+00:00",
+        "independent_sources": [
+          {
+            "title": "ASML vs. Taiwan Semiconductor: Which Critical AI Stock Is ...",
+            "url": "https://www.tikr.com/blog/asml-vs-taiwan-semiconductor-which-critical-ai-stock-is-the-better-value",
+            "source": "TIKR.com"
+          },
+          {
+            "title": "ASML vs TSM - Comparison tool",
+            "url": "https://tickeron.com/compare/ASML-vs-TSM/",
+            "source": "Tickeron"
+          },
+          {
+            "title": "TSMC vs. ASML: Which Is the Better AI Semiconductor ...",
+            "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/3354938/tsmc-vs-asml-which-is-the-better-ai-semiconductor-ecosystem-stock-to-buy/",
+            "source": "The Globe and Mail"
+          }
+        ]
+      }
+    },
     {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
@@ -17,17 +77,17 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-13T06:08:50.016146+00:00",
+        "checked_at": "2026-10-15T03:57:16.004933+00:00",
         "independent_sources": [
           {
-            "title": "Scientists Explore Possibility of Reversing Aging Researchers ...",
-            "url": "https://www.facebook.com/startupnews.fyi/videos/scientists-explore-possibility-of-reversing-agingresearchers-from-harvard-univer/2360559484420567/",
-            "source": "Facebook · StartupNews.Fyi"
+            "title": "Anti-aging: Researchers might be closer than you think",
+            "url": "https://www.youtube.com/watch?v=KKlukjIaWVg",
+            "source": "YouTube · DW News"
           },
           {
-            "title": "Scientists can tell how fast you're aging. Now, the trick is to ...",
-            "url": "https://www.npr.org/sections/health-shots/2024/01/29/1226911278/thrive-age-longevity-lab-healthy-aging-live-better-longer",
-            "source": "NPR"
+            "title": "The real science behind the billionaire pursuit of immortality",
+            "url": "https://www.vox.com/the-highlight/24121932/anti-aging-longevity-science-health-drugs",
+            "source": "vox.com"
           },
           {
             "title": "What if aging wasn't permanent? #agingreversal ...",
