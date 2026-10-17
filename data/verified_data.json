@@ -1,98 +1,68 @@
 {
-  "generated_at": "2026-10-15T03:57:16.004958+00:00",
+  "generated_at": "2026-10-17T03:40:14.826171+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 3,
-    "discarded": 5
+    "verified": 2,
+    "discarded": 6
   },
   "verified_topics": [
     {
       "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
-      "snippet": "I have long thought that one of the best ways to invest in artificial intelligence (AI) and its infrastructure is to find a company that...",
-      "source": "Yahoo Finance",
-      "date": "Aug 2, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-10-15T03:57:05.254854+00:00",
-        "independent_sources": [
-          {
-            "title": "ASML vs. TSMC: Which Semiconductor Supply Chain ...",
-            "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-            "source": "The Motley Fool"
-          },
-          {
-            "title": "ASML vs. Taiwan Semiconductor: Which Critical AI Stock Is ...",
-            "url": "https://www.tikr.com/blog/asml-vs-taiwan-semiconductor-which-critical-ai-stock-is-the-better-value",
-            "source": "TIKR.com"
-          },
-          {
-            "title": "ASML vs TSM - Comparison tool",
-            "url": "https://tickeron.com/compare/ASML-vs-TSM/",
-            "source": "Tickeron"
-          }
-        ]
-      }
-    },
-    {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
       "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-      "snippet": "TSMC has a dominant market share and is expanding its footprint in Arizona. ASML makes advanced lithography machines that are vital for...",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
       "source": "The Motley Fool",
       "date": "Aug 2, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-15T03:57:05.305098+00:00",
+        "checked_at": "2026-10-17T03:40:14.203434+00:00",
         "independent_sources": [
+          {
+            "title": "ASML and TSM: Two Essential Links in the AI Chip Supply ...",
+            "url": "https://tickeron.com/blogs/asml-and-tsm-two-essential-links-in-the-ai-chip-supply-chain-18071/",
+            "source": "Tickeron"
+          },
           {
             "title": "ASML vs. Taiwan Semiconductor: Which Critical AI Stock Is ...",
             "url": "https://www.tikr.com/blog/asml-vs-taiwan-semiconductor-which-critical-ai-stock-is-the-better-value",
             "source": "TIKR.com"
           },
           {
-            "title": "ASML vs TSM - Comparison tool",
-            "url": "https://tickeron.com/compare/ASML-vs-TSM/",
-            "source": "Tickeron"
-          },
-          {
-            "title": "TSMC vs. ASML: Which Is the Better AI Semiconductor ...",
-            "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/3354938/tsmc-vs-asml-which-is-the-better-ai-semiconductor-ecosystem-stock-to-buy/",
-            "source": "The Globe and Mail"
+            "title": "ASML Vs Taiwan Semiconductor Manufacturing",
+            "url": "https://danelfin.com/stocks/ASML-asml-vs-TSM-taiwan-semiconductor-manufacturing-compare",
+            "source": "Danelfin"
           }
         ]
       }
     },
     {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
+      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
+      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
+      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
+      "source": "Time Magazine",
+      "date": "Aug 21, 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-15T03:57:16.004933+00:00",
+        "checked_at": "2026-10-17T03:40:14.826149+00:00",
         "independent_sources": [
           {
-            "title": "Anti-aging: Researchers might be closer than you think",
-            "url": "https://www.youtube.com/watch?v=KKlukjIaWVg",
-            "source": "YouTube · DW News"
+            "title": "Chemically induced reprogramming to reverse cellular aging",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10373966/",
+            "source": "National Institutes of Health (NIH) | (.gov)"
           },
           {
-            "title": "The real science behind the billionaire pursuit of immortality",
-            "url": "https://www.vox.com/the-highlight/24121932/anti-aging-longevity-science-health-drugs",
-            "source": "vox.com"
+            "title": "Shinya Yamanaka Made Cells Young Again. Can That ...",
+            "url": "https://healthspanaction.org/shinya-yamanaka-made-cells-young-again-can-that-reverse-aging/",
+            "source": "Healthspan Action Coalition"
           },
           {
-            "title": "What if aging wasn't permanent? #agingreversal ...",
-            "url": "https://www.facebook.com/WorldGovSummit/videos/what-if-aging-wasnt-permanent-agingreversal-davindsinclair-harvarduniversity-wor/938115281965134/",
-            "source": "Facebook · World Governments Summit - القمة العالمية للحكومات"
+            "title": "Reversing aging just got real In 2006, Shinya Yamanaka won a ...",
+            "url": "https://www.facebook.com/vaibhavsisintyofficial/posts/reversing-aging-just-got-realin-2006-shinya-yamanaka-won-a-nobel-for-showing-pro/1543395734471211/",
+            "source": "Facebook · Vaibhav Sisinty"
           }
         ]
       }
