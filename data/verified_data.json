@@ -1,42 +1,12 @@
 {
-  "generated_at": "2026-10-17T03:40:14.826171+00:00",
+  "generated_at": "2026-10-19T03:56:49.424775+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 2,
-    "discarded": 6
+    "verified": 1,
+    "discarded": 7
   },
   "verified_topics": [
-    {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "The Motley Fool",
-      "date": "Aug 2, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-10-17T03:40:14.203434+00:00",
-        "independent_sources": [
-          {
-            "title": "ASML and TSM: Two Essential Links in the AI Chip Supply ...",
-            "url": "https://tickeron.com/blogs/asml-and-tsm-two-essential-links-in-the-ai-chip-supply-chain-18071/",
-            "source": "Tickeron"
-          },
-          {
-            "title": "ASML vs. Taiwan Semiconductor: Which Critical AI Stock Is ...",
-            "url": "https://www.tikr.com/blog/asml-vs-taiwan-semiconductor-which-critical-ai-stock-is-the-better-value",
-            "source": "TIKR.com"
-          },
-          {
-            "title": "ASML Vs Taiwan Semiconductor Manufacturing",
-            "url": "https://danelfin.com/stocks/ASML-asml-vs-TSM-taiwan-semiconductor-manufacturing-compare",
-            "source": "Danelfin"
-          }
-        ]
-      }
-    },
     {
       "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
       "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
@@ -47,22 +17,22 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-17T03:40:14.826149+00:00",
+        "checked_at": "2026-10-19T03:56:49.424749+00:00",
         "independent_sources": [
           {
-            "title": "Chemically induced reprogramming to reverse cellular aging",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10373966/",
+            "title": "Shinya Yamanaka – Facts",
+            "url": "https://www.nobelprize.org/prizes/medicine/2012/yamanaka/facts/",
+            "source": "NobelPrize.org"
+          },
+          {
+            "title": "Shinya Yamanaka, MD, PhD",
+            "url": "https://gladstone.org/people/shinya-yamanaka/",
+            "source": "Gladstone Institutes"
+          },
+          {
+            "title": "Reprogramming somatic cells to pluripotency - PMC - NIH",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3903711/",
             "source": "National Institutes of Health (NIH) | (.gov)"
-          },
-          {
-            "title": "Shinya Yamanaka Made Cells Young Again. Can That ...",
-            "url": "https://healthspanaction.org/shinya-yamanaka-made-cells-young-again-can-that-reverse-aging/",
-            "source": "Healthspan Action Coalition"
-          },
-          {
-            "title": "Reversing aging just got real In 2006, Shinya Yamanaka won a ...",
-            "url": "https://www.facebook.com/vaibhavsisintyofficial/posts/reversing-aging-just-got-realin-2006-shinya-yamanaka-won-a-nobel-for-showing-pro/1543395734471211/",
-            "source": "Facebook · Vaibhav Sisinty"
           }
         ]
       }
