@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-10-19T03:56:49.427655+00:00",
+  "generated_at": "2026-10-21T03:56:46.160637+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 1,
+  "total_articles": 3,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
     "ghpages_dir": "output/ghpages"
   },
   "articles": [
+    {
+      "slug": "asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Aug 2, 2026",
+      "notion_file": "output/notion/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b.md",
+      "ghpages_file": "output/ghpages/asml-vs-tsmc-which-semiconductor-supply-chain-stock-is-the-b.html",
+      "citations_count": 3
+    },
     {
       "slug": "shinya-yamanaka-made-cells-young-again-can-that-reverse-agin",
       "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
@@ -16,6 +26,16 @@
       "date": "Aug 21, 2026",
       "notion_file": "output/notion/shinya-yamanaka-made-cells-young-again-can-that-reverse-agin.md",
       "ghpages_file": "output/ghpages/shinya-yamanaka-made-cells-young-again-can-that-reverse-agin.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "longevity-science-is-overhyped-but-this-research-really-coul",
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "May 1, 2026",
+      "notion_file": "output/notion/longevity-science-is-overhyped-but-this-research-really-coul.md",
+      "ghpages_file": "output/ghpages/longevity-science-is-overhyped-but-this-research-really-coul.html",
       "citations_count": 3
     }
   ]

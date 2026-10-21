@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-10-19T03:56:49.424775+00:00",
+  "generated_at": "2026-10-21T03:56:46.155073+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 3,
+    "discarded": 5
   },
   "verified_topics": [
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "The Motley Fool",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-10-21T03:56:44.596383+00:00",
+        "independent_sources": [
+          {
+            "title": "ASML vs. TSMC: Which Semiconductor Stock Scores Higher",
+            "url": "https://www.stoxcraft.com/news/asml-vs-tsm-2026-best-semiconductor-stocks",
+            "source": "Stoxcraft"
+          },
+          {
+            "title": "Better Semiconductor Stock: TSMC vs. ASML",
+            "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/36179535/better-semiconductor-stock-tsmc-vs-asml/",
+            "source": "The Globe and Mail"
+          },
+          {
+            "title": "Taiwan Semi, Samsung and ASML are underappreciated AI ...",
+            "url": "https://www.youtube.com/watch?v=qR1tY-bZklw",
+            "source": "YouTube · CNBC Television"
+          }
+        ]
+      }
+    },
     {
       "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
       "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
@@ -17,22 +47,52 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-19T03:56:49.424749+00:00",
+        "checked_at": "2026-10-21T03:56:45.350199+00:00",
         "independent_sources": [
           {
-            "title": "Shinya Yamanaka – Facts",
-            "url": "https://www.nobelprize.org/prizes/medicine/2012/yamanaka/facts/",
-            "source": "NobelPrize.org"
+            "title": "World-first therapy to rejuvenate aging cells used on person",
+            "url": "https://www.facebook.com/groups/691379664744568/posts/2128689191013601/",
+            "source": "Facebook · Insightopedia - Facts For Enquiring Minds"
           },
           {
-            "title": "Shinya Yamanaka, MD, PhD",
-            "url": "https://gladstone.org/people/shinya-yamanaka/",
-            "source": "Gladstone Institutes"
+            "title": "Can ageing be reversed? New human trial to test 'cell ...",
+            "url": "https://www.hindustantimes.com/lifestyle/health/can-ageing-be-reversed-new-human-trial-to-test-cell-rejuvenation-raises-hope-and-concern-101775975131996.html",
+            "source": "Hindustan Times"
           },
           {
-            "title": "Reprogramming somatic cells to pluripotency - PMC - NIH",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3903711/",
-            "source": "National Institutes of Health (NIH) | (.gov)"
+            "title": "Can Stem Cells Reverse Aging? Yamanaka Factors and ...",
+            "url": "https://rgdrjoo.tistory.com/106",
+            "source": "티스토리"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "source": "The New York Times",
+      "date": "May 1, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-10-21T03:56:46.155049+00:00",
+        "independent_sources": [
+          {
+            "title": "Longevity Science news: Reverse Aging medicine",
+            "url": "https://www.youtube.com/watch?v=Hkl6HNvA1gM",
+            "source": "YouTube · geneXplain"
+          },
+          {
+            "title": "The Scientific Search for Youth",
+            "url": "https://time.com/7266835/aging-longevity-health-span-science/",
+            "source": "Time Magazine"
+          },
+          {
+            "title": "Aging may be more reversible than scientists thought",
+            "url": "https://www.instagram.com/p/DYm4NEZlvHx/",
+            "source": "Instagram · earthdotcom"
           }
         ]
       }
