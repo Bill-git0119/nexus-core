@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-21T03:56:43.894719+00:00",
+  "generated_at": "2026-10-23T04:00:26.330444+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "How Does Taiwan Semiconductor Manufacturing (TSM) Fit Into The New AI Supply Chain?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-taiwan-semiconductor-manufacturing-tsm-170934521.html",
-      "snippet": "Taiwan Semiconductor Manufacturing (NYSE:TSM) faces a changing supply chain as Vanguard and NXP open a 300mm fab in Singapore under their...",
+      "title": "EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
+      "url": "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+      "snippet": "TAIPEI/SINGAPORE, Oct 22 (Reuters) - Taiwan's TSMC (2330.TW) , opens new tab is exploring alternatives to rare-earth components in factory...",
+      "source": "Reuters",
+      "date": "19 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Taiwan's first-ever chip workers strike hits Micron plant",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-hits-micron-plant",
+      "snippet": "TAIPEI -- A Micron Technology labor union staged Taiwan's first-ever strike in the semiconductor industry on Thursday as part of a dispute...",
+      "source": "Nikkei Asia",
+      "date": "1 day ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "TSMC Pauses Some Taiwan Construction After Mishap Kills Four",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/tsmc-suspends-some-construction-after-deadly-accident-kills-four",
+      "snippet": "Taiwan Semiconductor Manufacturing Co. is suspending some construction work after an accident at one of its building sites in southern...",
+      "source": "Bloomberg.com",
+      "date": "1 day ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "Taiwan Semiconductor Wants In on SpaceX’s Terafab — but Only If It Runs the Fab",
+      "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-wants-spacex-terafab-162839880.html",
+      "snippet": "Taiwan Semiconductor (NYSE:TSM) confirmed on its October 15, 2026 third-quarter earnings call that it is in talks with SpaceX (NASDAQ:SPCX)...",
       "source": "Yahoo Finance",
-      "date": "3 weeks ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "The Motley Fool",
-      "date": "Aug 2, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain",
-      "url": "https://www.airliquide.com/group/press-releases-news/2026-03-25/air-liquide-inaugurates-its-first-advanced-materials-manufacturing-plant-taiwan-strengthening-next",
-      "snippet": "Air Liquide inaugurates its first Advanced Materials manufacturing plant in Taiwan, strengthening the next-gen semiconductor supply chain.",
-      "source": "Air Liquide",
-      "date": "Mar 25, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Semiconductor Supply Chain Forum Kicks Off: Lai Ching-te Says Taiwan's Chip Industry Connects the World to Build Resilient Supply Chains",
-      "url": "https://finance.biggo.com/news/0fe0a665-2e68-4038-a9db-fcce1be10e6b",
-      "snippet": "President Lai Ching-te attended the 2026 Semiconductor Supply Chain Summit, where he presented Economic Professional Medals to Micron CEO...",
-      "source": "finance.biggo.com",
-      "date": "1 month ago",
+      "date": "12 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -57,20 +57,20 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
-      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
-      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
-      "source": "Time Magazine",
-      "date": "Aug 21, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
       "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
+      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
+      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
+      "source": "Time Magazine",
+      "date": "Aug 21, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

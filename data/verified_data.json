@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-21T03:56:46.155073+00:00",
+  "generated_at": "2026-10-23T04:00:27.797366+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 3,
-    "discarded": 5
+    "verified": 2,
+    "discarded": 6
   },
   "verified_topics": [
     {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "The Motley Fool",
-      "date": "Aug 2, 2026",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "source": "The New York Times",
+      "date": "May 1, 2026",
+      "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-21T03:56:44.596383+00:00",
+        "checked_at": "2026-10-23T04:00:27.094194+00:00",
         "independent_sources": [
           {
-            "title": "ASML vs. TSMC: Which Semiconductor Stock Scores Higher",
-            "url": "https://www.stoxcraft.com/news/asml-vs-tsm-2026-best-semiconductor-stocks",
-            "source": "Stoxcraft"
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
+            "source": "LinkedIn · Nir Barzilai"
           },
           {
-            "title": "Better Semiconductor Stock: TSMC vs. ASML",
-            "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/36179535/better-semiconductor-stock-tsmc-vs-asml/",
-            "source": "The Globe and Mail"
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://academyofgeroscience.org/news/nyt-magazine-longevity-science",
+            "source": "Academy of Geroscience"
           },
           {
-            "title": "Taiwan Semi, Samsung and ASML are underappreciated AI ...",
-            "url": "https://www.youtube.com/watch?v=qR1tY-bZklw",
-            "source": "YouTube · CNBC Television"
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
+            "source": "Center for Genetics and Society"
           }
         ]
       }
@@ -47,52 +47,22 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-21T03:56:45.350199+00:00",
+        "checked_at": "2026-10-23T04:00:27.797341+00:00",
         "independent_sources": [
           {
-            "title": "World-first therapy to rejuvenate aging cells used on person",
-            "url": "https://www.facebook.com/groups/691379664744568/posts/2128689191013601/",
-            "source": "Facebook · Insightopedia - Facts For Enquiring Minds"
+            "title": "Two research teams reverse signs of aging in mice",
+            "url": "https://www.science.org/content/article/two-research-teams-reverse-signs-aging-mice",
+            "source": "Science | AAAS"
           },
           {
-            "title": "Can ageing be reversed? New human trial to test 'cell ...",
-            "url": "https://www.hindustantimes.com/lifestyle/health/can-ageing-be-reversed-new-human-trial-to-test-cell-rejuvenation-raises-hope-and-concern-101775975131996.html",
-            "source": "Hindustan Times"
+            "title": "Chemically induced reprogramming to reverse cellular aging",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10373966/",
+            "source": "National Institutes of Health (NIH) | (.gov)"
           },
           {
-            "title": "Can Stem Cells Reverse Aging? Yamanaka Factors and ...",
-            "url": "https://rgdrjoo.tistory.com/106",
-            "source": "티스토리"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-10-21T03:56:46.155049+00:00",
-        "independent_sources": [
-          {
-            "title": "Longevity Science news: Reverse Aging medicine",
-            "url": "https://www.youtube.com/watch?v=Hkl6HNvA1gM",
-            "source": "YouTube · geneXplain"
-          },
-          {
-            "title": "The Scientific Search for Youth",
-            "url": "https://time.com/7266835/aging-longevity-health-span-science/",
-            "source": "Time Magazine"
-          },
-          {
-            "title": "Aging may be more reversible than scientists thought",
-            "url": "https://www.instagram.com/p/DYm4NEZlvHx/",
-            "source": "Instagram · earthdotcom"
+            "title": "Reversing aging just got real In 2006, Shinya Yamanaka won a ...",
+            "url": "https://www.facebook.com/vaibhavsisintyofficial/posts/reversing-aging-just-got-realin-2006-shinya-yamanaka-won-a-nobel-for-showing-pro/1543395734471211/",
+            "source": "Facebook · Vaibhav Sisinty"
           }
         ]
       }
