@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-23T04:00:26.330444+00:00",
+  "generated_at": "2026-10-25T03:54:05.679489+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
-      "url": "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
-      "snippet": "TAIPEI/SINGAPORE, Oct 22 (Reuters) - Taiwan's TSMC (2330.TW) , opens new tab is exploring alternatives to rare-earth components in factory...",
-      "source": "Reuters",
-      "date": "19 hours ago",
+      "title": "AMD to ‘substantially’ up capacity: CEO",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/07/2003865507",
+      "snippet": "SILICON ISLAND: When asked about geopolitical tensions, Lisa Su said that 'Taiwan is absolutely critical to the semiconductor supply chain,...",
+      "source": "Taipei Times",
+      "date": "2 weeks ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Taiwan's first-ever chip workers strike hits Micron plant",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-hits-micron-plant",
-      "snippet": "TAIPEI -- A Micron Technology labor union staged Taiwan's first-ever strike in the semiconductor industry on Thursday as part of a dispute...",
-      "source": "Nikkei Asia",
-      "date": "1 day ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "TSMC Pauses Some Taiwan Construction After Mishap Kills Four",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-21/tsmc-suspends-some-construction-after-deadly-accident-kills-four",
-      "snippet": "Taiwan Semiconductor Manufacturing Co. is suspending some construction work after an accident at one of its building sites in southern...",
-      "source": "Bloomberg.com",
-      "date": "1 day ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "Taiwan Semiconductor Wants In on SpaceX’s Terafab — but Only If It Runs the Fab",
-      "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-wants-spacex-terafab-162839880.html",
-      "snippet": "Taiwan Semiconductor (NYSE:TSM) confirmed on its October 15, 2026 third-quarter earnings call that it is in talks with SpaceX (NASDAQ:SPCX)...",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
       "source": "Yahoo Finance",
-      "date": "12 hours ago",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "AMD to expand Taiwan supply chain investment as chip demand grows: Lisa Su",
+      "url": "https://focustaiwan.tw/business/202610060011",
+      "snippet": "Advanced Micro Devices, Inc. (AMD), a U.S. designer of processors and graphics chips, plans to increase its investment in Taiwan's supply...",
+      "source": "Focus Taiwan",
+      "date": "2 weeks ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "The Motley Fool",
+      "date": "Aug 2, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -43,7 +43,16 @@
       "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
       "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
       "source": "Al Jazeera",
-      "date": "3 weeks ago",
+      "date": "4 weeks ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
+      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
+      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
+      "source": "Time Magazine",
+      "date": "Aug 21, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -62,15 +71,6 @@
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
-      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
-      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
-      "source": "Time Magazine",
-      "date": "Aug 21, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

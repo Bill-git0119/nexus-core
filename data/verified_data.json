@@ -1,38 +1,68 @@
 {
-  "generated_at": "2026-10-23T04:00:27.797366+00:00",
+  "generated_at": "2026-10-25T03:54:07.761878+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 2,
-    "discarded": 6
+    "verified": 4,
+    "discarded": 4
   },
   "verified_topics": [
     {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
-      "domain": "Longevity/Sports Medicine",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "Yahoo Finance",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-23T04:00:27.094194+00:00",
+        "checked_at": "2026-10-25T03:54:06.332918+00:00",
         "independent_sources": [
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
-            "source": "LinkedIn · Nir Barzilai"
+            "title": "2 Stocks the Entire AI Market Depends On !!",
+            "url": "https://www.youtube.com/watch?v=pHH3ViUdYhM",
+            "source": "YouTube · Jose Najarro Stocks"
           },
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://academyofgeroscience.org/news/nyt-magazine-longevity-science",
-            "source": "Academy of Geroscience"
+            "title": "TSMC vs. ASML: Which Is the Better Semiconductor ...",
+            "url": "https://www.fool.com/investing/2026/08/10/tsmc-vs-asml-which-is-the-better-semiconductor-equ/",
+            "source": "The Motley Fool"
           },
           {
-            "title": "Longevity Science Is Overhyped. But This Research Really ...",
-            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
-            "source": "Center for Genetics and Society"
+            "title": "ASML and TSM: Two Essential Links in the AI Chip Supply ...",
+            "url": "https://tickeron.com/blogs/asml-and-tsm-two-essential-links-in-the-ai-chip-supply-chain-18071/",
+            "source": "Tickeron"
+          }
+        ]
+      }
+    },
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
+      "source": "The Motley Fool",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-10-25T03:54:06.373989+00:00",
+        "independent_sources": [
+          {
+            "title": "ASML vs. TSMC: What's the Better AI Buy in 2025?",
+            "url": "https://finance.yahoo.com/news/asml-vs-tsmc-whats-better-104600984.html",
+            "source": "Yahoo Finance"
+          },
+          {
+            "title": "2 Stocks the Entire AI Market Depends On !!",
+            "url": "https://www.youtube.com/watch?v=pHH3ViUdYhM",
+            "source": "YouTube · Jose Najarro Stocks"
+          },
+          {
+            "title": "ASML and TSM: Two Essential Links in the AI Chip Supply ...",
+            "url": "https://tickeron.com/blogs/asml-and-tsm-two-essential-links-in-the-ai-chip-supply-chain-18071/",
+            "source": "Tickeron"
           }
         ]
       }
@@ -47,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-23T04:00:27.797341+00:00",
+        "checked_at": "2026-10-25T03:54:06.986870+00:00",
         "independent_sources": [
           {
             "title": "Two research teams reverse signs of aging in mice",
@@ -55,14 +85,44 @@
             "source": "Science | AAAS"
           },
           {
+            "title": "Can cellular reprogramming reverse aging in cells?",
+            "url": "https://www.facebook.com/gladstoneinstitutes/posts/in-2006-shinya-yamanaka-revealed-something-remarkable-mature-cells-could-be-repr/1660046262794735/",
+            "source": "Facebook · Gladstone Institutes"
+          },
+          {
             "title": "Chemically induced reprogramming to reverse cellular aging",
             "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10373966/",
             "source": "National Institutes of Health (NIH) | (.gov)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "source": "The New York Times",
+      "date": "May 1, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-10-25T03:54:07.761855+00:00",
+        "independent_sources": [
+          {
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://www.linkedin.com/posts/nir-barzilai-7a86a7212_longevity-science-is-overhyped-but-this-activity-7454705127875190784-txVo",
+            "source": "LinkedIn · Nir Barzilai"
           },
           {
-            "title": "Reversing aging just got real In 2006, Shinya Yamanaka won a ...",
-            "url": "https://www.facebook.com/vaibhavsisintyofficial/posts/reversing-aging-just-got-realin-2006-shinya-yamanaka-won-a-nobel-for-showing-pro/1543395734471211/",
-            "source": "Facebook · Vaibhav Sisinty"
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://www.geneticsandsociety.org/article/longevity-science-overhyped-research-really-could-change-humanity",
+            "source": "Center for Genetics and Society"
+          },
+          {
+            "title": "Longevity Science Is Overhyped. But This Research Really ...",
+            "url": "https://academyofgeroscience.org/news/nyt-magazine-longevity-science",
+            "source": "Academy of Geroscience"
           }
         ]
       }
