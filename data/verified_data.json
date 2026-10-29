@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:19:44.112840+00:00",
+  "generated_at": "2026-10-29T04:59:56.901481+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,12 +17,12 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-27T04:19:42.934857+00:00",
+        "checked_at": "2026-10-29T04:59:55.498107+00:00",
         "independent_sources": [
           {
-            "title": "ASML vs. TSM: Which Semiconductor Stock is the Smarter ...",
-            "url": "https://www.barchart.com/story/news/32270024/asml-vs-tsm-which-semiconductor-stock-is-the-smarter-buy",
-            "source": "Barchart.com"
+            "title": "Better Semiconductor Stock: ASML vs. TSMC",
+            "url": "https://www.fool.com/investing/2021/04/21/better-semiconductor-stock-asml-vs-tsmc/",
+            "source": "The Motley Fool"
           },
           {
             "title": "ASML or NVDA or TSM - Pick the Best tool",
@@ -30,39 +30,39 @@
             "source": "Tickeron"
           },
           {
-            "title": "The AI Chip Supply Chain: Why TSMC Might Matter More ...",
-            "url": "https://www.reddit.com/r/iOCharts/comments/1ro8c57/the_ai_chip_supply_chain_why_tsmc_might_matter/",
-            "source": "Reddit · r/iOCharts"
+            "title": "TSMC raises revenue forecast on AI demand 2026",
+            "url": "https://www.facebook.com/100064055282588/posts/tsmc-and-asml-sit-at-the-semiconductor-supply-chains-start-where-economics-are-s/1585079913637170/",
+            "source": "Facebook · Merill Funds"
           }
         ]
       }
     },
     {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "The Motley Fool",
-      "date": "Aug 2, 2026",
+      "title": "All-In on AI: How the United States and Taiwan Are Deepening Their Chip Partnership",
+      "url": "https://www.stimson.org/2026/all-in-on-ai-how-the-united-states-and-taiwan-are-deepening-their-chip-partnership/",
+      "snippet": "Taiwan's cooperation with the United States on the AI supply chain could strengthen the silicon shield.",
+      "source": "Stimson Center",
+      "date": "May 8, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-27T04:19:42.964277+00:00",
+        "checked_at": "2026-10-29T04:59:55.942808+00:00",
         "independent_sources": [
           {
-            "title": "ASML vs. TSM: Which Semiconductor Stock is the Smarter ...",
-            "url": "https://www.barchart.com/story/news/32270024/asml-vs-tsm-which-semiconductor-stock-is-the-smarter-buy",
-            "source": "Barchart.com"
+            "title": "U.S. and Taiwan Formalize $250 Billion Semiconductor ...",
+            "url": "https://nationalcioreview.com/articles-insights/extra-bytes/u-s-and-taiwan-formalize-250-billion-semiconductor-and-tech-agreement/",
+            "source": "The National CIO Review"
           },
           {
-            "title": "ASML or NVDA or TSM - Pick the Best tool",
-            "url": "https://tickeron.com/pick-the-best/ASML-or-NVDA-or-TSM/",
-            "source": "Tickeron"
+            "title": "US and Taiwan Deepen AI, Semiconductor Cooperation",
+            "url": "https://www.linkedin.com/posts/techmatterspk_taiwan-unitedstates-kungminghsin-activity-7422196104953298944-Do25",
+            "source": "LinkedIn · Tech Matters Pakistan"
           },
           {
-            "title": "The AI Chip Supply Chain: Why TSMC Might Matter More ...",
-            "url": "https://www.reddit.com/r/iOCharts/comments/1ro8c57/the_ai_chip_supply_chain_why_tsmc_might_matter/",
-            "source": "Reddit · r/iOCharts"
+            "title": "The Strengthening U.S.-Taiwan Economic Connection",
+            "url": "https://topics.amcham.com.tw/2024/05/the-strengthening-u-s-taiwan-economic-connection/",
+            "source": "Taiwan Business TOPICS"
           }
         ]
       }
@@ -77,17 +77,17 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-27T04:19:43.563575+00:00",
+        "checked_at": "2026-10-29T04:59:56.439937+00:00",
         "independent_sources": [
-          {
-            "title": "Cellular rejuvenation therapy safely reverses signs of ...",
-            "url": "https://www.salk.edu/news-release/cellular-rejuvenation-therapy-safely-reverses-signs-of-aging-in-mice/",
-            "source": "Salk Institute"
-          },
           {
             "title": "Old human cells rejuvenated with stem cell technology",
             "url": "https://med.stanford.edu/news/all-news/2020/03/old-human-cells-rejuvenated-with-stem-cell-technology.html",
             "source": "Stanford Medicine"
+          },
+          {
+            "title": "Yamanaka Factors And Cellular Reprogramming",
+            "url": "https://lifespan.io/topic/yamanaka-factors/",
+            "source": "Lifespan Research Institute"
           },
           {
             "title": "Age-Reversing Stem Cell Treatment Succeeds in Human Trial",
@@ -98,31 +98,31 @@
       }
     },
     {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
+      "title": "The first-ever reverse-aging drug was just injected into a human",
+      "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+      "snippet": "Cellular reprogramming is the hottest topic in longevity science, with tech titans like Sam Altman investing in it.",
+      "source": "Business Insider",
+      "date": "Jun 9, 2026",
       "domain": "Longevity/Sports Medicine",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-27T04:19:44.112731+00:00",
+        "checked_at": "2026-10-29T04:59:56.901452+00:00",
         "independent_sources": [
           {
-            "title": "BUT Definition & Meaning",
-            "url": "https://www.merriam-webster.com/dictionary/but",
-            "source": "Merriam-Webster"
+            "title": "NEW STUDY: Discovery of Chemical Means to Reverse ...",
+            "url": "https://www.aging-us.com/news-room/NEW-STUDY-Discovery-of-Chemical-Means-to-Reverse-Aging-and-Restore-Cellular-Function",
+            "source": "Aging-US"
           },
           {
-            "title": "But Why: A Podcast for Curious Kids",
-            "url": "https://www.vermontpublic.org/podcast/but-why-a-podcast-for-curious-kids",
-            "source": "Vermont Public"
+            "title": "Anti-Aging Breakthrough? Harvard's David Sinclair ...",
+            "url": "https://www.nad.com/news/anti-aging-breakthrough-dr-david-sinclair-predicts-age-reversing-pill-by-2035",
+            "source": "NAD.com"
           },
           {
-            "title": "BUT Definition & Meaning",
-            "url": "https://www.dictionary.com/browse/but",
-            "source": "Dictionary.com"
+            "title": "Matt Kaeberlein's Post",
+            "url": "https://www.linkedin.com/posts/mkaeberlein_the-first-ever-reverse-aging-drug-was-just-activity-7470276981989957632-XWTU",
+            "source": "LinkedIn · Matt Kaeberlein"
           }
         ]
       }

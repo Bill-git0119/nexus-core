@@ -1,7 +1,7 @@
 ---
 title: "The first-ever reverse-aging drug was just injected into a human"
 domain: "長壽科學／運動醫學"
-date: "2026-06-09"
+date: "Jun 9, 2026"
 status: "已發布"
 tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ---
@@ -9,7 +9,7 @@ tags: ["長壽科學／運動醫學", "Nexus自動產出"]
 ## The first-ever reverse-aging drug was just injected into a human
 
 **領域**：長壽科學／[運動醫學](https://example.com/aff?ref=nexus&product=sports-med)
-**日期**：2026-06-09
+**日期**：Jun 9, 2026
 **資料驗證狀態**：✅ 已驗證
 
 ---
@@ -43,9 +43,9 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ### 參考來源
 
 - 原始來源：[Business Insider](https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6)
-- 佐證來源：[First Human Cellular Reprogramming Trial Cleared by the ...](https://lifespan.io/first-human-cellular-reprogramming-trial-cleared-by-the-fda/)
-- 佐證來源：[Scientists Are Closer Than Ever To Reverse Aging. How Does ...](https://www.youtube.com/watch?v=_oxx-cXDZbg)
-- 佐證來源：[World's First Anti-Ageing Gene Therapy Trial in Humans](https://gulfnews.com/world/americas/the-worlds-first-anti-ageing-gene-therapy-has-just-been-injected-into-a-human-heres-what-it-does-1.500570525)
+- 佐證來源：[NEW STUDY: Discovery of Chemical Means to Reverse ...](https://www.aging-us.com/news-room/NEW-STUDY-Discovery-of-Chemical-Means-to-Reverse-Aging-and-Restore-Cellular-Function)
+- 佐證來源：[Anti-Aging Breakthrough? Harvard's David Sinclair ...](https://www.nad.com/news/anti-aging-breakthrough-dr-david-sinclair-predicts-age-reversing-pill-by-2035)
+- 佐證來源：[Matt Kaeberlein's Post](https://www.linkedin.com/posts/mkaeberlein_the-first-ever-reverse-aging-drug-was-just-activity-7470276981989957632-XWTU)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Cellular reprogramming is the hottest topic in [longevity](https://example.com/a
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-10-11 04:55 UTC*
+*產生時間：2026-10-29 04:59 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, SportsMedHub, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, HealthPro, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
