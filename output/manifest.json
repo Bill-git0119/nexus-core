@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T04:59:56.908613+00:00",
+  "generated_at": "2026-10-31T04:47:23.795842+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 4,
+  "total_articles": 2,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -19,16 +19,6 @@
       "citations_count": 3
     },
     {
-      "slug": "all-in-on-ai-how-the-united-states-and-taiwan-are-deepening-",
-      "title": "All-In on AI: How the United States and Taiwan Are Deepening Their Chip Partnership",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "domain_zh": "半導體／台股供應鏈",
-      "date": "May 8, 2026",
-      "notion_file": "output/notion/all-in-on-ai-how-the-united-states-and-taiwan-are-deepening-.md",
-      "ghpages_file": "output/ghpages/all-in-on-ai-how-the-united-states-and-taiwan-are-deepening-.html",
-      "citations_count": 3
-    },
-    {
       "slug": "shinya-yamanaka-made-cells-young-again-can-that-reverse-agin",
       "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
       "domain": "Longevity/Sports Medicine",
@@ -36,16 +26,6 @@
       "date": "Aug 21, 2026",
       "notion_file": "output/notion/shinya-yamanaka-made-cells-young-again-can-that-reverse-agin.md",
       "ghpages_file": "output/ghpages/shinya-yamanaka-made-cells-young-again-can-that-reverse-agin.html",
-      "citations_count": 3
-    },
-    {
-      "slug": "the-first-ever-reverse-aging-drug-was-just-injected-into-a-h",
-      "title": "The first-ever reverse-aging drug was just injected into a human",
-      "domain": "Longevity/Sports Medicine",
-      "domain_zh": "長壽科學／運動醫學",
-      "date": "Jun 9, 2026",
-      "notion_file": "output/notion/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.md",
-      "ghpages_file": "output/ghpages/the-first-ever-reverse-aging-drug-was-just-injected-into-a-h.html",
       "citations_count": 3
     }
   ]

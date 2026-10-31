@@ -43,9 +43,6 @@ Both companies play important roles in the building boom from artificial intelli
 ### 參考來源
 
 - 原始來源：[Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html)
-- 佐證來源：[Better Semiconductor Stock: ASML vs. TSMC](https://www.fool.com/investing/2021/04/21/better-semiconductor-stock-asml-vs-tsmc/)
-- 佐證來源：[ASML or NVDA or TSM - Pick the Best tool](https://tickeron.com/pick-the-best/ASML-or-NVDA-or-TSM/)
-- 佐證來源：[TSMC raises revenue forecast on AI demand 2026](https://www.facebook.com/100064055282588/posts/tsmc-and-asml-sit-at-the-semiconductor-supply-chains-start-where-economics-are-s/1585079913637170/)
 
 ### 相關資源
 
@@ -65,7 +62,7 @@ Both companies play important roles in the building boom from artificial intelli
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-10-29 04:59 UTC*
+*產生時間：2026-10-31 04:47 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SupplyVue, ExampleBroker, ChipInsider, XPG）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：ExampleBroker, XPG, SupplyVue, ChipInsider）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
