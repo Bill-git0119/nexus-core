@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:47:23.792571+00:00",
+  "generated_at": "2026-11-01T05:10:57.320213+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,29 +17,29 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-31T04:47:22.991080+00:00",
+        "checked_at": "2026-11-01T05:10:56.131091+00:00",
         "independent_sources": [
           {
-            "title": "ASML vs. TSMC: What's the Better AI Buy in 2025?",
-            "url": "/goto?url=CAESkgEB6zswFY4WtIseDYyNv0-A7MeE_JViFJqi-N6xLSVi9WxEBhNxtmQyaqQWy7qTRFkyEVCkH41FZk53u_pFcEBwGWsFnWD3YDk6FQ4MQ13Q1heXM6sH_Q3ufcX-q8lDGNdycdynGdQ1sV_PK1cmFV7OZd5gwFZUM35i2WqC1RFHHsPo6SWpG_eb4BVB1_IeywxUtA",
-            "source": "The Motley Fool"
+            "title": "Better Artificial Intelligence Stock: ASML vs. Taiwan ...",
+            "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/36798500/better-artificial-intelligence-stock-asml-vs-taiwan-semiconductor/",
+            "source": "The Globe and Mail"
           },
           {
-            "title": "TSMC vs ASML for AI semiconductor investment",
-            "url": "/goto?url=CAES0gEB6zswFZyH5lj19cGRoYP7Qi9Bx13uJBvQlMA8bKtGN95u3fC3P09M441EWGMZ3pmu-E8u54koacI86pf9dt7v-v-5nwF6thLQ6YiG9Ai1zB6nYDGiwzxNE6mstylx9dNayMizzV_yHNjehsEaphXtsa8fgsXw24nRS5wvu7cQhZSpwWQyLe5FFSQGXqzOMnHv_yH2W6ZMxdQduJCGISHuZK3w_p7Xu6zigPapnChH-yXtrLCj9Hq5E2UzSmYqW0RFGiWb7wpOD376y4SQ65ej-s4",
-            "source": "Facebook · Melvin SI Super Intelligent Infrastructure Portfolio"
+            "title": "Why Micron, TSMC, and ASML are not the same AI chip ...",
+            "url": "https://www.facebook.com/theedgegroupll/posts/%F0%9D%97%A0%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%A7%F0%9D%97%A6%F0%9D%97%A0%F0%9D%97%96-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%A0%F0%9D%97%9F-%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9-%F0%9D%97%B7%F0%9D%98%82%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%BD%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B1-%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4%F0%9D%98%80-%F0%9D%97%9F%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BA-%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%AE%F0%9D%98%80-%F0%9D%97%94%F0%9D%97%9C/1727102679455670/",
+            "source": "Facebook · The Edge Group LLC"
           },
           {
-            "title": "TSMC vs. ASML: Which Stock Needs Less Growth to ...",
-            "url": "/goto?url=CAESlAEB6zswFcrJO-A-_IFsZDOWPp1un5tftr-VRWZDPibG1FoMMBrYFQgqW7Qep9kK9ix1F2JWlg182MScI2Uupek67EOUfNtlWsFXlyrrJcHqDDLJ8lOFUZXUuiG4jwrTr5-R1bHW6WqgKROHmUSZH3_9ylpA3lXsAr-xFg7wW9CmtaVtIKAb1UXhqSE7HCo98_wyd3gJ",
-            "source": "Yahoo Finance"
+            "title": "Why isnt $ASML (the only company that creates ...",
+            "url": "https://www.reddit.com/r/ValueInvesting/comments/1oh09o6/why_isnt_asml_the_only_company_that_creates_the/",
+            "source": "Reddit · r/ValueInvesting"
           }
         ]
       }
     },
     {
       "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
-      "url": "https://www.google.com/goto?url=CAESfgHrOzAV0vXDYyjIUiZbn49hlE5Id9kl22TrKlhnBLhK1Wftoj00B1K3xtgHfDJvAtXXzusweuFHkUJRzIUWZQ-utA3-siF9HXOTRX0S6LqxF2RZbZLl2ViYrFb_UjXPQ1WF-H7pZL0kfYjzM2Jo6lJfMUAVFF98jos7WhY6fQ",
+      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
       "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
       "source": "Time Magazine",
       "date": "Aug 21, 2026",
@@ -47,22 +47,22 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-10-31T04:47:23.792421+00:00",
+        "checked_at": "2026-11-01T05:10:57.320091+00:00",
         "independent_sources": [
           {
-            "title": "This method to reverse cellular ageing is about to be tested ...",
-            "url": "/goto?url=CAESnwEB6zswFWcULuhr_tMQVsjbzzCISfnpkeIhUA4b5pd9MxomhAg2Ef_uN2uPHs5TUHTCyNgS1PNwUpZJH7gprZLSb30bIreQt1iEOw6V95mJAPEDGy528vqST32lADObKlmdFDjcFrIEzGcnOOI3j6m0F9RYH5BXRKVLRe71XQWQCIROjJY_fENd-7h8khrhGJlU8KRiUb6Q5gPO1yR1Ee8",
-            "source": "Reddit · r/longevity"
-          },
-          {
-            "title": "Yamanaka Factors And Cellular Reprogramming",
-            "url": "/goto?url=CAESZgHrOzAVQO61L_IdA_18J9_8onGYZtjx17nFS-BhwrwNbVLFMteKv8m7aiXsv-8MwuK0ggT_T2VPLwdPHR3wlWaexh2Lce24MDYxzSggOVirRsUZFVuVNUfqc_a5KNLjpdQ92TpQeg",
-            "source": "Lifespan Research Institute"
+            "title": "Cellular rejuvenation therapy safely reverses signs of ...",
+            "url": "https://www.salk.edu/news-release/cellular-rejuvenation-therapy-safely-reverses-signs-of-aging-in-mice/",
+            "source": "Salk Institute"
           },
           {
             "title": "Chemically induced reprogramming to reverse cellular aging",
-            "url": "/goto?url=CAESZAHrOzAVP39C40szoYDGUsXpKUn3aw4EkvUdRX_tCSNyjh85a04KXwrmv2rVrzY7Ln--2kGzq62-Dwi-gls_gFF3UE2Br8J76UiO2ig7DKWGrDR8xzzk3AKEWSfzoVa4wrX_eis",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37437248/",
             "source": "National Institutes of Health (NIH) | (.gov)"
+          },
+          {
+            "title": "Safer Than Yamanaka Factors",
+            "url": "https://www.youtube.com/watch?v=Om1LzUhH7L0",
+            "source": "YouTube · Modern Healthspan"
           }
         ]
       }
