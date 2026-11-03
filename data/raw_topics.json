@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:10:25.536722+00:00",
+  "generated_at": "2026-11-03T05:55:19.500109+00:00",
   "total_topics": 8,
   "topics": [
     {
@@ -31,28 +31,28 @@
     },
     {
       "title": "AMD to expand Taiwan supply chain investment as chip demand grows: Lisa Su",
-      "url": "https://www.google.com/goto?url=CAESZwHrOzAVJaEmO8xP_-GHEUse3fOebX1b-77JsBo343F8NVH81A5eKI0BocDpaIHlbblkDVg2UXq6Ob7iHFgOX86djt5Nf2AU4KLO0o7J8Y5tHMlX93yqV-wFXDj7fVIs9mwGAWttIM8",
+      "url": "https://focustaiwan.tw/business/202610060011",
       "snippet": "Advanced Micro Devices, Inc. (AMD), a U.S. designer of processors and graphics chips, plans to increase its investment in Taiwan's supply...",
       "source": "Focus Taiwan",
-      "date": "3 weeks ago",
+      "date": "4 weeks ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "ARDD 2026: Traditional Biology to AI-Driven Breakthroughs",
-      "url": "https://lifespan.io/ardd-2026-traditional-biology-to-ai-driven-breakthroughs/",
-      "snippet": "The new location brought ARDD close to several important longevity hubs and might have contributed to this edition's practical and...",
-      "source": "Lifespan Research Institute",
-      "date": "4 days ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
       "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
       "snippet": "Date: October 21, 2026; Source: University of Bonn; Summary: Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular...",
       "source": "Science Daily",
-      "date": "1 week ago",
+      "date": "2 weeks ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "The longevity boom is getting ahead of the science",
+      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
+      "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
+      "source": "Al Jazeera",
+      "date": "1 month ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -66,11 +66,11 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "The longevity boom is getting ahead of the science",
-      "url": "https://www.google.com/goto?url=CAESmgEB6zswFallYjdYBrPXUx62FY86GDNzWaCZ9qW3Bm_Rbowzoh9-lrN4wdzIXuupVeMtR2QDYkrnMrRZQ7GnGa4mEvjJoxrgzTmeLcH5ar-JcAy4afwlbtEttKGuBM2QZBbgv-OyX4ctfu52jqQPVCaX-eDmnRpIh9pBzrU-AbaoFHlBF90QjZw5gIFs6mPAkif-B5YSRTsCEkNf&gsessionid=dTy450B08cwnR9xDHb7E4OdELZ9xSSTpuYVz-kBQlPU7jknxvrtbgA",
-      "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
-      "source": "Al Jazeera",
-      "date": "1 month ago",
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "source": "The New York Times",
+      "date": "May 1, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

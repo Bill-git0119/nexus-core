@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:10:57.320213+00:00",
+  "generated_at": "2026-11-03T05:55:20.775021+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,17 +17,17 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-01T05:10:56.131091+00:00",
+        "checked_at": "2026-11-03T05:55:20.090934+00:00",
         "independent_sources": [
           {
-            "title": "Better Artificial Intelligence Stock: ASML vs. Taiwan ...",
-            "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/36798500/better-artificial-intelligence-stock-asml-vs-taiwan-semiconductor/",
-            "source": "The Globe and Mail"
+            "title": "TSMC vs. ASML: Which Semi Monopoly Has the Wider Moat?",
+            "url": "https://247wallst.com/investing/2026/08/22/tsmc-vs-asml-which-semi-monopoly-has-the-wider-moat/",
+            "source": "24/7 Wall St."
           },
           {
-            "title": "Why Micron, TSMC, and ASML are not the same AI chip ...",
-            "url": "https://www.facebook.com/theedgegroupll/posts/%F0%9D%97%A0%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%A7%F0%9D%97%A6%F0%9D%97%A0%F0%9D%97%96-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%A0%F0%9D%97%9F-%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9-%F0%9D%97%B7%F0%9D%98%82%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%BD%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B1-%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4%F0%9D%98%80-%F0%9D%97%9F%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BA-%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%AE%F0%9D%98%80-%F0%9D%97%94%F0%9D%97%9C/1727102679455670/",
-            "source": "Facebook · The Edge Group LLC"
+            "title": "The 2 AI Semiconductor Stocks I'd Put My LIFE SAVINGS Into ...",
+            "url": "https://www.youtube.com/watch?v=d270lWUklD0",
+            "source": "YouTube · Couch Investor"
           },
           {
             "title": "Why isnt $ASML (the only company that creates ...",
@@ -47,21 +47,21 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-01T05:10:57.320091+00:00",
+        "checked_at": "2026-11-03T05:55:20.774932+00:00",
         "independent_sources": [
-          {
-            "title": "Cellular rejuvenation therapy safely reverses signs of ...",
-            "url": "https://www.salk.edu/news-release/cellular-rejuvenation-therapy-safely-reverses-signs-of-aging-in-mice/",
-            "source": "Salk Institute"
-          },
           {
             "title": "Chemically induced reprogramming to reverse cellular aging",
             "url": "https://pubmed.ncbi.nlm.nih.gov/37437248/",
             "source": "National Institutes of Health (NIH) | (.gov)"
           },
           {
-            "title": "Safer Than Yamanaka Factors",
-            "url": "https://www.youtube.com/watch?v=Om1LzUhH7L0",
+            "title": "Yamanaka Factors And Cellular Reprogramming",
+            "url": "https://lifespan.io/topic/yamanaka-factors/",
+            "source": "Lifespan Research Institute"
+          },
+          {
+            "title": "Age-Reversing Stem Cell Treatment Succeeds in Human Trial",
+            "url": "https://www.youtube.com/watch?v=lIxOQMm_NEU",
             "source": "YouTube · Modern Healthspan"
           }
         ]
