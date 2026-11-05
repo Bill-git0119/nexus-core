@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-03T05:55:20.775021+00:00",
+  "generated_at": "2026-11-05T05:51:42.008017+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 2,
-    "discarded": 6
+    "verified": 3,
+    "discarded": 5
   },
   "verified_topics": [
     {
@@ -17,22 +17,22 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-03T05:55:20.090934+00:00",
+        "checked_at": "2026-11-05T05:51:40.189312+00:00",
         "independent_sources": [
           {
-            "title": "TSMC vs. ASML: Which Semi Monopoly Has the Wider Moat?",
-            "url": "https://247wallst.com/investing/2026/08/22/tsmc-vs-asml-which-semi-monopoly-has-the-wider-moat/",
-            "source": "24/7 Wall St."
+            "title": "2 Stocks the Entire AI Market Depends On",
+            "url": "https://www.youtube.com/watch?v=pHH3ViUdYhM",
+            "source": "YouTube · Jose Najarro Stocks"
           },
           {
-            "title": "The 2 AI Semiconductor Stocks I'd Put My LIFE SAVINGS Into ...",
-            "url": "https://www.youtube.com/watch?v=d270lWUklD0",
-            "source": "YouTube · Couch Investor"
+            "title": "ASML vs TSM - Comparison tool",
+            "url": "https://tickeron.com/compare/ASML-vs-TSM/",
+            "source": "Tickeron"
           },
           {
-            "title": "Why isnt $ASML (the only company that creates ...",
-            "url": "https://www.reddit.com/r/ValueInvesting/comments/1oh09o6/why_isnt_asml_the_only_company_that_creates_the/",
-            "source": "Reddit · r/ValueInvesting"
+            "title": "Nvidia, TSMC, ASML, Micron and SK Hynix",
+            "url": "https://www.google.com/goto?url=CAESrgEBxCJF125uV_EO1nVc9saRhwkrWQKFXLa_xfC8YWTItYdWp77fs9bxcqUeaIYmV9D79flw5IWbkesFTETIqWd1SBx0sEHN5THX1lyODOFS1_ZEpuQivGBIjaCQaucccDztAPJc9ZFUYT-Sc15LWlOqzG3iQJGXv3Nu2PKAseHTLwBHouWruL4V3vpkLFuZgo_7OfvCS-v8af8UKBsYTSW5kINeysiAkeSjttLWvu4",
+            "source": "MEXC"
           }
         ]
       }
@@ -47,22 +47,52 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-03T05:55:20.774932+00:00",
+        "checked_at": "2026-11-05T05:51:41.279958+00:00",
         "independent_sources": [
-          {
-            "title": "Chemically induced reprogramming to reverse cellular aging",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/37437248/",
-            "source": "National Institutes of Health (NIH) | (.gov)"
-          },
           {
             "title": "Yamanaka Factors And Cellular Reprogramming",
             "url": "https://lifespan.io/topic/yamanaka-factors/",
             "source": "Lifespan Research Institute"
           },
           {
-            "title": "Age-Reversing Stem Cell Treatment Succeeds in Human Trial",
-            "url": "https://www.youtube.com/watch?v=lIxOQMm_NEU",
-            "source": "YouTube · Modern Healthspan"
+            "title": "Anti-ageing technique makes skin cells act 30 years younger",
+            "url": "https://www.newscientist.com/article/2315485-anti-ageing-technique-makes-skin-cells-act-30-years-younger/",
+            "source": "New Scientist"
+          },
+          {
+            "title": "Scientists just used AI to reverse ageing in human cells. Worth ...",
+            "url": "https://www.instagram.com/reel/DbF0T_jGq4C/",
+            "source": "Instagram · dransarmahmood"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "snippet": "Last year, a clinical trial conducted by Insilico Medicine, a company that aims to accelerate drug discovery using artificial intelligence,...",
+      "source": "The New York Times",
+      "date": "Sep 7, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-11-05T05:51:42.007993+00:00",
+        "independent_sources": [
+          {
+            "title": "AI pinpoints new anti-aging drug candidates",
+            "url": "https://www.scripps.edu/news-events/news/20250529-petrascheck-ai-anti-aging/",
+            "source": "Scripps Research"
+          },
+          {
+            "title": "Insilico AI-Developed Drug Candidate Shows Anti-Aging ...",
+            "url": "https://www.marketwatch.com/story/insilico-ai-developed-drug-candidate-shows-anti-aging-potential-in-new-study-e417967a",
+            "source": "MarketWatch"
+          },
+          {
+            "title": "CAN AN AI-GENERATED DRUG SLOW AGING? A new ...",
+            "url": "https://www.facebook.com/philstarlife/posts/can-an-ai-generated-drug-slow-aging-a-new-ai-developed-drug-can-reverse-biologic/1535095615302693/",
+            "source": "Facebook · PhilSTAR Life"
           }
         ]
       }

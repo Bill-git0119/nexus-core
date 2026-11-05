@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T05:55:20.779475+00:00",
+  "generated_at": "2026-11-05T05:51:42.080328+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 2,
+  "total_articles": 3,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -26,6 +26,16 @@
       "date": "Aug 21, 2026",
       "notion_file": "output/notion/shinya-yamanaka-made-cells-young-again-can-that-reverse-agin.md",
       "ghpages_file": "output/ghpages/shinya-yamanaka-made-cells-young-again-can-that-reverse-agin.html",
+      "citations_count": 3
+    },
+    {
+      "slug": "early-data-indicates-an-ai-generated-drug-could-slow-aging",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "Sep 7, 2026",
+      "notion_file": "output/notion/early-data-indicates-an-ai-generated-drug-could-slow-aging.md",
+      "ghpages_file": "output/ghpages/early-data-indicates-an-ai-generated-drug-could-slow-aging.html",
       "citations_count": 3
     }
   ]
