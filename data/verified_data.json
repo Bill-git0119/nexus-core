@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-05T05:51:42.008017+00:00",
+  "generated_at": "2026-11-07T05:18:08.054151+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 3,
-    "discarded": 5
+    "verified": 2,
+    "discarded": 6
   },
   "verified_topics": [
     {
       "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
       "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "Yahoo Finance",
-      "date": "Aug 2, 2026",
+      "source": "The Motley Fool",
+      "date": "2026-08-02",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-05T05:51:40.189312+00:00",
+        "checked_at": "2026-11-07T05:18:07.101301+00:00",
         "independent_sources": [
           {
-            "title": "2 Stocks the Entire AI Market Depends On",
-            "url": "https://www.youtube.com/watch?v=pHH3ViUdYhM",
-            "source": "YouTube · Jose Najarro Stocks"
+            "title": "TSMC vs ASML for AI semiconductor investment",
+            "url": "https://www.facebook.com/www.azpwservices.con/posts/tsmc-vs-asml-two-different-ways-to-invest-in-the-ai-semiconductor-revolution-tsm/1410354931084517/",
+            "source": "Facebook · Melvin SI Super Intelligent Infrastructure Portfolio"
           },
           {
-            "title": "ASML vs TSM - Comparison tool",
-            "url": "https://tickeron.com/compare/ASML-vs-TSM/",
+            "title": "ASML vs. TSM: Which Semiconductor Powerhouse Offers ...",
+            "url": "https://finviz.com/news/249370/asml-vs-tsm-which-semiconductor-powerhouse-offers-more-upside",
+            "source": "Finviz"
+          },
+          {
+            "title": "ASML and TSM: Two Essential Links in the AI Chip Supply ...",
+            "url": "https://tickeron.com/blogs/asml-and-tsm-two-essential-links-in-the-ai-chip-supply-chain-18071/",
             "source": "Tickeron"
-          },
-          {
-            "title": "Nvidia, TSMC, ASML, Micron and SK Hynix",
-            "url": "https://www.google.com/goto?url=CAESrgEBxCJF125uV_EO1nVc9saRhwkrWQKFXLa_xfC8YWTItYdWp77fs9bxcqUeaIYmV9D79flw5IWbkesFTETIqWd1SBx0sEHN5THX1lyODOFS1_ZEpuQivGBIjaCQaucccDztAPJc9ZFUYT-Sc15LWlOqzG3iQJGXv3Nu2PKAseHTLwBHouWruL4V3vpkLFuZgo_7OfvCS-v8af8UKBsYTSW5kINeysiAkeSjttLWvu4",
-            "source": "MEXC"
           }
         ]
       }
@@ -47,52 +47,22 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-05T05:51:41.279958+00:00",
+        "checked_at": "2026-11-07T05:18:08.054076+00:00",
         "independent_sources": [
           {
-            "title": "Yamanaka Factors And Cellular Reprogramming",
-            "url": "https://lifespan.io/topic/yamanaka-factors/",
-            "source": "Lifespan Research Institute"
+            "title": "This method to reverse cellular ageing is about to be tested ...",
+            "url": "https://www.reddit.com/r/longevity/comments/1sly7jl/this_method_to_reverse_cellular_ageing_is_about/",
+            "source": "Reddit · r/longevity"
           },
           {
-            "title": "Anti-ageing technique makes skin cells act 30 years younger",
-            "url": "https://www.newscientist.com/article/2315485-anti-ageing-technique-makes-skin-cells-act-30-years-younger/",
-            "source": "New Scientist"
+            "title": "Age-Reversing Stem Cell Treatment Succeeds in Human Trial",
+            "url": "https://www.youtube.com/watch?v=lIxOQMm_NEU",
+            "source": "YouTube · Modern Healthspan"
           },
           {
-            "title": "Scientists just used AI to reverse ageing in human cells. Worth ...",
-            "url": "https://www.instagram.com/reel/DbF0T_jGq4C/",
-            "source": "Instagram · dransarmahmood"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
-      "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
-      "snippet": "Last year, a clinical trial conducted by Insilico Medicine, a company that aims to accelerate drug discovery using artificial intelligence,...",
-      "source": "The New York Times",
-      "date": "Sep 7, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-11-05T05:51:42.007993+00:00",
-        "independent_sources": [
-          {
-            "title": "AI pinpoints new anti-aging drug candidates",
-            "url": "https://www.scripps.edu/news-events/news/20250529-petrascheck-ai-anti-aging/",
-            "source": "Scripps Research"
-          },
-          {
-            "title": "Insilico AI-Developed Drug Candidate Shows Anti-Aging ...",
-            "url": "https://www.marketwatch.com/story/insilico-ai-developed-drug-candidate-shows-anti-aging-potential-in-new-study-e417967a",
-            "source": "MarketWatch"
-          },
-          {
-            "title": "CAN AN AI-GENERATED DRUG SLOW AGING? A new ...",
-            "url": "https://www.facebook.com/philstarlife/posts/can-an-ai-generated-drug-slow-aging-a-new-ai-developed-drug-can-reverse-biologic/1535095615302693/",
-            "source": "Facebook · PhilSTAR Life"
+            "title": "Verge of the Fountain of Youth - Medical Discovery News",
+            "url": "https://www.utmb.edu/mdnews/welcome/episode/verge-of-the-fountain-of-youth",
+            "source": "The University of Texas Medical Branch - UTMB"
           }
         ]
       }

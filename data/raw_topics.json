@@ -1,22 +1,13 @@
 {
-  "generated_at": "2026-11-05T05:51:28.207333+00:00",
+  "generated_at": "2026-11-07T05:18:06.225551+00:00",
   "total_topics": 8,
   "topics": [
-    {
-      "title": "HCLTech whitepaper outlines Taiwan’s role in AI semiconductor supply chains",
-      "url": "https://www.asiapacificsecuritymagazine.com/hcltech-whitepaper-outlines-taiwans-role-in-ai-semiconductor-supply-chains/",
-      "snippet": "HCLTech has released a whitepaper developed by research firm Omdia examining Taiwan's role in the semiconductor supply chains underpinning...",
-      "source": "Asia Pacific Security Magazine",
-      "date": "23 hours ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
     {
       "title": "Computer Chips Are the Most Magnificent Things Humanity Has Ever Made",
       "url": "https://www.newyorker.com/magazine/2026/10/26/computer-chips-are-the-most-magnificent-things-weve-ever-made",
       "snippet": "They power our phones, cars, dishwashers—and the A.I. systems that prop up the economy. They're also at the heart of fierce geopolitical...",
       "source": "The New Yorker",
-      "date": "2 weeks ago",
+      "date": "Prieš 2 savaites",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -25,16 +16,25 @@
       "url": "https://tspasemiconductor.substack.com/p/when-everyone-wants-to-replicate",
       "snippet": "Original Article By SemiVision Reserach [Reading time: 10 mins]",
       "source": "semivision",
-      "date": "1 month ago",
+      "date": "Prieš 1 mėnesį",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "How Does Taiwan Semiconductor Manufacturing (TSM) Fit Into The New AI Supply Chain?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-taiwan-semiconductor-manufacturing-tsm-170934521.html",
+      "snippet": "Taiwan Semiconductor Manufacturing (NYSE:TSM) faces a changing supply chain as Vanguard and NXP open a 300mm fab in Singapore under their...",
+      "source": "Yahoo Finance",
+      "date": "Prieš 1 mėnesį",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
       "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
+      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
       "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "Yahoo Finance",
-      "date": "Aug 2, 2026",
+      "source": "The Motley Fool",
+      "date": "2026-08-02",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -66,11 +66,11 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
-      "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
-      "snippet": "Last year, a clinical trial conducted by Insilico Medicine, a company that aims to accelerate drug discovery using artificial intelligence,...",
+      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
+      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
-      "date": "Sep 7, 2026",
+      "date": "May 1, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

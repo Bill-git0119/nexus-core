@@ -43,9 +43,9 @@ Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cel
 ### 參考來源
 
 - 原始來源：[Time Magazine](https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/)
-- 佐證來源：[Yamanaka Factors And Cellular Reprogramming](https://lifespan.io/topic/yamanaka-factors/)
-- 佐證來源：[Anti-ageing technique makes skin cells act 30 years younger](https://www.newscientist.com/article/2315485-anti-ageing-technique-makes-skin-cells-act-30-years-younger/)
-- 佐證來源：[Scientists just used AI to reverse ageing in human cells. Worth ...](https://www.instagram.com/reel/DbF0T_jGq4C/)
+- 佐證來源：[This method to reverse cellular ageing is about to be tested ...](https://www.reddit.com/r/longevity/comments/1sly7jl/this_method_to_reverse_cellular_ageing_is_about/)
+- 佐證來源：[Age-Reversing Stem Cell Treatment Succeeds in Human Trial](https://www.youtube.com/watch?v=lIxOQMm_NEU)
+- 佐證來源：[Verge of the Fountain of Youth - Medical Discovery News](https://www.utmb.edu/mdnews/welcome/episode/verge-of-the-fountain-of-youth)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cel
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-11-05 05:51 UTC*
+*產生時間：2026-11-07 05:18 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, HealthPro, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, SportsMedHub, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
