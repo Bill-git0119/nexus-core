@@ -43,9 +43,9 @@ Last year, a clinical trial conducted by Insilico Medicine, a company that aims 
 ### 參考來源
 
 - 原始來源：[The New York Times](https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html)
-- 佐證來源：[AI pinpoints new anti-aging drug candidates](https://www.scripps.edu/news-events/news/20250529-petrascheck-ai-anti-aging/)
-- 佐證來源：[Insilico AI-Developed Drug Candidate Shows Anti-Aging ...](https://www.marketwatch.com/story/insilico-ai-developed-drug-candidate-shows-anti-aging-potential-in-new-study-e417967a)
-- 佐證來源：[CAN AN AI-GENERATED DRUG SLOW AGING? A new ...](https://www.facebook.com/philstarlife/posts/can-an-ai-generated-drug-slow-aging-a-new-ai-developed-drug-can-reverse-biologic/1535095615302693/)
+- 佐證來源：[Nature Biotechnology | Insilico's AI-Driven IPF Candidate ...](https://insilico.com/news/rnt0709261-rentosertib-proteomic-aging-clocks)
+- 佐證來源：[AI-designed drug candidate reverses biological age in ...](https://www.news-medical.net/news/20260907/AI-designed-drug-candidate-reverses-biological-age-in-clinical-study.aspx)
+- 佐證來源：[AI-designed drug could slow aging; chatbots abandon ...](https://www.medicaleconomics.com/view/ai-designed-drug-could-slow-aging-chatbots-abandon-referral-advice-when-patients-push-back-virtual-reality-helped-anxious-patients-finish-cardiac-scans-morning-medical-update)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Last year, a clinical trial conducted by Insilico Medicine, a company that aims 
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-11-05 05:51 UTC*
+*產生時間：2026-11-09 05:27 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, HealthPro, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, SportsMedHub, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

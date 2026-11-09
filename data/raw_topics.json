@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-07T05:18:06.225551+00:00",
+  "generated_at": "2026-11-09T05:27:33.303755+00:00",
   "total_topics": 8,
   "topics": [
-    {
-      "title": "Computer Chips Are the Most Magnificent Things Humanity Has Ever Made",
-      "url": "https://www.newyorker.com/magazine/2026/10/26/computer-chips-are-the-most-magnificent-things-weve-ever-made",
-      "snippet": "They power our phones, cars, dishwashers—and the A.I. systems that prop up the economy. They're also at the heart of fierce geopolitical...",
-      "source": "The New Yorker",
-      "date": "Prieš 2 savaites",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
     {
       "title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization",
       "url": "https://tspasemiconductor.substack.com/p/when-everyone-wants-to-replicate",
       "snippet": "Original Article By SemiVision Reserach [Reading time: 10 mins]",
       "source": "semivision",
-      "date": "Prieš 1 mėnesį",
+      "date": "1 month ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "How Does Taiwan Semiconductor Manufacturing (TSM) Fit Into The New AI Supply Chain?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-taiwan-semiconductor-manufacturing-tsm-170934521.html",
-      "snippet": "Taiwan Semiconductor Manufacturing (NYSE:TSM) faces a changing supply chain as Vanguard and NXP open a 300mm fab in Singapore under their...",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
+      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
       "source": "Yahoo Finance",
-      "date": "Prieš 1 mėnesį",
+      "date": "Aug 2, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "All-In on AI: How the United States and Taiwan Are Deepening Their Chip Partnership",
+      "url": "https://www.stimson.org/2026/all-in-on-ai-how-the-united-states-and-taiwan-are-deepening-their-chip-partnership/",
+      "snippet": "Taiwan's cooperation with the United States on the AI supply chain could strengthen the silicon shield.",
+      "source": "Stimson Center",
+      "date": "May 8, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -34,7 +34,7 @@
       "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
       "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
       "source": "The Motley Fool",
-      "date": "2026-08-02",
+      "date": "Aug 2, 2026",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -48,15 +48,6 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "The longevity boom is getting ahead of the science",
-      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
-      "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
-      "source": "Al Jazeera",
-      "date": "1 month ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
       "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
       "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
       "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
@@ -66,11 +57,20 @@
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
+      "title": "The longevity boom is getting ahead of the science",
+      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
+      "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
+      "source": "Al Jazeera",
+      "date": "1 month ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "snippet": "Last year, a clinical trial conducted by Insilico Medicine, a company that aims to accelerate drug discovery using artificial intelligence,...",
       "source": "The New York Times",
-      "date": "May 1, 2026",
+      "date": "Sep 7, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
