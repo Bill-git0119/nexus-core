@@ -43,9 +43,9 @@ Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cel
 ### 參考來源
 
 - 原始來源：[Time Magazine](https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/)
-- 佐證來源：[Scientists Are Testing a Gene Therapy That Could Reverse ...](https://www.yahoo.com/news/articles/scientists-testing-gene-therapy-could-202428565.html)
-- 佐證來源：[Aging may not be as biologically irreversible as scientists ...](https://www.facebook.com/groups/1530461628066045/posts/1751361129309426/)
-- 佐證來源：[Scientists Make Skin Cells 30 Years Younger](https://nicenews.com/science/scientists-make-skin-cells-younger/)
+- 佐證來源：[AGAIN Definition & Meaning](https://www.merriam-webster.com/dictionary/again)
+- 佐證來源：[Fred again.. - Billie (Loving Arms) (23 July 2021)](https://www.youtube.com/watch?v=_WkzhhO21s8)
+- 佐證來源：[Again - Advancing a new industrial era](https://again.bio/)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cel
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-11-09 05:27 UTC*
+*產生時間：2026-11-11 05:25 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：LongevityLab, SportsMedHub, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, LongevityLab, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

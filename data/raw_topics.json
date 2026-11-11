@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-09T05:27:33.303755+00:00",
+  "generated_at": "2026-11-11T05:25:29.231401+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization",
-      "url": "https://tspasemiconductor.substack.com/p/when-everyone-wants-to-replicate",
-      "snippet": "Original Article By SemiVision Reserach [Reading time: 10 mins]",
-      "source": "semivision",
-      "date": "1 month ago",
+      "title": "TSMC's October sales jump as global chip boom rolls on",
+      "url": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+      "snippet": "on Tuesday reported October revenue of 586.89 billion New Taiwan dollars ($17.88 billion), up 59.7% from a year earlier and up 14.7% from...",
+      "source": "CNBC",
+      "date": "24 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
-      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "Yahoo Finance",
-      "date": "Aug 2, 2026",
+      "title": "Nvidia security probe puts Taiwan supply chain orders under scrutiny",
+      "url": "https://www.digitimes.com/news/a20261110PD248/nvidia-security-taiwan-supply-chain-taiwan-ai-server.html",
+      "snippet": "Nvidia is a key customer for Taiwan's semiconductor and AI server supply chains. If recent national security concerns around CEO Jensen...",
+      "source": "digitimes",
+      "date": "36 minutes ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "All-In on AI: How the United States and Taiwan Are Deepening Their Chip Partnership",
-      "url": "https://www.stimson.org/2026/all-in-on-ai-how-the-united-states-and-taiwan-are-deepening-their-chip-partnership/",
-      "snippet": "Taiwan's cooperation with the United States on the AI supply chain could strengthen the silicon shield.",
-      "source": "Stimson Center",
-      "date": "May 8, 2026",
+      "title": "[News] NVIDIA Order Cuts Reportedly Loom Amid Huang Controversy; AMD, ASIC Rivals May Gain TSMC Capacity",
+      "url": "https://www.trendforce.com/news/2026/11/10/news-nvidia-order-cuts-reportedly-loom-amid-huang-controversy-amd-asic-rivals-may-gain-tsmc-capacity/",
+      "snippet": "NVIDIA is facing growing scrutiny over CEO Jensen Huang's admitted extramarital affair and related national security concerns,...",
+      "source": "TrendForce",
+      "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://www.fool.com/investing/2026/08/02/asml-vs-tsmc-which-semiconductor-supply-chain-stoc/",
-      "snippet": "Both companies play important roles in the building boom from artificial intelligence.",
-      "source": "The Motley Fool",
-      "date": "Aug 2, 2026",
+      "title": "TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tsmc-earmarks-up-to-1bn-to-buy-anthropic-and-openai-shares",
+      "snippet": "TAIPEI/WASHINGTON -- Taiwan Semiconductor Manufacturing Co. has earmarked up to $1 billion to back Anthropic and OpenAI as the two...",
+      "source": "Nikkei Asia",
+      "date": "15 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -43,7 +43,25 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
       "snippet": "Date: October 21, 2026; Source: University of Bonn; Summary: Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular...",
       "source": "Science Daily",
-      "date": "2 weeks ago",
+      "date": "3 weeks ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "Estée Lauder unveils ‘breakthrough’ platform to accelerate skin science and longevity innovations",
+      "url": "https://cosmeticsbusiness.com/elc-unveils-mastering-skin-longevity-platform",
+      "snippet": "Estée Lauder Companies' new Mastering Skin Longevity platform claims to look beyond the study of individual hallmarks of ageing by placing...",
+      "source": "Cosmetics Business",
+      "date": "1 day ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "The Estée Lauder Companies Unveils Mastering Skin Longevity, a Breakthrough Scientific Innovation Platform Advancing the Next Era of Skin Science",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/11-06-2026-140104826",
+      "snippet": "New Platform Focuses on Master Regulators of Skin Longevity to Drive Discovery Across Ingredients, Technologies, Formulations and Future...",
+      "source": "The Estée Lauder Companies",
+      "date": "4 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -53,24 +71,6 @@
       "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
       "source": "Time Magazine",
       "date": "Aug 21, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "The longevity boom is getting ahead of the science",
-      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
-      "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
-      "source": "Al Jazeera",
-      "date": "1 month ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
-      "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
-      "snippet": "Last year, a clinical trial conducted by Insilico Medicine, a company that aims to accelerate drug discovery using artificial intelligence,...",
-      "source": "The New York Times",
-      "date": "Sep 7, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
