@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-11T05:25:29.231401+00:00",
+  "generated_at": "2026-11-13T05:48:50.363009+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "TSMC's October sales jump as global chip boom rolls on",
-      "url": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
-      "snippet": "on Tuesday reported October revenue of 586.89 billion New Taiwan dollars ($17.88 billion), up 59.7% from a year earlier and up 14.7% from...",
-      "source": "CNBC",
-      "date": "24 hours ago",
+      "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
+      "snippet": "CEO's affair and resignation has brought company's murky corporate contracts and supply chains into sharp focus.",
+      "source": "The Guardian",
+      "date": "3 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Nvidia security probe puts Taiwan supply chain orders under scrutiny",
-      "url": "https://www.digitimes.com/news/a20261110PD248/nvidia-security-taiwan-supply-chain-taiwan-ai-server.html",
-      "snippet": "Nvidia is a key customer for Taiwan's semiconductor and AI server supply chains. If recent national security concerns around CEO Jensen...",
-      "source": "digitimes",
-      "date": "36 minutes ago",
+      "title": "Nvidia's Asian supply chain prepares for life after Huang",
+      "url": "https://www.reuters.com/business/media-telecom/nvidias-asian-supply-chain-prepares-life-after-huang-2026-11-12/",
+      "snippet": "US chip giant Nvidia's partners and suppliers across Asia, from memory chip powerhouse South Korea to advanced chipmaking hub Taiwan,...",
+      "source": "Reuters",
+      "date": "21 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "[News] NVIDIA Order Cuts Reportedly Loom Amid Huang Controversy; AMD, ASIC Rivals May Gain TSMC Capacity",
-      "url": "https://www.trendforce.com/news/2026/11/10/news-nvidia-order-cuts-reportedly-loom-amid-huang-controversy-amd-asic-rivals-may-gain-tsmc-capacity/",
-      "snippet": "NVIDIA is facing growing scrutiny over CEO Jensen Huang's admitted extramarital affair and related national security concerns,...",
-      "source": "TrendForce",
+      "title": "Taiwan committed to AI collaboration: Lai tells Shih",
+      "url": "https://www.google.com/goto?url=CAESggEBxCJF12HMOXR8V-k0maNZlIIewAAQNaBqb9qrPxz9zRiOf02Zc5y6MjvIzhEp11UCT-IgvK2y6Im3epRql-H0hwWjJNx1OZ63A78-1R9_hV9I-h5Jn8gHcJ2o-bhx9xb1MPWaF8bCrRkZyKs_e8C6wPIMc6P2JekGKVtCYEejRY6w&gsessionid=tW-n29fdqo8CK_8XSanbqc_lVLW0-3X9h3Q6ysffa-jr654TkCN_FQ",
+      "snippet": "President William Lai (賴清德) yesterday called on Acer Group founder and honorary chairman Stan Shih (施振榮), his representative to the...",
+      "source": "Taipei Times",
+      "date": "14 hours ago",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "TSMC Secures Its Future by Investing in Anthropic and OpenAI",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-secures-future-investing-anthropic-195936417.html",
+      "snippet": "Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1...",
+      "source": "Yahoo Finance",
       "date": "1 day ago",
-      "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
-    },
-    {
-      "title": "TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tsmc-earmarks-up-to-1bn-to-buy-anthropic-and-openai-shares",
-      "snippet": "TAIPEI/WASHINGTON -- Taiwan Semiconductor Manufacturing Co. has earmarked up to $1 billion to back Anthropic and OpenAI as the two...",
-      "source": "Nikkei Asia",
-      "date": "15 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
@@ -52,16 +52,7 @@
       "url": "https://cosmeticsbusiness.com/elc-unveils-mastering-skin-longevity-platform",
       "snippet": "Estée Lauder Companies' new Mastering Skin Longevity platform claims to look beyond the study of individual hallmarks of ageing by placing...",
       "source": "Cosmetics Business",
-      "date": "1 day ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "The Estée Lauder Companies Unveils Mastering Skin Longevity, a Breakthrough Scientific Innovation Platform Advancing the Next Era of Skin Science",
-      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/11-06-2026-140104826",
-      "snippet": "New Platform Focuses on Master Regulators of Skin Longevity to Drive Discovery Across Ingredients, Technologies, Formulations and Future...",
-      "source": "The Estée Lauder Companies",
-      "date": "4 days ago",
+      "date": "3 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
@@ -71,6 +62,15 @@
       "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
       "source": "Time Magazine",
       "date": "Aug 21, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
+      "title": "The Estée Lauder Companies Unveils Mastering Skin Longevity, a Breakthrough Scientific Innovation Platform Advancing the Next Era of Skin Science",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/11-06-2026-140104826",
+      "snippet": "New Platform Focuses on Master Regulators of Skin Longevity to Drive Discovery Across Ingredients, Technologies, Formulations and Future...",
+      "source": "The Estée Lauder Companies Inc.",
+      "date": "6 days ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }

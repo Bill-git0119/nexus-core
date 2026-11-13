@@ -43,9 +43,9 @@ Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cel
 ### 參考來源
 
 - 原始來源：[Time Magazine](https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/)
-- 佐證來源：[AGAIN Definition & Meaning](https://www.merriam-webster.com/dictionary/again)
-- 佐證來源：[Fred again.. - Billie (Loving Arms) (23 July 2021)](https://www.youtube.com/watch?v=_WkzhhO21s8)
-- 佐證來源：[Again - Advancing a new industrial era](https://again.bio/)
+- 佐證來源：[Shinya Yamanaka Made Cells Young Again. Can That ...](https://www.google.com/goto?url=CAESgAEBxCJF15j2cKkwPY9Lt410yfa77dCebu1PIft6J_mpRh2csoxNROqqkip1gMT0GizZppdrBZABWzPgMvSwJoZDZSvtZzvQr2RtLu8N1K0OnGNGVKlxTTbS7b5B6m5oPVQslb6ZuqzSQ0A4dt8oAikmptEcJZu6teLPCEtVQ3YZ2Q)
+- 佐證來源：[Shinya Yamanaka Made Cells Young Again. Can That ...](https://healthspanaction.org/shinya-yamanaka-made-cells-young-again-can-that-reverse-aging/)
+- 佐證來源：[Gladstone Institutes' Post](https://www.linkedin.com/posts/gladstoneinstitutes_shinya-yamanaka-made-cells-young-again-can-activity-7498050344162123778-rFOv)
 
 ### 相關資源
 
@@ -61,7 +61,7 @@ Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cel
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-11-11 05:25 UTC*
+*產生時間：2026-11-13 05:48 UTC*
 
 
 > ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, LongevityLab, HealthPro）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

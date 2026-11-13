@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T05:25:29.820526+00:00",
+  "generated_at": "2026-11-13T05:48:51.026626+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,22 +17,22 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-11T05:25:29.820500+00:00",
+        "checked_at": "2026-11-13T05:48:51.026482+00:00",
         "independent_sources": [
           {
-            "title": "AGAIN Definition & Meaning",
-            "url": "https://www.merriam-webster.com/dictionary/again",
-            "source": "Merriam-Webster"
+            "title": "Shinya Yamanaka Made Cells Young Again. Can That ...",
+            "url": "https://www.google.com/goto?url=CAESgAEBxCJF15j2cKkwPY9Lt410yfa77dCebu1PIft6J_mpRh2csoxNROqqkip1gMT0GizZppdrBZABWzPgMvSwJoZDZSvtZzvQr2RtLu8N1K0OnGNGVKlxTTbS7b5B6m5oPVQslb6ZuqzSQ0A4dt8oAikmptEcJZu6teLPCEtVQ3YZ2Q",
+            "source": "Time Magazine"
           },
           {
-            "title": "Fred again.. - Billie (Loving Arms) (23 July 2021)",
-            "url": "https://www.youtube.com/watch?v=_WkzhhO21s8",
-            "source": "YouTube · Fred again . ."
+            "title": "Shinya Yamanaka Made Cells Young Again. Can That ...",
+            "url": "https://healthspanaction.org/shinya-yamanaka-made-cells-young-again-can-that-reverse-aging/",
+            "source": "Healthspan Action Coalition"
           },
           {
-            "title": "Again - Advancing a new industrial era",
-            "url": "https://again.bio/",
-            "source": "Genomatica"
+            "title": "Gladstone Institutes' Post",
+            "url": "https://www.linkedin.com/posts/gladstoneinstitutes_shinya-yamanaka-made-cells-young-again-can-activity-7498050344162123778-rFOv",
+            "source": "LinkedIn · Gladstone Institutes"
           }
         ]
       }
