@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-11-13T05:48:51.026626+00:00",
+  "generated_at": "2026-11-15T05:37:45.335946+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 0,
+    "discarded": 8
   },
-  "verified_topics": [
-    {
-      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
-      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
-      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
-      "source": "Time Magazine",
-      "date": "Aug 21, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "verification": {
-        "status": "verified",
-        "method": "cross-reference",
-        "checked_at": "2026-11-13T05:48:51.026482+00:00",
-        "independent_sources": [
-          {
-            "title": "Shinya Yamanaka Made Cells Young Again. Can That ...",
-            "url": "https://www.google.com/goto?url=CAESgAEBxCJF15j2cKkwPY9Lt410yfa77dCebu1PIft6J_mpRh2csoxNROqqkip1gMT0GizZppdrBZABWzPgMvSwJoZDZSvtZzvQr2RtLu8N1K0OnGNGVKlxTTbS7b5B6m5oPVQslb6ZuqzSQ0A4dt8oAikmptEcJZu6teLPCEtVQ3YZ2Q",
-            "source": "Time Magazine"
-          },
-          {
-            "title": "Shinya Yamanaka Made Cells Young Again. Can That ...",
-            "url": "https://healthspanaction.org/shinya-yamanaka-made-cells-young-again-can-that-reverse-aging/",
-            "source": "Healthspan Action Coalition"
-          },
-          {
-            "title": "Gladstone Institutes' Post",
-            "url": "https://www.linkedin.com/posts/gladstoneinstitutes_shinya-yamanaka-made-cells-young-again-can-activity-7498050344162123778-rFOv",
-            "source": "LinkedIn · Gladstone Institutes"
-          }
-        ]
-      }
-    }
-  ]
+  "verified_topics": []
 }
