@@ -1,10 +1,41 @@
 {
-  "generated_at": "2026-11-15T05:37:45.335946+00:00",
+  "generated_at": "2026-11-17T07:14:02.938267+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 0,
-    "discarded": 8
+    "verified": 1,
+    "discarded": 7
   },
-  "verified_topics": []
+  "verified_topics": [
+    {
+      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
+      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
+      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
+      "source": "Time Magazine",
+      "date": "Aug 21, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-11-17T07:14:02.938041+00:00",
+        "independent_sources": [
+          {
+            "title": "Full age reversal sounds like a superpower until you realize ...",
+            "url": "https://www.instagram.com/reel/DenJlsQHP7N/",
+            "source": "Instagram"
+          },
+          {
+            "title": "The Nobel-Winning Discovery That Reverses Human Aging",
+            "url": "https://www.youtube.com/shorts/ndSmQAoDZc0",
+            "source": "YouTube · Nishat Sarker, PhD"
+          },
+          {
+            "title": "How a Nobel Prize Winning Scientist Dr. Shinya Yamanaka ...",
+            "url": "https://www.pristines.com/blogs/health-aging-tips/how-a-nobel-prize-winning-scientist-dr-shinya-yamanaka-discovered-a-way-to-slow-cellular-aging-and-extend-longevity",
+            "source": "pristines.com"
+          }
+        ]
+      }
+    }
+  ]
 }
