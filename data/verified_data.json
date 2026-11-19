@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:14:02.938267+00:00",
+  "generated_at": "2026-11-19T06:39:47.021322+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -17,7 +17,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-17T07:14:02.938041+00:00",
+        "checked_at": "2026-11-19T06:39:47.021174+00:00",
         "independent_sources": [
           {
             "title": "Full age reversal sounds like a superpower until you realize ...",
@@ -25,14 +25,14 @@
             "source": "Instagram"
           },
           {
-            "title": "The Nobel-Winning Discovery That Reverses Human Aging",
-            "url": "https://www.youtube.com/shorts/ndSmQAoDZc0",
-            "source": "YouTube · Nishat Sarker, PhD"
+            "title": "In 2012, Shinya Yamanaka won a Nobel Prize for ...",
+            "url": "https://www.instagram.com/reel/DfYZXjMj8Pv/",
+            "source": "Instagram"
           },
           {
-            "title": "How a Nobel Prize Winning Scientist Dr. Shinya Yamanaka ...",
-            "url": "https://www.pristines.com/blogs/health-aging-tips/how-a-nobel-prize-winning-scientist-dr-shinya-yamanaka-discovered-a-way-to-slow-cellular-aging-and-extend-longevity",
-            "source": "pristines.com"
+            "title": "Can Aging Be Reversed? Scientists Launch World's First ...",
+            "url": "https://www.latestly.com/technology/science/can-aging-be-reversed-scientists-launch-worlds-first-human-trial-of-age-reversal-gene-therapy-7467640.html",
+            "source": "LatestLY"
           }
         ]
       }
