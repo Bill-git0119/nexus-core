@@ -1,64 +1,55 @@
 {
-  "generated_at": "2026-11-19T06:39:45.228677+00:00",
+  "generated_at": "2026-11-21T06:18:10.552281+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "TSMC’s grip on advanced chipmaking will face competition",
-      "url": "https://www.economist.com/the-world-ahead/2026/11/18/tsmcs-grip-on-advanced-chipmaking-will-face-competition",
-      "snippet": "\"TSMC dominates advanced chipmaking, but Intel, Samsung and Rapidus plan to challenge its near-monopoly in 2027 as AI demand strains supply...",
-      "source": "The Economist",
-      "date": "20 hours ago",
+      "title": "TSMC Stock Slides As Taiwan Market Suffers Worst Week Since 1990: What's Going On?",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63483975/tsmc-stock-slides-as-taiwan-market-suffers-worst-week-since-1990-whats-going-on",
+      "snippet": "Taiwan Semiconductor Manufacturing shares are trading lower Friday as Taiwan's stock market faces its steepest weekly decline in 36 years.",
+      "source": "Benzinga",
+      "date": "14 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
-      "snippet": "News Summary: New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production...",
-      "source": "NVIDIA Newsroom",
-      "date": "1 day ago",
+      "title": "Micron, SanDisk, TSMC Stocks Drop Premarket as Anthropic Retreats After a Roaring IPO",
+      "url": "https://www.tipranks.com/news/micron-sandisk-tsmc-stocks-drop-premarket-as-anthropic-slides-after-roaring-ipo",
+      "snippet": "AI memory stocks Micron ($MU), SanDisk ($SNDK), and TSMC ($TSM) are falling in premarket trading today. The decline comes as Anthropic...",
+      "source": "TipRanks",
+      "date": "18 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
+      "query": "TSMC stock market latest"
     },
     {
-      "title": "[News] U.S. Tightens AI Chip Export Rules: What the Changes Mean for TSMC, ASE, and Taiwan’s AI Supply Chain",
-      "url": "https://www.trendforce.com/news/2026/11/18/news-u-s-tightens-ai-chip-export-rules-what-the-changes-mean-for-tsmc-ase-and-taiwans-ai-supply-chain/",
-      "snippet": "The U.S. Bureau of Industry and Security (BIS) has tightened restrictions on AI chips and overseas computing access, raising concerns about...",
-      "source": "TrendForce",
-      "date": "1 day ago",
+      "title": "Holding TSMC Near $352? Past Drops Went Deeper",
+      "url": "https://www.google.com/goto?url=CAESpAEBxCJF16kxafhp1K7pRGY0IPFGQuhobdRHQW_1sXRTnChYlM3ARtK8t70FeCsiCkf78nP4pcC4cPN5TrNtoEUF9_-vpPRXkcxfS8LCPGkAau-3phP6IId_wKMNSnbaasmEscdscBZMdNlJggP9afLITwnGYS9BCEvjgOlQtRYjMYuXOzsT8JqIWCaMFjrjQgVySH9WxkeAN4t4-F5vn5MycNm4Yw&gsessionid=tYQa5SyiK0Vp20NbuX9CwuvjI6GqgGCPUcE0Qkvknf7sTIU22bNKzQ",
+      "snippet": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks? Stocks fell on Thursday, and the S&P 500 lost 2.0%.",
+      "source": "Trefis",
+      "date": "21 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
+      "query": "TSMC stock market latest"
     },
     {
-      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Tumble As Customer Shock Clouds AI Outlook",
-      "url": "https://www.google.com/goto?url=CAESqQEBxCJF1yyj4HHKx0pQp18fh25pJ1oY9VD5ftSr6X9cZeAhpH0d52hTI4v1nRNkIM5vlCrZn830weBSzUvQ9kzAjQWHMeZl44Ydmz7CVDxyUpfXFi452I_drkMhnzRC9coHff0J2VtnvFX7i3pUaYMyNvp0u23KrhqjgQjjqBM4mIWuyyF0r6bxxqGdROhNK2q46aara5hDpj7-BFv77XugTdleJxJlSBC3&gsessionid=zGQI2fKq1JIWzDuV74RzWSVxO__6Gh9Jnz7t-PGmy0UDh0QKu7WU3g",
-      "snippet": "Taiwan Semiconductor Manufacturing (NYSE:TSM) shares fell sharply after Nvidia CEO Jensen Huang resigned, intensifying concern around a key...",
-      "source": "Yahoo Finance",
+      "title": "TSMC and Samsung suspend some chip shipments to Chinese customers",
+      "url": "https://www.google.com/goto?url=CAESigEBxCJF1_5XXHh6XdiZZiKy9vT73uqb_XBCY5GD9mqrInvlsrminULcrjbKopgXWy1vmcKF6Qwdqz8cjubnL9klwe9vm9-yG-r9IR6o60K3JucS7WWEamRqqMP9D4uvvUYP7EZS96jXX8h2oo122-y5fKlAJMXpgbqfKVGOKbOz5bl_SDTqRvoeJl8&gsessionid=tYQa5SyiK0Vp20NbuX9CwuvjI6GqgGCPUcE0Qkvknf7sTIU22bNKzQ",
+      "snippet": "Taiwan Semiconductor Manufacturing Company and Samsung Electronics have suspended some chip shipments to Chinese customers following new US...",
+      "source": "Financial Times",
       "date": "1 day ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "Taiwan semiconductor supply chain news today"
+      "query": "TSMC stock market latest"
     },
     {
       "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
       "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
       "snippet": "Date: October 21, 2026; Source: University of Bonn; Summary: Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular...",
-      "source": "Science Daily",
+      "source": "ScienceDaily",
       "date": "1 month ago",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     },
     {
-      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
-      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
-      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
-      "source": "Time Magazine",
-      "date": "Aug 21, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
       "title": "The longevity boom is getting ahead of the science",
-      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
+      "url": "https://www.google.com/goto?url=CAESnAEBxCJF1wsTxM1LLfFqXvwADf7_BYMxLkVNuKsr8bwVCnboXwwcsGGvtFLl5GI70vR2j1f4Dgm1GI5LeIHoD_mKodfY6yYHN0DTotV6VUO6sKREtZZKxNqzqrPRs-LWwQxlfZckj_Pu23tllHvI9NlJfuBNtPOPLQ-XDA8FowudGhgsQnWu3CB8hYuupY-ewSlYjCo3iIwcDzQyjxo&gsessionid=ze-HtP8uX6yMk_BSNONTdtwdPMPJbDdLT6xexipmAKC7iEyNJAmdbw",
       "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
       "source": "Al Jazeera",
       "date": "1 month ago",
@@ -66,8 +57,17 @@
       "query": "longevity science breakthrough 2026"
     },
     {
+      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
+      "url": "https://www.google.com/goto?url=CAESgAEBxCJF1yRU19YaPTK56ioEHpH16_tpQ90x2iL8hE5_4wAvTa4LEiL-5CSGOsPjc_HPSCLBGHYs_d5GC495Qi7e0dXdSwYxHw4MmU5TQIgFZFYyInzma_OSNkPryJJc4RLBrHi5zJHiwT71j9j-GJamf79GaE5bjwAfipnLddW7zg&gsessionid=ze-HtP8uX6yMk_BSNONTdtwdPMPJbDdLT6xexipmAKC7iEyNJAmdbw",
+      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
+      "source": "Time Magazine",
+      "date": "Aug 21, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
       "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.google.com/goto?url=CAESpgEBxCJF1wrVNNO0QvJ7FAOD7rADu6crm04AwFJR9WIxyK4yuWVX1QV1jWWChQ1BJWNBx9N7fBpVwyzFEXL1c1ph-xZByNIUs3GP0MCurien7CERaj-LOUz2PGQq14-Bk7NOoxOHSGAYYL7p4zIA4OvfmX-6RpDuRKYuoKL7ttzADGl0_0U_rp8YmryS04aZY6VUZShE11VEUX-lhl4rdmdfQ3Or8Y5y&gsessionid=wu-xVq7N3GYAFddhLnUrbcwAHmioer1br_KwsZMih_UEi3QjaWYAqQ",
+      "url": "https://www.google.com/goto?url=CAESpgEBxCJF11p3-9aaABJFH3C9iPF2r1IkUjoJ9o5EBVDAiV04tt10tkpqKhzta1vJS2dyJ9q6iSlkPQplJsmee1bcTm26RjIc0Vk3AlP8a9asHndqO2hUSKrPfNt_Ka6p3sZDCeeCfa2gCS3Q9M_26BKQUAMUtzECwudRr_5hR_owgEoSLroyTxte_qcy90aCDCXA0fnsYhD29kfq8ZaT3TW1iyJ1fDF4&gsessionid=ze-HtP8uX6yMk_BSNONTdtwdPMPJbDdLT6xexipmAKC7iEyNJAmdbw",
       "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
       "source": "The New York Times",
       "date": "May 1, 2026",

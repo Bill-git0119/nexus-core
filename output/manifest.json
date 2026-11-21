@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:39:47.024496+00:00",
+  "generated_at": "2026-11-21T06:18:11.756718+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
   "total_articles": 1,
   "affiliate_links_loaded": 16,
@@ -16,7 +16,7 @@
       "date": "Aug 21, 2026",
       "notion_file": "output/notion/shinya-yamanaka-made-cells-young-again-can-that-reverse-agin.md",
       "ghpages_file": "output/ghpages/shinya-yamanaka-made-cells-young-again-can-that-reverse-agin.html",
-      "citations_count": 3
+      "citations_count": 2
     }
   ]
 }

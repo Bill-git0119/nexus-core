@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:39:47.021322+00:00",
+  "generated_at": "2026-11-21T06:18:11.754483+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
@@ -9,7 +9,7 @@
   "verified_topics": [
     {
       "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
-      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
+      "url": "https://www.google.com/goto?url=CAESgAEBxCJF1yRU19YaPTK56ioEHpH16_tpQ90x2iL8hE5_4wAvTa4LEiL-5CSGOsPjc_HPSCLBGHYs_d5GC495Qi7e0dXdSwYxHw4MmU5TQIgFZFYyInzma_OSNkPryJJc4RLBrHi5zJHiwT71j9j-GJamf79GaE5bjwAfipnLddW7zg&gsessionid=ze-HtP8uX6yMk_BSNONTdtwdPMPJbDdLT6xexipmAKC7iEyNJAmdbw",
       "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
       "source": "Time Magazine",
       "date": "Aug 21, 2026",
@@ -17,22 +17,17 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-19T06:39:47.021174+00:00",
+        "checked_at": "2026-11-21T06:18:11.754406+00:00",
         "independent_sources": [
           {
-            "title": "Full age reversal sounds like a superpower until you realize ...",
-            "url": "https://www.instagram.com/reel/DenJlsQHP7N/",
-            "source": "Instagram"
+            "title": "Shinya Yamanaka Made Cells Young Again. Can That ...",
+            "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
+            "source": "Time Magazine"
           },
           {
-            "title": "In 2012, Shinya Yamanaka won a Nobel Prize for ...",
-            "url": "https://www.instagram.com/reel/DfYZXjMj8Pv/",
-            "source": "Instagram"
-          },
-          {
-            "title": "Can Aging Be Reversed? Scientists Launch World's First ...",
-            "url": "https://www.latestly.com/technology/science/can-aging-be-reversed-scientists-launch-worlds-first-human-trial-of-age-reversal-gene-therapy-7467640.html",
-            "source": "LatestLY"
+            "title": "Chemically induced reprogramming to reverse cellular aging",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10373966/",
+            "source": "National Institutes of Health (NIH) | (.gov)"
           }
         ]
       }
