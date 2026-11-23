@@ -1,42 +1,51 @@
 {
-  "generated_at": "2026-11-21T06:18:10.552281+00:00",
+  "generated_at": "2026-11-23T06:38:30.365902+00:00",
   "total_topics": 8,
   "topics": [
     {
-      "title": "TSMC Stock Slides As Taiwan Market Suffers Worst Week Since 1990: What's Going On?",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63483975/tsmc-stock-slides-as-taiwan-market-suffers-worst-week-since-1990-whats-going-on",
-      "snippet": "Taiwan Semiconductor Manufacturing shares are trading lower Friday as Taiwan's stock market faces its steepest weekly decline in 36 years.",
-      "source": "Benzinga",
-      "date": "14 hours ago",
+      "title": "TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes — new BIS controls threaten smartphone, TV, and automotive chips",
+      "url": "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips",
+      "snippet": "Chips designers have to prove that their semiconductors do not break U.S. export control rules.",
+      "source": "Tom's Hardware",
+      "date": "17 hours ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
       "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Micron, SanDisk, TSMC Stocks Drop Premarket as Anthropic Retreats After a Roaring IPO",
-      "url": "https://www.tipranks.com/news/micron-sandisk-tsmc-stocks-drop-premarket-as-anthropic-slides-after-roaring-ipo",
-      "snippet": "AI memory stocks Micron ($MU), SanDisk ($SNDK), and TSMC ($TSM) are falling in premarket trading today. The decline comes as Anthropic...",
-      "source": "TipRanks",
-      "date": "18 hours ago",
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Pauses Advanced Chip Shipments To China",
+      "url": "https://www.google.com/goto?url=CAESpQEBxCJF12__WmNqD9YXAxmHGBagbA5Yl2vn0DIxRWP9wt2lXTZP5UI11JUjEoJTKnEkFRPxaID2U7olkZBmHJCYuk1WmMkdjnLq0HMwsMsckjCZruh6h0OEOyjU05rQGa7PTw0LeH5zODHE9SSVll9onQGn1XV3s7I_l0wpYWGavtJXJ6URpcfVCQP-4_HmeNW8o4pe0IOugFpo3ucIbY09eVdNLwo&gsessionid=MDiYxcHXmkUftBE76zhfGwyBRsC9YpUcgd4p67s5QAjRwlLdlJ9Xkw",
+      "snippet": "Taiwan Semiconductor Manufacturing (NYSE:TSM) and Samsung have halted advanced chip shipments to China after new US export rules took effect...",
+      "source": "Yahoo Finance",
+      "date": "2 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "TSMC stock market latest"
+      "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "Holding TSMC Near $352? Past Drops Went Deeper",
-      "url": "https://www.google.com/goto?url=CAESpAEBxCJF16kxafhp1K7pRGY0IPFGQuhobdRHQW_1sXRTnChYlM3ARtK8t70FeCsiCkf78nP4pcC4cPN5TrNtoEUF9_-vpPRXkcxfS8LCPGkAau-3phP6IId_wKMNSnbaasmEscdscBZMdNlJggP9afLITwnGYS9BCEvjgOlQtRYjMYuXOzsT8JqIWCaMFjrjQgVySH9WxkeAN4t4-F5vn5MycNm4Yw&gsessionid=tYQa5SyiK0Vp20NbuX9CwuvjI6GqgGCPUcE0Qkvknf7sTIU22bNKzQ",
-      "snippet": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks? Stocks fell on Thursday, and the S&P 500 lost 2.0%.",
-      "source": "Trefis",
-      "date": "21 hours ago",
+      "title": "TSMC Stock Slides As Taiwan Market Suffers Worst Week Since 1990: What's Going On?",
+      "url": "https://www.google.com/goto?url=CAESygEBxCJF14c0PPe2z6w2rf20C-D1j1lvKwzP3ydYvgPRvYJQal-ed--a93a_1_V3olTnURyKcHlQSbhavWgghwv2vldYRrtVfJOf12lV-2CEjlfxwWjIlBM_DSNLLrZj5Dh02NwhuP-ewouf4EPVy_VNRgPCUSWRy5a7E7leUzC1njfq5GCJPVFvVNN5FPffNlS2A0Mg7t8quyEHLZwMQYcC0B2L91iWJOPco5tuBw49tEThdSUsSQQsrvCq7wrUfrcdUeDvw8TKcm7i&gsessionid=MDiYxcHXmkUftBE76zhfGwyBRsC9YpUcgd4p67s5QAjRwlLdlJ9Xkw",
+      "snippet": "Taiwan Semiconductor Manufacturing shares are trading lower Friday as Taiwan's stock market faces its steepest weekly decline in 36 years.",
+      "source": "Benzinga",
+      "date": "2 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "TSMC stock market latest"
+      "query": "Taiwan semiconductor supply chain news today"
     },
     {
-      "title": "TSMC and Samsung suspend some chip shipments to Chinese customers",
-      "url": "https://www.google.com/goto?url=CAESigEBxCJF1_5XXHh6XdiZZiKy9vT73uqb_XBCY5GD9mqrInvlsrminULcrjbKopgXWy1vmcKF6Qwdqz8cjubnL9klwe9vm9-yG-r9IR6o60K3JucS7WWEamRqqMP9D4uvvUYP7EZS96jXX8h2oo122-y5fKlAJMXpgbqfKVGOKbOz5bl_SDTqRvoeJl8&gsessionid=tYQa5SyiK0Vp20NbuX9CwuvjI6GqgGCPUcE0Qkvknf7sTIU22bNKzQ",
-      "snippet": "Taiwan Semiconductor Manufacturing Company and Samsung Electronics have suspended some chip shipments to Chinese customers following new US...",
-      "source": "Financial Times",
-      "date": "1 day ago",
+      "title": "Chip supply chain warns of broader disruption from new US export controls",
+      "url": "https://www.google.com/goto?url=CAESuwEBxCJF1ydGmV0Q4EZuQG8VhcueWDu2fDACm7OFQRmnMHtEXzelOkNzuJdYtfjQ42iynuH9o8XApBLHUviEWf-fQzn2JjMn8pAV22wmzZOOKJIzazYW9gRJHw2XTUG00ZBsqbWtZ67BudRsr9ri3GuYwWJFvW7qK0Rn1avPan5X90cgK2Y1MnfSmZFiquIfD6GD-KpjTGe_3tVbwpXFZPlxasIqOv_ae7UNJcG2uIc1cwxSkAC0uD-YnV5B&gsessionid=MDiYxcHXmkUftBE76zhfGwyBRsC9YpUcgd4p67s5QAjRwlLdlJ9Xkw",
+      "snippet": "TAIPEI -- Tighter U.S. export controls introduced Thursday are having a far broader impact on the global semiconductor supply chain than...",
+      "source": "Nikkei Asia",
+      "date": "3 days ago",
       "domain": "Semiconductor/Taiwan Stock Supply Chain",
-      "query": "TSMC stock market latest"
+      "query": "Taiwan semiconductor supply chain news today"
+    },
+    {
+      "title": "The Estée Lauder Companies Unveils Mastering Skin Longevity, a Breakthrough Scientific Innovation Platform Advancing the Next Era of Skin Science",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/11-06-2026-140104826",
+      "snippet": "New Platform Focuses on Master Regulators of Skin Longevity to Drive Discovery Across Ingredients, Technologies, Formulations and Future...",
+      "source": "The Estée Lauder Companies Inc.",
+      "date": "2 weeks ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
     },
     {
       "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
@@ -48,29 +57,20 @@
       "query": "longevity science breakthrough 2026"
     },
     {
+      "title": "Estée Lauder unveils ‘breakthrough’ platform to accelerate skin science and longevity innovations",
+      "url": "https://www.google.com/goto?url=CAEShwEBxCJF1zyLCrqH38uBKo8rvZ91uOHkNOkKnD7hV4roJow1qoqKOT8iMnjcbuhNF9J0jAGeqwQOWo5JxPPVBd9IWYHY-Aycy2VFd98Kqssvka_ZJWPN65XQafrU2bjkycqBhdDeNEZogTp1JATVLgFO2Tgst4zkXL0eHTxjc82YnUNLyp9j3z4&gsessionid=DTLiFhOzRclddyvSF6JjawQwYG965DC7A4xoyuu3xHlgtEeLLROARg",
+      "snippet": "Estée Lauder Companies' new Mastering Skin Longevity platform claims to look beyond the study of individual hallmarks of ageing by placing...",
+      "source": "Cosmetics Business",
+      "date": "2 weeks ago",
+      "domain": "Longevity/Sports Medicine",
+      "query": "longevity science breakthrough 2026"
+    },
+    {
       "title": "The longevity boom is getting ahead of the science",
-      "url": "https://www.google.com/goto?url=CAESnAEBxCJF1wsTxM1LLfFqXvwADf7_BYMxLkVNuKsr8bwVCnboXwwcsGGvtFLl5GI70vR2j1f4Dgm1GI5LeIHoD_mKodfY6yYHN0DTotV6VUO6sKREtZZKxNqzqrPRs-LWwQxlfZckj_Pu23tllHvI9NlJfuBNtPOPLQ-XDA8FowudGhgsQnWu3CB8hYuupY-ewSlYjCo3iIwcDzQyjxo&gsessionid=ze-HtP8uX6yMk_BSNONTdtwdPMPJbDdLT6xexipmAKC7iEyNJAmdbw",
+      "url": "https://www.google.com/goto?url=CAESmwEBxCJF14NCx-LjPMmPeZ-CDA-WpL82AIdhZEnmkg_b9d3OitVLoZ4tGh08i7lYidGUF41mHfH-3_V_yBD3xTLtvuztAfgsPXFVJP-hNEVx5sXRRAjiUA09WalQpj9AZGuGscf4wO34yO9ON88CiOQgvw-I7uhKT20D9hnYyPk7Xer_2TNmf2mk8FQ1M0R2jGFDOWA3akHZIO_LCg&gsessionid=DTLiFhOzRclddyvSF6JjawQwYG965DC7A4xoyuu3xHlgtEeLLROARg",
       "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
       "source": "Al Jazeera",
-      "date": "1 month ago",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
-      "url": "https://www.google.com/goto?url=CAESgAEBxCJF1yRU19YaPTK56ioEHpH16_tpQ90x2iL8hE5_4wAvTa4LEiL-5CSGOsPjc_HPSCLBGHYs_d5GC495Qi7e0dXdSwYxHw4MmU5TQIgFZFYyInzma_OSNkPryJJc4RLBrHi5zJHiwT71j9j-GJamf79GaE5bjwAfipnLddW7zg&gsessionid=ze-HtP8uX6yMk_BSNONTdtwdPMPJbDdLT6xexipmAKC7iEyNJAmdbw",
-      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
-      "source": "Time Magazine",
-      "date": "Aug 21, 2026",
-      "domain": "Longevity/Sports Medicine",
-      "query": "longevity science breakthrough 2026"
-    },
-    {
-      "title": "Longevity Science Is Overhyped. But This Research Really Could Change Humanity.",
-      "url": "https://www.google.com/goto?url=CAESpgEBxCJF11p3-9aaABJFH3C9iPF2r1IkUjoJ9o5EBVDAiV04tt10tkpqKhzta1vJS2dyJ9q6iSlkPQplJsmee1bcTm26RjIc0Vk3AlP8a9asHndqO2hUSKrPfNt_Ka6p3sZDCeeCfa2gCS3Q9M_26BKQUAMUtzECwudRr_5hR_owgEoSLroyTxte_qcy90aCDCXA0fnsYhD29kfq8ZaT3TW1iyJ1fDF4&gsessionid=ze-HtP8uX6yMk_BSNONTdtwdPMPJbDdLT6xexipmAKC7iEyNJAmdbw",
-      "snippet": "A new therapy has the potential to cure hundreds of diseases — and even reverse aging.",
-      "source": "The New York Times",
-      "date": "May 1, 2026",
+      "date": "Sep 27, 2026",
       "domain": "Longevity/Sports Medicine",
       "query": "longevity science breakthrough 2026"
     }
