@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-23T06:38:32.209864+00:00",
+  "generated_at": "2026-11-25T07:43:30.210712+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 1,
-    "discarded": 7
+    "verified": 2,
+    "discarded": 6
   },
   "verified_topics": [
     {
       "title": "The longevity boom is getting ahead of the science",
-      "url": "https://www.google.com/goto?url=CAESmwEBxCJF14NCx-LjPMmPeZ-CDA-WpL82AIdhZEnmkg_b9d3OitVLoZ4tGh08i7lYidGUF41mHfH-3_V_yBD3xTLtvuztAfgsPXFVJP-hNEVx5sXRRAjiUA09WalQpj9AZGuGscf4wO34yO9ON88CiOQgvw-I7uhKT20D9hnYyPk7Xer_2TNmf2mk8FQ1M0R2jGFDOWA3akHZIO_LCg&gsessionid=DTLiFhOzRclddyvSF6JjawQwYG965DC7A4xoyuu3xHlgtEeLLROARg",
+      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
       "snippet": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
       "source": "Al Jazeera",
       "date": "Sep 27, 2026",
@@ -17,12 +17,52 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-23T06:38:32.209834+00:00",
+        "checked_at": "2026-11-25T07:43:28.141758+00:00",
         "independent_sources": [
           {
-            "title": "Humans are living longer than ever. How can medical ...",
-            "url": "https://www.facebook.com/BostonScientific/posts/humans-are-living-longer-than-ever-how-can-medical-technology-increase-the-quali/1595309192641357/",
-            "source": "Facebook · Boston Scientific"
+            "title": "The longevity boom is getting ahead of the science",
+            "url": "https://www.globalwellnesssummit.com/blog/the-longevity-boom-is-getting-ahead-of-the-science/",
+            "source": "Global Wellness Summit"
+          },
+          {
+            "title": "Bridging expectations and science: a roadmap for the future of ...",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12213962/",
+            "source": "National Institutes of Health (NIH) | (.gov)"
+          },
+          {
+            "title": "Inside the longevity boom: Where science ends and ...",
+            "url": "https://www.aa.com.tr/en/science-technology/inside-the-longevity-boom-where-science-ends-and-fantasy-begins/3876903",
+            "source": "Anadolu Ajansı"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
+      "url": "https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/",
+      "snippet": "Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cell-reprogramming breakthrough to treat real patients—and...",
+      "source": "Time Magazine",
+      "date": "Aug 21, 2026",
+      "domain": "Longevity/Sports Medicine",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-11-25T07:43:30.210623+00:00",
+        "independent_sources": [
+          {
+            "title": "Chemically induced reprogramming to reverse cellular aging",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10373966/",
+            "source": "National Institutes of Health (NIH) | (.gov)"
+          },
+          {
+            "title": "Yamanaka factors have changed the way scientists think about ...",
+            "url": "https://www.facebook.com/profvalterlongo/posts/yamanaka-factors-have-changed-the-way-scientists-think-about-cellular-aging-and/1660440242112332/",
+            "source": "Facebook · Prof. Valter Longo"
+          },
+          {
+            "title": "Can cellular reprogramming reverse aging in cells?",
+            "url": "https://www.facebook.com/gladstoneinstitutes/posts/in-2006-shinya-yamanaka-revealed-something-remarkable-mature-cells-could-be-repr/1660046262794735/",
+            "source": "Facebook · Gladstone Institutes"
           }
         ]
       }

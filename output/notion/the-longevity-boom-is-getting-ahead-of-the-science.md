@@ -42,8 +42,10 @@ Billions are pouring into anti-ageing biotech, but manipulating ageing has risks
 
 ### 參考來源
 
-- 原始來源：[Al Jazeera](https://www.google.com/goto?url=CAESmwEBxCJF14NCx-LjPMmPeZ-CDA-WpL82AIdhZEnmkg_b9d3OitVLoZ4tGh08i7lYidGUF41mHfH-3_V_yBD3xTLtvuztAfgsPXFVJP-hNEVx5sXRRAjiUA09WalQpj9AZGuGscf4wO34yO9ON88CiOQgvw-I7uhKT20D9hnYyPk7Xer_2TNmf2mk8FQ1M0R2jGFDOWA3akHZIO_LCg&gsessionid=DTLiFhOzRclddyvSF6JjawQwYG965DC7A4xoyuu3xHlgtEeLLROARg)
-- 佐證來源：[Humans are living longer than ever. How can medical ...](https://www.facebook.com/BostonScientific/posts/humans-are-living-longer-than-ever-how-can-medical-technology-increase-the-quali/1595309192641357/)
+- 原始來源：[Al Jazeera](https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science)
+- 佐證來源：[The longevity boom is getting ahead of the science](https://www.globalwellnesssummit.com/blog/the-longevity-boom-is-getting-ahead-of-the-science/)
+- 佐證來源：[Bridging expectations and science: a roadmap for the future of ...](https://pmc.ncbi.nlm.nih.gov/articles/PMC12213962/)
+- 佐證來源：[Inside the longevity boom: Where science ends and ...](https://www.aa.com.tr/en/science-technology/inside-the-longevity-boom-where-science-ends-and-fantasy-begins/3876903)
 
 ### 相關資源
 
@@ -59,7 +61,7 @@ Billions are pouring into anti-ageing biotech, but manipulating ageing has risks
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-11-23 06:38 UTC*
+*產生時間：2026-11-25 07:43 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, LongevityLab, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, HealthPro, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。

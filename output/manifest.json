@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T06:38:32.212036+00:00",
+  "generated_at": "2026-11-25T07:43:30.214977+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 1,
+  "total_articles": 2,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
@@ -16,7 +16,17 @@
       "date": "Sep 27, 2026",
       "notion_file": "output/notion/the-longevity-boom-is-getting-ahead-of-the-science.md",
       "ghpages_file": "output/ghpages/the-longevity-boom-is-getting-ahead-of-the-science.html",
-      "citations_count": 1
+      "citations_count": 3
+    },
+    {
+      "slug": "shinya-yamanaka-made-cells-young-again-can-that-reverse-agin",
+      "title": "Shinya Yamanaka Made Cells Young Again. Can That Reverse Aging?",
+      "domain": "Longevity/Sports Medicine",
+      "domain_zh": "長壽科學／運動醫學",
+      "date": "Aug 21, 2026",
+      "notion_file": "output/notion/shinya-yamanaka-made-cells-young-again-can-that-reverse-agin.md",
+      "ghpages_file": "output/ghpages/shinya-yamanaka-made-cells-young-again-can-that-reverse-agin.html",
+      "citations_count": 3
     }
   ]
 }

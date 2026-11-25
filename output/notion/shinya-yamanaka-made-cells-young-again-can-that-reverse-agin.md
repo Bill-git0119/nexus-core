@@ -42,9 +42,10 @@ Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cel
 
 ### 參考來源
 
-- 原始來源：[Time Magazine](https://www.google.com/goto?url=CAESgAEBxCJF1yRU19YaPTK56ioEHpH16_tpQ90x2iL8hE5_4wAvTa4LEiL-5CSGOsPjc_HPSCLBGHYs_d5GC495Qi7e0dXdSwYxHw4MmU5TQIgFZFYyInzma_OSNkPryJJc4RLBrHi5zJHiwT71j9j-GJamf79GaE5bjwAfipnLddW7zg&gsessionid=ze-HtP8uX6yMk_BSNONTdtwdPMPJbDdLT6xexipmAKC7iEyNJAmdbw)
-- 佐證來源：[Shinya Yamanaka Made Cells Young Again. Can That ...](https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/)
+- 原始來源：[Time Magazine](https://time.com/collection/longevity-leaders/2026/shinya-yamanaka/)
 - 佐證來源：[Chemically induced reprogramming to reverse cellular aging](https://pmc.ncbi.nlm.nih.gov/articles/PMC10373966/)
+- 佐證來源：[Yamanaka factors have changed the way scientists think about ...](https://www.facebook.com/profvalterlongo/posts/yamanaka-factors-have-changed-the-way-scientists-think-about-cellular-aging-and/1660440242112332/)
+- 佐證來源：[Can cellular reprogramming reverse aging in cells?](https://www.facebook.com/gladstoneinstitutes/posts/in-2006-shinya-yamanaka-revealed-something-remarkable-mature-cells-could-be-repr/1660046262794735/)
 
 ### 相關資源
 
@@ -60,7 +61,7 @@ Twenty years after his Nobel-winning discovery, doctors are using Yamanaka's cel
 ---
 
 *本文由 Nexus System 自動產生，所有資料均經過驗證，符合零幻覺政策。*
-*產生時間：2026-11-21 06:18 UTC*
+*產生時間：2026-11-25 07:43 UTC*
 
 
-> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：HealthPro, LongevityLab, SportsMedHub）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
+> ⚠️ **揭露聲明**：本文包含聯盟行銷連結（合作夥伴：SportsMedHub, HealthPro, LongevityLab）。透過這些連結購買不會增加您的費用，但我們可能獲得少額佣金。
