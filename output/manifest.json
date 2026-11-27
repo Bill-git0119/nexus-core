@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-11-25T07:43:30.214977+00:00",
+  "generated_at": "2026-11-27T07:31:34.845223+00:00",
   "source": "/home/runner/work/nexus-core/nexus-core/data/verified_data.json",
-  "total_articles": 2,
+  "total_articles": 3,
   "affiliate_links_loaded": 16,
   "outputs": {
     "notion_dir": "output/notion",
     "ghpages_dir": "output/ghpages"
   },
   "articles": [
+    {
+      "slug": "when-everyone-wants-to-replicate-taiwan-the-semiconductor-su",
+      "title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "domain_zh": "半導體／台股供應鏈",
+      "date": "Sep 24, 2026",
+      "notion_file": "output/notion/when-everyone-wants-to-replicate-taiwan-the-semiconductor-su.md",
+      "ghpages_file": "output/ghpages/when-everyone-wants-to-replicate-taiwan-the-semiconductor-su.html",
+      "citations_count": 3
+    },
     {
       "slug": "the-longevity-boom-is-getting-ahead-of-the-science",
       "title": "The longevity boom is getting ahead of the science",

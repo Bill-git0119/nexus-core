@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-11-25T07:43:30.210712+00:00",
+  "generated_at": "2026-11-27T07:31:34.840189+00:00",
   "scout_source": "/home/runner/work/nexus-core/nexus-core/data/raw_topics.json",
   "summary": {
     "total_input": 8,
-    "verified": 2,
-    "discarded": 6
+    "verified": 3,
+    "discarded": 5
   },
   "verified_topics": [
+    {
+      "title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization",
+      "url": "https://tspasemiconductor.substack.com/p/when-everyone-wants-to-replicate",
+      "snippet": "TPCA Show 2026 brings together 670 international brands and 1,830 booths, with over 70,000 professional buyers expected worldwide — reaching...",
+      "source": "semivision",
+      "date": "Sep 24, 2026",
+      "domain": "Semiconductor/Taiwan Stock Supply Chain",
+      "verification": {
+        "status": "verified",
+        "method": "cross-reference",
+        "checked_at": "2026-11-27T07:31:32.318857+00:00",
+        "independent_sources": [
+          {
+            "title": "Taiwan's Strategic Shift Toward Smart Manufacturing",
+            "url": "https://www.market-prospects.com/articles/taiwan-s-strategic-shift-toward-smart-manufacturing-opportunities-for-global-buyers-and-local-innovators",
+            "source": "Market Prospects"
+          },
+          {
+            "title": "Taiwan Begins Exporting the Same Semiconductor Industry ...",
+            "url": "https://www.dailydebasement.com/taiwan-begins-exporting-the-same-semiconductor-industry-that-makes-invading-taiwan-a-terrible-idea/",
+            "source": "dailydebasement.com"
+          },
+          {
+            "title": "Decoupling from Dependence: The Global Semiconductor ...",
+            "url": "https://www.blog.baldengineering.com/2024/12/decoupling-from-dependence-global.html",
+            "source": "baldengineering.com"
+          }
+        ]
+      }
+    },
     {
       "title": "The longevity boom is getting ahead of the science",
       "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science",
@@ -17,7 +47,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-25T07:43:28.141758+00:00",
+        "checked_at": "2026-11-27T07:31:33.720766+00:00",
         "independent_sources": [
           {
             "title": "The longevity boom is getting ahead of the science",
@@ -30,9 +60,9 @@
             "source": "National Institutes of Health (NIH) | (.gov)"
           },
           {
-            "title": "Inside the longevity boom: Where science ends and ...",
-            "url": "https://www.aa.com.tr/en/science-technology/inside-the-longevity-boom-where-science-ends-and-fantasy-begins/3876903",
-            "source": "Anadolu Ajansı"
+            "title": "Longevity science and how it's shaping the athletic landscape",
+            "url": "https://business.columbia.edu/insights/longevity-science-and-how-its-shaping-athletic-landscape",
+            "source": "Columbia Business School"
           }
         ]
       }
@@ -47,7 +77,7 @@
       "verification": {
         "status": "verified",
         "method": "cross-reference",
-        "checked_at": "2026-11-25T07:43:30.210623+00:00",
+        "checked_at": "2026-11-27T07:31:34.840164+00:00",
         "independent_sources": [
           {
             "title": "Chemically induced reprogramming to reverse cellular aging",
@@ -55,14 +85,14 @@
             "source": "National Institutes of Health (NIH) | (.gov)"
           },
           {
-            "title": "Yamanaka factors have changed the way scientists think about ...",
-            "url": "https://www.facebook.com/profvalterlongo/posts/yamanaka-factors-have-changed-the-way-scientists-think-about-cellular-aging-and/1660440242112332/",
-            "source": "Facebook · Prof. Valter Longo"
-          },
-          {
             "title": "Can cellular reprogramming reverse aging in cells?",
             "url": "https://www.facebook.com/gladstoneinstitutes/posts/in-2006-shinya-yamanaka-revealed-something-remarkable-mature-cells-could-be-repr/1660046262794735/",
             "source": "Facebook · Gladstone Institutes"
+          },
+          {
+            "title": "Shinya Yamanaka Made Cells Young Again. Can That ...",
+            "url": "https://healthspanaction.org/shinya-yamanaka-made-cells-young-again-can-that-reverse-aging/",
+            "source": "Healthspan Action Coalition"
           }
         ]
       }
